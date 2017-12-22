@@ -4,11 +4,33 @@ var gulp            = require('gulp'),
     imagemin        = require('gulp-imagemin'),
     browserSync     = require('browser-sync'),
     cp              = require('child_process'),
-    runSequence     = require('run-sequence').use(gulp);
+    runSequence     = require('run-sequence').use(gulp),
+    babel           = require('gulp-babel'),
+    webpack         = require('webpack'),
+    webpackStream   = require('webpack-stream');
 
 var messages = {
     jekyllBuild: 'building...'
 };
+
+gulp.task('webpack', function () {
+  return gulp.src('./webpack/entry.js')
+    .pipe(webpackStream({
+      // watch: true,
+      entry: './webpack/entry.js',
+      output: {
+        path: __dirname + '/source/js',
+        filename: 'bundle.js'
+      },
+      resolve: {
+        extensions: ['.js', '.jsx']
+      }
+    }, webpack, function (err, stats) {
+        console.log(stats.toString({ colors: true }));
+    }))
+    .pipe(babel())
+    .pipe(gulp.dest('./source/js'));
+});
 
 // Browser Sync
 gulp.task('browserSync', function () {
@@ -62,16 +84,15 @@ gulp.task('jekyll-rebuild-force', ['jekyll-force'], function () {
     browserSync.reload();
 });
 
-
 gulp.task('watch', function () {
   gulp.watch('source/**/*.*', ['jekyll-rebuild']);
   gulp.watch('source/_data/*.*', ['jekyll-rebuild-force']);
+  gulp.watch('./webpack/**/**/*.js', ['webpack']);
 });
 
   gulp.task('default', function (callback) {
   runSequence(
-    ['jekyll-rebuild-force', 'watch', 'browserSync'],
+    ['jekyll-rebuild-force', 'watch', 'browserSync', 'webpack'],
     callback
-  );
+  )
 });
-

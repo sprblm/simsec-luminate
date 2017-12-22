@@ -1,4 +1,5 @@
 $(document).ready(function () {
+  console.log("scripts file")
     // Smooth Scrolling Function
     $('a[href*=#]:not([href=#])').click(function () {
         var $targ = $(this.hash),
@@ -19,19 +20,6 @@ $(document).ready(function () {
 
         return true;
     });
-
-    // Modal Click Behavior
-    // $('.js-open-modal').click(function () {
-    //     $('.js-target-modal').addClass('js-active');
-    //     $('#overlay').addClass('js-active');
-    //     $('body').addClass('js-body-modal-active');
-    // });
-    //
-    // $('.js-close-modal').click(function () {
-    //     $('.js-target-modal').removeClass('js-active');
-    //     $('#overlay').removeClass('js-active');
-    //     $('body').removeClass('js-body-modal-active');
-    // });
 
     var currentScroll = 0;
 
@@ -112,73 +100,8 @@ $(document).ready(function () {
         ]
     });
 
-    // TABLE SORTABLE
-    // Table Search with List.js Implementation
-    $('.js-open-table-search').click(function (e) {
-        e.preventDefault();
-        $(this).parent().siblings('.table-sortable__search').toggleClass('table-sortable__search--active');
-    });
-    // Table Search Controls: X out form
-    var searchButtons = $('.table-sortable__search').find("button[type='submit']");
-    searchButtons.on("click", function(e) {
-        e.preventDefault();
-        if ($(this).parent().hasClass("table-sortable__search--active")) {
-            $(this).parent().removeClass("table-sortable__search--active");
-        }
-        searchReset();
-    });
-
-    // Table Search Controls: Sort buttons
-    var sortClickButtons = $(".table-sortable__control > i:contains('keyboard_arrow_down')");
-    sortClickButtons.on("click", function() {
-        $(this).text() == "keyboard_arrow_down" ? $(this).text("keyboard_arrow_up") : $(this).text("keyboard_arrow_down");
-    });
-    // Table Search Controls: ESC to exit form and clear search
-    $("body").keyup(function(event) {
-        if ( event.keyCode == "27" ) {
-            $(this).parent().find('.table-sortable__search').removeClass("table-sortable__search--active");
-            searchReset();
-        }
-    });
-    // List.js Implementation with Fuzzy Search
-    var fuzzyOptions = {
-      searchClass: "fuzzy-search",
-      location: 0,
-      distance: 100,
-      threshold: 0.4,
-      multiSearch: true
-    };
-    var options = {
-        valueNames: [ {name:'item__name', attr:'data-target'}, 'item__category', 'item__date', 'item__location' ]
-    };
-    var itemList = new List('items', options);
-
-    // Target input text field when search bar is active
-    $(".js-open-table-search").on("click", function(e) {
-        $(this).addClass("table-sortable__search--active");
-       $($(this).attr('data-target')).focus();
-
-    });
-    // Fuzzy search by specific columns
-    $(".fuzzy-search").keyup(function() {
-        var searchString = $(this).val();
-            itemList.fuzzySearch(searchString, ["item__name"]);
-    });
-    // List.js search reset functions
-    function searchReset() {
-        $(".fuzzy-search").val("");
-        clearTextSearch();
-        itemList.search();
-    }
-    function clearTextSearch() {
-        $('.table-sortable__search--active').each(function(){
-            $(this).removeClass('table-sortable__search--active');
-        });
-    }
-    // END TABLE SORTABLE
 
     // Logic for Accordion Component
-
     var closed = true;
 
     $('.js-open-accordion').click(function() {

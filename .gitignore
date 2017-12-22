@@ -5,3 +5,4 @@ node_modules
 .publish
 .DS_Store
 .byebug_history
+source/js/bundle.js

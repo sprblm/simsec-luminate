@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 
-email: 
+title:
+email:
 description: > # this means to ignore newlines until "baseurl:"
-  
+
 baseurl: "/repo-name" # the subpath of your site, e.g. /blog
 url: "https://objectively.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
-github_username:  
+twitter_username:
+github_username:
 
 # Build settings
 markdown: kramdown
@@ -30,11 +30,10 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - ['node_modules']
 
 timezone: America/New_York
 
 # Folder Structure
 source: ./source
 # sass_dir: source/css
-
-

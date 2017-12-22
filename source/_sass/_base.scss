@@ -17,3 +17,108 @@ body {
     }
   }
 }
+
+#overlay {
+  z-index: -1!important;
+}
+
+.cbp-spmenu {
+  background: black;
+  position: fixed;
+  text-align: left;
+  text-transform: uppercase;
+  font-family: Montserrat, sans-serif;
+  color: lighten(black, 50);
+
+  #close-btn {
+    background-color: black!important;
+    color: lighten(black, 50);
+    font-size: 1.7rem;
+    padding: 0;
+    margin: 20px;
+
+    &:hover {
+      color: white;
+    }
+  }
+
+  .about-span,
+  a {
+    display: block;
+    font-size: 1.2em;
+    font-weight: 600;
+    padding: 0.5em 0.5em 0.5em 25px;
+
+    &:hover {
+      color: white;
+      text-decoration: none;
+
+      svg {
+        fill: white;
+      }
+    }
+
+    svg {
+      margin-bottom: -1px;
+      height: 15px;
+      fill: black;
+      margin-right: 10px;
+    }
+  }
+
+  .about-span {
+    padding-bottom: 0!important;
+
+    &:hover {
+      color: lighten(black, 50);
+    }
+  }
+
+  .about-link {
+    padding: 0.1em;
+    margin-left: 2.8em;
+    font-weight: 400;
+
+    svg {
+      margin-bottom: -1px;
+      border: 1px solid white;
+      border-color: transparent;
+    }
+  }
+}
+/* Orientation-dependent styles for the content of the menu */
+.cbp-spmenu-vertical {
+  width: 300px;
+  height: 100%;
+  top: 0;
+  // z-index: 1000;
+}
+/* Vertical menu that slides from the left or right */
+.cbp-spmenu-left {
+  left: -300px;
+}
+
+.cbp-spmenu-left.cbp-spmenu-open {
+  left: 0;
+}
+/* Push classes applied to the body */
+.cbp-spmenu-push {
+  overflow-x: hidden;
+  position: relative;
+  left: 0;
+}
+
+.cbp-spmenu-push-toright {
+  left: 300px;
+}
+/* Transitions */
+.cbp-spmenu,
+.cbp-spmenu-push {
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+
+.active {
+  fill: white;
+}
