@@ -1,5 +1,4 @@
 $(document).ready(function () {
-  console.log("scripts file")
     // Smooth Scrolling Function
     $('a[href*=#]:not([href=#])').click(function () {
         var $targ = $(this.hash),

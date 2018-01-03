@@ -16,7 +16,6 @@ var messages = {
 gulp.task('webpack', function () {
   return gulp.src('./webpack/entry.js')
     .pipe(webpackStream({
-      // watch: true,
       entry: './webpack/entry.js',
       output: {
         path: __dirname + '/source/js',

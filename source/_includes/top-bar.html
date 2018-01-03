@@ -1,20 +1,13 @@
-<header class="top-bar top-bar--no-logo">
-  <span class="top-bar__button js-trigger-menu cbp-spmenu-open" id="showLeftPush">menu</span>
-
-  <nav class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-left" id="cbp-spmenu-s1">
-
-    <span class="top-bar__button " id="close-btn">close</span>
-
-    <a id="index" alt="Home" href="{{ '/' | relative_url }}"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 605 605"><path class="cls-1" id="circle" d="M602,302.5C602,137.09,467.91,3,302.5,3S3,137.09,3,302.5,137.09,602,302.5,602,602,467.91,602,302.5Zm-426.29,0A126.79,126.79,0,1,1,302.5,429.29,126.8,126.8,0,0,1,175.71,302.5Z"/></svg>Home</a>
-    <span id="p-about" class="about-span"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 605 605"><path class="cls-1 about-circle" id="about-circle" d="M602,302.5C602,137.09,467.91,3,302.5,3S3,137.09,3,302.5,137.09,602,302.5,602,602,467.91,602,302.5Zm-426.29,0A126.79,126.79,0,1,1,302.5,429.29,126.8,126.8,0,0,1,175.71,302.5Z"/></svg>About</span>
-    <a id="p-project" class="about-link" alt="About the Project" href="{{ '/about.html' | relative_url }}"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 605 605"><circle class="cls-1  small-circle" id="circle" cx="302.5" cy="302.5" r="126.1"/></svg>The Project</a>
-    <a id="p-approach" class="about-link" alt="About the Approach" href="{{ '/approach.html' | relative_url }}"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 605 605"><circle class="cls-1 small-circle" cx="302.5" id="circle" cy="302.5" r="126.1"/></svg>The Approach</a>
-    <a id="p-results" class="about-link" alt="About the Results" href="{{ '/results.html' | relative_url }}"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 605 605"><circle class="cls-1 small-circle" id="circle" cx="302.5" cy="302.5" r="126.1"/></svg>The Results</a>
-    <a id="p-conclusions" class="about-link" alt="About the Conclusions" href="{{ '/conclusions.html' | relative_url }}"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 605 605"><circle class="cls-1 small-circle" id="circle" cx="302.5" cy="302.5" r="126.1"/></svg>The Conclusions</a>
-    <a id="p-looking-forward" class="about-link" alt="Looking Forward" href="{{ '/looking-forward.html' | relative_url }}"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 605 605"><circle class="cls-1 small-circle" id="circle" cx="302.5" cy="302.5" r="126.1"/></svg>Looking Forward</a>
-    <a alt="Working Paper PDF" href="{{ '/TheLabDC_MPD_BWC_Working_Paper_10.20.17.pdf' | relative_url }}"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 605 605"><path class="cls-1" d="M602,302.5C602,137.09,467.91,3,302.5,3S3,137.09,3,302.5,137.09,602,302.5,602,602,467.91,602,302.5Zm-426.29,0A126.79,126.79,0,1,1,302.5,429.29,126.8,126.8,0,0,1,175.71,302.5Z"/></svg>Working Paper</a>
-    <a alt="The Lab @ DC" href="http://thelab.dc.gov/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 605 605"><path class="cls-1" d="M602,302.5C602,137.09,467.91,3,302.5,3S3,137.09,3,302.5,137.09,602,302.5,602,602,467.91,602,302.5Zm-426.29,0A126.79,126.79,0,1,1,302.5,429.29,126.8,126.8,0,0,1,175.71,302.5Z"/></svg>The Lab @ DC</a>
-    <a alt="Metropolitan Police Department" href="http://mpdc.dc.gov/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 605 605"><path class="cls-1" d="M602,302.5C602,137.09,467.91,3,302.5,3S3,137.09,3,302.5,137.09,602,302.5,602,602,467.91,602,302.5Zm-426.29,0A126.79,126.79,0,1,1,302.5,429.29,126.8,126.8,0,0,1,175.71,302.5Z"/></svg>Metropolitan Police <span style="margin-left: 25px;"></span>Department</a>
+<header class="top-bar">
+  <span class="top-bar__button js-trigger-menu">menu</span>
+  <nav class="main-menu js-target-menu main-menu--left">
+    <a href="{{'/'.html' | relative_url}}">Home</a>
+    <a href="{{'/about.html' | relative_url}}">About</a>
   </nav>
-
+  <a class="top-bar__logo" href="{{'/'| relative_url}}"><img src="{{'/' | relative_url}}" alt="Project Logo"></a>
+  <span class="top-bar__button js-trigger-menu">more_vert</span>
+  <nav class="main-menu js-target-menu main-menu--right">
+    <a href="#">Github Repository</a>
+    <a href="{{'/sandbox.html' | relative_url}}">Sandbox</a>
+  </nav>
 </header>
