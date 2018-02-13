@@ -1,8 +1,8 @@
 module.exports = {
   context: __dirname,
-  entry: "./webpack/entry.js",
+  entry: "./source/_js/entry.js",
   output: {
-    path: __dirname + "/source/js/",
+    path: __dirname + "/source/assets/",
     filename: "bundle.js",
     publicPath: '/'
   },

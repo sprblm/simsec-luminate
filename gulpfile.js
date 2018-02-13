@@ -14,11 +14,11 @@ var messages = {
 };
 
 gulp.task('webpack', function () {
-  return gulp.src('./webpack/entry.js')
+  return gulp.src('./source/_js/entry.js')
     .pipe(webpackStream({
-      entry: './webpack/entry.js',
+      entry: './source/_js/entry.js',
       output: {
-        path: __dirname + '/source/js',
+        path: __dirname + '/source/assets',
         filename: 'bundle.js'
       },
       resolve: {
@@ -28,7 +28,7 @@ gulp.task('webpack', function () {
         console.log(stats.toString({ colors: true }));
     }))
     .pipe(babel())
-    .pipe(gulp.dest('./source/js'));
+    .pipe(gulp.dest('./source/assets'));
 });
 
 // Browser Sync
@@ -86,7 +86,7 @@ gulp.task('jekyll-rebuild-force', ['jekyll-force'], function () {
 gulp.task('watch', function () {
   gulp.watch('source/**/*.*', ['jekyll-rebuild']);
   gulp.watch('source/_data/*.*', ['jekyll-rebuild-force']);
-  gulp.watch('./webpack/**/**/*.js', ['webpack']);
+  gulp.watch('source/_js/**/**/*.js', ['webpack']);
 });
 
   gulp.task('default', function (callback) {
