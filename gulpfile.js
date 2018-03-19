@@ -1,97 +1,18 @@
-var gulp            = require('gulp'),
-    shell           = require('gulp-shell'),
-    ghPages         = require('gulp-gh-pages'),
-    imagemin        = require('gulp-imagemin'),
-    browserSync     = require('browser-sync'),
-    cp              = require('child_process'),
-    runSequence     = require('run-sequence').use(gulp),
-    babel           = require('gulp-babel'),
-    webpack         = require('webpack'),
-    webpackStream   = require('webpack-stream');
+var gulp = require('gulp');
 
-var messages = {
-    jekyllBuild: 'building...'
-};
+// For Development: `gulp` will run `gulp serve`, to build and watch
 
-gulp.task('webpack', function () {
-  return gulp.src('./source/_js/entry.js')
-    .pipe(webpackStream({
-      entry: './source/_js/entry.js',
-      output: {
-        path: __dirname + '/source/assets',
-        filename: 'bundle.js'
-      },
-      resolve: {
-        extensions: ['.js', '.jsx']
-      }
-    }, webpack, function (err, stats) {
-        console.log(stats.toString({ colors: true }));
-    }))
-    .pipe(babel())
-    .pipe(gulp.dest('./source/assets'));
-});
+// For Deployment: `gulp deploy`
 
-// Browser Sync
-gulp.task('browserSync', function () {
-  browserSync({
-    server: {
-      baseDir: '_site'
-    }
-  });
-});
+require('./gulp/tasks/build_dev')();
+require('./gulp/tasks/build_prod')();
+require('./gulp/tasks/deploy')();
+require('./gulp/tasks/html')();
+require('./gulp/tasks/images')();
+require('./gulp/tasks/scripts')();
+require('./gulp/tasks/serve')();
+require('./gulp/tasks/styles')();
+require('./gulp/tasks/watch')();
 
-gulp.task('image', function () {
-  return gulp.src('source/images/**/*')
-    .pipe(imagemin())
-    .pipe(gulp.dest('_site/images'));
-});
-
-
-// Deploy Tasks
-gulp.task('build:prod', shell.task(['bundle exec jekyll build']));
-
-gulp.task('push-gh-master', shell.task(['git push origin master']));
-
-gulp.task('push-gh-pages', function () {
-  return gulp.src('_site/**/*')
-    .pipe(ghPages({ force: true }));
-});
-
-gulp.task('deploy', function (callback) {
-  runSequence(
-    'build:prod',
-    'image',
-    'push-gh-master',
-    'push-gh-pages',
-    callback
-  );
-});
-
-// Dev tasks
-gulp.task('jekyll', shell.task(['bundle exec jekyll build --incremental --config _config.yml,_config_dev.yml']));
-gulp.task('jekyll-force', shell.task(['bundle exec jekyll build --config _config.yml,_config_dev.yml']));
-
-gulp.task('jekyll-rebuild', ['jekyll'], function () {
-    browserSync.reload();
-});
-
-gulp.task('sync', function () {
-    browserSync.reload();
-});
-
-gulp.task('jekyll-rebuild-force', ['jekyll-force'], function () {
-    browserSync.reload();
-});
-
-gulp.task('watch', function () {
-  gulp.watch('source/**/*.*', ['jekyll-rebuild']);
-  gulp.watch('source/_data/*.*', ['jekyll-rebuild-force']);
-  gulp.watch('source/_js/**/**/*.js', ['webpack']);
-});
-
-  gulp.task('default', function (callback) {
-  runSequence(
-    ['jekyll-rebuild-force', 'watch', 'browserSync', 'webpack'],
-    callback
-  )
-});
+// DEFAULT
+gulp.task('default', ['serve']);
