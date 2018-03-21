@@ -1,33 +1,31 @@
-$(document).ready(function() {
+$(document).ready(() => {
   // Smooth Scrolling Function
-  $('a[href*=#]:not([href=#])').click(function() {
-    var $targ = $(this.hash),
-      host1 = this.hostname,
-      host2 = location.hostname,
-      path1 = this.pathname.replace(/^\//, ''),
-      path2 = location.pathname.replace(/^\//, '');
+  $('a[href*=#]:not([href=#])').on('click', e => {
+    let $targ = $(e.currentTarget.hash);
+    const host1 = e.currentTarget.hostname;
+    const host2 = window.location.hostname;
+    const path1 = e.currentTarget.pathname.replace(/^\//, '');
+    const path2 = window.location.pathname.replace(/^\//, '');
 
     if (!$targ.length) {
-      $targ = $('[name=' + this.hash.slice(1) + ']');
+      $targ = $(`[name=${e.currentTarget.hash.slice(1)}]`);
     }
 
     if ($targ.length && (host1 === host2 || path1 === path2)) {
       $('html, body').animate({ scrollTop: $targ.offset().top }, 1000);
-
       return false;
     }
-
     return true;
   });
 
-  var currentScroll = 0;
+  let currentScroll = 0;
 
   function lockscroll() {
     $(window).scrollTop(currentScroll);
   }
   // Modal Click Behavior
-  $('.js-open-modal').click(function() {
-    $(this)
+  $('.js-open-modal').click(e => {
+    $(e.currentTarget)
       .parent()
       .find('.js-target-modal')
       .addClass('js-active');
@@ -38,11 +36,11 @@ $(document).ready(function() {
   });
 
   // Prevent default on footer close
-  $('footer .js-close-modal').on('click', function(e) {
+  $('footer .js-close-modal').on('click', e => {
     e.preventDefault();
   });
 
-  $('body').on('click', '.js-close-modal', function() {
+  $('body').on('click', '.js-close-modal', () => {
     currentScroll = $(window).scrollTop();
     $(window).unbind('scroll');
     $('.js-target-modal').removeClass('js-active');
@@ -51,7 +49,7 @@ $(document).ready(function() {
   });
 
   // General Click Behavior for Overlay
-  $('#overlay').click(function() {
+  $('#overlay').click(() => {
     $('.js-active').removeClass('js-active');
     currentScroll = $(window).scrollTop();
     $(window).unbind('scroll');
@@ -60,29 +58,29 @@ $(document).ready(function() {
   });
 
   // Sticky Click Behavior
-  $('.js-close-sticky').click(function() {
+  $('.js-close-sticky').click(() => {
     $('.js-target-sticky').removeClass('js-active');
   });
 
   // Search Click Behavior
-  $('.js-trigger-search').click(function(e) {
+  $('.js-trigger-search').click(e => {
     e.preventDefault();
-    $(this)
+    $(e.currentTarget)
       .parent()
       .addClass('js-active');
     $('#overlay').addClass('js-active');
   });
 
   // Main Menu Click Behavior
-  $('.js-trigger-menu').click(function(e) {
-    $(this)
+  $('.js-trigger-menu').click(e => {
+    $(e.currentTarget)
       .next()
       .addClass('js-active-menu');
     $('#overlay').addClass('js-active');
   });
 
   // General Click Behavior for Overlay
-  $('#overlay').click(function() {
+  $('#overlay').click(() => {
     $('.js-active').removeClass('js-active');
     $('.js-active-menu').removeClass('js-active-menu');
   });
