@@ -2,7 +2,9 @@ body {
 }
 
 .footer {
-  h2 {margin: 1em 0;}
+  h2 {
+    margin: 1em 0;
+  }
   padding-top: 40px;
   &__nav {
     > a {
