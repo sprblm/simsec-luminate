@@ -12,7 +12,7 @@ module.exports = function() {
   // build for production with full html minification and image optimization
   gulp.task('build:prod', function(callback) {
     runSequence(
-      ['jekyll:clean', 'build:scripts', 'build:styles', 'build:images'],
+      ['jekyll:clean', 'build:scripts:prod', 'build:styles', 'build:images'],
       'build:jekyll:prod',
       'build:html',
       callback

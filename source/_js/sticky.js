@@ -9,4 +9,4 @@ const Sticky = {
   }
 };
 
-Sticky.init();
+module.exports = Sticky;

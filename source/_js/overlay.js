@@ -10,4 +10,4 @@ const Overlay = {
   }
 };
 
-Overlay.init();
+module.exports = Overlay;

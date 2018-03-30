@@ -29,4 +29,4 @@ const Modal = {
   }
 };
 
-Modal.init();
+module.exports = Modal;

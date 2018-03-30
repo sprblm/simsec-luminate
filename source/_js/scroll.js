@@ -27,4 +27,4 @@ const Scroll = {
   }
 };
 
-Scroll.init();
+module.exports = Scroll;

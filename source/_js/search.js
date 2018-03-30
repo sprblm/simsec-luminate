@@ -14,4 +14,4 @@ const Search = {
   }
 };
 
-Search.init();
+module.exports = Search;

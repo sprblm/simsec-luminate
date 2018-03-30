@@ -7,7 +7,7 @@ module.exports = function() {
     browserSync.reload();
     callback();
   });
-  gulp.task('build:scripts:watch', ['build:scripts'], function(callback) {
+  gulp.task('build:scripts:watch', ['build:scripts:dev'], function(callback) {
     browserSync.reload();
     callback();
   });

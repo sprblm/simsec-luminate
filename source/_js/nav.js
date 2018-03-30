@@ -13,4 +13,4 @@ const Nav = {
   }
 };
 
-Nav.init();
+module.exports = Nav;

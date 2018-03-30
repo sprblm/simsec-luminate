@@ -22,4 +22,4 @@ const Slider = {
   }
 };
 
-Slider.init();
+module.exports = Slider;

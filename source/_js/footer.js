@@ -10,4 +10,4 @@ const Footer = {
   }
 };
 
-Footer.init();
+module.exports = Footer;
