@@ -1,11 +1,7 @@
 const Scroll = {
-  lockScroll() {
-    const currentScroll = 0;
-    $(window).scrollTop(currentScroll);
-  },
   smoothScrolling() {
     // Smooth Scrolling Function
-    $('a[href*=#]:not([href=#])').on('click', e => {
+    $('a[href*=\\#]:not([href=\\#])').on('click', e => {
       let $targ = $(e.currentTarget.hash);
       const host1 = e.currentTarget.hostname;
       const host2 = window.location.hostname;
@@ -22,7 +18,6 @@ const Scroll = {
     });
   },
   init() {
-    this.lockScroll();
     this.smoothScrolling();
   }
 };

@@ -1,13 +1,13 @@
-import Footer from './Footer';
-import Overlay from './Overlay';
-import Modal from './Modal';
-import Nav from './Nav';
-import Scroll from './Scroll';
-import Search from './Search';
-import Slider from './Slider';
-import Sticky from './Sticky';
+// import Footer from './Footer';
+import Overlay from './overlay';
+import Modal from './modal';
+import Nav from './nav';
+import Scroll from './scroll';
+import Search from './search';
+import Slider from './slider';
+import Sticky from './sticky';
 
-Footer.init();
+// Footer.init();
 Modal.init();
 Nav.init();
 Overlay.init();

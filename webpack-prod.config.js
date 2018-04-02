@@ -1,5 +1,5 @@
-const webpack = require('webpack');
 const CompressionPlugin = require('compression-webpack-plugin');
+const UglifyJsPlugin = require('uglifyjs-webpack-plugin');
 
 module.exports = {
   context: __dirname,
@@ -7,10 +7,9 @@ module.exports = {
   output: {
     path: __dirname + '/source/assets/',
     filename: 'bundle.js',
-    publicPath: '/'
   },
   module: {
-    loaders: [
+    rules: [
       {
         test: /\.js$/,
         exclude: /node_modules/,
@@ -21,26 +20,8 @@ module.exports = {
       }
     ]
   },
-  plugins: [
-    new webpack.DefinePlugin({
-      'process.env': {
-        NODE_ENV: JSON.stringify('production')
-      }
-    }),
-    new webpack.optimize.AggressiveMergingPlugin(),
-    new webpack.optimize.OccurrenceOrderPlugin(),
-    new webpack.optimize.UglifyJsPlugin({
-      mangle: true,
-      compress: {
-        warnings: false, // Suppress uglification warnings
-        pure_getters: true,
-        unsafe: true,
-        unsafe_comps: true,
-        screw_ie8: true
-      },
-      output: {
-        comments: false
-      },
+    plugins: [
+    new UglifyJsPlugin({
       exclude: [/\.min\.js$/gi] // skip pre-minified libs
     }),
     new CompressionPlugin({

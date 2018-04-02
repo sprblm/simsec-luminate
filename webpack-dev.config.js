@@ -4,10 +4,9 @@ module.exports = {
   output: {
     path: __dirname + '/source/assets/',
     filename: 'bundle.js',
-    publicPath: '/'
   },
   module: {
-    loaders: [
+    rules: [
       {
         test: /\.js$/,
         exclude: /node_modules/,
