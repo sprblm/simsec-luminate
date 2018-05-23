@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 
+title:
 email:
 description: > # this means to ignore newlines until "baseurl:"
 
@@ -21,7 +21,7 @@ baseurl: "/objectively-jekyll-boilerplate" # the subpath of your site, e.g. /blo
 url: "https://objectively.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:
-seo_image_path: 
+seo_image_path: #'/images/media/filename.jpg'
 
 # Build settings
 markdown: kramdown
