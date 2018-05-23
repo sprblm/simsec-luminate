@@ -14,6 +14,6 @@ module.exports = function() {
 
   // minimal build sequence for development
   gulp.task('build:dev', function(callback) {
-    runSequence(['build:scripts', 'build:styles'], 'build:jekyll', 'build:html', callback);
+    runSequence(['build:scripts:dev', 'build:styles'], 'build:jekyll', 'build:html', callback);
   });
 };
