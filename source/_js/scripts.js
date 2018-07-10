@@ -6,6 +6,7 @@ import Scroll from './scroll';
 import Search from './search';
 import Slider from './slider';
 import Sticky from './sticky';
+import Utils from './utils';
 
 // Footer.init();
 Modal.init();
@@ -15,3 +16,4 @@ Scroll.init();
 Search.init();
 Slider.init();
 Sticky.init();
+Utils.markdownLinksNewPage();
