@@ -41,6 +41,3 @@ timezone: America/New_York
 source: ./source
 # sass_dir: source/css
 
-plugins_dir:
-  - jekyll-seo-tag
-  - jekyll-sitemap
