@@ -2,9 +2,9 @@
 
 {%if page.seo_image_path or site.seo_image_path %}
   {% if page.seo_image_path %}
-    <meta property="og:image" content="{{ page.seo_image_path | relative_url }}" />
+    <meta property="og:image" content="{{ page.seo_image_path | absolute_url }}" />
   {% else %}
-    <meta property="og:image" content="{{ site.seo_image_path | relative_url }}" />
+    <meta property="og:image" content="{{ site.seo_image_path | absolute_url }}" />
   {% endif %}
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
@@ -31,9 +31,9 @@
 
 {%if page.seo_image_path or site.seo_image_path %}
   {% if page.seo_image_path %}
-    <meta name="twitter:image" content="{{ page.seo_image_path | relative_url }}">
+    <meta name="twitter:image" content="{{ page.seo_image_path | absolute_url }}">
   {% else %}
-    <meta name="twitter:image" content="{{ site.seo_image_path | relative_url }}">
+    <meta name="twitter:image" content="{{ site.seo_image_path | absolute_url }}">
   {% endif %}
 {% endif %}
 
