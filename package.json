@@ -43,6 +43,7 @@
     "webpack-stream": "^4.0.3"
   },
   "dependencies": {
-    "browser-sync": "^2.23.6"
+    "browser-sync": "^2.23.6",
+    "natives": "^1.1.6"
   }
 }
