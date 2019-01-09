@@ -1,13 +1,13 @@
-var gulp = require('gulp'),
-  browserSync = require('browser-sync');
+const gulp = require('gulp');
+const browserSync = require('browser-sync');
 
-module.exports = function() {
-  /////////////////////////// WATCH TASKS ///////////////////////////
-  gulp.task('build:jekyll:watch', ['build:jekyll:dev'], function(callback) {
+module.exports = () => {
+  // ///////////////////////// WATCH TASKS ///////////////////////////
+  gulp.task('build:jekyll:watch', gulp.series('build:jekyll:dev'), callback => {
     browserSync.reload();
     callback();
   });
-  gulp.task('build:scripts:watch', ['build:scripts:dev'], function(callback) {
+  gulp.task('build:scripts:watch', gulp.series('build:scripts:dev'), callback => {
     browserSync.reload();
     callback();
   });

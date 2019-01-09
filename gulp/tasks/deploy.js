@@ -1,17 +1,12 @@
-var ghPages = require('gulp-gh-pages'),
-  gulp = require('gulp'),
-  runSequence = require('run-sequence').use(gulp),
-  shell = require('gulp-shell');
+const ghPages = require('gulp-gh-pages');
+const gulp = require('gulp');
+const shell = require('gulp-shell');
 
-/////////////////////////// DEPLOY TASKS ///////////////////////////
-module.exports = function() {
+// ///////////////////////// DEPLOY TASKS ///////////////////////////
+module.exports = () => {
   gulp.task('push-gh-master', shell.task(['git push origin master']));
 
-  gulp.task('push-gh-pages', function() {
-    return gulp.src('_site/**/*').pipe(ghPages({ force: true }));
-  });
+  gulp.task('push-gh-pages', () => gulp.src('_site/**/*').pipe(ghPages({ force: true })));
 
-  gulp.task('deploy', function(callback) {
-    runSequence('build:prod', 'push-gh-master', 'push-gh-pages', callback);
-  });
+  gulp.task('deploy', gulp.series('build:prod', 'push-gh-master', 'push-gh-pages'));
 };

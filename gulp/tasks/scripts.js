@@ -1,29 +1,32 @@
-var gulp = require('gulp'),
-  gutil = require('gulp-util'),
-  plumber = require('gulp-plumber'),
-  shell = require('gulp-shell'),
-  webpack = require('webpack-stream');
+const gulp = require('gulp');
+const gutil = require('gulp-util');
+const plumber = require('gulp-plumber');
+const shell = require('gulp-shell');
+const webpack = require('webpack-stream');
+const webpackDevConfig = require('../../webpack-dev.config.js');
+const webpackProdConfig = require('../../webpack-prod.config.js');
 
-/////////////////////////// JAVASCRIPT TASKS ///////////////////////////
-//sourcemaps, concat, uglify;
-module.exports = function() {
-  gulp.task('build:scripts:dev', function() {
-    return gulp
+// ///////////////////////// JAVASCRIPT TASKS ///////////////////////////
+// sourcemaps, concat, uglify;
+
+module.exports = () => {
+  gulp.task('build:scripts:dev', () =>
+    gulp
       .src('source/_js/scripts.js')
       .pipe(plumber())
-      .pipe(webpack(require('../../webpack-dev.config.js')))
+      .pipe(webpack(webpackDevConfig))
       .pipe(gulp.dest('source/assets/'))
       .pipe(gulp.dest('_site/assets/'))
-      .on('error', gutil.log);
-  });
+      .on('error', gutil.log)
+  );
 
-  gulp.task('build:scripts:prod', function() {
-    return gulp
+  gulp.task('build:scripts:prod', () =>
+    gulp
       .src('source/_js/scripts.js')
       .pipe(plumber())
-      .pipe(webpack(require('../../webpack-prod.config.js')))
+      .pipe(webpack(webpackProdConfig))
       .pipe(gulp.dest('source/assets/'))
       .pipe(gulp.dest('_site/assets/'))
-      .on('error', gutil.log);
-  });
+      .on('error', gutil.log)
+  );
 };
