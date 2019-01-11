@@ -5,6 +5,7 @@
 const autoprefixer = require('gulp-autoprefixer');
 const browserSync = require('browser-sync');
 const htmlmin = require('gulp-htmlmin');
+const ghPages = require('gulp-gh-pages');
 const gulp = require('gulp');
 const gutil = require('gulp-util');
 const importCss = require('gulp-import-css');
@@ -120,10 +121,19 @@ gulp.task('test:es-lint', shell.task(['eslint ./source/_js/**/*.js']));
 
 gulp.task('test:mocha', () => gulp.src('spec/**/*.spec.js').pipe(mocha()));
 
-gulp.task('test', done => {
-  gulp.parallel('test:html', 'test:es-lint', 'test:mocha');
+gulp.task('test', gulp.series('test:html', 'test:es-lint', 'test:mocha'), done => {
   done();
 });
+
+/* =========================================
+  deploy
+========================================= */
+
+gulp.task('push-gh-master', shell.task(['git push origin master']));
+
+gulp.task('push-gh-pages', () => gulp.src('_site/**/*').pipe(ghPages({ force: true })));
+
+gulp.task('deploy', gulp.series('build:prod', 'push-gh-master', 'push-gh-pages'));
 
 /* =========================================
   serve
