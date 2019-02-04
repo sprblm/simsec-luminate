@@ -19,7 +19,7 @@ To deploy your site, run `gulp deploy`
 
 #### Troubleshooting Deployment 
 
-The gulp-gh-pages plugin stores a cache of the repo automatically in a `.publish` folder, which throws this error when you try to deploy after deleting your gh-pages branch. 
+The gulp-gh-pages plugin stores a cache of the repo automatically in a `.publish` folder, which throws this error when you try to deploy after deleting your gh-pages branch. **This error occurs when there is no remote gh-pages branch.**
 
 ```
 Error in plugin 'gulp-gh-pages'
