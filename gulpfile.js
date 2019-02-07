@@ -168,4 +168,4 @@ gulp.task('serve', done => {
   done();
 });
 
-gulp.task('default', gulp.series('serve'));
+gulp.task('default', gulp.series('build:dev','serve'));
