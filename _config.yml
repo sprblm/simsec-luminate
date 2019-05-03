@@ -17,7 +17,7 @@ title:
 email:
 description: > # this means to ignore newlines until "baseurl:"
 
-baseurl: "/objectively-jekyll-boilerplate" # the subpath of your site, e.g. /blog
+baseurl: "/simsec-luminate" # the subpath of your site, e.g. /blog
 url: "https://objectively.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:
@@ -40,4 +40,3 @@ timezone: America/New_York
 # Folder Structure
 source: ./source
 # sass_dir: source/css
-
