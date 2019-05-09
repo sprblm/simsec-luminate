@@ -1,27 +1,25 @@
-body {
-  // color: green;
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto', sans-serif;
 }
 
-.footer {
-  h2 {
-    margin: 1em 0;
-  }
-  padding-top: 40px;
-  &__nav {
-    > a {
-      text-align: left;
-      display: block;
-      border-bottom: 1px solid rgba(0, 0, 0, 0.3);
-      padding: 5px;
-      &:hover {
-        text-decoration: none;
-        background-color: rgba(0, 0, 0, 0.1);
-      }
-    }
-  }
+p, ul, ol {
+  font-family: 'Crimson Text', serif;
 }
 
 .main-menu {
   box-shadow: none;
   overflow-y: hidden;
+}
+
+.top-bar {
+  background-color: $primary-blue;
+  display: none;
+  @include breakpoint($small-only) {
+    display: flex;
+  }
+  .main-menu {
+    a {
+      all: unset;
+    }
+  }
 }

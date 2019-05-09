@@ -1,0 +1,40 @@
+main {
+  position: relative;
+}
+
+.nav {
+  background-color: $light-gray;
+  width: 15rem;
+
+  &--large {
+    position: fixed;
+    left: 0;
+    top: 0;
+    bottom: 0;
+
+    @include breakpoint($small-only) {
+      display: none;
+    }
+  }
+
+  a {
+    display: block!important;
+    font-family: 'Roboto', sans-serif;
+    padding: 0.5rem 0;
+    text-decoration: none!important;
+
+    &:hover {
+      background-color: $orange;
+      color: white;
+    }
+  }
+}
+
+section {
+  // @include breakpoint($large) {
+    padding-left: 15rem;
+  // }
+  @include breakpoint($small-only) {
+   padding-left: 0;
+  }
+}
