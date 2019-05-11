@@ -1,0 +1,75 @@
+#index {
+  color: $dark-gray;
+  .button {
+    background-color: transparent;
+    border: solid 4px $dark-gray;
+
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.85rem;
+    font-weight: bold;
+    width: 60%;
+    &:hover {
+      background-color: $dark-gray;
+      color: white;
+    }
+  }
+
+  .page-section {
+    padding-top: 2rem;
+    &--top {
+      padding-top: 5rem;
+    }
+    p:first-child {
+      margin-top: 0;
+    }
+  }
+
+  .theme-card {
+    text-decoration: none;
+    line-height: 1.2;
+    position: relative;
+    &__title {
+      font-family: 'Roboto', sans-serif;
+      font-size: 2.5rem;
+      font-weight: bold;
+      padding-bottom: 12rem;
+    }
+
+    i {
+      font-size: 6rem;
+      padding-top: 8rem;
+      padding-bottom: 1rem;
+    }
+
+    &:nth-child(1), &:nth-child(4) {
+      background-color: $cb-dark-gray;
+    }
+
+    &:nth-child(2), &:nth-child(3) {
+      background-color: $cb-light-gray;
+    }
+
+    @include breakpoint($medium-only) {
+      &:nth-child(odd) {
+        background-color: $cb-dark-gray;
+      }
+      &:nth-child(even) {
+        background-color: $cb-light-gray;
+      }
+    }
+
+    &:hover {
+      background-color: $green;
+      color: white;
+    }
+
+    &:before {
+      @extend .material-icons;
+      content: 'arrow_forward';
+      font-size: 4rem!important;
+      position: absolute;
+      bottom: 5rem;
+      right: 5rem;
+    }
+  }
+}

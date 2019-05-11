@@ -2,6 +2,22 @@
   background-color: $primary-blue;
   color: white;
   text-align: left;
+  h1 {
+    font-size: 3.5rem;
+    line-height: 1;
+  }
+  h2 {
+    font-size: 2.2rem;
+    font-weight: lighter;
+    line-height: 1;
+    text-transform: none;
+
+  }
   &--index {
+    hr {
+      border-bottom: 6px solid white;
+      width: 6rem;
+      margin: 5rem 0;
+    }
   }
 }
