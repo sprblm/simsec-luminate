@@ -1,0 +1,386 @@
+---
+theme:
+- sys:
+    id: 666PnBCNhmJSqTmSlwuxvU
+    created_at: !ruby/object:DateTime 2019-05-03 00:03:15.224000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-03 00:06:33.533000000 Z
+    content_type_id: theme
+    revision: 2
+  page_title: Funding Approach & Process
+  theme_icon:
+    sys:
+      id: 435OrUIAlvybJxrX7zfNo2
+      created_at: !ruby/object:DateTime 2019-05-03 00:06:26.052000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-03 00:06:26.052000000 Z
+    title: placeholder-icon
+    description: 
+    url: "//images.ctfassets.net/h8kgu1arvxtu/435OrUIAlvybJxrX7zfNo2/697d8954137c4e6bdc8c3ade63b572c5/baseline-healing-24px.svg"
+  short_description: How do funder practices and processes affect grantees? How sensitive
+    is the funding process to the needs and constraints of grantees? Which aspects
+    are particularly challenging?
+  related_insights:
+  - sys:
+      id: 5K90Xztqn08a6GbFj3ep4w
+      created_at: !ruby/object:DateTime 2019-05-02 23:35:43.855000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:23:53.135000000 Z
+      content_type_id: insight
+      revision: 5
+    page_title: Deep, Trusting Relationships
+    insight_short: Deep, Trusting Relationships
+    insight_title: Grantees value deep and trusting relationships with funders, grounded
+      in subject area expertise.
+    short_description: A strong relationship between the funder and grantee builds
+      trust, enabling the grantee to take more initiative and negotiate for their
+      needs. Partnering with an investment lead (IL) or program officer with subject
+      area expertise is especially critical for grantees to feel like their work is
+      understood.
+    featured_quote:
+      sys:
+        id: 3XbFyZvWauf1G4IV3ho6aO
+    long_description: "The investment lead (IL) or program officer is the face of
+      Luminate for grantees. A positive experience with an IL reflects very well on
+      the organization as a whole. IL’s with deep subject area knowledge are particularly
+      valued.\n\nThe ILs’ extensive knowledge about the space made the grantees feel
+      understood and heard, and contributed to an overall feeling of alignment with
+      GCE as a team. One participant expressed this as really valuing the “professional,
+      constructive, and encouraging thinking partner that our contact (IL) embodies.”
+      \n\nOrganizations who had a close relationship with their ILs were uniformly
+      positive about their IL’s capabilities and the amount of personal attention
+      they received. “They’ve truly felt as much like thought partners and co-conspirators
+      in our work as they do funders,” wrote one organization in the survey. \n\nGCE’s
+      openness to collaboration and negotiation was regarded as extremely positive
+      for those who had taken the initiative to take advantage of it. Grantees who
+      were confident enough to push back — usually with regard to metrics or reporting
+      — felt respected and heard, and often got what they asked for. Having pushed
+      back didn’t seem to hurt their reputation or relationship with GCE – if anything,
+      it seemed to lead to greater mutual respect."
+    related_theme:
+    - Funding Approach & Process
+    - Trust & Power
+    related_recommendations:
+    - sys:
+        id: 739159sAxh2eiycKRBdOfz
+    - sys:
+        id: 7HaggMuTZVQo9qMqqiQvJi
+    - sys:
+        id: 7ifyzI6bOqUiTn5aXg2Ac8
+    - sys:
+        id: 5UFLM9YhjV7pMyRVYAKGN7
+    - sys:
+        id: 017p3qzOAZnrMjC3a5awyi
+    - sys:
+        id: 2jPpX1aCPfGnLCldon7zAv
+    related_resources:
+    - sys:
+        id: 3FQVA12oDvZRa7iUrTJaas
+    - sys:
+        id: Aqrq7NXOreu5GwPYj5J7J
+    - sys:
+        id: 648LvvJeMpyWszz9HUvRGp
+    related_quotes:
+    - sys:
+        id: kvAzPII7XhsVREPsfqHyU
+    - sys:
+        id: 3XbFyZvWauf1G4IV3ho6aO
+    - sys:
+        id: 3HjUvk7VX1pAERfNHzTHin
+    - sys:
+        id: 6gOe7cZkxErsApKK6kcFcD
+    - sys:
+        id: 60OmUZh717UBHfX5lIl4oP
+    - sys:
+        id: 1rjl63zu9qPGZ9StCree47
+    - sys:
+        id: 2OlG4Gp8canggoSKbRnZI3
+    - sys:
+        id: 6t7fk8pkX6EVlOT6xiIsYF
+    - sys:
+        id: 7LfV2Gpsb1uxAHZ87vhfDz
+- sys:
+    id: 4UDIcXStAWXpPwjDpq1hCU
+    created_at: !ruby/object:DateTime 2019-05-03 00:04:36.588000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-03 00:06:42.322000000 Z
+    content_type_id: theme
+    revision: 2
+  page_title: Trust & Power
+  theme_icon:
+    sys:
+      id: 435OrUIAlvybJxrX7zfNo2
+      created_at: !ruby/object:DateTime 2019-05-03 00:06:26.052000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-03 00:06:26.052000000 Z
+    title: placeholder-icon
+    description: 
+    url: "//images.ctfassets.net/h8kgu1arvxtu/435OrUIAlvybJxrX7zfNo2/697d8954137c4e6bdc8c3ade63b572c5/baseline-healing-24px.svg"
+  short_description: 'What role does trust play in the funder/ grantee relationship?
+    How can it affect the impact that both seek to have? How can funders better manage
+    the inherent power dynamics in funder-grantee relationships? '
+  related_insights:
+  - sys:
+      id: 5K90Xztqn08a6GbFj3ep4w
+      created_at: !ruby/object:DateTime 2019-05-02 23:35:43.855000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:23:53.135000000 Z
+      content_type_id: insight
+      revision: 5
+    page_title: Deep, Trusting Relationships
+    insight_short: Deep, Trusting Relationships
+    insight_title: Grantees value deep and trusting relationships with funders, grounded
+      in subject area expertise.
+    short_description: A strong relationship between the funder and grantee builds
+      trust, enabling the grantee to take more initiative and negotiate for their
+      needs. Partnering with an investment lead (IL) or program officer with subject
+      area expertise is especially critical for grantees to feel like their work is
+      understood.
+    featured_quote:
+      sys:
+        id: 3XbFyZvWauf1G4IV3ho6aO
+    long_description: "The investment lead (IL) or program officer is the face of
+      Luminate for grantees. A positive experience with an IL reflects very well on
+      the organization as a whole. IL’s with deep subject area knowledge are particularly
+      valued.\n\nThe ILs’ extensive knowledge about the space made the grantees feel
+      understood and heard, and contributed to an overall feeling of alignment with
+      GCE as a team. One participant expressed this as really valuing the “professional,
+      constructive, and encouraging thinking partner that our contact (IL) embodies.”
+      \n\nOrganizations who had a close relationship with their ILs were uniformly
+      positive about their IL’s capabilities and the amount of personal attention
+      they received. “They’ve truly felt as much like thought partners and co-conspirators
+      in our work as they do funders,” wrote one organization in the survey. \n\nGCE’s
+      openness to collaboration and negotiation was regarded as extremely positive
+      for those who had taken the initiative to take advantage of it. Grantees who
+      were confident enough to push back — usually with regard to metrics or reporting
+      — felt respected and heard, and often got what they asked for. Having pushed
+      back didn’t seem to hurt their reputation or relationship with GCE – if anything,
+      it seemed to lead to greater mutual respect."
+    related_theme:
+    - Funding Approach & Process
+    - Trust & Power
+    related_recommendations:
+    - sys:
+        id: 739159sAxh2eiycKRBdOfz
+    - sys:
+        id: 7HaggMuTZVQo9qMqqiQvJi
+    - sys:
+        id: 7ifyzI6bOqUiTn5aXg2Ac8
+    - sys:
+        id: 5UFLM9YhjV7pMyRVYAKGN7
+    - sys:
+        id: 017p3qzOAZnrMjC3a5awyi
+    - sys:
+        id: 2jPpX1aCPfGnLCldon7zAv
+    related_resources:
+    - sys:
+        id: 3FQVA12oDvZRa7iUrTJaas
+    - sys:
+        id: Aqrq7NXOreu5GwPYj5J7J
+    - sys:
+        id: 648LvvJeMpyWszz9HUvRGp
+    related_quotes:
+    - sys:
+        id: kvAzPII7XhsVREPsfqHyU
+    - sys:
+        id: 3XbFyZvWauf1G4IV3ho6aO
+    - sys:
+        id: 3HjUvk7VX1pAERfNHzTHin
+    - sys:
+        id: 6gOe7cZkxErsApKK6kcFcD
+    - sys:
+        id: 60OmUZh717UBHfX5lIl4oP
+    - sys:
+        id: 1rjl63zu9qPGZ9StCree47
+    - sys:
+        id: 2OlG4Gp8canggoSKbRnZI3
+    - sys:
+        id: 6t7fk8pkX6EVlOT6xiIsYF
+    - sys:
+        id: 7LfV2Gpsb1uxAHZ87vhfDz
+- sys:
+    id: 3IU2vd7hHiF8B8Zhq55mvo
+    created_at: !ruby/object:DateTime 2019-05-03 00:05:23.821000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-03 00:06:53.291000000 Z
+    content_type_id: theme
+    revision: 2
+  page_title: Funder Identity & Culture
+  theme_icon:
+    sys:
+      id: 435OrUIAlvybJxrX7zfNo2
+      created_at: !ruby/object:DateTime 2019-05-03 00:06:26.052000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-03 00:06:26.052000000 Z
+    title: placeholder-icon
+    description: 
+    url: "//images.ctfassets.net/h8kgu1arvxtu/435OrUIAlvybJxrX7zfNo2/697d8954137c4e6bdc8c3ade63b572c5/baseline-healing-24px.svg"
+  short_description: How does a funder’s approach and history affect how they are
+    perceived, how they relate with grantees, and how impact is achieved? How do culture,
+    diversity, and identity come into play in the funder-grantee relationship?
+  related_insights:
+  - sys:
+      id: 5K90Xztqn08a6GbFj3ep4w
+      created_at: !ruby/object:DateTime 2019-05-02 23:35:43.855000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:23:53.135000000 Z
+      content_type_id: insight
+      revision: 5
+    page_title: Deep, Trusting Relationships
+    insight_short: Deep, Trusting Relationships
+    insight_title: Grantees value deep and trusting relationships with funders, grounded
+      in subject area expertise.
+    short_description: A strong relationship between the funder and grantee builds
+      trust, enabling the grantee to take more initiative and negotiate for their
+      needs. Partnering with an investment lead (IL) or program officer with subject
+      area expertise is especially critical for grantees to feel like their work is
+      understood.
+    featured_quote:
+      sys:
+        id: 3XbFyZvWauf1G4IV3ho6aO
+    long_description: "The investment lead (IL) or program officer is the face of
+      Luminate for grantees. A positive experience with an IL reflects very well on
+      the organization as a whole. IL’s with deep subject area knowledge are particularly
+      valued.\n\nThe ILs’ extensive knowledge about the space made the grantees feel
+      understood and heard, and contributed to an overall feeling of alignment with
+      GCE as a team. One participant expressed this as really valuing the “professional,
+      constructive, and encouraging thinking partner that our contact (IL) embodies.”
+      \n\nOrganizations who had a close relationship with their ILs were uniformly
+      positive about their IL’s capabilities and the amount of personal attention
+      they received. “They’ve truly felt as much like thought partners and co-conspirators
+      in our work as they do funders,” wrote one organization in the survey. \n\nGCE’s
+      openness to collaboration and negotiation was regarded as extremely positive
+      for those who had taken the initiative to take advantage of it. Grantees who
+      were confident enough to push back — usually with regard to metrics or reporting
+      — felt respected and heard, and often got what they asked for. Having pushed
+      back didn’t seem to hurt their reputation or relationship with GCE – if anything,
+      it seemed to lead to greater mutual respect."
+    related_theme:
+    - Funding Approach & Process
+    - Trust & Power
+    related_recommendations:
+    - sys:
+        id: 739159sAxh2eiycKRBdOfz
+    - sys:
+        id: 7HaggMuTZVQo9qMqqiQvJi
+    - sys:
+        id: 7ifyzI6bOqUiTn5aXg2Ac8
+    - sys:
+        id: 5UFLM9YhjV7pMyRVYAKGN7
+    - sys:
+        id: 017p3qzOAZnrMjC3a5awyi
+    - sys:
+        id: 2jPpX1aCPfGnLCldon7zAv
+    related_resources:
+    - sys:
+        id: 3FQVA12oDvZRa7iUrTJaas
+    - sys:
+        id: Aqrq7NXOreu5GwPYj5J7J
+    - sys:
+        id: 648LvvJeMpyWszz9HUvRGp
+    related_quotes:
+    - sys:
+        id: kvAzPII7XhsVREPsfqHyU
+    - sys:
+        id: 3XbFyZvWauf1G4IV3ho6aO
+    - sys:
+        id: 3HjUvk7VX1pAERfNHzTHin
+    - sys:
+        id: 6gOe7cZkxErsApKK6kcFcD
+    - sys:
+        id: 60OmUZh717UBHfX5lIl4oP
+    - sys:
+        id: 1rjl63zu9qPGZ9StCree47
+    - sys:
+        id: 2OlG4Gp8canggoSKbRnZI3
+    - sys:
+        id: 6t7fk8pkX6EVlOT6xiIsYF
+    - sys:
+        id: 7LfV2Gpsb1uxAHZ87vhfDz
+- sys:
+    id: 750yLhhRjBoGihBm56AZmF
+    created_at: !ruby/object:DateTime 2019-05-03 00:05:46.680000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-03 00:07:02.227000000 Z
+    content_type_id: theme
+    revision: 2
+  page_title: Assessing Impact
+  theme_icon:
+    sys:
+      id: 435OrUIAlvybJxrX7zfNo2
+      created_at: !ruby/object:DateTime 2019-05-03 00:06:26.052000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-03 00:06:26.052000000 Z
+    title: placeholder-icon
+    description: 
+    url: "//images.ctfassets.net/h8kgu1arvxtu/435OrUIAlvybJxrX7zfNo2/697d8954137c4e6bdc8c3ade63b572c5/baseline-healing-24px.svg"
+  short_description: How can funders work better with grantees to meaningfully assess
+    impact? How do funders’ varying styles and funding approaches affect successful
+    impact evaluation?
+  related_insights:
+  - sys:
+      id: 5K90Xztqn08a6GbFj3ep4w
+      created_at: !ruby/object:DateTime 2019-05-02 23:35:43.855000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:23:53.135000000 Z
+      content_type_id: insight
+      revision: 5
+    page_title: Deep, Trusting Relationships
+    insight_short: Deep, Trusting Relationships
+    insight_title: Grantees value deep and trusting relationships with funders, grounded
+      in subject area expertise.
+    short_description: A strong relationship between the funder and grantee builds
+      trust, enabling the grantee to take more initiative and negotiate for their
+      needs. Partnering with an investment lead (IL) or program officer with subject
+      area expertise is especially critical for grantees to feel like their work is
+      understood.
+    featured_quote:
+      sys:
+        id: 3XbFyZvWauf1G4IV3ho6aO
+    long_description: "The investment lead (IL) or program officer is the face of
+      Luminate for grantees. A positive experience with an IL reflects very well on
+      the organization as a whole. IL’s with deep subject area knowledge are particularly
+      valued.\n\nThe ILs’ extensive knowledge about the space made the grantees feel
+      understood and heard, and contributed to an overall feeling of alignment with
+      GCE as a team. One participant expressed this as really valuing the “professional,
+      constructive, and encouraging thinking partner that our contact (IL) embodies.”
+      \n\nOrganizations who had a close relationship with their ILs were uniformly
+      positive about their IL’s capabilities and the amount of personal attention
+      they received. “They’ve truly felt as much like thought partners and co-conspirators
+      in our work as they do funders,” wrote one organization in the survey. \n\nGCE’s
+      openness to collaboration and negotiation was regarded as extremely positive
+      for those who had taken the initiative to take advantage of it. Grantees who
+      were confident enough to push back — usually with regard to metrics or reporting
+      — felt respected and heard, and often got what they asked for. Having pushed
+      back didn’t seem to hurt their reputation or relationship with GCE – if anything,
+      it seemed to lead to greater mutual respect."
+    related_theme:
+    - Funding Approach & Process
+    - Trust & Power
+    related_recommendations:
+    - sys:
+        id: 739159sAxh2eiycKRBdOfz
+    - sys:
+        id: 7HaggMuTZVQo9qMqqiQvJi
+    - sys:
+        id: 7ifyzI6bOqUiTn5aXg2Ac8
+    - sys:
+        id: 5UFLM9YhjV7pMyRVYAKGN7
+    - sys:
+        id: 017p3qzOAZnrMjC3a5awyi
+    - sys:
+        id: 2jPpX1aCPfGnLCldon7zAv
+    related_resources:
+    - sys:
+        id: 3FQVA12oDvZRa7iUrTJaas
+    - sys:
+        id: Aqrq7NXOreu5GwPYj5J7J
+    - sys:
+        id: 648LvvJeMpyWszz9HUvRGp
+    related_quotes:
+    - sys:
+        id: kvAzPII7XhsVREPsfqHyU
+    - sys:
+        id: 3XbFyZvWauf1G4IV3ho6aO
+    - sys:
+        id: 3HjUvk7VX1pAERfNHzTHin
+    - sys:
+        id: 6gOe7cZkxErsApKK6kcFcD
+    - sys:
+        id: 60OmUZh717UBHfX5lIl4oP
+    - sys:
+        id: 1rjl63zu9qPGZ9StCree47
+    - sys:
+        id: 2OlG4Gp8canggoSKbRnZI3
+    - sys:
+        id: 6t7fk8pkX6EVlOT6xiIsYF
+    - sys:
+        id: 7LfV2Gpsb1uxAHZ87vhfDz

@@ -1,0 +1,28 @@
+---
+index:
+- sys:
+    id: 37stCeFxGeqoRZQaUKmOvd
+    created_at: !ruby/object:DateTime 2019-05-02 23:27:13.174000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-02 23:27:13.174000000 Z
+    content_type_id: index
+    revision: 1
+  page_title: Index
+  report_title: Trust, Power, and Support
+  report_subtitle: Human Centered Research on the Grantee Experience
+  intro_copy: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+    culpa qui officia deserunt mollit anim id est laborum.
+  findings_copy: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+    culpa qui officia deserunt mollit anim id est laborum.
+  simsec_footer: 'Simply Secure is a non-profit building a community of practitioners
+    that puts people at the center of privacy, security, and transparency. '
+  luminate_footer: 'Luminate is a global philanthropic organization with the goal
+    of empowering people and institutions to work together to build just and fair
+    societies. '
