@@ -4,7 +4,9 @@ main {
 
 .nav {
   background-color: $light-gray;
-  width: 15rem;
+  color: $dark-gray;
+  width: 17rem;
+  text-align: left;
 
   &--large {
     position: fixed;
@@ -17,23 +19,39 @@ main {
     }
   }
 
+  span {
+    display: block;
+    font-size: 1.3rem;
+    font-weight: bold;
+    line-height: 1.1;
+    padding: 1rem 6rem 2rem 3rem;
+  }
+
+  i {
+    font-size: 4rem;
+    padding-top: 2.5rem;
+    padding-left: 3rem;
+  }
+
   a {
     display: block!important;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', sans-serif!important;
+    font-size: .9rem!important;
+    font-weight: bold!important;
     padding: 0.5rem 0;
     text-decoration: none!important;
+    padding: 0.7rem 0 0.6rem 3rem!important;
 
     &:hover {
       background-color: $orange;
       color: white;
+      cursor: pointer;
     }
   }
 }
 
 section {
-  // @include breakpoint($large) {
-    padding-left: 15rem;
-  // }
+  padding-left: 17rem;
   @include breakpoint($small-only) {
    padding-left: 0;
   }
