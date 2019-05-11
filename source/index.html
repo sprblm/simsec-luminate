@@ -5,6 +5,9 @@ description:
 seo_image_path: #'/images/media/filename.jpg'
 ---
 
+{% assign index = site.data.contentful.index.index[0] %}
+{% assign themes = site.data.contentful.theme.theme %}
+
 <main role="main" id="index">
 
   {% include nav.html %}
@@ -12,8 +15,8 @@ seo_image_path: #'/images/media/filename.jpg'
   <section class="top-section top-section--index">
     <div class="row">
       <div class="large-4 medium-5 column">
-        <h1>Trust, Power, and Support</h1>
-        <h2>Human Centered Research on the Grantee Experience</h2>
+        <h1>{{ index.report_title }}</h1>
+        <h2>{{ index.report_subtitle }}</h2>
         <hr>
       </div>
     </div>
@@ -22,7 +25,7 @@ seo_image_path: #'/images/media/filename.jpg'
   <section class="page-section page-section--top">
     <div class="row align-center">
       <div class="column large-6 medium-12 small-12">
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed necessitatibus, error eaque vero aperiam numquam, tenetur, soluta quibusdam odio eius aut. Distinctio placeat repellendus, repellat neque itaque in esse nobis!</p>
+        {{ index.intro_copy | markdownify }}
       </div>
       <div class="column large-6 medium-10 small-12 center">
         <a class="button" href="#">Download Report</a>
@@ -39,38 +42,17 @@ seo_image_path: #'/images/media/filename.jpg'
     </div>
 
     <div class="row expanded">
-      <a href="#" class="column large-6 small-12 theme-card">
-        <div class="row expanded align-center">
-          <div class="column large-8 medium-12 small-12">
-            <i class="material-icons">star_rate</i>
-            <div class="theme-card__title">Funding Approach & Process</div>
+      {% for theme in themes %}
+        <a href="{{ theme.page_title | slugify }}" class="column large-6 medium-12 small-12 theme-card">
+          <div class="row expanded align-center">
+            <div class="column large-8 medium-8 small-12">
+              <img src="{{ theme.theme_icon.url }}" alt="">
+              <div class="theme-card__title">{{ theme.page_title }}</div>
+            </div>
           </div>
-        </div>
-      </a>
-      <a href="#" class="column large-6 small-12 theme-card">
-        <div class="row expanded align-center">
-          <div class="column large-8 medium-12 small-12">
-            <i class="material-icons">star_rate</i>
-            <div class="theme-card__title">Trust & Power</div>
-          </div>
-        </div>
-      </a>
-      <a href="#" class="column large-6 small-12 theme-card">
-        <div class="row expanded align-center">
-          <div class="column large-8 medium-12 small-12">
-            <i class="material-icons">star_rate</i>
-            <div class="theme-card__title">Funder Identity & Culture</div>
-          </div>
-        </div>
-      </a>
-      <a href="#" class="column large-6 small-12 theme-card">
-        <div class="row expanded align-center">
-          <div class="column large-8 medium-12 small-12">
-            <i class="material-icons">star_rate</i>
-            <div class="theme-card__title">Fourth theme</div>
-          </div>
-        </div>
-      </a>
+        </a>
+      {% endfor %}
+
     </div>
   </section>
 

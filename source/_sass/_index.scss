@@ -33,12 +33,19 @@
       font-size: 2.5rem;
       font-weight: bold;
       padding-bottom: 12rem;
+      @include breakpoint($small-only) {
+        padding-bottom: 10rem;
+      }
     }
 
-    i {
-      font-size: 6rem;
-      padding-top: 8rem;
-      padding-bottom: 1rem;
+    img {
+      width: 5rem;
+      padding-top: 10rem;
+      padding-bottom: 2rem;
+      @include breakpoint($small-only) {
+        padding-top: 7rem;
+        width: 4rem;
+      }
     }
 
     &:nth-child(1), &:nth-child(4) {
@@ -61,6 +68,10 @@
     &:hover {
       background-color: $green;
       color: white;
+      img {
+        -webkit-filter: invert(100%);
+        filter: invert(100%);
+      }
     }
 
     &:before {
@@ -70,6 +81,10 @@
       position: absolute;
       bottom: 5rem;
       right: 5rem;
+      @include breakpoint($small-only) {
+        bottom: 3rem;
+        right: 3rem;
+      }
     }
   }
 }
