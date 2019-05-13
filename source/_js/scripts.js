@@ -7,6 +7,7 @@ import Search from './search';
 import Slider from './slider';
 import Sticky from './sticky';
 import Utils from './utils';
+import FixedDropdown from './fixed-dropdown';
 
 // Footer.init();
 Modal.init();
@@ -17,4 +18,4 @@ Search.init();
 Slider.init();
 Sticky.init();
 Utils.markdownLinksNewPage();
-
+FixedDropdown.init();

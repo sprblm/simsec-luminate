@@ -21,3 +21,17 @@
     }
   }
 }
+
+#recommendations {
+  h1 {
+    margin: 5rem 0;
+    @include breakpoint($medium-only) {
+      font-size: 2.5rem;
+      margin-top: 3rem;
+    }
+    @include breakpoint($small-only) {
+      font-size: 2.5rem;
+      margin-top: 3rem;
+    }
+  }
+}
