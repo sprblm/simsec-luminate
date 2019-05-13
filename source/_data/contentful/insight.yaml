@@ -1,0 +1,544 @@
+---
+insight:
+- sys:
+    id: 5K90Xztqn08a6GbFj3ep4w
+    created_at: !ruby/object:DateTime 2019-05-02 23:35:43.855000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-06 20:23:53.135000000 Z
+    content_type_id: insight
+    revision: 5
+  page_title: Deep, Trusting Relationships
+  insight_short: Deep, Trusting Relationships
+  insight_title: Grantees value deep and trusting relationships with funders, grounded
+    in subject area expertise.
+  short_description: A strong relationship between the funder and grantee builds trust,
+    enabling the grantee to take more initiative and negotiate for their needs. Partnering
+    with an investment lead (IL) or program officer with subject area expertise is
+    especially critical for grantees to feel like their work is understood.
+  featured_quote:
+    sys:
+      id: 3XbFyZvWauf1G4IV3ho6aO
+      created_at: !ruby/object:DateTime 2019-05-02 23:47:48.413000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-02 23:47:48.413000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“We had first-date chemistry. We just instantly understood each other.”"
+  long_description: "The investment lead (IL) or program officer is the face of Luminate
+    for grantees. A positive experience with an IL reflects very well on the organization
+    as a whole. IL’s with deep subject area knowledge are particularly valued.\n\nThe
+    ILs’ extensive knowledge about the space made the grantees feel understood and
+    heard, and contributed to an overall feeling of alignment with GCE as a team.
+    One participant expressed this as really valuing the “professional, constructive,
+    and encouraging thinking partner that our contact (IL) embodies.” \n\nOrganizations
+    who had a close relationship with their ILs were uniformly positive about their
+    IL’s capabilities and the amount of personal attention they received. “They’ve
+    truly felt as much like thought partners and co-conspirators in our work as they
+    do funders,” wrote one organization in the survey. \n\nGCE’s openness to collaboration
+    and negotiation was regarded as extremely positive for those who had taken the
+    initiative to take advantage of it. Grantees who were confident enough to push
+    back — usually with regard to metrics or reporting — felt respected and heard,
+    and often got what they asked for. Having pushed back didn’t seem to hurt their
+    reputation or relationship with GCE – if anything, it seemed to lead to greater
+    mutual respect."
+  related_theme:
+  - Funding Approach & Process
+  - Trust & Power
+  related_recommendations:
+  - sys:
+      id: 739159sAxh2eiycKRBdOfz
+      created_at: !ruby/object:DateTime 2019-05-06 19:54:02.811000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 19:54:06.677000000 Z
+      content_type_id: recommendation
+      revision: 2
+    page_title: Support Professional Development
+    recommendation: Support professional development of program officers or investment
+      leads to develop expertise in the field in which they are managing grants.
+    recommendation_short: Support Professional Development
+  - sys:
+      id: 7HaggMuTZVQo9qMqqiQvJi
+      created_at: !ruby/object:DateTime 2019-05-02 23:38:31.638000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 19:43:23.125000000 Z
+      content_type_id: recommendation
+      revision: 2
+    page_title: Clarify Roles and Responsibilities
+    recommendation: Clarify roles and responsibilities of key people involved in relationship
+      management with the grantee. This is particularly important for creating a deep
+      and trusting relationship and provides clarity over who the prospective grantee
+      should direct questions to.
+    recommendation_short: Clarify Roles and Resposibilities
+  - sys:
+      id: 7ifyzI6bOqUiTn5aXg2Ac8
+      created_at: !ruby/object:DateTime 2019-05-02 23:39:19.396000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 19:46:43.544000000 Z
+      content_type_id: recommendation
+      revision: 2
+    page_title: Clarify the Funding Process
+    recommendation: 'Clarify the steps, inputs and outputs of the funding process,
+      and the process for accessing alternative types of support. Pay particular attention
+      to communicating what is required from the grantee early on in the process. '
+    recommendation_short: Clarify Steps
+  - sys:
+      id: 5UFLM9YhjV7pMyRVYAKGN7
+      created_at: !ruby/object:DateTime 2019-05-02 23:39:58.648000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-02 23:39:58.648000000 Z
+      content_type_id: recommendation
+      revision: 1
+    page_title: Clarify Grantee Expectations
+    recommendation: Be clear about expectations and responsibilities of grantees once
+      in the portfolio e.g., with regards to reporting, evaluation, and expected duration
+      of support.
+    recommendation_short: Clarify Grantee Expectations
+  - sys:
+      id: 017p3qzOAZnrMjC3a5awyi
+      created_at: !ruby/object:DateTime 2019-05-02 23:41:34.145000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-02 23:41:34.145000000 Z
+      content_type_id: recommendation
+      revision: 1
+    page_title: Time to Develop Impact Measurement Framework
+    recommendation: 'Give sufficient time to develop an impact measurement framework
+      that a grantee is comfortable with, e.g., consider allocating time at the beginning
+      of a grant term to dedicate to working on co-designing indicators that are outcome-driven
+      and aligned with the grantee organization’s strategy. '
+    recommendation_short: Time to Develop Impact Measurement Framework
+  - sys:
+      id: 2jPpX1aCPfGnLCldon7zAv
+      created_at: !ruby/object:DateTime 2019-05-02 23:44:26.109000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-02 23:44:26.109000000 Z
+      content_type_id: recommendation
+      revision: 1
+    page_title: Integrate Reporting with Workflow
+    recommendation: Proactively talk with grantees about how reporting can better
+      fit into their existing workflow and improve their organizational health.
+    recommendation_short: Integrate Reporting with Workflow
+  related_resources:
+  - sys:
+      id: 3FQVA12oDvZRa7iUrTJaas
+      created_at: !ruby/object:DateTime 2019-05-03 03:27:31.982000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-03 03:27:31.982000000 Z
+      content_type_id: resource
+      revision: 1
+    resource_title: Test Resource 1
+    resource_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+      sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+      minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+      commodo consequat.
+    resource_url: https://www.example.com/
+    resource_type: Knowledge Base
+    insight_tag:
+    - Deep, trusting relationships
+    recommendation_tag:
+    - Recommendation tag
+  - sys:
+      id: Aqrq7NXOreu5GwPYj5J7J
+      created_at: !ruby/object:DateTime 2019-05-03 03:27:57.616000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-03 03:27:57.616000000 Z
+      content_type_id: resource
+      revision: 1
+    resource_title: Test Resource 2
+    resource_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+      sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+      minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+      commodo consequat.
+    resource_url: https://www.example.com/
+    resource_type: Article
+    insight_tag:
+    - Deep, trusting relationships
+    recommendation_tag:
+    - Recommendation tag
+  - sys:
+      id: 648LvvJeMpyWszz9HUvRGp
+      created_at: !ruby/object:DateTime 2019-05-03 03:28:11.508000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-03 03:28:11.508000000 Z
+      content_type_id: resource
+      revision: 1
+    resource_title: Test Resource 3
+    resource_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+      sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+      minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+      commodo consequat.
+    resource_url: https://www.example.com/
+    resource_type: Knowledge Base
+    insight_tag:
+    - Deep, trusting relationships
+    recommendation_tag:
+    - Recommendation tag
+  related_quotes:
+  - sys:
+      id: kvAzPII7XhsVREPsfqHyU
+      created_at: !ruby/object:DateTime 2019-05-02 23:47:37.287000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-02 23:47:37.287000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“The ILs are simply the best out there.”"
+  - sys:
+      id: 3XbFyZvWauf1G4IV3ho6aO
+      created_at: !ruby/object:DateTime 2019-05-02 23:47:48.413000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-02 23:47:48.413000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“We had first-date chemistry. We just instantly understood each other.”"
+  - sys:
+      id: 3HjUvk7VX1pAERfNHzTHin
+      created_at: !ruby/object:DateTime 2019-05-02 23:47:57.733000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-02 23:47:57.733000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“I can feel our IL wants us to succeed.”"
+  - sys:
+      id: 6gOe7cZkxErsApKK6kcFcD
+      created_at: !ruby/object:DateTime 2019-05-02 23:48:08.967000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-02 23:48:08.967000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“Our IL remembers things we told them a year ago.”"
+  - sys:
+      id: 60OmUZh717UBHfX5lIl4oP
+      created_at: !ruby/object:DateTime 2019-05-02 23:48:17.436000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-02 23:48:17.436000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“Our IL is constructive, smart, wise, and diligent.”"
+  - sys:
+      id: 1rjl63zu9qPGZ9StCree47
+      created_at: !ruby/object:DateTime 2019-05-02 23:48:27.442000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-02 23:48:27.442000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“There was a big values overlap.”"
+  - sys:
+      id: 2OlG4Gp8canggoSKbRnZI3
+      created_at: !ruby/object:DateTime 2019-05-02 23:48:44.013000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-02 23:48:44.014000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“Usually we need to explain to funders what our impact is – but not \\[Luminate].
+      They know what we \\[do].”"
+  - sys:
+      id: 6t7fk8pkX6EVlOT6xiIsYF
+      created_at: !ruby/object:DateTime 2019-05-02 23:48:56.825000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-02 23:48:56.825000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“We couldn’t work with the metrics we’d been given, so I just reached
+      out to a high-level person at \\[Luminate] and we fixed it.”"
+  - sys:
+      id: 7LfV2Gpsb1uxAHZ87vhfDz
+      created_at: !ruby/object:DateTime 2019-05-02 23:49:10.149000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-02 23:49:10.149000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“People don’t know how foundations work! You just have to push back.”"
+- sys:
+    id: jyKMbw9LvNhaGzth0U8Dw
+    created_at: !ruby/object:DateTime 2019-05-06 20:32:40.508000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-06 20:32:40.508000000 Z
+    content_type_id: insight
+    revision: 1
+  page_title: Structure and Clarity
+  insight_short: Structure and Clarity
+  insight_title: Grantees crave structure and clarity with regards to 1) the funding
+    process, 2) what to expect from the relationship once funded, and 3) shifting
+    strategic priorities.
+  short_description: Structured funding processes, and clear communication about a
+    funder’s strategic priorities and how to secure funding, are critical. Without
+    this, potential grantees have inconsistent experiences and misunderstandings can
+    arise.
+  featured_quote:
+    sys:
+      id: 2kEoS4hHqkxrm6zVDLJ9Qj
+      created_at: !ruby/object:DateTime 2019-05-06 20:12:47.896000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:12:47.896000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“I don’t really understand how decisions are made.”"
+  long_description: "\nWhen we asked grantees about their experiences with GCE, almost
+    all of them mentioned that theirs was an exceptional or unique case, and not likely
+    to be generalizable feedback. This seems to stem from a lack of structure in the
+    IL/grantee relationship overall. Funding relationships fall somewhere on the spectrum
+    between “hands-on” – meaning customized, high-touch interactions – and “hands-off”
+    – meaning more standardized, low-touch interactions. Both extremes have advantages
+    and disadvantages. Overall, this “culture of exceptions” can be associated with
+    a lack of transparency, high unpredictability, and even nepotism.\n\nIn more hands-on
+    relationships, organizations felt they had received bespoke engagement from GCE,
+    often describing their ILs as mentors and partners. This makes them feel unique
+    and valued, and allows organizations to ask for help when they need it.\n\nHowever,
+    some participants told us that a hands-on approach isn’t always better. The downside
+    of a personalized, high-touch experience is that grantees struggled to explain
+    how GCE made decisions. When asked about the main factors in GCE’s funding decision,
+    many interviewees said they could not generalize because “[their] case was an
+    outlier”. \n\nOn the other hand, a hands-off relationship doesn’t necessarily
+    mean that all organizations receive the same treatment. While some organizations
+    praised the efficiency of a standardized funding process and stated that they
+    have more trust in a standardized process, many organizations with a “low-touch”
+    relationship with GCE felt that their needs were not being met. They were more
+    likely to see other grantees as competitors for GCE’s attention.\n\n## The Funding
+    Process\n\nMany participants said they were uncertain about what to expect before
+    and during the process. For example, some interviewees expressed bewilderment
+    about the role of the investment committee. This confusion translated into insecurity
+    about whether they can trust their ILs with information they feel might not be
+    appropriate to share with the investment committee. They wondered about how much
+    information they should share with their IL, especially information that might
+    make their organization look bad, and how much of that will then be shared with
+    the investment committee, who they may not meet for the first time until the end
+    of a long process.\n\nSome participants mentioned frustration with burdensome
+    processes that lasted over a year and involved multiple people from GCE. Over
+    two-thirds of non-profit interviewees bemoaned a process that was long, difficult,
+    and opaque – one even called it “unprofessional.”\n\nThey reported being asked
+    to submit documents on short notice, and having to repeat information, sending
+    the same or very similar information to multiple people at GCE. Some participants
+    mentioned that they found certain periods during the investment process particularly
+    stressful, such as when they weren’t sure if they would receive a final decision
+    from GCE or just a request for more documentation.\n\n## Shift in Priorities\n\nGrantees
+    repeatedly mentioned that the value of their relationship with Luminate is more
+    than financial. While they’re part of the Luminate portfolio or network (as grantees
+    referred to it), they take advantage of the Luminate stamp of approval, enjoy
+    publicity and attention through their connection with Luminate, and reap the benefits
+    of a personal relationship with their IL, who is often a powerful player in their
+    field.\n\nSince the personal relationship with the IL is a signature component
+    of being part of the Luminate network, being transitioned out of the portfolio
+    can feel like a personal betrayal. When their relationship with Luminate ends,
+    some organizations that have received longer-term support from Luminate feel that
+    new projects are competitors, not just for money, but also for attention. Participants
+    raised these concerns based on what they know of other organizations’ experiences,
+    and fears they have about the the stability of their funding.\n\nThis feeling
+    of personal betrayal also goes beyond the relationship with the IL. Many grantees
+    working in the space deeply identify with the issues they are working on. When
+    GCE/Luminate pivots to a different investment strategy, such as focusing on new
+    and emerging issues, people working in the “old” issues feel a rejection of the
+    issues they personally care about. It is not only a financial, but also an emotional
+    matter, to lose the support of Luminate, and one that can be seen to reflect inherent
+    power imbalances in the funder-grantee relationship."
+  related_theme:
+  - Funding Approach & Process
+  - Trust & Power
+  - Funder Identity & Culture
+  related_recommendations:
+  - sys:
+      id: 59J8XvABHc0OSDJ4D2BLBc
+      created_at: !ruby/object:DateTime 2019-05-06 19:44:39.071000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 19:44:39.072000000 Z
+      content_type_id: recommendation
+      revision: 1
+    page_title: Strategic Priorities
+    recommendation: Be transparent about your strategic priorities, and keep grantees
+      informed as to how they may be changing.
+    recommendation_short: Strategic Priorities
+  - sys:
+      id: 7ifyzI6bOqUiTn5aXg2Ac8
+      created_at: !ruby/object:DateTime 2019-05-02 23:39:19.396000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 19:46:43.544000000 Z
+      content_type_id: recommendation
+      revision: 2
+    page_title: Clarify the Funding Process
+    recommendation: 'Clarify the steps, inputs and outputs of the funding process,
+      and the process for accessing alternative types of support. Pay particular attention
+      to communicating what is required from the grantee early on in the process. '
+    recommendation_short: Clarify Steps
+  - sys:
+      id: 7HaggMuTZVQo9qMqqiQvJi
+      created_at: !ruby/object:DateTime 2019-05-02 23:38:31.638000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 19:43:23.125000000 Z
+      content_type_id: recommendation
+      revision: 2
+    page_title: Clarify Roles and Responsibilities
+    recommendation: Clarify roles and responsibilities of key people involved in relationship
+      management with the grantee. This is particularly important for creating a deep
+      and trusting relationship and provides clarity over who the prospective grantee
+      should direct questions to.
+    recommendation_short: Clarify Roles and Resposibilities
+  - sys:
+      id: VQ7OXAIvpXWtiSY3oWE89
+      created_at: !ruby/object:DateTime 2019-05-06 20:06:24.054000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:06:24.054000000 Z
+      content_type_id: recommendation
+      revision: 1
+    page_title: Be Explicit About the Role DEI Plays
+    recommendation: Be explicit about the role DEI plays in your organization and
+      how you are integrating DEI-related efforts and considerations into your funding
+      approach, strategies and external relationships.
+    recommendation_short: Be Explicit About the Role DEI Plays
+  - sys:
+      id: 64aVefaJYpSHSj8GnNRqZj
+      created_at: !ruby/object:DateTime 2019-05-06 19:48:06.481000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 19:48:06.481000000 Z
+      content_type_id: recommendation
+      revision: 1
+    page_title: Alternative Non-Financial Support Availability
+    recommendation: Clarify what alternative types of non-financial support are available
+      to grantees, why it is being offered, and particularly how this support is intended
+      to help achieve the organization's goals.
+    recommendation_short: Alternative Non-Financial Support Availability
+  - sys:
+      id: 5UFLM9YhjV7pMyRVYAKGN7
+      created_at: !ruby/object:DateTime 2019-05-02 23:39:58.648000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-02 23:39:58.648000000 Z
+      content_type_id: recommendation
+      revision: 1
+    page_title: Clarify Grantee Expectations
+    recommendation: Be clear about expectations and responsibilities of grantees once
+      in the portfolio e.g., with regards to reporting, evaluation, and expected duration
+      of support.
+    recommendation_short: Clarify Grantee Expectations
+  - sys:
+      id: 7DXzHNGSjjLIrrauaEX6xo
+      created_at: !ruby/object:DateTime 2019-05-06 20:04:54.233000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:04:54.233000000 Z
+      content_type_id: recommendation
+      revision: 1
+    page_title: Transparency and Honesty in Communications with Grantees
+    recommendation: Look for opportunities to model transparency and honesty in communications
+      with grantees. Greater transparency from funders around their own challenges
+      and failures will help grantees by reinforcing that their experiences are normal,
+      expected, and worthy of support, and will facilitate a more productive and beneficial
+      funding relationship for both parties.
+    recommendation_short: Transparency and Honesty in Communications with Grantees
+  - sys:
+      id: 3QVf7L1Gq74un7NUugqYhx
+      created_at: !ruby/object:DateTime 2019-05-06 20:01:59.216000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:01:59.216000000 Z
+      content_type_id: recommendation
+      revision: 1
+    page_title: Develop Transition Strategies
+    recommendation: When expecting to transition a grantee out of your portfolio,
+      specify a “ramp down” time period, during which grantees have time to adjust
+      to the changes in their finances and plan for the months and years ahead.
+    recommendation_short: Develop Transition Strategies
+  - sys:
+      id: 7JwfVjPvS8FuBtTYBpE1v4
+      created_at: !ruby/object:DateTime 2019-05-06 20:04:00.511000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:04:00.511000000 Z
+      content_type_id: recommendation
+      revision: 1
+    page_title: End of Relationship Feedback
+    recommendation: Consider inviting organizations to do an exit interview or survey
+      at the end of a grant or the funding relationship to collect meaningful feedback
+      on their experience.
+    recommendation_short: End of Relationship Feedback
+  related_resources:
+  - sys:
+      id: 3FQVA12oDvZRa7iUrTJaas
+      created_at: !ruby/object:DateTime 2019-05-03 03:27:31.982000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-03 03:27:31.982000000 Z
+      content_type_id: resource
+      revision: 1
+    resource_title: Test Resource 1
+    resource_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+      sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+      minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+      commodo consequat.
+    resource_url: https://www.example.com/
+    resource_type: Knowledge Base
+    insight_tag:
+    - Deep, trusting relationships
+    recommendation_tag:
+    - Recommendation tag
+  - sys:
+      id: Aqrq7NXOreu5GwPYj5J7J
+      created_at: !ruby/object:DateTime 2019-05-03 03:27:57.616000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-03 03:27:57.616000000 Z
+      content_type_id: resource
+      revision: 1
+    resource_title: Test Resource 2
+    resource_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+      sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+      minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+      commodo consequat.
+    resource_url: https://www.example.com/
+    resource_type: Article
+    insight_tag:
+    - Deep, trusting relationships
+    recommendation_tag:
+    - Recommendation tag
+  - sys:
+      id: 648LvvJeMpyWszz9HUvRGp
+      created_at: !ruby/object:DateTime 2019-05-03 03:28:11.508000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-03 03:28:11.508000000 Z
+      content_type_id: resource
+      revision: 1
+    resource_title: Test Resource 3
+    resource_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+      sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+      minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+      commodo consequat.
+    resource_url: https://www.example.com/
+    resource_type: Knowledge Base
+    insight_tag:
+    - Deep, trusting relationships
+    recommendation_tag:
+    - Recommendation tag
+  related_quotes:
+  - sys:
+      id: 4ynm2yzOsV7LloWEHXkrPx
+      created_at: !ruby/object:DateTime 2019-05-06 20:11:46.121000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:11:46.121000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“The process \\[of getting funding] was repetitive. It felt unprofessional
+      and not OK.”"
+  - sys:
+      id: 74Vf7calLW9oKxViPHyigv
+      created_at: !ruby/object:DateTime 2019-05-06 20:11:56.129000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:11:56.129000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“Didn’t we already answer that question? Were we not clear?”"
+  - sys:
+      id: 64vquLrMlaaO1z2n9AL4N1
+      created_at: !ruby/object:DateTime 2019-05-06 20:12:04.810000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:12:04.810000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“For us it’s impossible to make a five-year plan. All of these figures
+      are totally made up.”"
+  - sys:
+      id: 5xVWegP4YErPjwWGIQr5oD
+      created_at: !ruby/object:DateTime 2019-05-06 20:12:26.180000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:12:26.180000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“Why do they have odd rules around how many rounds \\[of funding] they
+      can support? They say they’re ‘trying to not create a dependency’, but how can
+      they expect that a non-profit is going to form anything other than a dependency
+      with \\[Luminate]?”"
+  - sys:
+      id: 2C0l0vZBzF785Q1NbGfGvO
+      created_at: !ruby/object:DateTime 2019-05-06 20:12:38.500000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:12:38.500000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“I can’t really comment because our situation is special.”"
+  - sys:
+      id: 2kEoS4hHqkxrm6zVDLJ9Qj
+      created_at: !ruby/object:DateTime 2019-05-06 20:12:47.896000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:12:47.896000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“I don’t really understand how decisions are made.”"
+  - sys:
+      id: 3uW85No8luSk66sK6BJYDo
+      created_at: !ruby/object:DateTime 2019-05-06 20:12:57.385000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:12:57.385000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“Things can be ad-hoc and unprofessional.”"
+  - sys:
+      id: 6oIxnhT6aMnOCzDicLFD7o
+      created_at: !ruby/object:DateTime 2019-05-06 20:13:05.925000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:13:05.925000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“It’s a culture of exceptions.”"
+  - sys:
+      id: FHKgwVoMgJPgK07qNS5sO
+      created_at: !ruby/object:DateTime 2019-05-06 20:13:19.788000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:13:19.788000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“Now everyone is interested in X, but that’s not what we do.”"
+  - sys:
+      id: 7jxc17DhQyxTHd2fzl8uER
+      created_at: !ruby/object:DateTime 2019-05-06 20:13:31.891000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:13:31.891000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“There’s an inherent competition among grantees that funders pretend doesn’t
+      exist. It’s hard not to look over your shoulder at the new people getting funding.”"

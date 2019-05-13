@@ -35,3 +35,17 @@
     }
   }
 }
+
+#insights {
+  .top-section {
+    padding-top: 8rem;
+    padding-bottom: 6rem;
+    @include breakpoint($medium-only) {
+      padding-top: 6rem;
+      padding-bottom: 4rem;
+    }
+  }
+  p {
+    margin: 0;
+  }
+}
