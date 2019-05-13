@@ -2,4 +2,19 @@
   background-color: $cb-light-gray;
   color: $dark-gray;
   text-align: center;
+
+  .select {
+    background-color: transparent;
+    font-weight: bold;
+    margin-bottom: 0;
+  }
+  select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    -o-appearance: none;
+    appearance: none;
+    &::-ms-expand {
+      display: none;
+    }
+  }
 }
