@@ -67,3 +67,11 @@ contentful:
         all_entries: true
         cda_query:
           content_type: about
+    - recommendation:
+        space: ENV_SIMSEC_CONTENTFUL_SPACE_ID
+        access_token: ENV_SIMSEC_CONTENTFUL_ACCESS_TOKEN
+        base_path: ./source
+        destination: /contentful
+        all_entries: true
+        cda_query:
+          content_type: recommendation

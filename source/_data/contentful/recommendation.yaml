@@ -1,0 +1,331 @@
+---
+recommendation:
+- sys:
+    id: 7HaggMuTZVQo9qMqqiQvJi
+    created_at: !ruby/object:DateTime 2019-05-02 23:38:31.638000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-06 19:43:23.125000000 Z
+    content_type_id: recommendation
+    revision: 2
+  page_title: Clarify Roles and Responsibilities
+  recommendation: Clarify roles and responsibilities of key people involved in relationship
+    management with the grantee. This is particularly important for creating a deep
+    and trusting relationship and provides clarity over who the prospective grantee
+    should direct questions to.
+  recommendation_short: Clarify Roles and Resposibilities
+- sys:
+    id: 7ifyzI6bOqUiTn5aXg2Ac8
+    created_at: !ruby/object:DateTime 2019-05-02 23:39:19.396000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-06 19:46:43.544000000 Z
+    content_type_id: recommendation
+    revision: 2
+  page_title: Clarify the Funding Process
+  recommendation: 'Clarify the steps, inputs and outputs of the funding process, and
+    the process for accessing alternative types of support. Pay particular attention
+    to communicating what is required from the grantee early on in the process. '
+  recommendation_short: Clarify Steps
+- sys:
+    id: 5UFLM9YhjV7pMyRVYAKGN7
+    created_at: !ruby/object:DateTime 2019-05-02 23:39:58.648000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-02 23:39:58.648000000 Z
+    content_type_id: recommendation
+    revision: 1
+  page_title: Clarify Grantee Expectations
+  recommendation: Be clear about expectations and responsibilities of grantees once
+    in the portfolio e.g., with regards to reporting, evaluation, and expected duration
+    of support.
+  recommendation_short: Clarify Grantee Expectations
+- sys:
+    id: 017p3qzOAZnrMjC3a5awyi
+    created_at: !ruby/object:DateTime 2019-05-02 23:41:34.145000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-02 23:41:34.145000000 Z
+    content_type_id: recommendation
+    revision: 1
+  page_title: Time to Develop Impact Measurement Framework
+  recommendation: 'Give sufficient time to develop an impact measurement framework
+    that a grantee is comfortable with, e.g., consider allocating time at the beginning
+    of a grant term to dedicate to working on co-designing indicators that are outcome-driven
+    and aligned with the grantee organization’s strategy. '
+  recommendation_short: Time to Develop Impact Measurement Framework
+- sys:
+    id: 2jPpX1aCPfGnLCldon7zAv
+    created_at: !ruby/object:DateTime 2019-05-02 23:44:26.109000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-02 23:44:26.109000000 Z
+    content_type_id: recommendation
+    revision: 1
+  page_title: Integrate Reporting with Workflow
+  recommendation: Proactively talk with grantees about how reporting can better fit
+    into their existing workflow and improve their organizational health.
+  recommendation_short: Integrate Reporting with Workflow
+- sys:
+    id: 59J8XvABHc0OSDJ4D2BLBc
+    created_at: !ruby/object:DateTime 2019-05-06 19:44:39.071000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-06 19:44:39.072000000 Z
+    content_type_id: recommendation
+    revision: 1
+  page_title: Strategic Priorities
+  recommendation: Be transparent about your strategic priorities, and keep grantees
+    informed as to how they may be changing.
+  recommendation_short: Strategic Priorities
+- sys:
+    id: wfKc9XecT9ZjuKOFNKvTi
+    created_at: !ruby/object:DateTime 2019-05-06 19:45:56.419000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-06 19:45:56.419000000 Z
+    content_type_id: recommendation
+    revision: 1
+  page_title: Clear, Collaborative Outputs
+  recommendation: Develop processes that are used consistently with all potential
+    grantees, providing a clear and collaborative route for creating tailored outputs
+    – for everyone, not just for organizations who proactively initiate this process.
+  recommendation_short: Clear, Collaborative Outputs
+- sys:
+    id: 64aVefaJYpSHSj8GnNRqZj
+    created_at: !ruby/object:DateTime 2019-05-06 19:48:06.481000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-06 19:48:06.481000000 Z
+    content_type_id: recommendation
+    revision: 1
+  page_title: Alternative Non-Financial Support Availability
+  recommendation: Clarify what alternative types of non-financial support are available
+    to grantees, why it is being offered, and particularly how this support is intended
+    to help achieve the organization's goals.
+  recommendation_short: Alternative Non-Financial Support Availability
+- sys:
+    id: 1xnQafkeYLOxaZrpKvWs0s
+    created_at: !ruby/object:DateTime 2019-05-06 19:52:10.089000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-06 19:52:10.089000000 Z
+    content_type_id: recommendation
+    revision: 1
+  page_title: Alternative Models of Non-Financial Support
+  recommendation: 'Explore alternative and more flexible models for non-financial
+    support, as opposed to taking board seats as a funder, e.g., create opportunities
+    for grantees to support each other through board participation with careful consideration
+    for possible conflicts of interest and power dynamics, or for leaders of grantee
+    organizations to pursue professional development. '
+  recommendation_short: Alternative Models of Non-Financial Support
+- sys:
+    id: 5hKYhindU3pFFpe3q13egX
+    created_at: !ruby/object:DateTime 2019-05-06 19:53:13.347000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-06 19:53:13.347000000 Z
+    content_type_id: recommendation
+    revision: 1
+  page_title: Non-Financial Support Autonomy
+  recommendation: Give grantees more autonomy and choice when taking advantage of
+    additional non-financial support e.g., by giving them ownership over who to work
+    with and under what terms. Have clear guidelines around privacy and NDAs with
+    the vendors.
+- sys:
+    id: 739159sAxh2eiycKRBdOfz
+    created_at: !ruby/object:DateTime 2019-05-06 19:54:02.811000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-06 19:54:06.677000000 Z
+    content_type_id: recommendation
+    revision: 2
+  page_title: Support Professional Development
+  recommendation: Support professional development of program officers or investment
+    leads to develop expertise in the field in which they are managing grants.
+  recommendation_short: Support Professional Development
+- sys:
+    id: 3qucwEc0fp3r4YKIAFlb74
+    created_at: !ruby/object:DateTime 2019-05-06 19:55:18.323000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-06 19:55:18.323000000 Z
+    content_type_id: recommendation
+    revision: 1
+  page_title: Be Explicit About Roles
+  recommendation: Be explicit about which role you are playing at a given time (as
+    both a funder and advocate in the field), understand where the boundaries of that
+    role lie, and be aware of the conflict that may crop up when switching roles.
+    This is relevant both in private (e.g. in a conversation with a prospective grantee)
+    and in public (e.g. when writing a whitepaper).
+  recommendation_short: Be Explicit About Roles
+- sys:
+    id: 6PFzfQyngpV581NtHSeZx8
+    created_at: !ruby/object:DateTime 2019-05-06 19:56:09.265000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-06 19:56:09.265000000 Z
+    content_type_id: recommendation
+    revision: 1
+  page_title: Be Respectful Towards Existing Networks
+  recommendation: Be respectful towards organizations’ existing networks and relationships
+    when conducting diligence, by being explicit about the times and contexts in which
+    your processes cause you to engage within their networks.
+  recommendation_short: Be Respectful Towards Existing Networks
+- sys:
+    id: 6CtHXkA7chCdYrtQerM3aD
+    created_at: !ruby/object:DateTime 2019-05-06 19:56:58.968000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-06 19:56:58.968000000 Z
+    content_type_id: recommendation
+    revision: 1
+  page_title: Grant Reporting Guidance
+  recommendation: Be explicit about the purpose of grant reporting and where possible
+    offer guidance and options around formats.
+  recommendation_short: Grant Reporting Guidance
+- sys:
+    id: 5TrkIP1GfMYitT6ZyrOPiM
+    created_at: !ruby/object:DateTime 2019-05-06 19:57:50.462000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-06 19:57:50.462000000 Z
+    content_type_id: recommendation
+    revision: 1
+  page_title: Provide Timely Feedback
+  recommendation: Provide timely feedback on reports provided by grantees.
+  recommendation_short: Provide Timely Feedback
+- sys:
+    id: 6usDyH5dFIPdiew4HipTs3
+    created_at: !ruby/object:DateTime 2019-05-06 19:59:14.677000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-06 19:59:14.677000000 Z
+    content_type_id: recommendation
+    revision: 1
+  page_title: Invite Proposed Metrics
+  recommendation: Invite grantees to propose metrics or impact measurement frameworks
+    that best reflect their strategy, impact model, and desired outcomes.
+  recommendation_short: Invite Proposed Metrics
+- sys:
+    id: 7r9IEjpcUzDMCCofBKuFn0
+    created_at: !ruby/object:DateTime 2019-05-06 19:59:56.990000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-06 19:59:56.990000000 Z
+    content_type_id: recommendation
+    revision: 1
+  page_title: Align Metrics with Existing MEL Frameworks
+  recommendation: 'Where possible, align metrics with organizations’ existing frameworks
+    for monitoring, evaluation, and learning (MEL), and where organizations lack a
+    coherent MEL framework, consider offering support in building out MEL within the
+    organization (as part of the grant or in the form of non-financial support). '
+  recommendation_short: Align Metrics with Existing MEL Frameworks
+- sys:
+    id: 4rrf45WE74ntAJMLgn8ulC
+    created_at: !ruby/object:DateTime 2019-05-06 20:00:23.630000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-06 20:00:23.630000000 Z
+    content_type_id: recommendation
+    revision: 1
+  page_title: Sync Impact Measurement and Reporting
+  recommendation: Where possible, identify an opportunity to sync impact measurement
+    and reporting across co-funders to alleviate the burden on grantees.
+  recommendation_short: Sync Impact Measurement and Reporting
+- sys:
+    id: 62AGKdvAhcnb1F3VjxmNFo
+    created_at: !ruby/object:DateTime 2019-05-06 20:01:05.423000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-06 20:01:05.423000000 Z
+    content_type_id: recommendation
+    revision: 1
+  page_title: Create Processes for Feedback on Metrics
+  recommendation: Create processes for gathering and incorporating organizational
+    feedback on metrics over the course of the funding period and offering flexibility
+    with how metrics are structured and used.
+  recommendation_short: Create Processes for Feedback on Metrics
+- sys:
+    id: 3QVf7L1Gq74un7NUugqYhx
+    created_at: !ruby/object:DateTime 2019-05-06 20:01:59.216000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-06 20:01:59.216000000 Z
+    content_type_id: recommendation
+    revision: 1
+  page_title: Develop Transition Strategies
+  recommendation: When expecting to transition a grantee out of your portfolio, specify
+    a “ramp down” time period, during which grantees have time to adjust to the changes
+    in their finances and plan for the months and years ahead.
+  recommendation_short: Develop Transition Strategies
+- sys:
+    id: F38G9F4X0cp3bRAxpm193
+    created_at: !ruby/object:DateTime 2019-05-06 20:02:56.461000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-06 20:02:56.461000000 Z
+    content_type_id: recommendation
+    revision: 1
+  page_title: Strategic and Financial Planning Support Post-Funding
+  recommendation: Consider providing strategic and financial planning support, particularly
+    focused on the post-funding phase.
+  recommendation_short: Strategic and Financial Planning Support Post-Funding
+- sys:
+    id: 7JwfVjPvS8FuBtTYBpE1v4
+    created_at: !ruby/object:DateTime 2019-05-06 20:04:00.511000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-06 20:04:00.511000000 Z
+    content_type_id: recommendation
+    revision: 1
+  page_title: End of Relationship Feedback
+  recommendation: Consider inviting organizations to do an exit interview or survey
+    at the end of a grant or the funding relationship to collect meaningful feedback
+    on their experience.
+  recommendation_short: End of Relationship Feedback
+- sys:
+    id: 7DXzHNGSjjLIrrauaEX6xo
+    created_at: !ruby/object:DateTime 2019-05-06 20:04:54.233000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-06 20:04:54.233000000 Z
+    content_type_id: recommendation
+    revision: 1
+  page_title: Transparency and Honesty in Communications with Grantees
+  recommendation: Look for opportunities to model transparency and honesty in communications
+    with grantees. Greater transparency from funders around their own challenges and
+    failures will help grantees by reinforcing that their experiences are normal,
+    expected, and worthy of support, and will facilitate a more productive and beneficial
+    funding relationship for both parties.
+  recommendation_short: Transparency and Honesty in Communications with Grantees
+- sys:
+    id: 69Cd3AfVpw9mjYZVghjizc
+    created_at: !ruby/object:DateTime 2019-05-06 20:05:24.415000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-06 20:05:24.415000000 Z
+    content_type_id: recommendation
+    revision: 1
+  page_title: Iterative Feedback and Learning with Grantees
+  recommendation: Build in more opportunities for iterative feedback and learning
+    with grantees.
+  recommendation_short: Iterative Feedback and Learning with Grantees
+- sys:
+    id: VQ7OXAIvpXWtiSY3oWE89
+    created_at: !ruby/object:DateTime 2019-05-06 20:06:24.054000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-06 20:06:24.054000000 Z
+    content_type_id: recommendation
+    revision: 1
+  page_title: Be Explicit About the Role DEI Plays
+  recommendation: Be explicit about the role DEI plays in your organization and how
+    you are integrating DEI-related efforts and considerations into your funding approach,
+    strategies and external relationships.
+  recommendation_short: Be Explicit About the Role DEI Plays
+- sys:
+    id: 60zNrJKfHNEWML0tpY6KlI
+    created_at: !ruby/object:DateTime 2019-05-06 20:07:36.214000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-06 20:07:36.214000000 Z
+    content_type_id: recommendation
+    revision: 1
+  page_title: Clearly Communicate Your Identity
+  recommendation: Clearly communicate your identity, where the cultural roots of your
+    funding approach lie, and how those inform your strategies and practices. A section
+    on “how we work” or “impact model” detailing the funding approach should be added
+    to communications about mission and values.
+  recommendation_short: Clearly Communicate Your Identity
+- sys:
+    id: 28oni0f59XkxVXUTQLddD8
+    created_at: !ruby/object:DateTime 2019-05-06 20:08:04.235000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-06 20:08:04.235000000 Z
+    content_type_id: recommendation
+    revision: 1
+  page_title: Acknowledge Your Power
+  recommendation: Honestly and frankly acknowledge the power you hold in relation
+    to your grantees, as a prerequisite for building trust in relationships.
+  recommendation_short: Acknowledge Your Power
+- sys:
+    id: 6kBDVIvZsVyTtNQgH47x3S
+    created_at: !ruby/object:DateTime 2019-05-06 20:08:42.565000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-06 20:08:42.565000000 Z
+    content_type_id: recommendation
+    revision: 1
+  page_title: Offer Genuine Space for Dialogue
+  recommendation: Offer genuine space for organizations to challenge and engage in
+    dialogue around requests, processes, funding requirements, and even strategy.
+  recommendation_short: Offer Genuine Space for Dialogue
+- sys:
+    id: 6Hv0eFtakFZ2y9zbf0Xmyx
+    created_at: !ruby/object:DateTime 2019-05-06 20:10:26.044000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-06 20:10:26.044000000 Z
+    content_type_id: recommendation
+    revision: 1
+  page_title: Understanding and Communicating Power Systems
+  recommendation: Explore opportunities for training and professional development
+    around power systems and communication for staff, as a way to build awareness
+    and skills.
+  recommendation_short: Understanding and Communicating Power Systems
+- sys:
+    id: 1xpFI6iZClNLmhFwWXnk8r
+    created_at: !ruby/object:DateTime 2019-05-06 20:10:49.223000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-06 20:10:49.223000000 Z
+    content_type_id: recommendation
+    revision: 1
+  page_title: Diversify Your Network
+  recommendation: Consider finding ways to diversify your network and the organizations
+    you fund, by, for example, intentionally engaging with organizations beyond the
+    types of entities and approaches that you are most familiar and comfortable with,
+    and questioning your frame of reference for what is ‘a fit.’
+  recommendation_short: Diversify Your Network
