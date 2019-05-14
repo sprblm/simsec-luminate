@@ -1,14 +1,17 @@
 .card {
   color: $dark-gray;
   text-decoration: none;
-  min-height: 26rem;
+  min-height: 28rem;
   position: relative;
   text-decoration: none!important;
 
   p {
     font-family: 'Roboto', sans-serif;
-    font-size: 1.1rem;
+    font-size: 1.2rem;
     padding: 1rem 1rem;
+    @include breakpoint($medium-only) {
+      font-size: 1.1rem;
+    }
   }
 
   @include breakpoint($large) {
@@ -22,8 +25,9 @@
   }
 
   @include breakpoint($medium-only) {
+    background-color: $light-gray;
     &:nth-child(4n-2), &:nth-child(4n-1) {
-      background-color: $light-gray;
+      background-color: white;
     }
   }
 
@@ -53,11 +57,40 @@
     background-color: $green;
     color: white;
   }
+
   &--insight {
     min-height: 24rem;
     p {
       font-weight: bold;
       padding: 4rem 2rem;
+    }
+  }
+
+  &--resource {
+    min-height: 24rem;
+    h5 {
+      font-size: 1.2rem;
+      margin: 0;
+      padding: 2rem 0 0 1rem;
+
+    }
+
+    p {
+      font-family: $serif;
+      padding-top: 0;
+    }
+
+    &:before {
+      content: '';
+    }
+
+    .type {
+      font-size: 0.7rem;
+      font-weight: bold;
+      text-transform: uppercase;
+      position: absolute;
+      bottom: 2rem;
+      right: 2rem;
     }
   }
 }

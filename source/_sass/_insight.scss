@@ -1,0 +1,50 @@
+#insight {
+  color: $dark-gray;
+  .insight-description {
+    color: lighten($dark-gray, 15);
+    padding-bottom: 2rem;
+    @include breakpoint($large) {
+      border-right: 1px solid lighten($dark-gray, 30);
+      padding-right: 6rem;
+    }
+  }
+
+  h3 {
+    font-size: 1.1rem;
+    margin: 0 0 0.5rem 0;
+  }
+
+  .tag {
+    background-color: $light-gray;
+    display: inline-block;
+    font-family: $sans-serif;
+    font-size: 0.9rem;
+    font-weight: bold;
+    margin: 0.2rem 0;
+    padding: 0.3rem 0.5rem;
+    text-decoration: none;
+    &:hover {
+      cursor: pointer;
+      background-color: darken($cb-dark-gray, 10);
+    }
+  }
+
+  .themes-quotes-container {
+    @include breakpoint($large) {
+      margin-left: 2rem;
+    }
+  }
+
+  .themes, .quotes {
+    margin-bottom: 2rem;
+  }
+
+  q {
+    font-family: $sans-serif;
+    margin-bottom: 1.5rem;
+    display: inline-block;
+    &:before {
+      content: '';
+    }
+  }
+}

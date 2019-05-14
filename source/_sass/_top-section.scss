@@ -44,8 +44,78 @@
       padding-top: 6rem;
       padding-bottom: 4rem;
     }
+    p {
+      margin: 0;
+    }
   }
-  p {
-    margin: 0;
+}
+
+#insight {
+  .top-section {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+    @include breakpoint($small-only) {
+      padding-top: 2rem;
+    }
+
+    .title-column {
+      @include breakpoint($large) {
+        border-right: 1px solid white;
+        padding-right: 6rem;
+      }
+    }
+
+    h1 {
+      font-size: 1.3rem;
+      font-weight: bold;
+      text-transform: uppercase;
+      margin-bottom: 1.1rem;
+      padding-top: 4rem;
+      @include breakpoint($medium-only) {
+        padding-top: 2rem;
+      }
+    }
+
+    h2 {
+      font-size: 1.7rem;
+      font-weight: bold;
+      margin: 0;
+      @include breakpoint($medium-only) {
+        font-size: 1.5rem;
+      }
+    }
+
+    p {
+      font-size: 1.3rem;
+      font-weight: lighter;
+      margin: 0;
+      @include breakpoint($medium-only) {
+        font-size: 1.1rem;
+      }
+    }
+
+    .description {
+      padding: 2rem 0 0 0;
+      font-family: $sans-serif;
+    }
+
+    .quote-container {
+      @include breakpoint($large) {
+        margin-left: 2rem;
+      }
+    }
+
+    q {
+      font-family: $serif;
+      font-size: 2rem;
+      line-height: 1;
+      &:before {
+        content: '';
+      }
+      @include breakpoint($medium-only) {
+        font-size: 1.5rem;
+        padding-top: 2rem;
+      }
+    }
   }
 }

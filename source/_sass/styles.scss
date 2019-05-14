@@ -19,11 +19,17 @@ $dark-gray: #404040;
 $cb-light-gray: #FAFAFA;
 $cb-dark-gray: #EDEDED;
 
+// Fonts
+$sans-serif: 'Roboto', sans-serif;
+$serif: 'Crimson Text', serif;
+
 @import 'breakpoint';
 @import 'base';
-@import 'top-section';
-@import 'nav';
-@import 'index';
-@import 'helpers';
 @import 'cards';
+@import 'divider';
 @import 'fixed-dropdown';
+@import 'helpers';
+@import 'index';
+@import 'insight';
+@import 'nav';
+@import 'top-section';
