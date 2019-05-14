@@ -40,7 +40,7 @@ seo_image_path: #'/images/media/filename.jpg'
   <section class="">
     <div class="row expanded">
       {% for insight in insights %}
-        <a href="{{ insight.page_title | slugify | append: '.html' | relative_url }}" class="column large-4 medium-6 small-12 card card--insight">
+        <a href="{{ insight.page_title | slugify | prepend: '/insights/' | append: '.html' | relative_url }}" class="column large-4 medium-6 small-12 card card--insight">
           {{ insight.insight_title | markdownify }}
         </a>
       {% endfor %}
