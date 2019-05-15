@@ -1,0 +1,66 @@
+---
+layout: default
+title:
+description:
+seo_image_path: #'/images/media/filename.jpg'
+---
+
+<main role="main" id="recommendation">
+
+  {% include nav.html %}
+
+  <section class="top-section">
+    <div class="row">
+      <div class="column large-12 medium-12 small-12">
+        <a class="arrow-back" href="{{ '/recommendations.html' | relative_url }}"><i class="material-icons">arrow_back</i>All Recommendations</a>
+      </div>
+      <div class="column large-12 medium-12 small-12">
+        <h1>Recommendation</h1>
+      </div>
+      <div class="column large-7 medium-12 small-12 title-column">
+        <h2>{{ page.recommendation }}</h2>
+      </div>
+      <div class="column large-4 medium-12 small-12">
+        <div class="tag-container">
+          {% if page.theme_tag %}
+            <div class="themes">
+              <h3>Related Themes</h3>
+              {% for theme in page.theme_tag %}
+                <a class="tag tag--white" href="#">{{ theme }}</a>
+              {% endfor %}
+            </div>
+          {% endif %}
+
+          {% if page.insight_tag %}
+            <div class="insights">
+              <h3>Related Insights</h3>
+              {% for insight in page.insight_tag %}
+                <a class="tag tag--white" href="#">{{ insight }}</a>
+              {% endfor %}
+            </div>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="divider divider--white">
+    <div class="row">
+      <div class="column large-12">
+        <h4>Related Recommendations</h4>
+      </div>
+    </div>
+  </section>
+
+  <section class="">
+    <div class="row expanded">
+      {% for resource in page.related_resources %}
+        <a href="{{ resource.resource_url }}" class="column large-4 medium-6 small-12 card card--resource">
+          <h5>{{ resource.resource_title }}</h5>
+          {{ resource.resource_description | markdownify }}
+          <span class="type">{{ resource.resource_type }}</span>
+        </a>
+      {% endfor %}
+    </div>
+  </section>
+</main>
