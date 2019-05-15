@@ -93,3 +93,7 @@ page_gen:
     template: 'recommendation_template'
     name: 'page_title'
     dir: 'recommendations'
+  - data: 'data.contentful.theme.theme'
+    template: 'theme_template'
+    name: 'page_title'
+    dir: 'themes'

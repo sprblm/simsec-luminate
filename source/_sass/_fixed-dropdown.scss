@@ -7,14 +7,21 @@
     background-color: transparent;
     font-weight: bold;
     margin-bottom: 0;
-  }
-  select {
-    -webkit-appearance: none;
-    -moz-appearance: none;
-    -o-appearance: none;
-    appearance: none;
-    &::-ms-expand {
-      display: none;
+    width: auto;
+
+    &:before {
+      left: 50%;
+    }
+
+    select {
+      -webkit-appearance: none;
+      -moz-appearance: none;
+      -o-appearance: none;
+      appearance: none;
+      &::-ms-expand {
+        display: none;
+      }
     }
   }
+
 }
