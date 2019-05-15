@@ -14,36 +14,12 @@
     margin: 0 0 0.5rem 0;
   }
 
-  .tag {
-    background-color: $light-gray;
-    display: inline-block;
-    font-family: $sans-serif;
-    font-size: 0.9rem;
-    font-weight: bold;
-    margin: 0.2rem 0;
-    padding: 0.3rem 0.5rem;
-    text-decoration: none;
-    &:hover {
-      cursor: pointer;
-      background-color: darken($cb-dark-gray, 10);
-    }
-  }
-
-  .themes-quotes-container {
-    @include breakpoint($large) {
-      margin-left: 2rem;
-    }
-  }
-
-  .themes, .quotes {
-    margin-bottom: 2rem;
-  }
-
   q {
     display: inline-block;
     &:before {
       content: '';
     }
+    
     p {
       font-family: $sans-serif;
       font-size: 1.1rem;
