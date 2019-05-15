@@ -1,0 +1,34 @@
+.tag {
+  background-color: $light-gray;
+  display: inline-block;
+  font-family: $sans-serif;
+  font-size: 0.9rem;
+  font-weight: bold;
+  margin: 0.2rem 0;
+  padding: 0.3rem 0.5rem;
+  text-decoration: none!important;
+  &:hover {
+    cursor: pointer;
+    background-color: darken($cb-dark-gray, 10);
+  }
+
+  &--white {
+    background-color: transparentize(white, 0.8);
+    color: white;
+
+    &:hover {
+      cursor: pointer;
+      background-color: transparentize(white, 0.6);
+    }
+  }
+}
+
+.themes-quotes-container {
+  @include breakpoint($large) {
+    margin-left: 2rem;
+  }
+}
+
+.themes, .quotes, .insights {
+  margin-bottom: 2rem;
+}

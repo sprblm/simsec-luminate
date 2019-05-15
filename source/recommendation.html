@@ -1,0 +1,72 @@
+---
+layout: default
+title:
+description:
+seo_image_path: #'/images/media/filename.jpg'
+---
+
+{% assign recommendations = site.data.contentful.recommendations.recommendations %}
+
+<main role="main" id="recommendation">
+
+  {% include nav.html %}
+
+  <section class="top-section">
+    <div class="row">
+      <div class="column large-12 medium-12 small-12">
+        <a class="arrow-back" href="{{ '/recommendations.html' | relative_url }}"><i class="material-icons">arrow_back</i>All Recommendations</a>
+      </div>
+      <div class="column large-12 medium-12 small-12">
+        <h1>Recommendation</h1>
+      </div>
+      <div class="column large-7 medium-12 small-12 title-column">
+        <h2>Be explicit about which role you are playing at a given time (as both a funder and advocate in the field), understand where the boundaries of that role lie, and be aware of the conflict that may crop up when switching roles. This is relevant both in private (e.g. in a conversation with a prospective grantee) and in public (e.g. when writing a whitepaper).</h2>
+      </div>
+      <div class="column large-4 medium-12 small-12">
+        <div class="tag-container">
+          <div class="themes">
+            <h3>Related Themes</h3>
+            <a class="tag tag--white" href="#">Funder Identity & Culture</a>
+            <a class="tag tag--white" href="#">Funder Identity & Culture</a>
+          </div>
+
+          <div class="insights">
+            <h3>Related Insights</h3>
+            <a class="tag tag--white" href="#">Funder Identity & Culture</a>
+            <a class="tag tag--white" href="#">Funder Identity & Culture</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="divider divider--white">
+    <div class="row">
+      <div class="column large-12">
+        <h4>Related Recommendations</h4>
+      </div>
+    </div>
+  </section>
+
+  <section class="">
+    <div class="row expanded">
+      <a href="####" class="column large-4 medium-6 small-12 card card--resource">
+        <h5>title</h5>
+        <p>stuff goes here</p>
+        <span class="type">type</span>
+      </a>
+      <a href="####" class="column large-4 medium-6 small-12 card card--resource">
+        <h5>title</h5>
+        <p>stuff goes here</p>
+        <span class="type">type</span>
+      </a>
+      <a href="####" class="column large-4 medium-6 small-12 card card--resource">
+        <h5>title</h5>
+        <p>stuff goes here</p>
+        <span class="type">type</span>
+      </a>
+    </div>
+  </section>
+
+
+</main>

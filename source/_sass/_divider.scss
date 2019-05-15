@@ -1,10 +1,18 @@
-.divider--blue {
-  background-color: $primary-blue;
-  padding-bottom: 4rem;
+.divider {
+  padding-bottom: 3.5rem;
   h4 {
     font-weight: bold!important;
     text-transform: none!important;
     text-align: left!important;
-    margin: 3rem 0 0 0!important;
+    margin: 2rem 0 0 0!important;
+  }
+
+  &--blue {
+    background-color: $primary-blue;
+  }
+
+  &--white {
+    background-color: white;
+    color: $dark-gray;
   }
 }
