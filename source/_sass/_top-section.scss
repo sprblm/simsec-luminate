@@ -22,31 +22,49 @@
   }
 }
 
-#recommendations {
-  h1 {
-    margin: 5rem 0;
+#recommendations, #insights, #theme {
+  h1, h2 {
+    margin: 5rem 0 0 0;
     @include breakpoint($medium-only) {
-      font-size: 2.5rem;
+      font-size: 3rem;
       margin-top: 3rem;
     }
     @include breakpoint($small-only) {
-      font-size: 2.5rem;
+      font-size: 3rem;
       margin-top: 3rem;
     }
   }
+
+  p {
+    font-size: 1.3rem;
+    font-weight: bold;
+  }
 }
 
-#insights {
-  .top-section {
-    padding-top: 8rem;
-    padding-bottom: 6rem;
+#theme {
+  h1 {
+    font-size: 1.3rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 1.8rem;
+    padding-top: 0;
+    margin: 0;
     @include breakpoint($medium-only) {
-      padding-top: 6rem;
-      padding-bottom: 4rem;
+      padding-top: 0;
     }
-    p {
-      margin: 0;
-    }
+  }
+
+  h2 {
+    font-size: 3.5rem;
+    font-weight: bold;
+    margin-top: 0;
+  }
+
+  img {
+    filter: invert(100%);
+    -webkit-filter: invert(100%);
+    padding: 1rem 0;
+    width: 3rem!important;
   }
 }
 

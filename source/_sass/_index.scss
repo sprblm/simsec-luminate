@@ -28,35 +28,70 @@
     text-decoration: none;
     line-height: 1.2;
     position: relative;
+    padding-bottom: 15%;
+    @include breakpoint($medium-only) {
+      padding-bottom: 20%;
+    }
+    @include breakpoint($small-only) {
+      padding-bottom: 32%;
+    }
+    // @include breakpoint($large) {
+    //   min-height: 35rem;
+    // }
+    // @include breakpoint($medium-only) {
+    //   min-height: 22rem!important;
+    // }
+    // @include breakpoint($small-only) {
+    //   min-height: 30rem!important;
+    // }
     &__title {
       font-family: $sans-serif;
-      font-size: 2.5rem;
+      font-size: 2.2rem;
       font-weight: bold;
-      padding-bottom: 12rem;
+      // padding-bottom: 12rem;
+      @include breakpoint($medium-only) {
+        font-size: 1.8rem;
+      }
       @include breakpoint($small-only) {
-        padding-bottom: 10rem;
+        // padding-bottom: 10rem;
+        font-size: 1.8rem;
       }
     }
 
     img {
-      width: 5rem;
-      padding-top: 10rem;
+      width: 4.5rem;
+      padding-top: 35%;
       padding-bottom: 2rem;
+      @include breakpoint($medium-only) {
+        font-size: 1.8rem;
+        min-height: 10rem;
+        padding-top: 5rem;
+        width: 3.5rem;
+      }
       @include breakpoint($small-only) {
         padding-top: 7rem;
         width: 4rem;
       }
     }
 
-    &:nth-child(1), &:nth-child(4) {
-      background-color: $cb-dark-gray;
-    }
+    @include breakpoint($large) {
+      &:nth-child(1), &:nth-child(4) {
+        background-color: $cb-dark-gray;
+      }
 
-    &:nth-child(2), &:nth-child(3) {
-      background-color: $cb-light-gray;
+      &:nth-child(2), &:nth-child(3) {
+        background-color: $cb-light-gray;
+      }
     }
 
     @include breakpoint($medium-only) {
+      background-color: $cb-dark-gray;
+      &:nth-child(4n-2), &:nth-child(4n-1) {
+        background-color: $cb-light-gray;
+      }
+    }
+
+    @include breakpoint($small-only) {
       &:nth-child(odd) {
         background-color: $cb-dark-gray;
       }
@@ -77,13 +112,19 @@
     &:before {
       @extend .material-icons;
       content: 'arrow_forward';
-      font-size: 4rem!important;
+      font-size: 3.5rem!important;
       position: absolute;
-      bottom: 5rem;
-      right: 5rem;
+      bottom: 4rem;
+      right: 4rem;
+      @include breakpoint($medium-only) {
+        font-size: 2.5rem!important;
+        bottom: 2rem;
+        right: 2rem;
+      }
       @include breakpoint($small-only) {
-        bottom: 3rem;
-        right: 3rem;
+        font-size: 3.5rem!important;
+        bottom: 2.5rem;
+        right: 2.5rem;
       }
     }
   }

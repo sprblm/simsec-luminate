@@ -43,9 +43,9 @@ seo_image_path: #'/images/media/filename.jpg'
 
     <div class="row expanded">
       {% for theme in themes %}
-        <a href="{{ theme.page_title | slugify }}" class="column large-6 medium-12 small-12 theme-card">
+        <a href="{{ theme.page_title | slugify | prepend: '/themes/' | append: '.html' | relative_url }}" class="column large-6 medium-6 small-12 theme-card">
           <div class="row expanded align-center">
-            <div class="column large-8 medium-8 small-12">
+            <div class="column large-9 medium-10 small-10">
               <img src="{{ theme.theme_icon.url }}" alt="">
               <div class="theme-card__title">{{ theme.page_title }}</div>
             </div>

@@ -1,0 +1,63 @@
+---
+layout: default
+title:
+description:
+seo_image_path: #'/images/media/filename.jpg'
+---
+
+{% assign themes = site.data.contentful.theme.theme %}
+
+<main role="main" id="theme">
+
+  {% include nav.html %}
+
+  <section class="top-section">
+    <div class="row">
+      <div class="column large-12 medium-12 small-12">
+        <h1>Theme</h1>
+      </div>
+      <div class="column large-12 medium-12 small-12">
+        theme icon goes here
+      </div>
+      <div class="column large-12 medium-12 small-12">
+        <h2>Theme Title</h2>
+      </div>
+
+      <div class="column large-12 medium-12 small-12">
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="fixed-dropdown">
+    <div class="row align-center">
+      <div class="column large-5 medium-5 small-6">
+        <div class="select">
+          <select class="" name="">
+            {% for theme in themes %}
+              <option value="{{ theme.page_title | slugify }}">{{ theme.page_title }}</option>
+            {% endfor %}
+          </select>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="divider divider--white">
+    <div class="row">
+      <div class="column large-12">
+        <h4>Related Insights</h4>
+        <a class="arrow-forward" href="{{ '/insights.html' | relative_url }}">All Insights <i class="material-icons">arrow_forward</i></a>
+      </div>
+    </div>
+  </section>
+
+  <section class="">
+    <div class="row expanded">
+      <a href="{{ insight.page_title | slugify | prepend: '/insights/' | append: '.html' | relative_url }}" class="column large-4 medium-6 small-12 card card--insight">
+        <p>Titlfsdfl sjdfkjsdlkf </p>
+      </a>
+    </div>
+  </section>
+
+</main>
