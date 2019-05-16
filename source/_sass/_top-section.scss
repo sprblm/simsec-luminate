@@ -2,6 +2,16 @@
   background-color: $primary-blue;
   color: white;
   text-align: left;
+  @include breakpoint($between-large) {
+    margin-left: 2rem;
+  }
+  @include breakpoint($medium-only) {
+    margin-left: 2rem;
+  }
+  @include breakpoint($small-only) {
+    padding-top: 4rem;
+    margin: 0;
+  }
   h1 {
     font-size: 3.5rem;
     line-height: 1;
@@ -15,9 +25,18 @@
   }
   &--index {
     hr {
-      border-bottom: 6px solid white;
+      border-bottom: 1px solid white;
       width: 6rem;
       margin: 5rem 0;
+    }
+  }
+}
+
+#index {
+  .top-section {
+    padding-top: 8rem;
+    @include breakpoint($small-only) {
+      padding-top: 4rem;
     }
   }
 }
