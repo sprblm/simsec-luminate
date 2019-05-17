@@ -1,6 +1,16 @@
 .slide-panel {
   visibility: hidden;
   transition: visibility 0s 0.6s;
+
+  &--is-visible {
+    visibility: visible;
+    transition: visibility 0s 0s;
+    .slide-panel__container {
+      transform: translate3d(0, 0, 0);
+      transition-delay: 0s;
+    }
+  }
+
   i {
     font-size: 2rem;
     position: absolute;
@@ -15,74 +25,39 @@
     }
   }
 
-}
+  &__container {
+    background-color: $dark-blue;
+    color: white;
+    padding-top: 2rem;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    transition: transform 0.3s 0.3s;
+    z-index: 3;
 
-.slide-panel.slide-panel--is-visible {
-  visibility: visible;
-  transition: visibility 0s 0s;
-}
+    h2 {
+      font-size: 2rem;
+      font-weight: bold;
+      margin: 3rem 0 1rem 0;
+    }
 
-.slide-panel__header {
-  /*...*/
-  position: fixed;
-  top: 0;
-  width: 90%;
-  height: 50px;
-  transition: transform 0.3s 0s;
-  transform: translateY(-50px);
-}
+    p {
+      font-size: 1.2rem;
+      font-weight: bold;
+      margin-top: 0;
+    }
 
-.slide-panel--from-right .slide-panel__header {
-  right: 0;
-}
-
-.slide-panel--from-left .slide-panel__header {
-  left: 0;
-}
-
-.slide-panel--is-visible .slide-panel__header {
-  transition: transform 0.3s 0.3s;
-  transform: translateY(0px);
-}
-
-.slide-panel__container {
-  background-color: $dark-blue;
-  color: white;
-  padding-top: 3rem;
-  position: fixed;
-  width: 100%;
-  height: 100%;
-  top: 0;
-  transition: transform 0.3s 0.3s;
-
-  z-index: 3;
-
-  h2 {
-    font-size: 2rem;
-    font-weight: bold;
-    margin: 3rem 0 1rem 0;
-  }
-
-  p {
-    font-size: 1.2rem;
-    font-weight: bold;
-    margin-top: 0;
-  }
-
-  a {
-    font-size: 1.1rem;
-    font-weight: bold;
-    text-decoration: none;
-    text-transform: uppercase;
+    a {
+      font-size: 1.1rem;
+      font-weight: bold;
+      text-decoration: none;
+      text-transform: uppercase;
+    }
   }
 }
 
 .slide-panel--from-left .slide-panel__container {
   left: 0;
   transform: translate3d(-100%, 0, 0);
-}
-
-.slide-panel--is-visible .slide-panel__container {
-  transform: translate3d(0, 0, 0);
-  transition-delay: 0s;
 }
