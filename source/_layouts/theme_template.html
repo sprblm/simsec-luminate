@@ -5,9 +5,9 @@ description:
 seo_image_path: #'/images/media/filename.jpg'
 ---
 
-{% assign themes = site.data.contentful.theme.theme %}
+{% assign themes = site.data.contentful.theme.theme | sort: "page_title" %}
 
-<main role="main" id="theme">
+<main role="main" id="theme" data-page="{{ page.page_title | slugify }}">
 
   {% include nav.html %}
 
@@ -29,18 +29,18 @@ seo_image_path: #'/images/media/filename.jpg'
     </div>
   </section>
 
-  <section class="fixed-dropdown">
+  <section class="fixed-dropdown fixed-dropdown--themes">
     <div class="row align-center">
-      <div class="column large-5 medium-5 small-6">
+      <!-- <div class="select-wrapper"> -->
         <div class="select">
-          <select class="" name="">
+          <select class="redirect-dropdown-nav">
             {% for theme in themes %}
-              <option value="{{ theme.page_title | slugify }}">{{ theme.page_title }}</option>
+              <option class="redirect-dropdown-nav__option" value="{{ theme.page_title | slugify }}" data-page="{{ theme.page_title | slugify }}" data-path="{{ theme.page_title | slugify | prepend: '/themes/' | append: '.html' | relative_url }}">{{ theme.page_title }}</option>
             {% endfor %}
           </select>
         </div>
       </div>
-    </div>
+    <!-- </div> -->
   </section>
 
   <section class="divider divider--white">

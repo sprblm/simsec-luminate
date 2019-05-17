@@ -11,8 +11,29 @@ const FixedDropdown = {
       });
     }
   },
+  redirectDropdownSelect: () => {
+    document.querySelector('.redirect-dropdown-nav').addEventListener('change', (e) => {
+      const selectedOption = e.currentTarget.options[e.currentTarget.selectedIndex];
+      const urlPath = selectedOption.getAttribute('data-path');
+
+      window.location.pathname = urlPath;
+    })
+  },
+  matchDropdownToPath: () => {
+    const pageSelector = document.querySelector('main').getAttribute('data-page');
+    const themesDropdown = document.querySelector('.redirect-dropdown-nav');
+    const selectedIndex =  document.querySelectorAll(".redirect-dropdown-nav__option[data-page='"+ pageSelector +"']")[0].index;
+
+    themesDropdown.selectedIndex = selectedIndex;
+  },
   init() {
+    const hasIssuesDropdown = document.querySelector('.redirect-dropdown-nav');
+    const pageSelector = document.querySelector('main').getAttribute('data-page');
     this.fixDropdown();
+    if (hasIssuesDropdown && pageSelector) {
+      this.redirectDropdownSelect();
+      this.matchDropdownToPath();
+    }
   }
 };
 

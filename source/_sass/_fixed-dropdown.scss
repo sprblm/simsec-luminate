@@ -10,7 +10,6 @@
     width: auto;
 
     &:before {
-      left: 50%;
     }
 
     select {
@@ -20,6 +19,15 @@
       appearance: none;
       &::-ms-expand {
         display: none;
+      }
+    }
+  }
+
+  &--themes {
+    .select {
+      width: 18rem;
+      &:before {
+        // padding-left: 2rem;
       }
     }
   }

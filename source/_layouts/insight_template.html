@@ -40,7 +40,7 @@ seo_image_path: #'/images/media/filename.jpg'
           <div class="themes">
             <h3>Themes</h3>
             {% for theme in page.related_theme %}
-              <a href="#" class="tag">{{ theme }}</a>
+              <a href="{{ theme | slugify | prepend: '/themes/' | append: '.html' | relative_url }}" class="tag">{{ theme }}</a>
             {% endfor %}
           </div>
 
