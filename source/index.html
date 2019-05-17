@@ -14,7 +14,8 @@ seo_image_path: #'/images/media/filename.jpg'
 
   <section class="top-section top-section--index">
     <div class="row">
-      <div class="large-4 medium-5 column">
+      <div class="large-4 medium-7 column">
+        <!-- set container div with fixed width -->
         <h1>{{ index.report_title }}</h1>
         <h2>{{ index.report_subtitle }}</h2>
         <hr>
@@ -29,6 +30,8 @@ seo_image_path: #'/images/media/filename.jpg'
       </div>
       <div class="column large-6 medium-10 small-12 center">
         <a class="button" href="#">Download Report</a>
+        <a class="button" href="#">Foreword</a>
+        <a class="button" href="#">Project Details</a>
       </div>
     </div>
   </section>
@@ -52,7 +55,6 @@ seo_image_path: #'/images/media/filename.jpg'
           </div>
         </a>
       {% endfor %}
-
     </div>
   </section>
 
@@ -65,7 +67,7 @@ seo_image_path: #'/images/media/filename.jpg'
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed necessitatibus, error eaque vero aperiam numquam, tenetur, soluta quibusdam odio eius aut. Distinctio placeat repellendus, repellat neque itaque in esse nobis!</p>
       </div>
       <div class="column large-6 medium-10 small-12 center">
-        <a class="button" href="#">All Insights</a>
+        <a class="button" href="{{ '/insights.html' | relative_url }}">All Insights</a>
       </div>
     </div>
   </section>

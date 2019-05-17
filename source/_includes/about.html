@@ -1,0 +1,25 @@
+{% assign index = site.data.contentful.index.index[0] %}
+
+<div class="slide-panel slide-panel--from-left">
+   <div class="slide-panel__container">
+      <div class="slide-panel__content">
+        <i class="material-icons close-panel">close</i>
+        <div class="row align-center">
+          <div class="column large-12 medium-12 small-12">
+            <h2>About the Project</h2>
+            {{ index.intro_copy | markdownify }}
+          </div>
+          <div class="column large-12 medium-12 small-12">
+            <h2>SimplySecure</h2>
+            {{ index.simsec_footer | markdownify }}
+            <a href="#">Learn More</a>
+          </div>
+          <div class="column large-12 medium-12 small-12">
+            <h2>LUMINATE</h2>
+            {{ index.luminate_footer | markdownify }}
+            <a href="#">Learn More</a>
+          </div>
+        </div>
+      </div>
+   </div>
+</div>

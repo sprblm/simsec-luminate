@@ -8,6 +8,7 @@ import Slider from './slider';
 import Sticky from './sticky';
 import Utils from './utils';
 import FixedDropdown from './fixed-dropdown';
+import SlidePage from './slide-page';
 
 // Footer.init();
 Modal.init();
@@ -19,3 +20,4 @@ Slider.init();
 Sticky.init();
 Utils.markdownLinksNewPage();
 FixedDropdown.init();
+SlidePage.init();
