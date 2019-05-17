@@ -5,10 +5,6 @@
   &--is-visible {
     visibility: visible;
     transition: visibility 0s 0s;
-    .slide-panel__container {
-      transform: translate3d(0, 0, 0);
-      transition-delay: 0s;
-    }
   }
 
   i {
@@ -60,4 +56,9 @@
 .slide-panel--from-left .slide-panel__container {
   left: 0;
   transform: translate3d(-100%, 0, 0);
+}
+
+.slide-panel--is-visible .slide-panel__container {
+  transform: translate3d(0, 0, 0);
+  transition-delay: 0s;
 }
