@@ -1,42 +1,91 @@
+.list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  li {
+    display: inline-block;
+    list-style-type: none;
+
+    vertical-align: top;
+    align-items: stretch;
+    width: calc(100% / 3);
+
+    @include breakpoint($between-large) {
+      width: calc(100% / 2);
+    }
+    @include breakpoint($medium-only) {
+      width: calc(100% / 2);
+    }
+    @include breakpoint($between-medium) {
+      width: calc(100% / 1);
+    }
+    @include breakpoint($small-only) {
+      width: calc(100% / 1);
+    }
+
+    @include breakpoint($large) {
+      &:nth-child(odd) {
+        background-color: $cb-dark-gray;
+      }
+
+      &:nth-child(even) {
+        background-color: $cb-light-gray;
+      }
+    }
+
+    @include breakpoint($between-large) {
+      background-color: $cb-dark-gray!important;
+      &:nth-child(4n-2), &:nth-child(4n-1) {
+        background-color: $cb-light-gray!important;
+      }
+    }
+
+    @include breakpoint($medium-only) {
+      background-color: $cb-dark-gray!important;
+      &:nth-child(4n-2), &:nth-child(4n-1) {
+        background-color: $cb-light-gray!important;
+      }
+    }
+
+    @include breakpoint($between-medium) {
+      &:nth-child(odd) {
+        background-color: $cb-dark-gray!important;
+      }
+      &:nth-child(even) {
+        background-color: $cb-light-gray!important;
+      }
+    }
+
+    @include breakpoint($small-only) {
+      &:nth-child(odd) {
+        background-color: $cb-dark-gray;
+      }
+      &:nth-child(even) {
+        background-color: $cb-light-gray;
+      }
+    }
+
+    &:hover {
+      background-color: $green!important;
+      color: white!important;
+    }
+  }
+}
 .card {
   color: $dark-gray;
-  text-decoration: none;
+  display: inline-block;
   min-height: 28rem;
   position: relative;
   text-decoration: none!important;
+  width: 100%;
 
   p {
     font-family: 'Roboto', sans-serif;
     font-size: 1.2rem;
     padding: 1rem 1rem;
+
     @include breakpoint($medium-only) {
       font-size: 1.1rem;
-    }
-  }
-
-  @include breakpoint($large) {
-    &:nth-child(odd) {
-      background-color: $cb-dark-gray;
-    }
-
-    &:nth-child(even) {
-      background-color: $cb-light-gray;
-    }
-  }
-
-  @include breakpoint($medium-only) {
-    background-color: $cb-dark-gray;
-    &:nth-child(4n-2), &:nth-child(4n-1) {
-      background-color: $cb-light-gray;
-    }
-  }
-
-  @include breakpoint($small-only) {
-    &:nth-child(odd) {
-      background-color: $cb-dark-gray;
-    }
-    &:nth-child(even) {
-      background-color: $cb-light-gray;
     }
   }
 
@@ -53,11 +102,6 @@
     }
   }
 
-  &:hover {
-    background-color: $green;
-    color: white;
-  }
-
   &--insight {
     min-height: 24rem;
     p {
@@ -72,7 +116,6 @@
       font-size: 1.2rem;
       margin: 0;
       padding: 2rem 0 0 1rem;
-
     }
 
     p {
