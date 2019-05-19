@@ -30,9 +30,13 @@
     {% include footer.html %}
 
     <div id="overlay" class="js-overlay"></div>
+    {% if page.list_js %}
+      <script src="//cdnjs.cloudflare.com/ajax/libs/list.js/1.5.0/list.min.js"></script>
+    {% endif %}
     <script src="{{'/vendor/jquery-2.1.4.min.js' | relative_url}}"></script>
     <script src="{{'/vendor/slick.min.js' | relative_url}}"></script>
     <script src="{{'/assets/bundle.js' | relative_url}}"></script>
+
 
   </body>
 </html>

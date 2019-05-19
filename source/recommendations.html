@@ -3,9 +3,21 @@ layout: default
 title: Recommendations
 description:
 seo_image_path: #'/images/media/filename.jpg'
+list_js: true
 ---
 
 {% assign recommendations = site.data.contentful.recommendation.recommendation %}
+
+<!-- Themes -->
+{% assign themes = "" | split: "" %}
+{% for recommendation in recommendations %} {% assign themes = themes | push: recommendation.theme_tag | join: ", " %} {% assign themes =
+themes | split: ", " | uniq %} {% assign themes =
+themes | sort %} {% endfor %}
+
+<!-- Insights -->
+{% assign insights = "" | split: "" %}
+{% for recommendation in recommendations %} {% assign insights = insights | push: recommendation.insight_tag | join: "| " %} {% assign insights = insights | split: "| " | uniq %} {% assign insights = insights | sort %} {% endfor %}
+
 
 <main role="main" id="recommendations">
 
@@ -26,33 +38,47 @@ seo_image_path: #'/images/media/filename.jpg'
     <div class="row align-center">
       <div class="column large-3 medium-5 small-6">
         <div class="select">
-          <select class="" name="">
-            <option value="all">All Themes</option>
-            <option value="">First option</option>
-            <option value="">Second option</option>
+          <select class="dropdown" id="theme" data-filter="theme">
+            <option data-select="all">All Themes</option>
+            {% for theme in themes %}
+              <option data-select="{{ theme | slugify }}">{{ theme }}</option>
+            {% endfor %}
           </select>
         </div>
       </div>
       <div class="column large-3 medium-5 small-6">
         <div class="select">
-          <select class="" name="">
-            <option value="all">All Insights</option>
-            <option value="">First option</option>
-            <option value="">Second option</option>
+          <select class="dropdown" id="insight" data-filter="insight">
+            <option data-select="all">All Insights</option>
+            {% for insight in insights %}
+              <option data-select="{{ insight | slugify }}">{{ insight }}</option>
+            {% endfor %}
           </select>
         </div>
       </div>
     </div>
   </section>
 
-  <section class="">
-    <div class="row expanded">
-      {% for recommendation in recommendations %}
-        <a href="{{ recommendation.page_title | slugify | prepend: '/recommendations/' | append: '.html' | relative_url }}" class="column large-4 medium-6 small-12 card">
-          {{ recommendation.recommendation | markdownify }}
-        </a>
-      {% endfor %}
+  <section>
+    <div id="recommendations-list">
+      <ul class="list" style="all: unset">
+
+        {% for recommendation in recommendations %}
+          <li>
+            <div class="theme" style="display: none">all {% for item in recommendation.theme_tag %} {{ item | slugify }} {% endfor %}</div>
+            <div class="insight" style="display: none">all {% for item in recommendation.insight_tag %} {{ item | slugify }} {% endfor %}</div>
+            <div class="title" style="display: none">
+              {{ recommendation.recommendation | slugify }}
+            </div>
+            <a href="{{ recommendation.page_title | slugify | prepend: '/recommendations/' | append: '.html' | relative_url }}" class="card">
+              {{ recommendation.recommendation | markdownify }}
+            </a>
+          </li>
+        {% endfor %}
+
+      </ul>
     </div>
+
   </section>
 
 </main>
