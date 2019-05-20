@@ -3,9 +3,16 @@ layout: default
 title: Insights
 description:
 seo_image_path: #'/images/media/filename.jpg'
+list_js: true
 ---
 
 {% assign insights = site.data.contentful.insight.insight %}
+
+<!-- Themes -->
+{% assign themes = "" | split: "" %}
+{% for insight in insights %} {% assign themes = themes | push: insight.related_theme | join: ", " %} {% assign themes =
+themes | split: ", " | uniq %} {% assign themes =
+themes | sort %} {% endfor %}
 
 <main role="main" id="insights">
 
@@ -26,23 +33,30 @@ seo_image_path: #'/images/media/filename.jpg'
     <div class="row align-center">
       <div class="column large-3 medium-5 small-6">
         <div class="select">
-          <select class="" name="">
-            <option value="all">All Themes</option>
-            <option value="">First option</option>
-            <option value="">Second option</option>
+          <select class="dropdown" id="theme" data-filter="theme">
+            <option data-select="all">All Themes</option>
+            {% for theme in themes %}
+              <option data-select="{{ theme | slugify }}">{{ theme }}</option>
+            {% endfor %}
           </select>
         </div>
       </div>
     </div>
   </section>
 
-  <section class="">
-    <div class="row expanded">
-      {% for insight in insights %}
-        <a href="{{ insight.page_title | slugify | prepend: '/insights/' | append: '.html' | relative_url }}" class="column large-4 medium-6 small-12 card card--insight">
-          {{ insight.insight_title | markdownify }}
-        </a>
-      {% endfor %}
+  <section>
+    <div id="insights-list">
+      <ul class="list" style="all: unset">
+        {% for insight in insights %}
+          <li>
+            <div class="theme" style="display: none">all {% for item in insight.related_theme %} {{ item | slugify }} {% endfor %}</div>
+            <div class="title" style="display: none">{{ insight.insight_title | slugify }}</div>
+            <a href="{{ insight.page_title | slugify | prepend: '/insights/' | append: '.html' | relative_url }}" class="card card--insight">
+              {{ insight.insight_title | markdownify }}
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
     </div>
   </section>
 

@@ -11,6 +11,7 @@ import FixedDropdown from './fixed-dropdown';
 import SlidePage from './slide-page';
 import RecommendationsFilter from './recommendations-filter';
 import TagFilter from './tag-filter';
+import InsightsFilter from './insights-filter';
 
 // Footer.init();
 Modal.init();
@@ -25,3 +26,4 @@ FixedDropdown.init();
 SlidePage.init();
 RecommendationsFilter.init();
 TagFilter.init();
+InsightsFilter.init();
