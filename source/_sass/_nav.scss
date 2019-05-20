@@ -56,3 +56,12 @@ section, footer {
    padding-left: 0;
   }
 }
+
+.active-orange {
+  background-color: $orange;
+  color: white;
+}
+
+.active-blue {
+  color: $primary-blue;
+}
