@@ -92,6 +92,7 @@ const RecommendationsFilter = {
   clearAllDropdowns: () => {
     document.querySelector('.clear-all').addEventListener('click', e => {
       e.preventDefault();
+      RecommendationsFilter.setSearchQueryDefaults();
       RecommendationsFilter.recommendationList.filter();
       RecommendationsFilter.recommendationList.sort('title', { order: 'asc' });
       document.querySelectorAll('.dropdown').forEach(dropdown => dropdown.selectedIndex = 0);
