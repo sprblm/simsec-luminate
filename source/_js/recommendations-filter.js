@@ -46,6 +46,7 @@ const RecommendationsFilter = {
           }
         });
         RecommendationsFilter.filterList(RecommendationsFilter.searchQueries);
+        RecommendationsFilter.noResultsDiv();
       });
     });
   },
@@ -65,6 +66,7 @@ const RecommendationsFilter = {
     RecommendationsFilter.searchQueries[searchQuery] = searchParam;
     RecommendationsFilter.filterList(RecommendationsFilter.searchQueries);
     RecommendationsFilter.matchSearchQueriesToUI();
+    RecommendationsFilter.noResultsDiv();
   },
   matchSearchQueriesToUI() {
     const dropdowns = document.querySelectorAll('.dropdown');
@@ -80,13 +82,30 @@ const RecommendationsFilter = {
 
     RecommendationsFilter.filterList(RecommendationsFilter.searchQueries);
   },
+  noResultsDiv: () => {
+    const recommendationsCount = document.querySelectorAll('.list-item').length;
+
+    recommendationsCount > 0
+    ? document.querySelector('.no-results').style.display = 'none'
+    : document.querySelector('.no-results').style.display = 'block';
+  },
+  clearAllDropdowns: () => {
+    document.querySelector('.clear-all').addEventListener('click', e => {
+      e.preventDefault();
+      RecommendationsFilter.recommendationList.filter();
+      RecommendationsFilter.recommendationList.sort('title', { order: 'asc' });
+      document.querySelectorAll('.dropdown').forEach(dropdown => dropdown.selectedIndex = 0);
+    });
+  },
   init() {
     const recommendationsPage = document.querySelector('#recommendations');
-    
+
     if (recommendationsPage) {
       this.createList();
       this.filterByDropdowns();
       this.filterByUrlParams();
+      this.noResultsDiv();
+      this.clearAllDropdowns();
     }
   }
 }
