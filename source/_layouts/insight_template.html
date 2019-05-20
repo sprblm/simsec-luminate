@@ -58,7 +58,7 @@ seo_image_path: #'/images/media/filename.jpg'
   <section class="divider divider--blue">
     <div class="row">
       <div class="column large-12">
-        <h4>Related Resources</h4>
+        <h4>Related Recommendations</h4>
         <a class="arrow-forward" href="{{ '/recommendations.html' | relative_url }}">All Recommendations <i class="material-icons">arrow_forward</i></a>
       </div>
     </div>
@@ -66,9 +66,13 @@ seo_image_path: #'/images/media/filename.jpg'
 
   <section class="">
     <div class="row expanded">
-      {% for recommendation in page.related_recommendations %}
-        <a href="{{ recommendation.page_title | slugify | prepend: '/recommendations/' | append: '.html' | relative_url }}" class="column large-4 medium-6 small-12 card">{{ recommendation.recommendation | markdownify }}</a>
-      {% endfor %}
+      <ul class="list" style="all: unset">
+        {% for recommendation in page.related_recommendations %}
+          <li class="list-item">
+            <a href="{{ recommendation.page_title | slugify | prepend: '/recommendations/' | append: '.html' | relative_url }}" class="card">{{ recommendation.recommendation | markdownify }}</a>
+          </li>
+        {% endfor %}
+      </ul>
     </div>
   </section>
 
@@ -82,13 +86,17 @@ seo_image_path: #'/images/media/filename.jpg'
 
   <section class="">
     <div class="row expanded">
-      {% for resource in page.related_resources %}
-        <a href="{{ resource.resource_url }}" class="column large-4 medium-6 small-12 card card--resource">
-          <h5>{{ resource.resource_title }}</h5>
-          {{ resource.resource_description | markdownify }}
-          <span class="type">{{ resource.resource_type }}</span>
-        </a>
-      {% endfor %}
+      <ul class="list" style="all: unset">
+        {% for resource in page.related_resources %}
+          <li class="list-item">
+            <a href="{{ resource.resource_url }}" class="card card--resource">
+              <h5>{{ resource.resource_title }}</h5>
+              {{ resource.resource_description | markdownify }}
+              <span class="type">{{ resource.resource_type }}</span>
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
     </div>
   </section>
 </main>

@@ -68,7 +68,7 @@ themes | sort %} {% endfor %}
             <div class="title" style="display: none">
               {{ recommendation.recommendation | slugify }}
             </div>
-            <a href="{{ recommendation.page_title | slugify | prepend: '/recommendations/' | append: '.html' | relative_url }}" class="card">
+            <a href="{{ recommendation.page_title | slugify | prepend: '/recommendations/' | append: '.html' | relative_url }}" class="card card--recommendation">
               {{ recommendation.recommendation | markdownify }}
             </a>
           </li>

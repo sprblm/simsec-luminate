@@ -102,10 +102,16 @@
     }
   }
 
+  &--recommendation {
+    p {
+      font-weight: 400!important;
+    }
+  }
+
   &--insight {
     min-height: 24rem;
     p {
-      font-weight: bold;
+      font-weight: 400!important;
       padding: 4rem 2rem;
     }
   }
