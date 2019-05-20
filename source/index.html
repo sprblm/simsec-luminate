@@ -28,7 +28,7 @@ seo_image_path: #'/images/media/filename.jpg'
       <div class="column large-6 medium-12 small-12">
         {{ index.intro_copy | markdownify }}
       </div>
-      <div class="column large-6 medium-10 small-12 center">
+      <div class="column large-6 medium-10 small-12 center button-conainter">
         <a class="button" href="#">Download Report</a>
         <a class="button" href="#">Foreword</a>
         <a class="button" href="#">Project Details</a>
@@ -44,7 +44,7 @@ seo_image_path: #'/images/media/filename.jpg'
       </div>
     </div>
 
-    <div class="row expanded">
+    <div class="row expanded theme-cards-conatiner">
       {% for theme in themes %}
         <a href="{{ theme.page_title | slugify | prepend: '/themes/' | append: '.html' | relative_url }}" class="column large-6 medium-6 small-12 theme-card">
           <div class="row expanded align-center">
@@ -66,7 +66,7 @@ seo_image_path: #'/images/media/filename.jpg'
       <div class="column large-6 medium-12 small-12">
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed necessitatibus, error eaque vero aperiam numquam, tenetur, soluta quibusdam odio eius aut. Distinctio placeat repellendus, repellat neque itaque in esse nobis!</p>
       </div>
-      <div class="column large-6 medium-10 small-12 center">
+      <div class="column large-6 medium-10 small-12 center button-conainter">
         <a class="button" href="{{ '/insights.html' | relative_url }}">All Insights</a>
       </div>
     </div>
