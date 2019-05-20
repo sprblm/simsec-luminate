@@ -48,7 +48,7 @@ themes | sort %} {% endfor %}
     <div id="insights-list">
       <ul class="list" style="all: unset">
         {% for insight in insights %}
-          <li>
+          <li class="list-item">
             <div class="theme" style="display: none">all {% for item in insight.related_theme %} {{ item | slugify }} {% endfor %}</div>
             <div class="title" style="display: none">{{ insight.insight_title | slugify }}</div>
             <a href="{{ insight.page_title | slugify | prepend: '/insights/' | append: '.html' | relative_url }}" class="card card--insight">
@@ -57,6 +57,10 @@ themes | sort %} {% endfor %}
           </li>
         {% endfor %}
       </ul>
+      <div class="no-results">
+        <p>No Results</p>
+        <a href="#" class="clear-all button">Clear All</a>
+      </div>
     </div>
   </section>
 
