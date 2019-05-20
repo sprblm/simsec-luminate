@@ -9,10 +9,8 @@ const RecommendationsFilter = {
     ]
   },
   createList: () => {
-    if (document.location.href.indexOf('recommendations') > -1) {
-      RecommendationsFilter.recommendationList = new List('recommendations-list', RecommendationsFilter.options);
-      RecommendationsFilter.recommendationList.sort('title', { order: 'asc' });
-    }
+    RecommendationsFilter.recommendationList = new List('recommendations-list', RecommendationsFilter.options);
+    RecommendationsFilter.recommendationList.sort('title', { order: 'asc' });
     RecommendationsFilter.setSearchQueryDefaults();
   },
   setSearchQueryDefaults: () => {
@@ -51,9 +49,45 @@ const RecommendationsFilter = {
       });
     });
   },
+  filterByUrlParams: () => {
+    const searchQuery = window.location.search.split('=')[0].slice(1);
+    const searchParam = window.location.search.split('=')[1];
+
+    if (searchQuery) {
+      const selectOptions = document.querySelector(`#${searchQuery}`).childNodes;
+
+      selectOptions.forEach(option => {
+        if (option.getAttribute('data-select') === searchParam) {
+          option.selected = true;
+        }
+      });
+    }
+    RecommendationsFilter.searchQueries[searchQuery] = searchParam;
+    RecommendationsFilter.filterList(RecommendationsFilter.searchQueries);
+    RecommendationsFilter.matchSearchQueriesToUI();
+  },
+  matchSearchQueriesToUI() {
+    const dropdowns = document.querySelectorAll('.dropdown');
+
+    Array.from(dropdowns).forEach((dropdown, idx) => {
+      RecommendationsFilter.searchQueries[dropdown.id] = dropdown.selectedOptions[0].getAttribute('data-select');
+      const selectedIndex = dropdown.selectedOptions[0].index;
+
+      if (selectedIndex !== -1) {
+        dropdown.selectedIndex = selectedIndex;
+      }
+    });
+
+    RecommendationsFilter.filterList(RecommendationsFilter.searchQueries);
+  },
   init() {
-    this.createList();
-    this.filterByDropdowns();
+    const recommendationsPage = document.querySelector('#recommendations');
+    
+    if (recommendationsPage) {
+      this.createList();
+      this.filterByDropdowns();
+      this.filterByUrlParams();
+    }
   }
 }
 
