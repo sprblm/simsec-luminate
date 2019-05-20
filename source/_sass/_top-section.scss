@@ -14,20 +14,31 @@
   }
   h1 {
     font-size: 3.5rem;
-    line-height: 1;
+    line-height: 1.1;
   }
   h2 {
     font-size: 2.2rem;
-    font-weight: lighter;
-    line-height: 1;
+    line-height: 1.2;
     text-transform: none;
-
   }
+
+  .index-title-container {
+    max-width: 22rem;
+  }
+
   &--index {
     hr {
       border-bottom: 1px solid white;
       width: 6rem;
       margin: 5rem 0;
+    }
+
+    h1 {
+      font-weight: 900;
+    }
+
+    h2 {
+      font-weight: 200;
     }
   }
 }
@@ -75,8 +86,8 @@
 
   h2 {
     font-size: 3.5rem;
-    font-weight: bold;
-    margin-top: 0;
+    font-weight: 900;
+    margin-top: 0!important;
   }
 
   img {
@@ -115,7 +126,7 @@
 
     h2 {
       font-size: 1.7rem;
-      font-weight: bold;
+      font-weight: 900;
       margin: 0;
       @include breakpoint($medium-only) {
         font-size: 1.5rem;
@@ -168,5 +179,11 @@
       opacity: 1;
       text-transform: none;
     }
+  }
+}
+
+#insights, #recommendations {
+  h1 {
+    font-weight: 900;
   }
 }

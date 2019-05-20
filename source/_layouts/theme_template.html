@@ -54,11 +54,16 @@ seo_image_path: #'/images/media/filename.jpg'
 
   <section class="">
     <div class="row expanded">
-      {% for insight in page.related_insights %}
-        <a href="{{ insight.page_title | slugify | prepend: '/insights/' | append: '.html' | relative_url }}" class="column large-4 medium-6 small-12 card card--insight">
-          {{ insight.insight_title | markdownify }}
-        </a>
-      {% endfor %}
+      <ul class="list" style="all: unset">
+        {% for insight in page.related_insights %}
+          <li class="list-item">
+            <div class="title" style="display: none">{{ insight.insight_title | slugify }}</div>
+            <a href="{{ insight.page_title | slugify | prepend: '/insights/' | append: '.html' | relative_url }}" class="card card--insight">
+              {{ insight.insight_title | markdownify }}
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
     </div>
   </section>
 
