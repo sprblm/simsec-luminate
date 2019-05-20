@@ -2,10 +2,10 @@
   <span class="top-bar__button js-trigger-menu">menu</span>
   <nav class="main-menu js-target-menu main-menu--left nav">
     <i class="material-icons">wb_sunny</i>
-    <span>Trust, Power, and Support</span>
-    <a href="{{'/'.html' | relative_url }}">Index</a>
+    <a class="index-link" href="{{ '/'.html' }}">Trust, Power, and Support</a>
     <a class="slide-about-page" href="#">About</a>
-    <a href="{{ '/insights.html' | relative_url }}">Insights</a>
-    <a href="{{ '/recommendations.html' | relative_url }}">Recommendations</a>
+    <a class="nav-link scroll-link" href="{{ '/#themes'.html' | relative_url }}" nav-data='themes'>Themes</a>
+    <a class="nav-link" href="{{ '/insights.html' | relative_url }}" nav-data='insights'>Insights</a>
+    <a class="nav-link" href="{{ '/recommendations.html' | relative_url }}" nav-data='recommendations'>Recommendations</a>
   </nav>
 </header>

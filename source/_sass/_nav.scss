@@ -19,12 +19,14 @@ main {
     }
   }
 
-  span {
-    display: block;
-    font-size: 1.3rem;
-    font-weight: bold;
-    line-height: 1.1;
-    padding: 1rem 6rem 2rem 3rem;
+  .index-link {
+    display: block!important;
+    font-size: 1.3rem!important;
+    font-weight: bold!important;
+    line-height: 1.1!important;
+    padding: 1rem 6rem 2rem 3rem!important;
+    text-decoration: none!important;
+    cursor: pointer!important;
   }
 
   i {
@@ -33,7 +35,7 @@ main {
     padding-left: 3rem;
   }
 
-  a {
+  .nav-link, .slide-about-page {
     display: block!important;
     font-family: $sans-serif!important;
     font-size: .9rem!important;
@@ -58,10 +60,13 @@ section, footer {
 }
 
 .active-orange {
-  background-color: $orange;
-  color: white;
+  background-color: $orange!important;
+  color: white!important;
 }
 
 .active-blue {
-  color: $primary-blue;
+  color: $primary-blue!important;
+  &:hover {
+    color: white!important;
+  }
 }
