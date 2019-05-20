@@ -1,3 +1,17 @@
-<footer>
+{% assign index = site.data.contentful.index.index[0] %}
 
+<footer>
+  <div class="row">
+    <div class="column large-12 medium-12 small-12">
+      <p class="partner-intro">Partner Perspectives is a project of</p>
+    </div>
+    <div class="column large-6 medium-12 small-12 partner">
+      <span>SimplySecure</span>
+      {{ index.simsec_footer | markdownify }}
+    </div>
+    <div class="column large-6 medium-12 small-12 partner">
+      <span>Luminate</span>
+      {{ index.luminate_footer | markdownify }}
+    </div>
+  </div>
 </footer>

@@ -3,7 +3,7 @@ main {
 }
 
 .nav {
-  background-color: $cb-light-gray;
+  background-color: $light-gray;
   color: $dark-gray;
   width: 17rem;
   text-align: left;
@@ -50,7 +50,7 @@ main {
   }
 }
 
-section {
+section, footer {
   padding-left: 17rem;
   @include breakpoint($small-only) {
    padding-left: 0;

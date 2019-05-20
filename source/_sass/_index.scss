@@ -1,5 +1,13 @@
 #index {
+  padding-bottom: 4rem;
   color: $dark-gray;
+
+  .button-conainter {
+    @include breakpoint($medium-only) {
+      padding-top: 1rem;
+    }
+  }
+
   .button {
     background-color: transparent;
     border: solid 4px $dark-gray;
@@ -16,13 +24,20 @@
   }
 
   .page-section {
-    padding-top: 2rem;
+    padding-top: 3rem;
+    @include breakpoint($medium-only) {
+      padding-top: 2rem;
+    }
     &--top {
       padding-top: 5rem;
     }
     p:first-child {
       margin-top: 0;
     }
+  }
+
+  .theme-cards-conatiner {
+    padding-top: 2rem;
   }
 
   .theme-card {
