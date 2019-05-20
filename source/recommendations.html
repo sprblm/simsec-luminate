@@ -18,7 +18,6 @@ themes | sort %} {% endfor %}
 {% assign insights = "" | split: "" %}
 {% for recommendation in recommendations %} {% assign insights = insights | push: recommendation.insight_tag | join: "| " %} {% assign insights = insights | split: "| " | uniq %} {% assign insights = insights | sort %} {% endfor %}
 
-
 <main role="main" id="recommendations">
 
   {% include nav.html %}

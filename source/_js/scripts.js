@@ -10,6 +10,7 @@ import Utils from './utils';
 import FixedDropdown from './fixed-dropdown';
 import SlidePage from './slide-page';
 import RecommendationsFilter from './recommendations-filter';
+import TagFilter from './tag-filter';
 
 // Footer.init();
 Modal.init();
@@ -22,4 +23,5 @@ Sticky.init();
 Utils.markdownLinksNewPage();
 FixedDropdown.init();
 SlidePage.init();
-RecommendationsFilter.init()
+RecommendationsFilter.init();
+TagFilter.init();

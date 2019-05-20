@@ -26,7 +26,7 @@ seo_image_path: #'/images/media/filename.jpg'
             <div class="themes">
               <h3>Related Themes</h3>
               {% for theme in page.theme_tag %}
-                <a class="tag tag--white" href="#">{{ theme }}</a>
+                <a class="tag tag--white tag-filter-link" href="#" filter-tag="theme" filter-query="{{ theme | slugify }}">{{ theme }}</a>
               {% endfor %}
             </div>
           {% endif %}
@@ -35,7 +35,7 @@ seo_image_path: #'/images/media/filename.jpg'
             <div class="insights">
               <h3>Related Insights</h3>
               {% for insight in page.insight_tag %}
-                <a class="tag tag--white" href="#">{{ insight }}</a>
+                <a class="tag tag--white tag-filter-link" href="#" filter-tag="insight" filter-query="{{ insight | slugify }}">{{ insight }}</a>
               {% endfor %}
             </div>
           {% endif %}
