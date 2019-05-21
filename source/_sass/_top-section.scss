@@ -53,48 +53,52 @@
 }
 
 #recommendations, #insights, #theme {
-  h1, h2 {
-    margin: 5rem 0 0 0;
-    @include breakpoint($medium-only) {
-      font-size: 3rem;
-      margin-top: 3rem;
+  .top-section {
+    h1, h2 {
+      margin: 5rem 0 0 0;
+      @include breakpoint($medium-only) {
+        font-size: 3rem;
+        margin-top: 3rem;
+      }
+      @include breakpoint($small-only) {
+        font-size: 3rem;
+        margin-top: 3rem;
+      }
     }
-    @include breakpoint($small-only) {
-      font-size: 3rem;
-      margin-top: 3rem;
-    }
-  }
 
-  p {
-    font-size: 1.3rem;
-    font-weight: bold;
+    p {
+      font-size: 1.3rem;
+      font-weight: bold;
+    }
   }
 }
 
 #theme {
-  h1 {
-    font-size: 1.3rem;
-    font-weight: bold;
-    text-transform: uppercase;
-    margin-bottom: 1.8rem;
-    padding-top: 0;
-    margin: 0;
-    @include breakpoint($medium-only) {
+  .top-section {
+    h1 {
+      font-size: 1.3rem;
+      font-weight: bold;
+      text-transform: uppercase;
+      margin-bottom: 1.8rem;
       padding-top: 0;
+      margin: 0;
+      @include breakpoint($medium-only) {
+        padding-top: 0;
+      }
     }
-  }
 
-  h2 {
-    font-size: 3.5rem;
-    font-weight: 900;
-    margin-top: 0!important;
-  }
+    h2 {
+      font-size: 3.5rem;
+      font-weight: 900;
+      margin-top: 0!important;
+    }
 
-  img {
-    filter: invert(100%);
-    -webkit-filter: invert(100%);
-    padding: 1rem 0;
-    width: 3rem!important;
+    img {
+      filter: invert(100%);
+      -webkit-filter: invert(100%);
+      padding: 1rem 0;
+      width: 3rem!important;
+    }
   }
 }
 
