@@ -60,9 +60,9 @@ themes | sort %} {% endfor %}
 
   <section>
     <div id="recommendations-list">
-      <ul class="list" style="all: unset">
+      <ul class="list list--recommendation">
         {% for recommendation in recommendations %}
-          <li class="list-item">
+          <li class="list__item">
             <div class="theme" style="display: none">all {% for item in recommendation.theme_tag %} {{ item | slugify }} {% endfor %}</div>
             <div class="insight" style="display: none">all {% for item in recommendation.insight_tag %} {{ item | slugify }} {% endfor %}</div>
             <div class="title" style="display: none">

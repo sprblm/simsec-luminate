@@ -65,15 +65,13 @@ seo_image_path: #'/images/media/filename.jpg'
   </section>
 
   <section class="">
-    <div class="row expanded">
-      <ul class="list" style="all: unset">
-        {% for recommendation in page.related_recommendations %}
-          <li class="list-item">
-            <a href="{{ recommendation.page_title | slugify | prepend: '/recommendations/' | append: '.html' | relative_url }}" class="card">{{ recommendation.recommendation | markdownify }}</a>
-          </li>
-        {% endfor %}
-      </ul>
-    </div>
+    <ul class="list list--recommendation">
+      {% for recommendation in page.related_recommendations %}
+        <li class="list__item list__item--recommendation">
+          <a href="{{ recommendation.page_title | slugify | prepend: '/recommendations/' | append: '.html' | relative_url }}" class="card card--recommendation">{{ recommendation.recommendation | markdownify }}</a>
+        </li>
+      {% endfor %}
+    </ul>
   </section>
 
   <section class="divider divider--blue">
@@ -85,18 +83,16 @@ seo_image_path: #'/images/media/filename.jpg'
   </section>
 
   <section class="">
-    <div class="row expanded">
-      <ul class="list" style="all: unset">
-        {% for resource in page.related_resources %}
-          <li class="list-item">
-            <a href="{{ resource.resource_url }}" class="card card--resource">
-              <h5>{{ resource.resource_title }}</h5>
-              {{ resource.resource_description | markdownify }}
-              <span class="type">{{ resource.resource_type }}</span>
-            </a>
-          </li>
-        {% endfor %}
-      </ul>
-    </div>
+    <ul class="list">
+      {% for resource in page.related_resources %}
+        <li class="list__item list__item--insight">
+          <a href="{{ resource.resource_url }}" class="card card--resource">
+            <h5>{{ resource.resource_title }}</h5>
+            {{ resource.resource_description | markdownify }}
+            <span class="type">{{ resource.resource_type }}</span>
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
   </section>
 </main>

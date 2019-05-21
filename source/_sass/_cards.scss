@@ -2,13 +2,17 @@
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  li {
+  padding: 0;
+  margin: 0;
+
+  &__item {
+    color: $dark-gray;
     display: inline-block;
     list-style-type: none;
-
+    position: relative;
     vertical-align: top;
-    align-items: stretch;
     width: calc(100% / 3);
+    min-height: 28rem;
 
     @include breakpoint($between-large) {
       width: calc(100% / 2);
@@ -71,22 +75,19 @@
     }
   }
 }
+
 .card {
-  color: $dark-gray;
-  display: inline-block;
-  min-height: 28rem;
-  position: relative;
+  position: absolute;
+  top: 0;
+  bottom: 0;
   text-decoration: none!important;
   width: 100%;
 
   p {
     font-family: 'Roboto', sans-serif;
     font-size: 1.2rem;
-    padding: 1rem 1rem;
-
-    @include breakpoint($medium-only) {
-      font-size: 1.1rem;
-    }
+    padding: 0 1rem;
+    padding-bottom: 4rem!important;
   }
 
   &:before {
@@ -104,20 +105,21 @@
 
   &--recommendation {
     p {
-      font-weight: 400!important;
+      padding: 1rem 2rem;
+      @media screen and (min-width: 787px) and (max-width: 937px) {
+        font-size: 1.05rem;
+      }
     }
   }
 
   &--insight {
-    min-height: 24rem;
     p {
-      font-weight: 400!important;
-      padding: 4rem 2rem;
+      font-weight: bold;
+      padding: 4rem;
     }
   }
 
   &--resource {
-    min-height: 24rem;
     h5 {
       font-size: 1.2rem;
       margin: 0;
@@ -135,6 +137,7 @@
 
     .type {
       font-size: 0.7rem;
+      font-family: $sans-serif;
       font-weight: bold;
       text-transform: uppercase;
       position: absolute;
@@ -142,4 +145,12 @@
       right: 2rem;
     }
   }
+}
+
+.list__item--insight {
+  min-height: 25rem;
+}
+
+.list__item--resource {
+  min-height: 24rem;
 }
