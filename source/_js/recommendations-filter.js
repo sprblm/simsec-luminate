@@ -95,6 +95,7 @@ const RecommendationsFilter = {
       RecommendationsFilter.setSearchQueryDefaults();
       RecommendationsFilter.recommendationList.filter();
       RecommendationsFilter.recommendationList.sort('title', { order: 'asc' });
+      RecommendationsFilter.noResultsDiv();
       document.querySelectorAll('.dropdown').forEach(dropdown => dropdown.selectedIndex = 0);
     });
   },
@@ -105,7 +106,6 @@ const RecommendationsFilter = {
       this.createList();
       this.filterByDropdowns();
       this.filterByUrlParams();
-      this.noResultsDiv();
       this.clearAllDropdowns();
     }
   }
