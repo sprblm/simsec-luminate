@@ -56,7 +56,7 @@ seo_image_path: #'/images/media/filename.jpg'
     <ul class="list">
       {% for insight in page.related_insights %}
         <li class="list__item list__item--insight">
-          <div class="title" style="display: none">{{ insight.insight_title | slugify }}</div>
+          <div class="title hidden">{{ insight.insight_title | slugify }}</div>
           <a href="{{ insight.page_title | slugify | prepend: '/insights/' | append: '.html' | relative_url }}" class="card card--insight">
             {{ insight.insight_title | markdownify }}
           </a>

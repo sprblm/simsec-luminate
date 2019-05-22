@@ -44,18 +44,17 @@ seo_image_path: #'/images/media/filename.jpg'
       </div>
     </div>
 
-    <div class="row expanded theme-cards-conatiner">
+    <div class="list list--index-cards">
       {% for theme in themes %}
-        <a href="{{ theme.page_title | slugify | prepend: '/themes/' | append: '.html' | relative_url }}" class="column large-6 medium-6 small-12 theme-card">
-          <div class="row expanded align-center">
-            <div class="column large-9 medium-10 small-10">
-              <img src="{{ theme.theme_icon.url }}" alt="">
-              <div class="theme-card__title">{{ theme.page_title }}</div>
-            </div>
-          </div>
-        </a>
+        <div class="list__item list__item--index-cards">
+          <a href="{{ theme.page_title | slugify | prepend: '/themes/' | append: '.html' | relative_url }}" class="card card--index-cards">
+            <img src="{{ theme.theme_icon.url }}" alt="">
+            <div class="card__title">{{ theme.page_title }}</div>
+          </a>
+        </div>
       {% endfor %}
     </div>
+
   </section>
 
   <section class="page-section">
