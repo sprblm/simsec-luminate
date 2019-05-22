@@ -359,14 +359,14 @@ insight:
   - sys:
       id: 64aVefaJYpSHSj8GnNRqZj
       created_at: !ruby/object:DateTime 2019-05-06 19:48:06.481000000 Z
-      updated_at: !ruby/object:DateTime 2019-05-06 19:48:06.481000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-22 00:35:02.001000000 Z
       content_type_id: recommendation
-      revision: 1
-    page_title: Alternative Non-Financial Support Availability
-    recommendation: Clarify what alternative types of non-financial support are available
+      revision: 3
+    page_title: Alternative Portfolio Support Availability
+    recommendation: Clarify what alternative types of portfolio support are available
       to grantees, why it is being offered, and particularly how this support is intended
       to help achieve the organization's goals.
-    recommendation_short: Alternative Non-Financial Support Availability
+    recommendation_short: Alternative Portfolio Support Availability
   - sys:
       id: 5UFLM9YhjV7pMyRVYAKGN7
       created_at: !ruby/object:DateTime 2019-05-02 23:39:58.648000000 Z
@@ -542,3 +542,933 @@ insight:
       revision: 1
     quote: "“There’s an inherent competition among grantees that funders pretend doesn’t
       exist. It’s hard not to look over your shoulder at the new people getting funding.”"
+- sys:
+    id: 3iOxgGnCFSOPnKE3re9mfA
+    created_at: !ruby/object:DateTime 2019-05-22 00:18:59.931000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-22 00:18:59.931000000 Z
+    content_type_id: insight
+    revision: 1
+  page_title: Multi-year Flexible Funding
+  insight_short: Multi-year Flexible Funding
+  insight_title: Multi-year flexible funding is extremely valued.
+  short_description: Core funding, i.e., non-earmarked, general operating support,
+    can be difficult to secure from foundations, but the flexibility it gives to organizations
+    working in complex and changing circumstances is essential to their success.
+  featured_quote:
+    sys:
+      id: LNOZT8fINf8ZmwlX54d1P
+      created_at: !ruby/object:DateTime 2019-05-06 20:14:23.588000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:14:23.588000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“They care about sustainability – explore and strengthen your funding
+      structure, don’t be as dependent on grants.”"
+  long_description: "Grantees receiving core funding expressed that they felt it represented
+    GCE committing to investing in their organizations, helping them expand beyond
+    their current spheres of influence, building and strengthening organizational
+    capacity, and becoming lasting, sustainable contributors to the field. \n\nWe
+    heard many examples of organizations reported scrambling to meet the additional
+    requirements of detailed project-based proposals while trying to “keep the lights
+    on” in their day-to-day operations. \n\nHowever, participants who received core
+    funding reflected on the value of such holistic support in helping strengthen
+    organizational health. This stood out in the non-profit sector as a highly valuable
+    contribution that is much appreciated. \n"
+  related_theme:
+  - Funding Approach & Process
+  related_recommendations:
+  - sys:
+      id: 25uIG8E7r2TQ3F7ykBzVwn
+      created_at: !ruby/object:DateTime 2019-05-22 00:15:01.670000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-22 00:15:01.670000000 Z
+      content_type_id: recommendation
+      revision: 1
+    page_title: Core funding and flexibility
+    recommendation: __Provide core funding where possible, and build flexibility__
+      in the grant structures to allow the grantee to develop sustainable organizational
+      practices and resiliency.
+    recommendation_short: Core funding and flexibility
+    insight_tag:
+    - Multi-year flexible funding
+    theme_tag:
+    - Trust & Power
+    - Funder Identity & Culture
+  - sys:
+      id: 4rjSbRM4lt2De5UTonoVjK
+      created_at: !ruby/object:DateTime 2019-05-22 00:15:50.789000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-22 00:15:50.789000000 Z
+      content_type_id: recommendation
+      revision: 1
+    page_title: Alternative funding models
+    recommendation: Where appropriate, explore __alternative funding models__ in collaboration
+      with your grantees, to help alleviate dependency on philanthropic funding, and
+      build operational sustainability.
+    recommendation_short: Alternative funding models
+    theme_tag:
+    - Trust & Power
+    - Funder Identity & Culture
+  - sys:
+      id: TIxnVzPScmMILBZuIWVaE
+      created_at: !ruby/object:DateTime 2019-05-22 00:16:29.817000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-22 00:16:29.817000000 Z
+      content_type_id: recommendation
+      revision: 1
+    page_title: Invest in organizational health
+    recommendation: Take steps to invest in the organizational health of your grantees,
+      beyond individual projects.
+    recommendation_short: Invest in organizational health
+    theme_tag:
+    - Trust & Power
+    - Funder Identity & Culture
+  related_quotes:
+  - sys:
+      id: 4Pa5ZE4CHk5AZgzXXFQh0u
+      created_at: !ruby/object:DateTime 2019-05-06 20:13:55.878000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:13:55.878000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“They gave us the flexibility to succeed.”"
+  - sys:
+      id: 3SevOE4e5sL3QYzPAQji2L
+      created_at: !ruby/object:DateTime 2019-05-06 20:14:05.269000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:14:05.269000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“They take a deep interest in organizational health.”"
+  - sys:
+      id: 41WsemYOpy4zTDPcUUli2c
+      created_at: !ruby/object:DateTime 2019-05-06 20:14:14.727000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:14:14.727000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“They don’t pay attention to the program, but to the organization.”"
+- sys:
+    id: 4zcMXjfMSLsPoJwQAEzWXZ
+    created_at: !ruby/object:DateTime 2019-05-22 00:26:06.129000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-22 00:26:17.457000000 Z
+    content_type_id: insight
+    revision: 2
+  page_title: Reporting and Metrics
+  insight_short: Reporting and Metrics
+  insight_title: Reporting and metrics are not always perceived as useful and valuable
+    to grantees.
+  short_description: Co-designing metrics and reporting formats to be specific to
+    the needs of the grantee can lead to more meaningful and valuable impact measurement
+    for both funders and grantees.
+  featured_quote:
+    sys:
+      id: 244ICJBBqDVOOvWwisIEgi
+      created_at: !ruby/object:DateTime 2019-05-06 20:14:35.644000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:14:35.644000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“I’m not sure anyone reads our reports. They say they’ll let us know if
+      they have questions, but we never get feedback.”"
+  long_description: "### Reporting Processes\n\nIn the best case, quarterly and annual
+    reports serve as much more than just an update or checkup. Reporting can be an
+    integral part of creating a common understanding of the organization’s goals and
+    core mission. Some participants stated that creating reports helped them hone
+    their organizational focus.\n\nBut in other cases, reporting was seen as busy
+    work that takes time away from what organizations saw as their “real work.” These
+    participants viewed the report as a deliverable external to their organizational
+    goals. This group also expressed doubts about the utility of their reports to
+    GCE, since they rarely heard feedback after submitting reports.\n\nAmong the people
+    who were the most satisfied with reports, many of them had negotiated a reporting
+    format that worked for them. For example, some organizations sent one standardized
+    report to all of their funders, so they didn’t have to spend time preparing multiple
+    reports. Others worked with GCE to develop a specific format that best fit both
+    their needs and GCE’s. We noticed that the organizations who took the initiative
+    to make reporting work well for them were more likely to see the real outcome
+    as not the report itself, but as a benefit to their organization’s health. On
+    average, organizations reported that narrative reports are more cumbersome to
+    produce than financial reports, but almost all respondents felt narrative reports
+    were a clearer reflection of the organization. \n\n### Metrics & Benchmarks\n\nWhen
+    we explored the topic of reporting with interviewees, the conversation often turned
+    to the metrics that are, for organizations, tightly linked with reporting.\n\nMost
+    organizations had experience with impact measurement of some kind, though sometimes
+    at a less rigorous level than GCE's standards. As with reporting formats, participants
+    who pushed back on initial metrics, and as a result collaborated to create metrics
+    they found more meaningful and useful, were the most satisfied and positive about
+    their metrics. The chance to create impact metrics together with GCE was described
+    as a helpful learning experience. In particular, some participants noted the value
+    of being exposed to learning measurement techniques associated with the commercial
+    sector.\n\nThe negative comments about metrics came from participants who felt
+    that metrics were handed to them without opportunities for discussion and revision,
+    and thus were neither reasonable nor applicable to their strategy and impact model.
+    One participant noted that they were “burdened with measurable but unfair metrics
+    and expectations.” Another commented that meeting metrics would only be possible
+    if they behaved unethically. These organizations generally saw metrics as a way
+    to quantitatively describe outputs, rather than a way to monitor outcomes.\n\n"
+  related_theme:
+  - Funding Approach & Process
+  - Assessing Impact
+  related_recommendations:
+  - sys:
+      id: 6usDyH5dFIPdiew4HipTs3
+      created_at: !ruby/object:DateTime 2019-05-06 19:59:14.677000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 19:59:14.677000000 Z
+      content_type_id: recommendation
+      revision: 1
+    page_title: Invite Proposed Metrics
+    recommendation: Invite grantees to propose metrics or impact measurement frameworks
+      that best reflect their strategy, impact model, and desired outcomes.
+    recommendation_short: Invite Proposed Metrics
+  - sys:
+      id: 017p3qzOAZnrMjC3a5awyi
+      created_at: !ruby/object:DateTime 2019-05-02 23:41:34.145000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-02 23:41:34.145000000 Z
+      content_type_id: recommendation
+      revision: 1
+    page_title: Time to Develop Impact Measurement Framework
+    recommendation: 'Give sufficient time to develop an impact measurement framework
+      that a grantee is comfortable with, e.g., consider allocating time at the beginning
+      of a grant term to dedicate to working on co-designing indicators that are outcome-driven
+      and aligned with the grantee organization’s strategy. '
+    recommendation_short: Time to Develop Impact Measurement Framework
+  - sys:
+      id: 7r9IEjpcUzDMCCofBKuFn0
+      created_at: !ruby/object:DateTime 2019-05-06 19:59:56.990000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-22 00:24:27.100000000 Z
+      content_type_id: recommendation
+      revision: 2
+    page_title: Align Metrics with Existing MEL Frameworks
+    recommendation: 'Where possible, align metrics with organizations’ existing frameworks
+      for monitoring, evaluation, and learning (MEL), and where organizations lack
+      a coherent MEL framework, consider offering support in building out MEL within
+      the organization (as part of the grant or in the form of portfolio support). '
+    recommendation_short: Align Metrics with Existing MEL Frameworks
+  - sys:
+      id: 4rrf45WE74ntAJMLgn8ulC
+      created_at: !ruby/object:DateTime 2019-05-06 20:00:23.630000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:00:23.630000000 Z
+      content_type_id: recommendation
+      revision: 1
+    page_title: Sync Impact Measurement and Reporting
+    recommendation: Where possible, identify an opportunity to sync impact measurement
+      and reporting across co-funders to alleviate the burden on grantees.
+    recommendation_short: Sync Impact Measurement and Reporting
+  - sys:
+      id: 6CtHXkA7chCdYrtQerM3aD
+      created_at: !ruby/object:DateTime 2019-05-06 19:56:58.968000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 19:56:58.968000000 Z
+      content_type_id: recommendation
+      revision: 1
+    page_title: Grant Reporting Guidance
+    recommendation: Be explicit about the purpose of grant reporting and where possible
+      offer guidance and options around formats.
+    recommendation_short: Grant Reporting Guidance
+  - sys:
+      id: 2jPpX1aCPfGnLCldon7zAv
+      created_at: !ruby/object:DateTime 2019-05-02 23:44:26.109000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-02 23:44:26.109000000 Z
+      content_type_id: recommendation
+      revision: 1
+    page_title: Integrate Reporting with Workflow
+    recommendation: Proactively talk with grantees about how reporting can better
+      fit into their existing workflow and improve their organizational health.
+    recommendation_short: Integrate Reporting with Workflow
+  - sys:
+      id: 62AGKdvAhcnb1F3VjxmNFo
+      created_at: !ruby/object:DateTime 2019-05-06 20:01:05.423000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:01:05.423000000 Z
+      content_type_id: recommendation
+      revision: 1
+    page_title: Create Processes for Feedback on Metrics
+    recommendation: Create processes for gathering and incorporating organizational
+      feedback on metrics over the course of the funding period and offering flexibility
+      with how metrics are structured and used.
+    recommendation_short: Create Processes for Feedback on Metrics
+  - sys:
+      id: 5TrkIP1GfMYitT6ZyrOPiM
+      created_at: !ruby/object:DateTime 2019-05-06 19:57:50.462000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 19:57:50.462000000 Z
+      content_type_id: recommendation
+      revision: 1
+    page_title: Provide Timely Feedback
+    recommendation: Provide timely feedback on reports provided by grantees.
+    recommendation_short: Provide Timely Feedback
+  related_quotes:
+  - sys:
+      id: Uxx50gbi4lNbCZDCatwS0
+      created_at: !ruby/object:DateTime 2019-05-06 20:14:44.049000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:14:44.049000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“We appreciate the freedom to write the narrative report we think is most
+      helpful.”"
+  - sys:
+      id: 6R1qdaSdZ68UWiykjpV3YZ
+      created_at: !ruby/object:DateTime 2019-05-06 20:14:57.163000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-22 00:22:24.726000000 Z
+      content_type_id: quote
+      revision: 2
+    quote: "“\\[GCE] taught us to think about impact.”"
+  - sys:
+      id: 2BDHN4nLDZSnSggJDuWK8q
+      created_at: !ruby/object:DateTime 2019-05-06 20:15:06.662000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:15:06.662000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“They respect you if you push back. When we said we wanted to do the same
+      report for all our funders, they agreed. They were really flexible and accommodating.”"
+  - sys:
+      id: Jf00FRKjvMboiB46BQTGW
+      created_at: !ruby/object:DateTime 2019-05-06 20:15:15.792000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:15:15.792000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“We made an ethical decision to not meet our metric.”"
+  - sys:
+      id: 2OGYBGxf5RcDINfkwqTXXK
+      created_at: !ruby/object:DateTime 2019-05-06 20:15:27.421000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:15:27.421000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“The reporting burden has been by far the most negative aspect of the
+      relationship with the GCE team… at the moment, the reporting requirements are
+      onerous and do not support meaningful organizational monitoring, evaluation
+      and learning.”"
+- sys:
+    id: 1mz5qNxgvkUfCHUN72zORV
+    created_at: !ruby/object:DateTime 2019-05-22 00:35:36.623000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-22 00:35:36.623000000 Z
+    content_type_id: insight
+    revision: 1
+  page_title: Portfolio Support
+  insight_short: Portfolio Support
+  insight_title: Grantees are interested in, and looking for portfolio support, and
+    would like more clarity, autonomy, and choice in how they access and receive that
+    support.
+  short_description: Grantees have many organizational health needs that can be met
+    by connecting them with the right resources, such as other organizations, consultants,
+    services, mentors or vendors. However, it is important that the process for accessing
+    this support and the context in which it is provided is clear, to avoid it being
+    seen as punitive.
+  featured_quote:
+    sys:
+      id: 81bICoX8Ilj36S4if6xXH
+      created_at: !ruby/object:DateTime 2019-05-06 20:16:02.322000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:16:02.322000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“They say we can always reach out, but don’t offer concrete opportunities
+      or office hours.”"
+  long_description: |+
+    Participants expressed interest in the following support areas:
+
+    - Recruiting and hiring: Growth and scaling are important concerns for many of our respondents, and in some cases “growth” is understood to mean hiring people to help meet metrics. Non-profit organizations see a need for active recruiting and hiring support.
+    - Financial management: Both survey respondents and interview participants strongly agreed that GCE had expertise in financial management.
+    - Fundraising: 88% of survey respondents indicated that fundraising support was extremely desirable.
+    - Networking, outreach and community development: Interview participants appreciated the sense of belonging that came from attending GCE gatherings and viewed access to other grantees as valuable. They also appreciated when GCE helped to expand their reach, e.g., on social media by "signal boosting" or promoting their work.
+    - Evaluation and audits: Organizations that have undergone an evaluation or audit generally reported positive experiences.
+
+    Knowing that this kind of additional support existed wasn’t enough for organizations to feel that GCE was meeting their specific needs, because there was no framework for taking advantage of the offers.
+
+    Some participants expressed concerns about accepting alternative portfolio support from GCE, due to the power difference inherent in the funding relationship and the implications of admitting weakness to a funder. Their concerns ranged from not being able to pick or change who the service provider is to wondering if the service provider would “spy” on them and report weaknesses to GCE.
+
+    These concerns were tied to participants not having clarity about why support was being offered and to what end – was it because GCE was keen to help proactively build organizational capacity, or was it because they were performing badly and GCE was intervening? This concern may indicate a lack of underlying trust; some participants indicated that they could not be sure that GCE had their best interests in mind, and therefore were hesitant to share challenges or accept support.
+
+    In the past, GCE ILs have provided portfolio support by taking seats on select grantees' boards. This is a unique practice in the non-profit funding sector, and was generally met with skepticism. Over one-third of survey respondents believed that the practice of GCE holding board seats was not at all helpful for their organization. Their reasons included fear of sharing internal problems with a funder present, power or knowledge asymmetry, negative perceptions by third parties of having a funder on the board, and concerns that representing GCE’s interests would take priority over acting in the grantee’s best interest. There was a qualitative difference in the sentiments of those observing the practice of GCE taking board seats and those experiencing it. Survey respondents who had a member of GCE staff on their board, viewed this participation more positively than those respondents who didn't.
+
+    There was a positive correlation between GCE's participation on an organization's board and that organization's perception of the ease of communication with GCE. Leaders of organizations with a board member or observer felt much more comfortable asking for help, implying a closer relationship and more open channels of communication.
+
+    What most organizations appreciated from board members was strategic advice, operational support, and connections to the ecosystem.
+
+
+  related_theme:
+  - Funding Approach & Process
+  - Trust & Power
+  related_recommendations:
+  - sys:
+      id: 64aVefaJYpSHSj8GnNRqZj
+      created_at: !ruby/object:DateTime 2019-05-06 19:48:06.481000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-22 00:35:02.001000000 Z
+      content_type_id: recommendation
+      revision: 3
+    page_title: Alternative Portfolio Support Availability
+    recommendation: Clarify what alternative types of portfolio support are available
+      to grantees, why it is being offered, and particularly how this support is intended
+      to help achieve the organization's goals.
+    recommendation_short: Alternative Portfolio Support Availability
+  - sys:
+      id: 5hKYhindU3pFFpe3q13egX
+      created_at: !ruby/object:DateTime 2019-05-06 19:53:13.347000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-22 00:33:55.419000000 Z
+      content_type_id: recommendation
+      revision: 4
+    page_title: Portfolio Support Autonomy
+    recommendation: Give grantees more autonomy and choice when taking advantage of
+      additional portfolio support e.g., by giving them ownership over who to work
+      with and under what terms. Have clear guidelines around privacy and NDAs with
+      the vendors.
+    recommendation_short: Portfolio Support Autonomy
+  - sys:
+      id: 7DXzHNGSjjLIrrauaEX6xo
+      created_at: !ruby/object:DateTime 2019-05-06 20:04:54.233000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:04:54.233000000 Z
+      content_type_id: recommendation
+      revision: 1
+    page_title: Transparency and Honesty in Communications with Grantees
+    recommendation: Look for opportunities to model transparency and honesty in communications
+      with grantees. Greater transparency from funders around their own challenges
+      and failures will help grantees by reinforcing that their experiences are normal,
+      expected, and worthy of support, and will facilitate a more productive and beneficial
+      funding relationship for both parties.
+    recommendation_short: Transparency and Honesty in Communications with Grantees
+  - sys:
+      id: 1xnQafkeYLOxaZrpKvWs0s
+      created_at: !ruby/object:DateTime 2019-05-06 19:52:10.089000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-22 00:34:46.511000000 Z
+      content_type_id: recommendation
+      revision: 2
+    page_title: Alternative Models of Portfolio Support
+    recommendation: 'Explore alternative and more flexible models for non-financial
+      support, as opposed to taking board seats as a funder, e.g., create opportunities
+      for grantees to support each other through board participation with careful
+      consideration for possible conflicts of interest and power dynamics, or for
+      leaders of grantee organizations to pursue professional development. '
+    recommendation_short: Alternative Models of Portfolio Support
+  - sys:
+      id: F38G9F4X0cp3bRAxpm193
+      created_at: !ruby/object:DateTime 2019-05-06 20:02:56.461000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:02:56.461000000 Z
+      content_type_id: recommendation
+      revision: 1
+    page_title: Strategic and Financial Planning Support Post-Funding
+    recommendation: Consider providing strategic and financial planning support, particularly
+      focused on the post-funding phase.
+    recommendation_short: Strategic and Financial Planning Support Post-Funding
+  related_quotes:
+  - sys:
+      id: GDb4R70Pw45fl6owh7WhG
+      created_at: !ruby/object:DateTime 2019-05-06 20:15:52.905000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-22 00:30:27.636000000 Z
+      content_type_id: quote
+      revision: 2
+    quote: "“More than anything, we need \\[GCE] to help us find and hire talent.”"
+  - sys:
+      id: 81bICoX8Ilj36S4if6xXH
+      created_at: !ruby/object:DateTime 2019-05-06 20:16:02.322000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:16:02.322000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“They say we can always reach out, but don’t offer concrete opportunities
+      or office hours.”"
+  - sys:
+      id: 4NNKcvSkJNRFo3nEAwSWil
+      created_at: !ruby/object:DateTime 2019-05-06 20:16:14.505000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:16:14.505000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“I appreciate the signal boosting to share our story with a wider audience.”"
+  - sys:
+      id: 34RcQrlXolw4e86vwajut1
+      created_at: !ruby/object:DateTime 2019-05-06 20:16:24.185000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-22 00:31:51.128000000 Z
+      content_type_id: quote
+      revision: 2
+    quote: "“We accepted \\[GCE employee] on our board because we like and trust them.”"
+  - sys:
+      id: 2nhMQaFKE26GNJdgcKoMFQ
+      created_at: !ruby/object:DateTime 2019-05-06 20:16:39.503000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:16:39.503000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“We felt like \\[Luminate employee] did not represent our interests, they
+      represented \\[Luminate’s] interests.”"
+  - sys:
+      id: 2TNy6F4nLEfFbyAULVVvvu
+      created_at: !ruby/object:DateTime 2019-05-06 20:16:52.985000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:16:52.985000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“No. We don’t want them on a board. I’m not sure it makes sense to have
+      the org giving the money supervising how it’s spent. Isn’t that a conflict of
+      interest?”\n"
+- sys:
+    id: 4xrmz2cDxqIf97YYfahCQU
+    created_at: !ruby/object:DateTime 2019-05-22 00:41:30.693000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-22 00:41:30.693000000 Z
+    content_type_id: insight
+    revision: 1
+  page_title: Power Dynamics
+  insight_short: Power Dynamics
+  insight_title: Power dynamics, if not acknowledged, can affect the strength and
+    quality of funder-grantee relationships.
+  short_description: There are inherent power dynamics at play in funding relationships,
+    with funders holding a lot power and influence over grantees. Funders that acknowledge
+    and, as far as possible, work to address these dynamics, create stronger and more
+    successful relationships with their grantees.
+  featured_quote:
+    sys:
+      id: 3wnOWJsOwgD8YMQCkAToyf
+      created_at: !ruby/object:DateTime 2019-05-06 20:17:37.744000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:17:37.744000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“What they think is a friendly request can come across as a mandate.”"
+  long_description: |-
+    As with all funding relationships, GCE held the power in the funder-grantee relationship. But being aware and conscious of the effects of that power dynamic is an area where GCE could have done better, according to grantees: “in theory the money is open, but [GCE is] the least aware of the power and influence they have over their partners,” said one participant. The problems we heard stemming from this lack of awareness about power dynamics mainly fell into two categories.
+
+    First, participants mentioned to us that, when people who represented GCE made a request, they did not always feel able to respond with anything other than “yes,” fearing that seeming uncooperative might have a negative effect on their funding. This held true even when the request was presented as friendly or optional, or as personal rather than coming from GCE. Even people who feel confident about pushing back on topics directly related to their funding, like metrics, weren’t always willing to take the risk of pushing back on requests that seemed to be more personal or casual.
+
+    Second, we also heard from participants who felt that GCE had sometimes overstepped by contacting their networks. Speaking to people related to a particular organization is often a standard part of a funder’s due diligence process. When participants became aware of this due diligence after the fact, they often expressed feeling embarrassed and ashamed that their networks were contacted without their knowledge. These situations caused participants to worry that GCE had harmed their social capital by potentially presenting their organization in an unflattering or what they considered inaccurate light.
+
+    We heard from grantees that they often do not feel comfortable being honest about their areas of weakness in conversation with their ILs. When grantees conceal their weaknesses, it is sometimes motivated by the power differential at play. But it can also be motivated by respect and admiration. An individual who wants to be seen as successful and a strong asset to an organization they admire (e.g., Luminate) is not as likely to speak openly about problems.
+  related_theme:
+  - Trust & Power
+  - Funder Identity & Culture
+  related_recommendations:
+  - sys:
+      id: 28oni0f59XkxVXUTQLddD8
+      created_at: !ruby/object:DateTime 2019-05-06 20:08:04.235000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:08:04.235000000 Z
+      content_type_id: recommendation
+      revision: 1
+    page_title: Acknowledge Your Power
+    recommendation: Honestly and frankly acknowledge the power you hold in relation
+      to your grantees, as a prerequisite for building trust in relationships.
+    recommendation_short: Acknowledge Your Power
+  - sys:
+      id: 6kBDVIvZsVyTtNQgH47x3S
+      created_at: !ruby/object:DateTime 2019-05-06 20:08:42.565000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:08:42.565000000 Z
+      content_type_id: recommendation
+      revision: 1
+    page_title: Offer Genuine Space for Dialogue
+    recommendation: Offer genuine space for organizations to challenge and engage
+      in dialogue around requests, processes, funding requirements, and even strategy.
+    recommendation_short: Offer Genuine Space for Dialogue
+  - sys:
+      id: 6Hv0eFtakFZ2y9zbf0Xmyx
+      created_at: !ruby/object:DateTime 2019-05-06 20:10:26.044000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:10:26.044000000 Z
+      content_type_id: recommendation
+      revision: 1
+    page_title: Understanding and Communicating Power Systems
+    recommendation: Explore opportunities for training and professional development
+      around power systems and communication for staff, as a way to build awareness
+      and skills.
+    recommendation_short: Understanding and Communicating Power Systems
+  - sys:
+      id: 1xpFI6iZClNLmhFwWXnk8r
+      created_at: !ruby/object:DateTime 2019-05-06 20:10:49.223000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:10:49.223000000 Z
+      content_type_id: recommendation
+      revision: 1
+    page_title: Diversify Your Network
+    recommendation: Consider finding ways to diversify your network and the organizations
+      you fund, by, for example, intentionally engaging with organizations beyond
+      the types of entities and approaches that you are most familiar and comfortable
+      with, and questioning your frame of reference for what is ‘a fit.’
+    recommendation_short: Diversify Your Network
+  - sys:
+      id: 69Cd3AfVpw9mjYZVghjizc
+      created_at: !ruby/object:DateTime 2019-05-06 20:05:24.415000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:05:24.415000000 Z
+      content_type_id: recommendation
+      revision: 1
+    page_title: Iterative Feedback and Learning with Grantees
+    recommendation: Build in more opportunities for iterative feedback and learning
+      with grantees.
+    recommendation_short: Iterative Feedback and Learning with Grantees
+  - sys:
+      id: 7DXzHNGSjjLIrrauaEX6xo
+      created_at: !ruby/object:DateTime 2019-05-06 20:04:54.233000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:04:54.233000000 Z
+      content_type_id: recommendation
+      revision: 1
+    page_title: Transparency and Honesty in Communications with Grantees
+    recommendation: Look for opportunities to model transparency and honesty in communications
+      with grantees. Greater transparency from funders around their own challenges
+      and failures will help grantees by reinforcing that their experiences are normal,
+      expected, and worthy of support, and will facilitate a more productive and beneficial
+      funding relationship for both parties.
+    recommendation_short: Transparency and Honesty in Communications with Grantees
+  - sys:
+      id: wfKc9XecT9ZjuKOFNKvTi
+      created_at: !ruby/object:DateTime 2019-05-06 19:45:56.419000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-22 00:41:25.399000000 Z
+      content_type_id: recommendation
+      revision: 2
+    page_title: Clear, Collaborative Outputs
+    recommendation: Develop processes that are used consistently with all organizations,
+      providing a clear and collaborative route for creating tailored outputs – for
+      everyone, not just for organizations who proactively initiate this process.
+    recommendation_short: Clear, Collaborative Outputs
+  related_quotes:
+  - sys:
+      id: merH5JaNh2vv9RTTPGmNL
+      created_at: !ruby/object:DateTime 2019-05-06 20:17:49.350000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:17:49.350000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“\\[Contacting other people in my network on an issue like this without
+      involving me] was outrageous overstepping.”"
+  - sys:
+      id: dGOtbn79A6ViZbaJ8cGgR
+      created_at: !ruby/object:DateTime 2019-05-06 20:17:59.678000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:17:59.678000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“There’s some tone-deafness on questions of power.”"
+  - sys:
+      id: 4S9T6Zg6RxojX4zyHVB9Cj
+      created_at: !ruby/object:DateTime 2019-05-06 20:18:14.167000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:18:14.167000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“I can’t think of anybody doing a better job \\[at addressing power imbalances].
+      It’s a problem with the whole space.”"
+  - sys:
+      id: 5NrjdNoFsllv7KMQKtRI0d
+      created_at: !ruby/object:DateTime 2019-05-06 20:18:25.659000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:18:25.659000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“And that’s how I found myself on a plane to \\[the other side of the
+      world].”"
+  - sys:
+      id: 5MDzaxo7Xcfrh6RhfuJJBC
+      created_at: !ruby/object:DateTime 2019-05-06 20:18:34.040000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:18:34.040000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“It’s a very Silicon Valley VC-style culture. Macho.”"
+  - sys:
+      id: 7uwgKulMq36Yz5YvOnzeU7
+      created_at: !ruby/object:DateTime 2019-05-06 20:18:50.473000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:18:50.473000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“\\[When asked by ON] I responded that something ‘wasn’t in our roadmap.’
+      But I didn’t ask them: should it be? I don’t know!”"
+- sys:
+    id: 2bwSfmkxe2O5t2tDHQt2vs
+    created_at: !ruby/object:DateTime 2019-05-22 00:45:11.624000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-22 00:45:11.624000000 Z
+    content_type_id: insight
+    revision: 1
+  page_title: Funder Reputation
+  insight_short: Funder Reputation
+  insight_title: A funder’s reputation impacts the funder-grantee relationship.
+  short_description: In addition to providing an organization needed resources, a
+    funding relationship establishes a public connection between the grantee and the
+    funder, which can provide meaningful validation or, in some cases, bring up reputational
+    challenges for grantees.
+  featured_quote:
+    sys:
+      id: 66TMu2qFtfrcXHhe9ZtZmo
+      created_at: !ruby/object:DateTime 2019-05-06 20:19:05.084000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:19:05.085000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“Their stamp of approval means a lot.”"
+  long_description: |+
+    In regions where Omidyar Network (ON) is established, receiving funding can mark an organization as stable, competent, professional, and committed to measurable impact. In regions where ON is less established, the funding can label an organization as either a rising star or as one of the top players in the field. The ON stamp of approval has the potential to make organizations much more attractive to other funders. Participants were aware that other funding decisions appear to be and can be influenced by receiving ON funding. As this research was conducted prior the launch of Luminate's brand, it is important to note that the brand and reputation that is spoken of is tied strongly to the name “Omidyar” (ON).
+
+    In contrast, many participants expressed concerns that the optics of their organization publically accepting support from a “Silicon Valley” funder could be a liability, particularly in contexts hostile to capitalism or corporate donors (e.g., social projects that are critical of free-market liberalism, or media projects critical of big tech). These concerns have been heightened due to global tensions around philanthropy, influence and power.
+
+
+  related_theme:
+  - Trust & Power
+  - Funder Identity & Culture
+  related_recommendations:
+  - sys:
+      id: 60zNrJKfHNEWML0tpY6KlI
+      created_at: !ruby/object:DateTime 2019-05-06 20:07:36.214000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:07:36.214000000 Z
+      content_type_id: recommendation
+      revision: 1
+    page_title: Clearly Communicate Your Identity
+    recommendation: Clearly communicate your identity, where the cultural roots of
+      your funding approach lie, and how those inform your strategies and practices.
+      A section on “how we work” or “impact model” detailing the funding approach
+      should be added to communications about mission and values.
+    recommendation_short: Clearly Communicate Your Identity
+  - sys:
+      id: 59J8XvABHc0OSDJ4D2BLBc
+      created_at: !ruby/object:DateTime 2019-05-06 19:44:39.071000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 19:44:39.072000000 Z
+      content_type_id: recommendation
+      revision: 1
+    page_title: Strategic Priorities
+    recommendation: Be transparent about your strategic priorities, and keep grantees
+      informed as to how they may be changing.
+    recommendation_short: Strategic Priorities
+  related_quotes:
+  - sys:
+      id: 4ePwpIP3rz9hI5C97RZQGa
+      created_at: !ruby/object:DateTime 2019-05-06 20:19:15.346000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:19:15.346000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“Their funding shows that we’re one of the good guys.”"
+  - sys:
+      id: 5S3fiuUUe4ki66dr83g4ip
+      created_at: !ruby/object:DateTime 2019-05-06 20:19:27.417000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:19:27.417000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“Having the Omidyar name attached to us is tremendously important. It’s
+      a wonderful asset that builds instant credibility in the space.”"
+  - sys:
+      id: 1xvc0UnV1TKVFEsZ5Vy2Pv
+      created_at: !ruby/object:DateTime 2019-05-06 20:19:41.901000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:19:41.901000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“The Omidyar name is highly respected and has protected us during difficult
+      times.”"
+  - sys:
+      id: 297YKfrQmzGlz5zD0UwsEI
+      created_at: !ruby/object:DateTime 2019-05-06 20:19:51.677000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:19:51.677000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“Our human-rights work has good overlap, but in terms of general values?
+      They are too Libertarian.”"
+  - sys:
+      id: 7jw6eAULmrLsVx6IVFcDSn
+      created_at: !ruby/object:DateTime 2019-05-06 20:20:06.593000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:20:06.593000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“\\[X] funding comes with some liability, but ON doesn’t have the name
+      recognition \\[outside the US] for that to be a risk. Yet.”"
+- sys:
+    id: XVD1SkpJyjScJv1XiJIti
+    created_at: !ruby/object:DateTime 2019-05-22 00:51:13.658000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-22 00:51:13.658000000 Z
+    content_type_id: insight
+    revision: 1
+  page_title: Diversity, Equity, and Inclusion
+  insight_short: Diversity, Equity, and Inclusion
+  insight_title: A lack of transparency around how diversity, equity and inclusion
+    (DEI) is valued and integrated into a funder’s work can lead to questions about
+    a funder’s commitment to DEI.
+  short_description: Funders need to be transparent about how diversity, equity and
+    inclusion (DEI) are valued and integrated internally in order to authentically
+    engage grantees on these issues. Not doing so can lead organizations to question
+    the funder’s commitment to DEI, and the extent to which DEI informs organizational
+    culture and plays into both funding and internal processes.
+  featured_quote:
+    sys:
+      id: 30DuPnQlKTbSnFb1q3wheD
+      created_at: !ruby/object:DateTime 2019-05-06 20:20:16.368000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:20:16.368000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“They’re not attuned to equity issues, and sometimes come off as dismissive.”"
+  long_description: "Interviewees mentioned in multiple contexts that GCE did not
+    appear to them to be committed to diversity, equity, and inclusion (DEI). Organizations
+    questioned whether and how DEI played into the funding process and GCE’s internal
+    practices.\n\nParticipants would welcome a more direct and transparent approach
+    to the values of DEI at Luminate. Participants sometimes ascribed frustration
+    with systemic discrimination problems happening in Silicon Valley onto GCE as
+    well, due to their perception that GCE’s approach was aligned with more negative
+    aspects of Silicon Valley’s cutlure. Some participants even spoke about not bringing
+    up DEI-related issues with GCE, saying that they didn’t think GCE would be able
+    to help or even understand. For these participants, their perception of GCE was
+    of an organization that was heteronormative, white, and male.\n\nSeveral participants
+    also found it noteworthy that there was no diversity data on the Omidyar Network
+    / GCE website. They also remarked on the fact that the team did not ask for any
+    diversity data during the investment process.\n\nParticipants were generally aware
+    that GCE used DEI considerations in their assessment of an organization, but it
+    seems that not all ILs involve grantees in the collection or reporting of that
+    information about the organization.\n\n__NOTES:__ \n\nTransparency is a key component
+    to fostering an equitable playing field amongst grantees. Transparency ensures
+    that information about funding processes and supports are made clear to all, rather
+    than offered through informal channels only to grantees in a social position to
+    initiate a discussion or inquiry.\n\nLuminate offers direct support around diversity,
+    equity, and inclusion—e.g., in the form of diversity consultants\" works\n\n\n"
+  related_theme:
+  - Trust & Power
+  - Funder Identity & Culture
+  related_recommendations:
+  - sys:
+      id: VQ7OXAIvpXWtiSY3oWE89
+      created_at: !ruby/object:DateTime 2019-05-06 20:06:24.054000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:06:24.054000000 Z
+      content_type_id: recommendation
+      revision: 1
+    page_title: Be Explicit About the Role DEI Plays
+    recommendation: Be explicit about the role DEI plays in your organization and
+      how you are integrating DEI-related efforts and considerations into your funding
+      approach, strategies and external relationships.
+    recommendation_short: Be Explicit About the Role DEI Plays
+  - sys:
+      id: 1xpFI6iZClNLmhFwWXnk8r
+      created_at: !ruby/object:DateTime 2019-05-06 20:10:49.223000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:10:49.223000000 Z
+      content_type_id: recommendation
+      revision: 1
+    page_title: Diversify Your Network
+    recommendation: Consider finding ways to diversify your network and the organizations
+      you fund, by, for example, intentionally engaging with organizations beyond
+      the types of entities and approaches that you are most familiar and comfortable
+      with, and questioning your frame of reference for what is ‘a fit.’
+    recommendation_short: Diversify Your Network
+  - sys:
+      id: 59J8XvABHc0OSDJ4D2BLBc
+      created_at: !ruby/object:DateTime 2019-05-06 19:44:39.071000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 19:44:39.072000000 Z
+      content_type_id: recommendation
+      revision: 1
+    page_title: Strategic Priorities
+    recommendation: Be transparent about your strategic priorities, and keep grantees
+      informed as to how they may be changing.
+    recommendation_short: Strategic Priorities
+  - sys:
+      id: wfKc9XecT9ZjuKOFNKvTi
+      created_at: !ruby/object:DateTime 2019-05-06 19:45:56.419000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-22 00:41:25.399000000 Z
+      content_type_id: recommendation
+      revision: 2
+    page_title: Clear, Collaborative Outputs
+    recommendation: Develop processes that are used consistently with all organizations,
+      providing a clear and collaborative route for creating tailored outputs – for
+      everyone, not just for organizations who proactively initiate this process.
+    recommendation_short: Clear, Collaborative Outputs
+  - sys:
+      id: 7ifyzI6bOqUiTn5aXg2Ac8
+      created_at: !ruby/object:DateTime 2019-05-02 23:39:19.396000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 19:46:43.544000000 Z
+      content_type_id: recommendation
+      revision: 2
+    page_title: Clarify the Funding Process
+    recommendation: 'Clarify the steps, inputs and outputs of the funding process,
+      and the process for accessing alternative types of support. Pay particular attention
+      to communicating what is required from the grantee early on in the process. '
+    recommendation_short: Clarify Steps
+  - sys:
+      id: 7HaggMuTZVQo9qMqqiQvJi
+      created_at: !ruby/object:DateTime 2019-05-02 23:38:31.638000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 19:43:23.125000000 Z
+      content_type_id: recommendation
+      revision: 2
+    page_title: Clarify Roles and Responsibilities
+    recommendation: Clarify roles and responsibilities of key people involved in relationship
+      management with the grantee. This is particularly important for creating a deep
+      and trusting relationship and provides clarity over who the prospective grantee
+      should direct questions to.
+    recommendation_short: Clarify Roles and Resposibilities
+  - sys:
+      id: 64aVefaJYpSHSj8GnNRqZj
+      created_at: !ruby/object:DateTime 2019-05-06 19:48:06.481000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-22 00:35:02.001000000 Z
+      content_type_id: recommendation
+      revision: 3
+    page_title: Alternative Portfolio Support Availability
+    recommendation: Clarify what alternative types of portfolio support are available
+      to grantees, why it is being offered, and particularly how this support is intended
+      to help achieve the organization's goals.
+    recommendation_short: Alternative Portfolio Support Availability
+  - sys:
+      id: 60zNrJKfHNEWML0tpY6KlI
+      created_at: !ruby/object:DateTime 2019-05-06 20:07:36.214000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:07:36.214000000 Z
+      content_type_id: recommendation
+      revision: 1
+    page_title: Clearly Communicate Your Identity
+    recommendation: Clearly communicate your identity, where the cultural roots of
+      your funding approach lie, and how those inform your strategies and practices.
+      A section on “how we work” or “impact model” detailing the funding approach
+      should be added to communications about mission and values.
+    recommendation_short: Clearly Communicate Your Identity
+  related_quotes:
+  - sys:
+      id: 3i4giERzhEAlu9iL9AG5UV
+      created_at: !ruby/object:DateTime 2019-05-06 20:20:27.447000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:20:27.447000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“I’m just not sure they’re the right group to help with \\[our sensitive
+      DEI issue].”"
+- sys:
+    id: 5mwetRON9oTpEGQ6800wJP
+    created_at: !ruby/object:DateTime 2019-05-22 00:54:05.065000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-22 00:54:05.065000000 Z
+    content_type_id: insight
+    revision: 1
+  page_title: Funder Roles
+  insight_short: Funder Roles
+  insight_title: When funders wear multiple hats — as individual advocates as well
+    as representatives of a funding organization — it can be unclear which role the
+    funder is playing at any given time.
+  short_description: The power dynamic of the funder-grantee relationship is always
+    present, even when the individuals from organizations are interacting in other
+    contexts. If funders are also going to be active in the spaces where their grantees
+    work, then they need to clearly communicate which role they are in, so as not
+    to unintentionally overstep or blur the funder-grantee relationship.
+  featured_quote:
+    sys:
+      id: 1geCI5voNUgUdaG99anpVx
+      created_at: !ruby/object:DateTime 2019-05-06 20:20:41.487000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:20:41.487000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“You can’t participate in civil society if you are a funder. You never
+      get more than 50% of what is going on.”"
+  long_description: |
+    The confusion was exacerbated by the fact that GCE saw itself as an “operational funder” (and still does as Luminate). This can be broadly defined as a funding organization that engages in direct advocacy as well as also supporting the policy and advocacy goals of organizations in the field.
+
+    Challenges arose when members of GCE’s staff were seen to be wearing multiple hats – as individual advocates as well as representatives of a funding organization. When individual staff express support for something, people hearing it are not always able to determine if the statement of support means 1) this is interesting work that someone should be doing that aligns with GCE’s priorities, 2) this is a priority for a direct operational play by GCE, or 3) this is critical to the social-political moment in general.
+
+    Some participants voiced concerns about funders also acting as advocates, as funders naturally have a position of power in the space and have access to knowledge not available to other advocates. Others pointed out that GCE’s success depended on its staff taking the time to develop very clear opinions and stances on particular issues, which naturally leads to a more “activist” position.
+  related_theme:
+  - Funding Approach & Process
+  - Funder Identity & Culture
+  related_recommendations:
+  - sys:
+      id: 3qucwEc0fp3r4YKIAFlb74
+      created_at: !ruby/object:DateTime 2019-05-06 19:55:18.323000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 19:55:18.323000000 Z
+      content_type_id: recommendation
+      revision: 1
+    page_title: Be Explicit About Roles
+    recommendation: Be explicit about which role you are playing at a given time (as
+      both a funder and advocate in the field), understand where the boundaries of
+      that role lie, and be aware of the conflict that may crop up when switching
+      roles. This is relevant both in private (e.g. in a conversation with a prospective
+      grantee) and in public (e.g. when writing a whitepaper).
+    recommendation_short: Be Explicit About Roles
+  related_quotes:
+  - sys:
+      id: 3knLXVHmeLPFpcVK2tKn1Z
+      created_at: !ruby/object:DateTime 2019-05-06 20:20:49.558000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:20:49.558000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“Social change is political.”"
+  - sys:
+      id: yiHOAVE4yQUolNzGUO2ej
+      created_at: !ruby/object:DateTime 2019-05-06 20:21:02.499000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:21:02.499000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“What is the end game here? Building effective organizations, or political
+      change through supporting organizations?”"
+  - sys:
+      id: 4xkfoAR8yJp4VkSGxFiHe9
+      created_at: !ruby/object:DateTime 2019-05-06 20:21:11.363000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:21:11.363000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“They really encourage their ILs to ask questions, talk to a lot of people,
+      and dig into an issue before committing to a strategy and a set of grants.”"
+  - sys:
+      id: 5xxfziNOEuw7Jhjt2NKvUu
+      created_at: !ruby/object:DateTime 2019-05-06 20:21:23.704000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:21:23.704000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: "“This is \\[Luminate’s] moment. If they’re willing to step up, they could
+      have huge potential in this sector.”"
+  - sys:
+      id: 34uS6ZgZNuiL6qLrXOyIOs
+      created_at: !ruby/object:DateTime 2019-05-06 20:21:39.777000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:21:39.777000000 Z
+      content_type_id: quote
+      revision: 1
+    quote: '"\[Luminate] has tremendous potential to be a major influence in the philanthropic
+      and advocacy space and I encourage them to seize the moment!"'

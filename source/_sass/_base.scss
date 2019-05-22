@@ -71,6 +71,7 @@ footer {
     @include breakpoint($medium-only) {
       padding-bottom: 3rem;
     }
+    
     p {
       @include breakpoint($large) {
         padding-right: 3rem;
@@ -78,6 +79,10 @@ footer {
       @include breakpoint($between-large) {
         padding-right: 2rem;
       }
+    }
+
+    img {
+      width: 13rem;
     }
   }
 

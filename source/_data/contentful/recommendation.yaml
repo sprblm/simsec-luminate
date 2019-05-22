@@ -69,49 +69,49 @@ recommendation:
 - sys:
     id: wfKc9XecT9ZjuKOFNKvTi
     created_at: !ruby/object:DateTime 2019-05-06 19:45:56.419000000 Z
-    updated_at: !ruby/object:DateTime 2019-05-06 19:45:56.419000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-22 00:41:25.399000000 Z
     content_type_id: recommendation
-    revision: 1
+    revision: 2
   page_title: Clear, Collaborative Outputs
-  recommendation: Develop processes that are used consistently with all potential
-    grantees, providing a clear and collaborative route for creating tailored outputs
-    – for everyone, not just for organizations who proactively initiate this process.
+  recommendation: Develop processes that are used consistently with all organizations,
+    providing a clear and collaborative route for creating tailored outputs – for
+    everyone, not just for organizations who proactively initiate this process.
   recommendation_short: Clear, Collaborative Outputs
 - sys:
     id: 64aVefaJYpSHSj8GnNRqZj
     created_at: !ruby/object:DateTime 2019-05-06 19:48:06.481000000 Z
-    updated_at: !ruby/object:DateTime 2019-05-06 19:48:06.481000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-22 00:35:02.001000000 Z
     content_type_id: recommendation
-    revision: 1
-  page_title: Alternative Non-Financial Support Availability
-  recommendation: Clarify what alternative types of non-financial support are available
+    revision: 3
+  page_title: Alternative Portfolio Support Availability
+  recommendation: Clarify what alternative types of portfolio support are available
     to grantees, why it is being offered, and particularly how this support is intended
     to help achieve the organization's goals.
-  recommendation_short: Alternative Non-Financial Support Availability
+  recommendation_short: Alternative Portfolio Support Availability
 - sys:
     id: 1xnQafkeYLOxaZrpKvWs0s
     created_at: !ruby/object:DateTime 2019-05-06 19:52:10.089000000 Z
-    updated_at: !ruby/object:DateTime 2019-05-06 19:52:10.089000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-22 00:34:46.511000000 Z
     content_type_id: recommendation
-    revision: 1
-  page_title: Alternative Models of Non-Financial Support
+    revision: 2
+  page_title: Alternative Models of Portfolio Support
   recommendation: 'Explore alternative and more flexible models for non-financial
     support, as opposed to taking board seats as a funder, e.g., create opportunities
     for grantees to support each other through board participation with careful consideration
     for possible conflicts of interest and power dynamics, or for leaders of grantee
     organizations to pursue professional development. '
-  recommendation_short: Alternative Models of Non-Financial Support
+  recommendation_short: Alternative Models of Portfolio Support
 - sys:
     id: 5hKYhindU3pFFpe3q13egX
     created_at: !ruby/object:DateTime 2019-05-06 19:53:13.347000000 Z
-    updated_at: !ruby/object:DateTime 2019-05-06 19:53:13.347000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-22 00:33:55.419000000 Z
     content_type_id: recommendation
-    revision: 1
-  page_title: Non-Financial Support Autonomy
+    revision: 4
+  page_title: Portfolio Support Autonomy
   recommendation: Give grantees more autonomy and choice when taking advantage of
-    additional non-financial support e.g., by giving them ownership over who to work
-    with and under what terms. Have clear guidelines around privacy and NDAs with
-    the vendors.
+    additional portfolio support e.g., by giving them ownership over who to work with
+    and under what terms. Have clear guidelines around privacy and NDAs with the vendors.
+  recommendation_short: Portfolio Support Autonomy
 - sys:
     id: 739159sAxh2eiycKRBdOfz
     created_at: !ruby/object:DateTime 2019-05-06 19:54:02.811000000 Z
@@ -178,14 +178,14 @@ recommendation:
 - sys:
     id: 7r9IEjpcUzDMCCofBKuFn0
     created_at: !ruby/object:DateTime 2019-05-06 19:59:56.990000000 Z
-    updated_at: !ruby/object:DateTime 2019-05-06 19:59:56.990000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-22 00:24:27.100000000 Z
     content_type_id: recommendation
-    revision: 1
+    revision: 2
   page_title: Align Metrics with Existing MEL Frameworks
   recommendation: 'Where possible, align metrics with organizations’ existing frameworks
     for monitoring, evaluation, and learning (MEL), and where organizations lack a
     coherent MEL framework, consider offering support in building out MEL within the
-    organization (as part of the grant or in the form of non-financial support). '
+    organization (as part of the grant or in the form of portfolio support). '
   recommendation_short: Align Metrics with Existing MEL Frameworks
 - sys:
     id: 4rrf45WE74ntAJMLgn8ulC
@@ -378,3 +378,46 @@ recommendation:
   - Non-financial support
   theme_tag:
   - Trust & Power
+- sys:
+    id: 25uIG8E7r2TQ3F7ykBzVwn
+    created_at: !ruby/object:DateTime 2019-05-22 00:15:01.670000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-22 00:15:01.670000000 Z
+    content_type_id: recommendation
+    revision: 1
+  page_title: Core funding and flexibility
+  recommendation: __Provide core funding where possible, and build flexibility__ in
+    the grant structures to allow the grantee to develop sustainable organizational
+    practices and resiliency.
+  recommendation_short: Core funding and flexibility
+  insight_tag:
+  - Multi-year flexible funding
+  theme_tag:
+  - Trust & Power
+  - Funder Identity & Culture
+- sys:
+    id: 4rjSbRM4lt2De5UTonoVjK
+    created_at: !ruby/object:DateTime 2019-05-22 00:15:50.789000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-22 00:15:50.789000000 Z
+    content_type_id: recommendation
+    revision: 1
+  page_title: Alternative funding models
+  recommendation: Where appropriate, explore __alternative funding models__ in collaboration
+    with your grantees, to help alleviate dependency on philanthropic funding, and
+    build operational sustainability.
+  recommendation_short: Alternative funding models
+  theme_tag:
+  - Trust & Power
+  - Funder Identity & Culture
+- sys:
+    id: TIxnVzPScmMILBZuIWVaE
+    created_at: !ruby/object:DateTime 2019-05-22 00:16:29.817000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-22 00:16:29.817000000 Z
+    content_type_id: recommendation
+    revision: 1
+  page_title: Invest in organizational health
+  recommendation: Take steps to invest in the organizational health of your grantees,
+    beyond individual projects.
+  recommendation_short: Invest in organizational health
+  theme_tag:
+  - Trust & Power
+  - Funder Identity & Culture

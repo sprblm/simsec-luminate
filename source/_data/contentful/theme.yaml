@@ -3,18 +3,18 @@ theme:
 - sys:
     id: 666PnBCNhmJSqTmSlwuxvU
     created_at: !ruby/object:DateTime 2019-05-03 00:03:15.224000000 Z
-    updated_at: !ruby/object:DateTime 2019-05-03 00:06:33.533000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-22 00:58:20.743000000 Z
     content_type_id: theme
-    revision: 2
+    revision: 4
   page_title: Funding Approach & Process
   theme_icon:
     sys:
-      id: 435OrUIAlvybJxrX7zfNo2
-      created_at: !ruby/object:DateTime 2019-05-03 00:06:26.052000000 Z
-      updated_at: !ruby/object:DateTime 2019-05-03 00:06:26.052000000 Z
-    title: placeholder-icon
+      id: 5kmFth4ON4LU72v6YChH6q
+      created_at: !ruby/object:DateTime 2019-05-21 23:47:46.834000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-21 23:47:46.834000000 Z
+    title: approach-process-black
     description: 
-    url: "//images.ctfassets.net/h8kgu1arvxtu/435OrUIAlvybJxrX7zfNo2/697d8954137c4e6bdc8c3ade63b572c5/baseline-healing-24px.svg"
+    url: "//images.ctfassets.net/h8kgu1arvxtu/5kmFth4ON4LU72v6YChH6q/7fdcc47b5070ecd6fdbfad85f7bc7162/approach-process-black.svg"
   short_description: How do funder practices and processes affect grantees? How sensitive
     is the funding process to the needs and constraints of grantees? Which aspects
     are particularly challenging?
@@ -96,21 +96,383 @@ theme:
         id: 6t7fk8pkX6EVlOT6xiIsYF
     - sys:
         id: 7LfV2Gpsb1uxAHZ87vhfDz
+  - sys:
+      id: 5mwetRON9oTpEGQ6800wJP
+      created_at: !ruby/object:DateTime 2019-05-22 00:54:05.065000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-22 00:54:05.065000000 Z
+      content_type_id: insight
+      revision: 1
+    page_title: Funder Roles
+    insight_short: Funder Roles
+    insight_title: When funders wear multiple hats — as individual advocates as well
+      as representatives of a funding organization — it can be unclear which role
+      the funder is playing at any given time.
+    short_description: The power dynamic of the funder-grantee relationship is always
+      present, even when the individuals from organizations are interacting in other
+      contexts. If funders are also going to be active in the spaces where their grantees
+      work, then they need to clearly communicate which role they are in, so as not
+      to unintentionally overstep or blur the funder-grantee relationship.
+    featured_quote:
+      sys:
+        id: 1geCI5voNUgUdaG99anpVx
+    long_description: |
+      The confusion was exacerbated by the fact that GCE saw itself as an “operational funder” (and still does as Luminate). This can be broadly defined as a funding organization that engages in direct advocacy as well as also supporting the policy and advocacy goals of organizations in the field.
+
+      Challenges arose when members of GCE’s staff were seen to be wearing multiple hats – as individual advocates as well as representatives of a funding organization. When individual staff express support for something, people hearing it are not always able to determine if the statement of support means 1) this is interesting work that someone should be doing that aligns with GCE’s priorities, 2) this is a priority for a direct operational play by GCE, or 3) this is critical to the social-political moment in general.
+
+      Some participants voiced concerns about funders also acting as advocates, as funders naturally have a position of power in the space and have access to knowledge not available to other advocates. Others pointed out that GCE’s success depended on its staff taking the time to develop very clear opinions and stances on particular issues, which naturally leads to a more “activist” position.
+    related_theme:
+    - Funding Approach & Process
+    - Funder Identity & Culture
+    related_recommendations:
+    - sys:
+        id: 3qucwEc0fp3r4YKIAFlb74
+    related_quotes:
+    - sys:
+        id: 3knLXVHmeLPFpcVK2tKn1Z
+    - sys:
+        id: yiHOAVE4yQUolNzGUO2ej
+    - sys:
+        id: 4xkfoAR8yJp4VkSGxFiHe9
+    - sys:
+        id: 5xxfziNOEuw7Jhjt2NKvUu
+    - sys:
+        id: 34uS6ZgZNuiL6qLrXOyIOs
+  - sys:
+      id: 3iOxgGnCFSOPnKE3re9mfA
+      created_at: !ruby/object:DateTime 2019-05-22 00:18:59.931000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-22 00:18:59.931000000 Z
+      content_type_id: insight
+      revision: 1
+    page_title: Multi-year Flexible Funding
+    insight_short: Multi-year Flexible Funding
+    insight_title: Multi-year flexible funding is extremely valued.
+    short_description: Core funding, i.e., non-earmarked, general operating support,
+      can be difficult to secure from foundations, but the flexibility it gives to
+      organizations working in complex and changing circumstances is essential to
+      their success.
+    featured_quote:
+      sys:
+        id: LNOZT8fINf8ZmwlX54d1P
+    long_description: "Grantees receiving core funding expressed that they felt it
+      represented GCE committing to investing in their organizations, helping them
+      expand beyond their current spheres of influence, building and strengthening
+      organizational capacity, and becoming lasting, sustainable contributors to the
+      field. \n\nWe heard many examples of organizations reported scrambling to meet
+      the additional requirements of detailed project-based proposals while trying
+      to “keep the lights on” in their day-to-day operations. \n\nHowever, participants
+      who received core funding reflected on the value of such holistic support in
+      helping strengthen organizational health. This stood out in the non-profit sector
+      as a highly valuable contribution that is much appreciated. \n"
+    related_theme:
+    - Funding Approach & Process
+    related_recommendations:
+    - sys:
+        id: 25uIG8E7r2TQ3F7ykBzVwn
+    - sys:
+        id: 4rjSbRM4lt2De5UTonoVjK
+    - sys:
+        id: TIxnVzPScmMILBZuIWVaE
+    related_quotes:
+    - sys:
+        id: 4Pa5ZE4CHk5AZgzXXFQh0u
+    - sys:
+        id: 3SevOE4e5sL3QYzPAQji2L
+    - sys:
+        id: 41WsemYOpy4zTDPcUUli2c
+  - sys:
+      id: 1mz5qNxgvkUfCHUN72zORV
+      created_at: !ruby/object:DateTime 2019-05-22 00:35:36.623000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-22 00:35:36.623000000 Z
+      content_type_id: insight
+      revision: 1
+    page_title: Portfolio Support
+    insight_short: Portfolio Support
+    insight_title: Grantees are interested in, and looking for portfolio support,
+      and would like more clarity, autonomy, and choice in how they access and receive
+      that support.
+    short_description: Grantees have many organizational health needs that can be
+      met by connecting them with the right resources, such as other organizations,
+      consultants, services, mentors or vendors. However, it is important that the
+      process for accessing this support and the context in which it is provided is
+      clear, to avoid it being seen as punitive.
+    featured_quote:
+      sys:
+        id: 81bICoX8Ilj36S4if6xXH
+    long_description: |+
+      Participants expressed interest in the following support areas:
+
+      - Recruiting and hiring: Growth and scaling are important concerns for many of our respondents, and in some cases “growth” is understood to mean hiring people to help meet metrics. Non-profit organizations see a need for active recruiting and hiring support.
+      - Financial management: Both survey respondents and interview participants strongly agreed that GCE had expertise in financial management.
+      - Fundraising: 88% of survey respondents indicated that fundraising support was extremely desirable.
+      - Networking, outreach and community development: Interview participants appreciated the sense of belonging that came from attending GCE gatherings and viewed access to other grantees as valuable. They also appreciated when GCE helped to expand their reach, e.g., on social media by "signal boosting" or promoting their work.
+      - Evaluation and audits: Organizations that have undergone an evaluation or audit generally reported positive experiences.
+
+      Knowing that this kind of additional support existed wasn’t enough for organizations to feel that GCE was meeting their specific needs, because there was no framework for taking advantage of the offers.
+
+      Some participants expressed concerns about accepting alternative portfolio support from GCE, due to the power difference inherent in the funding relationship and the implications of admitting weakness to a funder. Their concerns ranged from not being able to pick or change who the service provider is to wondering if the service provider would “spy” on them and report weaknesses to GCE.
+
+      These concerns were tied to participants not having clarity about why support was being offered and to what end – was it because GCE was keen to help proactively build organizational capacity, or was it because they were performing badly and GCE was intervening? This concern may indicate a lack of underlying trust; some participants indicated that they could not be sure that GCE had their best interests in mind, and therefore were hesitant to share challenges or accept support.
+
+      In the past, GCE ILs have provided portfolio support by taking seats on select grantees' boards. This is a unique practice in the non-profit funding sector, and was generally met with skepticism. Over one-third of survey respondents believed that the practice of GCE holding board seats was not at all helpful for their organization. Their reasons included fear of sharing internal problems with a funder present, power or knowledge asymmetry, negative perceptions by third parties of having a funder on the board, and concerns that representing GCE’s interests would take priority over acting in the grantee’s best interest. There was a qualitative difference in the sentiments of those observing the practice of GCE taking board seats and those experiencing it. Survey respondents who had a member of GCE staff on their board, viewed this participation more positively than those respondents who didn't.
+
+      There was a positive correlation between GCE's participation on an organization's board and that organization's perception of the ease of communication with GCE. Leaders of organizations with a board member or observer felt much more comfortable asking for help, implying a closer relationship and more open channels of communication.
+
+      What most organizations appreciated from board members was strategic advice, operational support, and connections to the ecosystem.
+
+
+    related_theme:
+    - Funding Approach & Process
+    - Trust & Power
+    related_recommendations:
+    - sys:
+        id: 64aVefaJYpSHSj8GnNRqZj
+    - sys:
+        id: 5hKYhindU3pFFpe3q13egX
+    - sys:
+        id: 7DXzHNGSjjLIrrauaEX6xo
+    - sys:
+        id: 1xnQafkeYLOxaZrpKvWs0s
+    - sys:
+        id: F38G9F4X0cp3bRAxpm193
+    related_quotes:
+    - sys:
+        id: GDb4R70Pw45fl6owh7WhG
+    - sys:
+        id: 81bICoX8Ilj36S4if6xXH
+    - sys:
+        id: 4NNKcvSkJNRFo3nEAwSWil
+    - sys:
+        id: 34RcQrlXolw4e86vwajut1
+    - sys:
+        id: 2nhMQaFKE26GNJdgcKoMFQ
+    - sys:
+        id: 2TNy6F4nLEfFbyAULVVvvu
+  - sys:
+      id: 4zcMXjfMSLsPoJwQAEzWXZ
+      created_at: !ruby/object:DateTime 2019-05-22 00:26:06.129000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-22 00:26:17.457000000 Z
+      content_type_id: insight
+      revision: 2
+    page_title: Reporting and Metrics
+    insight_short: Reporting and Metrics
+    insight_title: Reporting and metrics are not always perceived as useful and valuable
+      to grantees.
+    short_description: Co-designing metrics and reporting formats to be specific to
+      the needs of the grantee can lead to more meaningful and valuable impact measurement
+      for both funders and grantees.
+    featured_quote:
+      sys:
+        id: 244ICJBBqDVOOvWwisIEgi
+    long_description: "### Reporting Processes\n\nIn the best case, quarterly and
+      annual reports serve as much more than just an update or checkup. Reporting
+      can be an integral part of creating a common understanding of the organization’s
+      goals and core mission. Some participants stated that creating reports helped
+      them hone their organizational focus.\n\nBut in other cases, reporting was seen
+      as busy work that takes time away from what organizations saw as their “real
+      work.” These participants viewed the report as a deliverable external to their
+      organizational goals. This group also expressed doubts about the utility of
+      their reports to GCE, since they rarely heard feedback after submitting reports.\n\nAmong
+      the people who were the most satisfied with reports, many of them had negotiated
+      a reporting format that worked for them. For example, some organizations sent
+      one standardized report to all of their funders, so they didn’t have to spend
+      time preparing multiple reports. Others worked with GCE to develop a specific
+      format that best fit both their needs and GCE’s. We noticed that the organizations
+      who took the initiative to make reporting work well for them were more likely
+      to see the real outcome as not the report itself, but as a benefit to their
+      organization’s health. On average, organizations reported that narrative reports
+      are more cumbersome to produce than financial reports, but almost all respondents
+      felt narrative reports were a clearer reflection of the organization. \n\n###
+      Metrics & Benchmarks\n\nWhen we explored the topic of reporting with interviewees,
+      the conversation often turned to the metrics that are, for organizations, tightly
+      linked with reporting.\n\nMost organizations had experience with impact measurement
+      of some kind, though sometimes at a less rigorous level than GCE's standards.
+      As with reporting formats, participants who pushed back on initial metrics,
+      and as a result collaborated to create metrics they found more meaningful and
+      useful, were the most satisfied and positive about their metrics. The chance
+      to create impact metrics together with GCE was described as a helpful learning
+      experience. In particular, some participants noted the value of being exposed
+      to learning measurement techniques associated with the commercial sector.\n\nThe
+      negative comments about metrics came from participants who felt that metrics
+      were handed to them without opportunities for discussion and revision, and thus
+      were neither reasonable nor applicable to their strategy and impact model. One
+      participant noted that they were “burdened with measurable but unfair metrics
+      and expectations.” Another commented that meeting metrics would only be possible
+      if they behaved unethically. These organizations generally saw metrics as a
+      way to quantitatively describe outputs, rather than a way to monitor outcomes.\n\n"
+    related_theme:
+    - Funding Approach & Process
+    - Assessing Impact
+    related_recommendations:
+    - sys:
+        id: 6usDyH5dFIPdiew4HipTs3
+    - sys:
+        id: 017p3qzOAZnrMjC3a5awyi
+    - sys:
+        id: 7r9IEjpcUzDMCCofBKuFn0
+    - sys:
+        id: 4rrf45WE74ntAJMLgn8ulC
+    - sys:
+        id: 6CtHXkA7chCdYrtQerM3aD
+    - sys:
+        id: 2jPpX1aCPfGnLCldon7zAv
+    - sys:
+        id: 62AGKdvAhcnb1F3VjxmNFo
+    - sys:
+        id: 5TrkIP1GfMYitT6ZyrOPiM
+    related_quotes:
+    - sys:
+        id: Uxx50gbi4lNbCZDCatwS0
+    - sys:
+        id: 6R1qdaSdZ68UWiykjpV3YZ
+    - sys:
+        id: 2BDHN4nLDZSnSggJDuWK8q
+    - sys:
+        id: Jf00FRKjvMboiB46BQTGW
+    - sys:
+        id: 2OGYBGxf5RcDINfkwqTXXK
+  - sys:
+      id: jyKMbw9LvNhaGzth0U8Dw
+      created_at: !ruby/object:DateTime 2019-05-06 20:32:40.508000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:32:40.508000000 Z
+      content_type_id: insight
+      revision: 1
+    page_title: Structure and Clarity
+    insight_short: Structure and Clarity
+    insight_title: Grantees crave structure and clarity with regards to 1) the funding
+      process, 2) what to expect from the relationship once funded, and 3) shifting
+      strategic priorities.
+    short_description: Structured funding processes, and clear communication about
+      a funder’s strategic priorities and how to secure funding, are critical. Without
+      this, potential grantees have inconsistent experiences and misunderstandings
+      can arise.
+    featured_quote:
+      sys:
+        id: 2kEoS4hHqkxrm6zVDLJ9Qj
+    long_description: "\nWhen we asked grantees about their experiences with GCE,
+      almost all of them mentioned that theirs was an exceptional or unique case,
+      and not likely to be generalizable feedback. This seems to stem from a lack
+      of structure in the IL/grantee relationship overall. Funding relationships fall
+      somewhere on the spectrum between “hands-on” – meaning customized, high-touch
+      interactions – and “hands-off” – meaning more standardized, low-touch interactions.
+      Both extremes have advantages and disadvantages. Overall, this “culture of exceptions”
+      can be associated with a lack of transparency, high unpredictability, and even
+      nepotism.\n\nIn more hands-on relationships, organizations felt they had received
+      bespoke engagement from GCE, often describing their ILs as mentors and partners.
+      This makes them feel unique and valued, and allows organizations to ask for
+      help when they need it.\n\nHowever, some participants told us that a hands-on
+      approach isn’t always better. The downside of a personalized, high-touch experience
+      is that grantees struggled to explain how GCE made decisions. When asked about
+      the main factors in GCE’s funding decision, many interviewees said they could
+      not generalize because “[their] case was an outlier”. \n\nOn the other hand,
+      a hands-off relationship doesn’t necessarily mean that all organizations receive
+      the same treatment. While some organizations praised the efficiency of a standardized
+      funding process and stated that they have more trust in a standardized process,
+      many organizations with a “low-touch” relationship with GCE felt that their
+      needs were not being met. They were more likely to see other grantees as competitors
+      for GCE’s attention.\n\n## The Funding Process\n\nMany participants said they
+      were uncertain about what to expect before and during the process. For example,
+      some interviewees expressed bewilderment about the role of the investment committee.
+      This confusion translated into insecurity about whether they can trust their
+      ILs with information they feel might not be appropriate to share with the investment
+      committee. They wondered about how much information they should share with their
+      IL, especially information that might make their organization look bad, and
+      how much of that will then be shared with the investment committee, who they
+      may not meet for the first time until the end of a long process.\n\nSome participants
+      mentioned frustration with burdensome processes that lasted over a year and
+      involved multiple people from GCE. Over two-thirds of non-profit interviewees
+      bemoaned a process that was long, difficult, and opaque – one even called it
+      “unprofessional.”\n\nThey reported being asked to submit documents on short
+      notice, and having to repeat information, sending the same or very similar information
+      to multiple people at GCE. Some participants mentioned that they found certain
+      periods during the investment process particularly stressful, such as when they
+      weren’t sure if they would receive a final decision from GCE or just a request
+      for more documentation.\n\n## Shift in Priorities\n\nGrantees repeatedly mentioned
+      that the value of their relationship with Luminate is more than financial. While
+      they’re part of the Luminate portfolio or network (as grantees referred to it),
+      they take advantage of the Luminate stamp of approval, enjoy publicity and attention
+      through their connection with Luminate, and reap the benefits of a personal
+      relationship with their IL, who is often a powerful player in their field.\n\nSince
+      the personal relationship with the IL is a signature component of being part
+      of the Luminate network, being transitioned out of the portfolio can feel like
+      a personal betrayal. When their relationship with Luminate ends, some organizations
+      that have received longer-term support from Luminate feel that new projects
+      are competitors, not just for money, but also for attention. Participants raised
+      these concerns based on what they know of other organizations’ experiences,
+      and fears they have about the the stability of their funding.\n\nThis feeling
+      of personal betrayal also goes beyond the relationship with the IL. Many grantees
+      working in the space deeply identify with the issues they are working on. When
+      GCE/Luminate pivots to a different investment strategy, such as focusing on
+      new and emerging issues, people working in the “old” issues feel a rejection
+      of the issues they personally care about. It is not only a financial, but also
+      an emotional matter, to lose the support of Luminate, and one that can be seen
+      to reflect inherent power imbalances in the funder-grantee relationship."
+    related_theme:
+    - Funding Approach & Process
+    - Trust & Power
+    - Funder Identity & Culture
+    related_recommendations:
+    - sys:
+        id: 59J8XvABHc0OSDJ4D2BLBc
+    - sys:
+        id: 7ifyzI6bOqUiTn5aXg2Ac8
+    - sys:
+        id: 7HaggMuTZVQo9qMqqiQvJi
+    - sys:
+        id: VQ7OXAIvpXWtiSY3oWE89
+    - sys:
+        id: 64aVefaJYpSHSj8GnNRqZj
+    - sys:
+        id: 5UFLM9YhjV7pMyRVYAKGN7
+    - sys:
+        id: 7DXzHNGSjjLIrrauaEX6xo
+    - sys:
+        id: 3QVf7L1Gq74un7NUugqYhx
+    - sys:
+        id: 7JwfVjPvS8FuBtTYBpE1v4
+    related_resources:
+    - sys:
+        id: 3FQVA12oDvZRa7iUrTJaas
+    - sys:
+        id: Aqrq7NXOreu5GwPYj5J7J
+    - sys:
+        id: 648LvvJeMpyWszz9HUvRGp
+    related_quotes:
+    - sys:
+        id: 4ynm2yzOsV7LloWEHXkrPx
+    - sys:
+        id: 74Vf7calLW9oKxViPHyigv
+    - sys:
+        id: 64vquLrMlaaO1z2n9AL4N1
+    - sys:
+        id: 5xVWegP4YErPjwWGIQr5oD
+    - sys:
+        id: 2C0l0vZBzF785Q1NbGfGvO
+    - sys:
+        id: 2kEoS4hHqkxrm6zVDLJ9Qj
+    - sys:
+        id: 3uW85No8luSk66sK6BJYDo
+    - sys:
+        id: 6oIxnhT6aMnOCzDicLFD7o
+    - sys:
+        id: FHKgwVoMgJPgK07qNS5sO
+    - sys:
+        id: 7jxc17DhQyxTHd2fzl8uER
 - sys:
     id: 4UDIcXStAWXpPwjDpq1hCU
     created_at: !ruby/object:DateTime 2019-05-03 00:04:36.588000000 Z
-    updated_at: !ruby/object:DateTime 2019-05-03 00:06:42.322000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-22 00:57:49.964000000 Z
     content_type_id: theme
-    revision: 2
+    revision: 4
   page_title: Trust & Power
   theme_icon:
     sys:
-      id: 435OrUIAlvybJxrX7zfNo2
-      created_at: !ruby/object:DateTime 2019-05-03 00:06:26.052000000 Z
-      updated_at: !ruby/object:DateTime 2019-05-03 00:06:26.052000000 Z
-    title: placeholder-icon
+      id: 4WngcUbNTp478mXwFVF12w
+      created_at: !ruby/object:DateTime 2019-05-21 23:47:19.141000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-21 23:47:19.141000000 Z
+    title: trust-power-black
     description: 
-    url: "//images.ctfassets.net/h8kgu1arvxtu/435OrUIAlvybJxrX7zfNo2/697d8954137c4e6bdc8c3ade63b572c5/baseline-healing-24px.svg"
+    url: "//images.ctfassets.net/h8kgu1arvxtu/4WngcUbNTp478mXwFVF12w/d409f8ca5220d7528ec647e660ba9010/trust-power-black.svg"
   short_description: 'What role does trust play in the funder/ grantee relationship?
     How can it affect the impact that both seek to have? How can funders better manage
     the inherent power dynamics in funder-grantee relationships? '
@@ -192,76 +554,685 @@ theme:
         id: 6t7fk8pkX6EVlOT6xiIsYF
     - sys:
         id: 7LfV2Gpsb1uxAHZ87vhfDz
+  - sys:
+      id: XVD1SkpJyjScJv1XiJIti
+      created_at: !ruby/object:DateTime 2019-05-22 00:51:13.658000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-22 00:51:13.658000000 Z
+      content_type_id: insight
+      revision: 1
+    page_title: Diversity, Equity, and Inclusion
+    insight_short: Diversity, Equity, and Inclusion
+    insight_title: A lack of transparency around how diversity, equity and inclusion
+      (DEI) is valued and integrated into a funder’s work can lead to questions about
+      a funder’s commitment to DEI.
+    short_description: Funders need to be transparent about how diversity, equity
+      and inclusion (DEI) are valued and integrated internally in order to authentically
+      engage grantees on these issues. Not doing so can lead organizations to question
+      the funder’s commitment to DEI, and the extent to which DEI informs organizational
+      culture and plays into both funding and internal processes.
+    featured_quote:
+      sys:
+        id: 30DuPnQlKTbSnFb1q3wheD
+    long_description: "Interviewees mentioned in multiple contexts that GCE did not
+      appear to them to be committed to diversity, equity, and inclusion (DEI). Organizations
+      questioned whether and how DEI played into the funding process and GCE’s internal
+      practices.\n\nParticipants would welcome a more direct and transparent approach
+      to the values of DEI at Luminate. Participants sometimes ascribed frustration
+      with systemic discrimination problems happening in Silicon Valley onto GCE as
+      well, due to their perception that GCE’s approach was aligned with more negative
+      aspects of Silicon Valley’s cutlure. Some participants even spoke about not
+      bringing up DEI-related issues with GCE, saying that they didn’t think GCE would
+      be able to help or even understand. For these participants, their perception
+      of GCE was of an organization that was heteronormative, white, and male.\n\nSeveral
+      participants also found it noteworthy that there was no diversity data on the
+      Omidyar Network / GCE website. They also remarked on the fact that the team
+      did not ask for any diversity data during the investment process.\n\nParticipants
+      were generally aware that GCE used DEI considerations in their assessment of
+      an organization, but it seems that not all ILs involve grantees in the collection
+      or reporting of that information about the organization.\n\n__NOTES:__ \n\nTransparency
+      is a key component to fostering an equitable playing field amongst grantees.
+      Transparency ensures that information about funding processes and supports are
+      made clear to all, rather than offered through informal channels only to grantees
+      in a social position to initiate a discussion or inquiry.\n\nLuminate offers
+      direct support around diversity, equity, and inclusion—e.g., in the form of
+      diversity consultants\" works\n\n\n"
+    related_theme:
+    - Trust & Power
+    - Funder Identity & Culture
+    related_recommendations:
+    - sys:
+        id: VQ7OXAIvpXWtiSY3oWE89
+    - sys:
+        id: 1xpFI6iZClNLmhFwWXnk8r
+    - sys:
+        id: 59J8XvABHc0OSDJ4D2BLBc
+    - sys:
+        id: wfKc9XecT9ZjuKOFNKvTi
+    - sys:
+        id: 7ifyzI6bOqUiTn5aXg2Ac8
+    - sys:
+        id: 7HaggMuTZVQo9qMqqiQvJi
+    - sys:
+        id: 64aVefaJYpSHSj8GnNRqZj
+    - sys:
+        id: 60zNrJKfHNEWML0tpY6KlI
+    related_quotes:
+    - sys:
+        id: 3i4giERzhEAlu9iL9AG5UV
+  - sys:
+      id: 2bwSfmkxe2O5t2tDHQt2vs
+      created_at: !ruby/object:DateTime 2019-05-22 00:45:11.624000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-22 00:45:11.624000000 Z
+      content_type_id: insight
+      revision: 1
+    page_title: Funder Reputation
+    insight_short: Funder Reputation
+    insight_title: A funder’s reputation impacts the funder-grantee relationship.
+    short_description: In addition to providing an organization needed resources,
+      a funding relationship establishes a public connection between the grantee and
+      the funder, which can provide meaningful validation or, in some cases, bring
+      up reputational challenges for grantees.
+    featured_quote:
+      sys:
+        id: 66TMu2qFtfrcXHhe9ZtZmo
+    long_description: |+
+      In regions where Omidyar Network (ON) is established, receiving funding can mark an organization as stable, competent, professional, and committed to measurable impact. In regions where ON is less established, the funding can label an organization as either a rising star or as one of the top players in the field. The ON stamp of approval has the potential to make organizations much more attractive to other funders. Participants were aware that other funding decisions appear to be and can be influenced by receiving ON funding. As this research was conducted prior the launch of Luminate's brand, it is important to note that the brand and reputation that is spoken of is tied strongly to the name “Omidyar” (ON).
+
+      In contrast, many participants expressed concerns that the optics of their organization publically accepting support from a “Silicon Valley” funder could be a liability, particularly in contexts hostile to capitalism or corporate donors (e.g., social projects that are critical of free-market liberalism, or media projects critical of big tech). These concerns have been heightened due to global tensions around philanthropy, influence and power.
+
+
+    related_theme:
+    - Trust & Power
+    - Funder Identity & Culture
+    related_recommendations:
+    - sys:
+        id: 60zNrJKfHNEWML0tpY6KlI
+    - sys:
+        id: 59J8XvABHc0OSDJ4D2BLBc
+    related_quotes:
+    - sys:
+        id: 4ePwpIP3rz9hI5C97RZQGa
+    - sys:
+        id: 5S3fiuUUe4ki66dr83g4ip
+    - sys:
+        id: 1xvc0UnV1TKVFEsZ5Vy2Pv
+    - sys:
+        id: 297YKfrQmzGlz5zD0UwsEI
+    - sys:
+        id: 7jw6eAULmrLsVx6IVFcDSn
+  - sys:
+      id: 1mz5qNxgvkUfCHUN72zORV
+      created_at: !ruby/object:DateTime 2019-05-22 00:35:36.623000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-22 00:35:36.623000000 Z
+      content_type_id: insight
+      revision: 1
+    page_title: Portfolio Support
+    insight_short: Portfolio Support
+    insight_title: Grantees are interested in, and looking for portfolio support,
+      and would like more clarity, autonomy, and choice in how they access and receive
+      that support.
+    short_description: Grantees have many organizational health needs that can be
+      met by connecting them with the right resources, such as other organizations,
+      consultants, services, mentors or vendors. However, it is important that the
+      process for accessing this support and the context in which it is provided is
+      clear, to avoid it being seen as punitive.
+    featured_quote:
+      sys:
+        id: 81bICoX8Ilj36S4if6xXH
+    long_description: |+
+      Participants expressed interest in the following support areas:
+
+      - Recruiting and hiring: Growth and scaling are important concerns for many of our respondents, and in some cases “growth” is understood to mean hiring people to help meet metrics. Non-profit organizations see a need for active recruiting and hiring support.
+      - Financial management: Both survey respondents and interview participants strongly agreed that GCE had expertise in financial management.
+      - Fundraising: 88% of survey respondents indicated that fundraising support was extremely desirable.
+      - Networking, outreach and community development: Interview participants appreciated the sense of belonging that came from attending GCE gatherings and viewed access to other grantees as valuable. They also appreciated when GCE helped to expand their reach, e.g., on social media by "signal boosting" or promoting their work.
+      - Evaluation and audits: Organizations that have undergone an evaluation or audit generally reported positive experiences.
+
+      Knowing that this kind of additional support existed wasn’t enough for organizations to feel that GCE was meeting their specific needs, because there was no framework for taking advantage of the offers.
+
+      Some participants expressed concerns about accepting alternative portfolio support from GCE, due to the power difference inherent in the funding relationship and the implications of admitting weakness to a funder. Their concerns ranged from not being able to pick or change who the service provider is to wondering if the service provider would “spy” on them and report weaknesses to GCE.
+
+      These concerns were tied to participants not having clarity about why support was being offered and to what end – was it because GCE was keen to help proactively build organizational capacity, or was it because they were performing badly and GCE was intervening? This concern may indicate a lack of underlying trust; some participants indicated that they could not be sure that GCE had their best interests in mind, and therefore were hesitant to share challenges or accept support.
+
+      In the past, GCE ILs have provided portfolio support by taking seats on select grantees' boards. This is a unique practice in the non-profit funding sector, and was generally met with skepticism. Over one-third of survey respondents believed that the practice of GCE holding board seats was not at all helpful for their organization. Their reasons included fear of sharing internal problems with a funder present, power or knowledge asymmetry, negative perceptions by third parties of having a funder on the board, and concerns that representing GCE’s interests would take priority over acting in the grantee’s best interest. There was a qualitative difference in the sentiments of those observing the practice of GCE taking board seats and those experiencing it. Survey respondents who had a member of GCE staff on their board, viewed this participation more positively than those respondents who didn't.
+
+      There was a positive correlation between GCE's participation on an organization's board and that organization's perception of the ease of communication with GCE. Leaders of organizations with a board member or observer felt much more comfortable asking for help, implying a closer relationship and more open channels of communication.
+
+      What most organizations appreciated from board members was strategic advice, operational support, and connections to the ecosystem.
+
+
+    related_theme:
+    - Funding Approach & Process
+    - Trust & Power
+    related_recommendations:
+    - sys:
+        id: 64aVefaJYpSHSj8GnNRqZj
+    - sys:
+        id: 5hKYhindU3pFFpe3q13egX
+    - sys:
+        id: 7DXzHNGSjjLIrrauaEX6xo
+    - sys:
+        id: 1xnQafkeYLOxaZrpKvWs0s
+    - sys:
+        id: F38G9F4X0cp3bRAxpm193
+    related_quotes:
+    - sys:
+        id: GDb4R70Pw45fl6owh7WhG
+    - sys:
+        id: 81bICoX8Ilj36S4if6xXH
+    - sys:
+        id: 4NNKcvSkJNRFo3nEAwSWil
+    - sys:
+        id: 34RcQrlXolw4e86vwajut1
+    - sys:
+        id: 2nhMQaFKE26GNJdgcKoMFQ
+    - sys:
+        id: 2TNy6F4nLEfFbyAULVVvvu
+  - sys:
+      id: jyKMbw9LvNhaGzth0U8Dw
+      created_at: !ruby/object:DateTime 2019-05-06 20:32:40.508000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:32:40.508000000 Z
+      content_type_id: insight
+      revision: 1
+    page_title: Structure and Clarity
+    insight_short: Structure and Clarity
+    insight_title: Grantees crave structure and clarity with regards to 1) the funding
+      process, 2) what to expect from the relationship once funded, and 3) shifting
+      strategic priorities.
+    short_description: Structured funding processes, and clear communication about
+      a funder’s strategic priorities and how to secure funding, are critical. Without
+      this, potential grantees have inconsistent experiences and misunderstandings
+      can arise.
+    featured_quote:
+      sys:
+        id: 2kEoS4hHqkxrm6zVDLJ9Qj
+    long_description: "\nWhen we asked grantees about their experiences with GCE,
+      almost all of them mentioned that theirs was an exceptional or unique case,
+      and not likely to be generalizable feedback. This seems to stem from a lack
+      of structure in the IL/grantee relationship overall. Funding relationships fall
+      somewhere on the spectrum between “hands-on” – meaning customized, high-touch
+      interactions – and “hands-off” – meaning more standardized, low-touch interactions.
+      Both extremes have advantages and disadvantages. Overall, this “culture of exceptions”
+      can be associated with a lack of transparency, high unpredictability, and even
+      nepotism.\n\nIn more hands-on relationships, organizations felt they had received
+      bespoke engagement from GCE, often describing their ILs as mentors and partners.
+      This makes them feel unique and valued, and allows organizations to ask for
+      help when they need it.\n\nHowever, some participants told us that a hands-on
+      approach isn’t always better. The downside of a personalized, high-touch experience
+      is that grantees struggled to explain how GCE made decisions. When asked about
+      the main factors in GCE’s funding decision, many interviewees said they could
+      not generalize because “[their] case was an outlier”. \n\nOn the other hand,
+      a hands-off relationship doesn’t necessarily mean that all organizations receive
+      the same treatment. While some organizations praised the efficiency of a standardized
+      funding process and stated that they have more trust in a standardized process,
+      many organizations with a “low-touch” relationship with GCE felt that their
+      needs were not being met. They were more likely to see other grantees as competitors
+      for GCE’s attention.\n\n## The Funding Process\n\nMany participants said they
+      were uncertain about what to expect before and during the process. For example,
+      some interviewees expressed bewilderment about the role of the investment committee.
+      This confusion translated into insecurity about whether they can trust their
+      ILs with information they feel might not be appropriate to share with the investment
+      committee. They wondered about how much information they should share with their
+      IL, especially information that might make their organization look bad, and
+      how much of that will then be shared with the investment committee, who they
+      may not meet for the first time until the end of a long process.\n\nSome participants
+      mentioned frustration with burdensome processes that lasted over a year and
+      involved multiple people from GCE. Over two-thirds of non-profit interviewees
+      bemoaned a process that was long, difficult, and opaque – one even called it
+      “unprofessional.”\n\nThey reported being asked to submit documents on short
+      notice, and having to repeat information, sending the same or very similar information
+      to multiple people at GCE. Some participants mentioned that they found certain
+      periods during the investment process particularly stressful, such as when they
+      weren’t sure if they would receive a final decision from GCE or just a request
+      for more documentation.\n\n## Shift in Priorities\n\nGrantees repeatedly mentioned
+      that the value of their relationship with Luminate is more than financial. While
+      they’re part of the Luminate portfolio or network (as grantees referred to it),
+      they take advantage of the Luminate stamp of approval, enjoy publicity and attention
+      through their connection with Luminate, and reap the benefits of a personal
+      relationship with their IL, who is often a powerful player in their field.\n\nSince
+      the personal relationship with the IL is a signature component of being part
+      of the Luminate network, being transitioned out of the portfolio can feel like
+      a personal betrayal. When their relationship with Luminate ends, some organizations
+      that have received longer-term support from Luminate feel that new projects
+      are competitors, not just for money, but also for attention. Participants raised
+      these concerns based on what they know of other organizations’ experiences,
+      and fears they have about the the stability of their funding.\n\nThis feeling
+      of personal betrayal also goes beyond the relationship with the IL. Many grantees
+      working in the space deeply identify with the issues they are working on. When
+      GCE/Luminate pivots to a different investment strategy, such as focusing on
+      new and emerging issues, people working in the “old” issues feel a rejection
+      of the issues they personally care about. It is not only a financial, but also
+      an emotional matter, to lose the support of Luminate, and one that can be seen
+      to reflect inherent power imbalances in the funder-grantee relationship."
+    related_theme:
+    - Funding Approach & Process
+    - Trust & Power
+    - Funder Identity & Culture
+    related_recommendations:
+    - sys:
+        id: 59J8XvABHc0OSDJ4D2BLBc
+    - sys:
+        id: 7ifyzI6bOqUiTn5aXg2Ac8
+    - sys:
+        id: 7HaggMuTZVQo9qMqqiQvJi
+    - sys:
+        id: VQ7OXAIvpXWtiSY3oWE89
+    - sys:
+        id: 64aVefaJYpSHSj8GnNRqZj
+    - sys:
+        id: 5UFLM9YhjV7pMyRVYAKGN7
+    - sys:
+        id: 7DXzHNGSjjLIrrauaEX6xo
+    - sys:
+        id: 3QVf7L1Gq74un7NUugqYhx
+    - sys:
+        id: 7JwfVjPvS8FuBtTYBpE1v4
+    related_resources:
+    - sys:
+        id: 3FQVA12oDvZRa7iUrTJaas
+    - sys:
+        id: Aqrq7NXOreu5GwPYj5J7J
+    - sys:
+        id: 648LvvJeMpyWszz9HUvRGp
+    related_quotes:
+    - sys:
+        id: 4ynm2yzOsV7LloWEHXkrPx
+    - sys:
+        id: 74Vf7calLW9oKxViPHyigv
+    - sys:
+        id: 64vquLrMlaaO1z2n9AL4N1
+    - sys:
+        id: 5xVWegP4YErPjwWGIQr5oD
+    - sys:
+        id: 2C0l0vZBzF785Q1NbGfGvO
+    - sys:
+        id: 2kEoS4hHqkxrm6zVDLJ9Qj
+    - sys:
+        id: 3uW85No8luSk66sK6BJYDo
+    - sys:
+        id: 6oIxnhT6aMnOCzDicLFD7o
+    - sys:
+        id: FHKgwVoMgJPgK07qNS5sO
+    - sys:
+        id: 7jxc17DhQyxTHd2fzl8uER
+  - sys:
+      id: 4xrmz2cDxqIf97YYfahCQU
+      created_at: !ruby/object:DateTime 2019-05-22 00:41:30.693000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-22 00:41:30.693000000 Z
+      content_type_id: insight
+      revision: 1
+    page_title: Power Dynamics
+    insight_short: Power Dynamics
+    insight_title: Power dynamics, if not acknowledged, can affect the strength and
+      quality of funder-grantee relationships.
+    short_description: There are inherent power dynamics at play in funding relationships,
+      with funders holding a lot power and influence over grantees. Funders that acknowledge
+      and, as far as possible, work to address these dynamics, create stronger and
+      more successful relationships with their grantees.
+    featured_quote:
+      sys:
+        id: 3wnOWJsOwgD8YMQCkAToyf
+    long_description: |-
+      As with all funding relationships, GCE held the power in the funder-grantee relationship. But being aware and conscious of the effects of that power dynamic is an area where GCE could have done better, according to grantees: “in theory the money is open, but [GCE is] the least aware of the power and influence they have over their partners,” said one participant. The problems we heard stemming from this lack of awareness about power dynamics mainly fell into two categories.
+
+      First, participants mentioned to us that, when people who represented GCE made a request, they did not always feel able to respond with anything other than “yes,” fearing that seeming uncooperative might have a negative effect on their funding. This held true even when the request was presented as friendly or optional, or as personal rather than coming from GCE. Even people who feel confident about pushing back on topics directly related to their funding, like metrics, weren’t always willing to take the risk of pushing back on requests that seemed to be more personal or casual.
+
+      Second, we also heard from participants who felt that GCE had sometimes overstepped by contacting their networks. Speaking to people related to a particular organization is often a standard part of a funder’s due diligence process. When participants became aware of this due diligence after the fact, they often expressed feeling embarrassed and ashamed that their networks were contacted without their knowledge. These situations caused participants to worry that GCE had harmed their social capital by potentially presenting their organization in an unflattering or what they considered inaccurate light.
+
+      We heard from grantees that they often do not feel comfortable being honest about their areas of weakness in conversation with their ILs. When grantees conceal their weaknesses, it is sometimes motivated by the power differential at play. But it can also be motivated by respect and admiration. An individual who wants to be seen as successful and a strong asset to an organization they admire (e.g., Luminate) is not as likely to speak openly about problems.
+    related_theme:
+    - Trust & Power
+    - Funder Identity & Culture
+    related_recommendations:
+    - sys:
+        id: 28oni0f59XkxVXUTQLddD8
+    - sys:
+        id: 6kBDVIvZsVyTtNQgH47x3S
+    - sys:
+        id: 6Hv0eFtakFZ2y9zbf0Xmyx
+    - sys:
+        id: 1xpFI6iZClNLmhFwWXnk8r
+    - sys:
+        id: 69Cd3AfVpw9mjYZVghjizc
+    - sys:
+        id: 7DXzHNGSjjLIrrauaEX6xo
+    - sys:
+        id: wfKc9XecT9ZjuKOFNKvTi
+    related_quotes:
+    - sys:
+        id: merH5JaNh2vv9RTTPGmNL
+    - sys:
+        id: dGOtbn79A6ViZbaJ8cGgR
+    - sys:
+        id: 4S9T6Zg6RxojX4zyHVB9Cj
+    - sys:
+        id: 5NrjdNoFsllv7KMQKtRI0d
+    - sys:
+        id: 5MDzaxo7Xcfrh6RhfuJJBC
+    - sys:
+        id: 7uwgKulMq36Yz5YvOnzeU7
 - sys:
     id: 3IU2vd7hHiF8B8Zhq55mvo
     created_at: !ruby/object:DateTime 2019-05-03 00:05:23.821000000 Z
-    updated_at: !ruby/object:DateTime 2019-05-03 00:06:53.291000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-22 00:57:17.118000000 Z
     content_type_id: theme
-    revision: 2
+    revision: 4
   page_title: Funder Identity & Culture
   theme_icon:
     sys:
-      id: 435OrUIAlvybJxrX7zfNo2
-      created_at: !ruby/object:DateTime 2019-05-03 00:06:26.052000000 Z
-      updated_at: !ruby/object:DateTime 2019-05-03 00:06:26.052000000 Z
-    title: placeholder-icon
+      id: 4TygZHcytSvn49dIjmX6zS
+      created_at: !ruby/object:DateTime 2019-05-21 23:46:53.996000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-21 23:46:53.996000000 Z
+    title: identity-culture-black
     description: 
-    url: "//images.ctfassets.net/h8kgu1arvxtu/435OrUIAlvybJxrX7zfNo2/697d8954137c4e6bdc8c3ade63b572c5/baseline-healing-24px.svg"
+    url: "//images.ctfassets.net/h8kgu1arvxtu/4TygZHcytSvn49dIjmX6zS/f7ce5fef387e76485e3cce1036a34204/identity-culture-black.svg"
   short_description: How does a funder’s approach and history affect how they are
     perceived, how they relate with grantees, and how impact is achieved? How do culture,
     diversity, and identity come into play in the funder-grantee relationship?
   related_insights:
   - sys:
-      id: 5K90Xztqn08a6GbFj3ep4w
-      created_at: !ruby/object:DateTime 2019-05-02 23:35:43.855000000 Z
-      updated_at: !ruby/object:DateTime 2019-05-06 20:23:53.135000000 Z
+      id: XVD1SkpJyjScJv1XiJIti
+      created_at: !ruby/object:DateTime 2019-05-22 00:51:13.658000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-22 00:51:13.658000000 Z
       content_type_id: insight
-      revision: 5
-    page_title: Deep, Trusting Relationships
-    insight_short: Deep, Trusting Relationships
-    insight_title: Grantees value deep and trusting relationships with funders, grounded
-      in subject area expertise.
-    short_description: A strong relationship between the funder and grantee builds
-      trust, enabling the grantee to take more initiative and negotiate for their
-      needs. Partnering with an investment lead (IL) or program officer with subject
-      area expertise is especially critical for grantees to feel like their work is
-      understood.
+      revision: 1
+    page_title: Diversity, Equity, and Inclusion
+    insight_short: Diversity, Equity, and Inclusion
+    insight_title: A lack of transparency around how diversity, equity and inclusion
+      (DEI) is valued and integrated into a funder’s work can lead to questions about
+      a funder’s commitment to DEI.
+    short_description: Funders need to be transparent about how diversity, equity
+      and inclusion (DEI) are valued and integrated internally in order to authentically
+      engage grantees on these issues. Not doing so can lead organizations to question
+      the funder’s commitment to DEI, and the extent to which DEI informs organizational
+      culture and plays into both funding and internal processes.
     featured_quote:
       sys:
-        id: 3XbFyZvWauf1G4IV3ho6aO
-    long_description: "The investment lead (IL) or program officer is the face of
-      Luminate for grantees. A positive experience with an IL reflects very well on
-      the organization as a whole. IL’s with deep subject area knowledge are particularly
-      valued.\n\nThe ILs’ extensive knowledge about the space made the grantees feel
-      understood and heard, and contributed to an overall feeling of alignment with
-      GCE as a team. One participant expressed this as really valuing the “professional,
-      constructive, and encouraging thinking partner that our contact (IL) embodies.”
-      \n\nOrganizations who had a close relationship with their ILs were uniformly
-      positive about their IL’s capabilities and the amount of personal attention
-      they received. “They’ve truly felt as much like thought partners and co-conspirators
-      in our work as they do funders,” wrote one organization in the survey. \n\nGCE’s
-      openness to collaboration and negotiation was regarded as extremely positive
-      for those who had taken the initiative to take advantage of it. Grantees who
-      were confident enough to push back — usually with regard to metrics or reporting
-      — felt respected and heard, and often got what they asked for. Having pushed
-      back didn’t seem to hurt their reputation or relationship with GCE – if anything,
-      it seemed to lead to greater mutual respect."
+        id: 30DuPnQlKTbSnFb1q3wheD
+    long_description: "Interviewees mentioned in multiple contexts that GCE did not
+      appear to them to be committed to diversity, equity, and inclusion (DEI). Organizations
+      questioned whether and how DEI played into the funding process and GCE’s internal
+      practices.\n\nParticipants would welcome a more direct and transparent approach
+      to the values of DEI at Luminate. Participants sometimes ascribed frustration
+      with systemic discrimination problems happening in Silicon Valley onto GCE as
+      well, due to their perception that GCE’s approach was aligned with more negative
+      aspects of Silicon Valley’s cutlure. Some participants even spoke about not
+      bringing up DEI-related issues with GCE, saying that they didn’t think GCE would
+      be able to help or even understand. For these participants, their perception
+      of GCE was of an organization that was heteronormative, white, and male.\n\nSeveral
+      participants also found it noteworthy that there was no diversity data on the
+      Omidyar Network / GCE website. They also remarked on the fact that the team
+      did not ask for any diversity data during the investment process.\n\nParticipants
+      were generally aware that GCE used DEI considerations in their assessment of
+      an organization, but it seems that not all ILs involve grantees in the collection
+      or reporting of that information about the organization.\n\n__NOTES:__ \n\nTransparency
+      is a key component to fostering an equitable playing field amongst grantees.
+      Transparency ensures that information about funding processes and supports are
+      made clear to all, rather than offered through informal channels only to grantees
+      in a social position to initiate a discussion or inquiry.\n\nLuminate offers
+      direct support around diversity, equity, and inclusion—e.g., in the form of
+      diversity consultants\" works\n\n\n"
     related_theme:
-    - Funding Approach & Process
     - Trust & Power
+    - Funder Identity & Culture
     related_recommendations:
     - sys:
-        id: 739159sAxh2eiycKRBdOfz
+        id: VQ7OXAIvpXWtiSY3oWE89
     - sys:
-        id: 7HaggMuTZVQo9qMqqiQvJi
+        id: 1xpFI6iZClNLmhFwWXnk8r
+    - sys:
+        id: 59J8XvABHc0OSDJ4D2BLBc
+    - sys:
+        id: wfKc9XecT9ZjuKOFNKvTi
     - sys:
         id: 7ifyzI6bOqUiTn5aXg2Ac8
     - sys:
+        id: 7HaggMuTZVQo9qMqqiQvJi
+    - sys:
+        id: 64aVefaJYpSHSj8GnNRqZj
+    - sys:
+        id: 60zNrJKfHNEWML0tpY6KlI
+    related_quotes:
+    - sys:
+        id: 3i4giERzhEAlu9iL9AG5UV
+  - sys:
+      id: 2bwSfmkxe2O5t2tDHQt2vs
+      created_at: !ruby/object:DateTime 2019-05-22 00:45:11.624000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-22 00:45:11.624000000 Z
+      content_type_id: insight
+      revision: 1
+    page_title: Funder Reputation
+    insight_short: Funder Reputation
+    insight_title: A funder’s reputation impacts the funder-grantee relationship.
+    short_description: In addition to providing an organization needed resources,
+      a funding relationship establishes a public connection between the grantee and
+      the funder, which can provide meaningful validation or, in some cases, bring
+      up reputational challenges for grantees.
+    featured_quote:
+      sys:
+        id: 66TMu2qFtfrcXHhe9ZtZmo
+    long_description: |+
+      In regions where Omidyar Network (ON) is established, receiving funding can mark an organization as stable, competent, professional, and committed to measurable impact. In regions where ON is less established, the funding can label an organization as either a rising star or as one of the top players in the field. The ON stamp of approval has the potential to make organizations much more attractive to other funders. Participants were aware that other funding decisions appear to be and can be influenced by receiving ON funding. As this research was conducted prior the launch of Luminate's brand, it is important to note that the brand and reputation that is spoken of is tied strongly to the name “Omidyar” (ON).
+
+      In contrast, many participants expressed concerns that the optics of their organization publically accepting support from a “Silicon Valley” funder could be a liability, particularly in contexts hostile to capitalism or corporate donors (e.g., social projects that are critical of free-market liberalism, or media projects critical of big tech). These concerns have been heightened due to global tensions around philanthropy, influence and power.
+
+
+    related_theme:
+    - Trust & Power
+    - Funder Identity & Culture
+    related_recommendations:
+    - sys:
+        id: 60zNrJKfHNEWML0tpY6KlI
+    - sys:
+        id: 59J8XvABHc0OSDJ4D2BLBc
+    related_quotes:
+    - sys:
+        id: 4ePwpIP3rz9hI5C97RZQGa
+    - sys:
+        id: 5S3fiuUUe4ki66dr83g4ip
+    - sys:
+        id: 1xvc0UnV1TKVFEsZ5Vy2Pv
+    - sys:
+        id: 297YKfrQmzGlz5zD0UwsEI
+    - sys:
+        id: 7jw6eAULmrLsVx6IVFcDSn
+  - sys:
+      id: 5mwetRON9oTpEGQ6800wJP
+      created_at: !ruby/object:DateTime 2019-05-22 00:54:05.065000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-22 00:54:05.065000000 Z
+      content_type_id: insight
+      revision: 1
+    page_title: Funder Roles
+    insight_short: Funder Roles
+    insight_title: When funders wear multiple hats — as individual advocates as well
+      as representatives of a funding organization — it can be unclear which role
+      the funder is playing at any given time.
+    short_description: The power dynamic of the funder-grantee relationship is always
+      present, even when the individuals from organizations are interacting in other
+      contexts. If funders are also going to be active in the spaces where their grantees
+      work, then they need to clearly communicate which role they are in, so as not
+      to unintentionally overstep or blur the funder-grantee relationship.
+    featured_quote:
+      sys:
+        id: 1geCI5voNUgUdaG99anpVx
+    long_description: |
+      The confusion was exacerbated by the fact that GCE saw itself as an “operational funder” (and still does as Luminate). This can be broadly defined as a funding organization that engages in direct advocacy as well as also supporting the policy and advocacy goals of organizations in the field.
+
+      Challenges arose when members of GCE’s staff were seen to be wearing multiple hats – as individual advocates as well as representatives of a funding organization. When individual staff express support for something, people hearing it are not always able to determine if the statement of support means 1) this is interesting work that someone should be doing that aligns with GCE’s priorities, 2) this is a priority for a direct operational play by GCE, or 3) this is critical to the social-political moment in general.
+
+      Some participants voiced concerns about funders also acting as advocates, as funders naturally have a position of power in the space and have access to knowledge not available to other advocates. Others pointed out that GCE’s success depended on its staff taking the time to develop very clear opinions and stances on particular issues, which naturally leads to a more “activist” position.
+    related_theme:
+    - Funding Approach & Process
+    - Funder Identity & Culture
+    related_recommendations:
+    - sys:
+        id: 3qucwEc0fp3r4YKIAFlb74
+    related_quotes:
+    - sys:
+        id: 3knLXVHmeLPFpcVK2tKn1Z
+    - sys:
+        id: yiHOAVE4yQUolNzGUO2ej
+    - sys:
+        id: 4xkfoAR8yJp4VkSGxFiHe9
+    - sys:
+        id: 5xxfziNOEuw7Jhjt2NKvUu
+    - sys:
+        id: 34uS6ZgZNuiL6qLrXOyIOs
+  - sys:
+      id: 4xrmz2cDxqIf97YYfahCQU
+      created_at: !ruby/object:DateTime 2019-05-22 00:41:30.693000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-22 00:41:30.693000000 Z
+      content_type_id: insight
+      revision: 1
+    page_title: Power Dynamics
+    insight_short: Power Dynamics
+    insight_title: Power dynamics, if not acknowledged, can affect the strength and
+      quality of funder-grantee relationships.
+    short_description: There are inherent power dynamics at play in funding relationships,
+      with funders holding a lot power and influence over grantees. Funders that acknowledge
+      and, as far as possible, work to address these dynamics, create stronger and
+      more successful relationships with their grantees.
+    featured_quote:
+      sys:
+        id: 3wnOWJsOwgD8YMQCkAToyf
+    long_description: |-
+      As with all funding relationships, GCE held the power in the funder-grantee relationship. But being aware and conscious of the effects of that power dynamic is an area where GCE could have done better, according to grantees: “in theory the money is open, but [GCE is] the least aware of the power and influence they have over their partners,” said one participant. The problems we heard stemming from this lack of awareness about power dynamics mainly fell into two categories.
+
+      First, participants mentioned to us that, when people who represented GCE made a request, they did not always feel able to respond with anything other than “yes,” fearing that seeming uncooperative might have a negative effect on their funding. This held true even when the request was presented as friendly or optional, or as personal rather than coming from GCE. Even people who feel confident about pushing back on topics directly related to their funding, like metrics, weren’t always willing to take the risk of pushing back on requests that seemed to be more personal or casual.
+
+      Second, we also heard from participants who felt that GCE had sometimes overstepped by contacting their networks. Speaking to people related to a particular organization is often a standard part of a funder’s due diligence process. When participants became aware of this due diligence after the fact, they often expressed feeling embarrassed and ashamed that their networks were contacted without their knowledge. These situations caused participants to worry that GCE had harmed their social capital by potentially presenting their organization in an unflattering or what they considered inaccurate light.
+
+      We heard from grantees that they often do not feel comfortable being honest about their areas of weakness in conversation with their ILs. When grantees conceal their weaknesses, it is sometimes motivated by the power differential at play. But it can also be motivated by respect and admiration. An individual who wants to be seen as successful and a strong asset to an organization they admire (e.g., Luminate) is not as likely to speak openly about problems.
+    related_theme:
+    - Trust & Power
+    - Funder Identity & Culture
+    related_recommendations:
+    - sys:
+        id: 28oni0f59XkxVXUTQLddD8
+    - sys:
+        id: 6kBDVIvZsVyTtNQgH47x3S
+    - sys:
+        id: 6Hv0eFtakFZ2y9zbf0Xmyx
+    - sys:
+        id: 1xpFI6iZClNLmhFwWXnk8r
+    - sys:
+        id: 69Cd3AfVpw9mjYZVghjizc
+    - sys:
+        id: 7DXzHNGSjjLIrrauaEX6xo
+    - sys:
+        id: wfKc9XecT9ZjuKOFNKvTi
+    related_quotes:
+    - sys:
+        id: merH5JaNh2vv9RTTPGmNL
+    - sys:
+        id: dGOtbn79A6ViZbaJ8cGgR
+    - sys:
+        id: 4S9T6Zg6RxojX4zyHVB9Cj
+    - sys:
+        id: 5NrjdNoFsllv7KMQKtRI0d
+    - sys:
+        id: 5MDzaxo7Xcfrh6RhfuJJBC
+    - sys:
+        id: 7uwgKulMq36Yz5YvOnzeU7
+  - sys:
+      id: jyKMbw9LvNhaGzth0U8Dw
+      created_at: !ruby/object:DateTime 2019-05-06 20:32:40.508000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-06 20:32:40.508000000 Z
+      content_type_id: insight
+      revision: 1
+    page_title: Structure and Clarity
+    insight_short: Structure and Clarity
+    insight_title: Grantees crave structure and clarity with regards to 1) the funding
+      process, 2) what to expect from the relationship once funded, and 3) shifting
+      strategic priorities.
+    short_description: Structured funding processes, and clear communication about
+      a funder’s strategic priorities and how to secure funding, are critical. Without
+      this, potential grantees have inconsistent experiences and misunderstandings
+      can arise.
+    featured_quote:
+      sys:
+        id: 2kEoS4hHqkxrm6zVDLJ9Qj
+    long_description: "\nWhen we asked grantees about their experiences with GCE,
+      almost all of them mentioned that theirs was an exceptional or unique case,
+      and not likely to be generalizable feedback. This seems to stem from a lack
+      of structure in the IL/grantee relationship overall. Funding relationships fall
+      somewhere on the spectrum between “hands-on” – meaning customized, high-touch
+      interactions – and “hands-off” – meaning more standardized, low-touch interactions.
+      Both extremes have advantages and disadvantages. Overall, this “culture of exceptions”
+      can be associated with a lack of transparency, high unpredictability, and even
+      nepotism.\n\nIn more hands-on relationships, organizations felt they had received
+      bespoke engagement from GCE, often describing their ILs as mentors and partners.
+      This makes them feel unique and valued, and allows organizations to ask for
+      help when they need it.\n\nHowever, some participants told us that a hands-on
+      approach isn’t always better. The downside of a personalized, high-touch experience
+      is that grantees struggled to explain how GCE made decisions. When asked about
+      the main factors in GCE’s funding decision, many interviewees said they could
+      not generalize because “[their] case was an outlier”. \n\nOn the other hand,
+      a hands-off relationship doesn’t necessarily mean that all organizations receive
+      the same treatment. While some organizations praised the efficiency of a standardized
+      funding process and stated that they have more trust in a standardized process,
+      many organizations with a “low-touch” relationship with GCE felt that their
+      needs were not being met. They were more likely to see other grantees as competitors
+      for GCE’s attention.\n\n## The Funding Process\n\nMany participants said they
+      were uncertain about what to expect before and during the process. For example,
+      some interviewees expressed bewilderment about the role of the investment committee.
+      This confusion translated into insecurity about whether they can trust their
+      ILs with information they feel might not be appropriate to share with the investment
+      committee. They wondered about how much information they should share with their
+      IL, especially information that might make their organization look bad, and
+      how much of that will then be shared with the investment committee, who they
+      may not meet for the first time until the end of a long process.\n\nSome participants
+      mentioned frustration with burdensome processes that lasted over a year and
+      involved multiple people from GCE. Over two-thirds of non-profit interviewees
+      bemoaned a process that was long, difficult, and opaque – one even called it
+      “unprofessional.”\n\nThey reported being asked to submit documents on short
+      notice, and having to repeat information, sending the same or very similar information
+      to multiple people at GCE. Some participants mentioned that they found certain
+      periods during the investment process particularly stressful, such as when they
+      weren’t sure if they would receive a final decision from GCE or just a request
+      for more documentation.\n\n## Shift in Priorities\n\nGrantees repeatedly mentioned
+      that the value of their relationship with Luminate is more than financial. While
+      they’re part of the Luminate portfolio or network (as grantees referred to it),
+      they take advantage of the Luminate stamp of approval, enjoy publicity and attention
+      through their connection with Luminate, and reap the benefits of a personal
+      relationship with their IL, who is often a powerful player in their field.\n\nSince
+      the personal relationship with the IL is a signature component of being part
+      of the Luminate network, being transitioned out of the portfolio can feel like
+      a personal betrayal. When their relationship with Luminate ends, some organizations
+      that have received longer-term support from Luminate feel that new projects
+      are competitors, not just for money, but also for attention. Participants raised
+      these concerns based on what they know of other organizations’ experiences,
+      and fears they have about the the stability of their funding.\n\nThis feeling
+      of personal betrayal also goes beyond the relationship with the IL. Many grantees
+      working in the space deeply identify with the issues they are working on. When
+      GCE/Luminate pivots to a different investment strategy, such as focusing on
+      new and emerging issues, people working in the “old” issues feel a rejection
+      of the issues they personally care about. It is not only a financial, but also
+      an emotional matter, to lose the support of Luminate, and one that can be seen
+      to reflect inherent power imbalances in the funder-grantee relationship."
+    related_theme:
+    - Funding Approach & Process
+    - Trust & Power
+    - Funder Identity & Culture
+    related_recommendations:
+    - sys:
+        id: 59J8XvABHc0OSDJ4D2BLBc
+    - sys:
+        id: 7ifyzI6bOqUiTn5aXg2Ac8
+    - sys:
+        id: 7HaggMuTZVQo9qMqqiQvJi
+    - sys:
+        id: VQ7OXAIvpXWtiSY3oWE89
+    - sys:
+        id: 64aVefaJYpSHSj8GnNRqZj
+    - sys:
         id: 5UFLM9YhjV7pMyRVYAKGN7
     - sys:
-        id: 017p3qzOAZnrMjC3a5awyi
+        id: 7DXzHNGSjjLIrrauaEX6xo
     - sys:
-        id: 2jPpX1aCPfGnLCldon7zAv
+        id: 3QVf7L1Gq74un7NUugqYhx
+    - sys:
+        id: 7JwfVjPvS8FuBtTYBpE1v4
     related_resources:
     - sys:
         id: 3FQVA12oDvZRa7iUrTJaas
@@ -271,116 +1242,124 @@ theme:
         id: 648LvvJeMpyWszz9HUvRGp
     related_quotes:
     - sys:
-        id: kvAzPII7XhsVREPsfqHyU
+        id: 4ynm2yzOsV7LloWEHXkrPx
     - sys:
-        id: 3XbFyZvWauf1G4IV3ho6aO
+        id: 74Vf7calLW9oKxViPHyigv
     - sys:
-        id: 3HjUvk7VX1pAERfNHzTHin
+        id: 64vquLrMlaaO1z2n9AL4N1
     - sys:
-        id: 6gOe7cZkxErsApKK6kcFcD
+        id: 5xVWegP4YErPjwWGIQr5oD
     - sys:
-        id: 60OmUZh717UBHfX5lIl4oP
+        id: 2C0l0vZBzF785Q1NbGfGvO
     - sys:
-        id: 1rjl63zu9qPGZ9StCree47
+        id: 2kEoS4hHqkxrm6zVDLJ9Qj
     - sys:
-        id: 2OlG4Gp8canggoSKbRnZI3
+        id: 3uW85No8luSk66sK6BJYDo
     - sys:
-        id: 6t7fk8pkX6EVlOT6xiIsYF
+        id: 6oIxnhT6aMnOCzDicLFD7o
     - sys:
-        id: 7LfV2Gpsb1uxAHZ87vhfDz
+        id: FHKgwVoMgJPgK07qNS5sO
+    - sys:
+        id: 7jxc17DhQyxTHd2fzl8uER
 - sys:
     id: 750yLhhRjBoGihBm56AZmF
     created_at: !ruby/object:DateTime 2019-05-03 00:05:46.680000000 Z
-    updated_at: !ruby/object:DateTime 2019-05-03 00:07:02.227000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-22 00:56:38.344000000 Z
     content_type_id: theme
-    revision: 2
+    revision: 4
   page_title: Assessing Impact
   theme_icon:
     sys:
-      id: 435OrUIAlvybJxrX7zfNo2
-      created_at: !ruby/object:DateTime 2019-05-03 00:06:26.052000000 Z
-      updated_at: !ruby/object:DateTime 2019-05-03 00:06:26.052000000 Z
-    title: placeholder-icon
+      id: 31efkJKPiEcqIlUq8VG2jV
+      created_at: !ruby/object:DateTime 2019-05-21 23:46:20.710000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-21 23:46:20.710000000 Z
+    title: impact-black
     description: 
-    url: "//images.ctfassets.net/h8kgu1arvxtu/435OrUIAlvybJxrX7zfNo2/697d8954137c4e6bdc8c3ade63b572c5/baseline-healing-24px.svg"
+    url: "//images.ctfassets.net/h8kgu1arvxtu/31efkJKPiEcqIlUq8VG2jV/197668ddccfd97658a8c6485edff776f/impact-black.svg"
   short_description: How can funders work better with grantees to meaningfully assess
     impact? How do funders’ varying styles and funding approaches affect successful
     impact evaluation?
   related_insights:
   - sys:
-      id: 5K90Xztqn08a6GbFj3ep4w
-      created_at: !ruby/object:DateTime 2019-05-02 23:35:43.855000000 Z
-      updated_at: !ruby/object:DateTime 2019-05-06 20:23:53.135000000 Z
+      id: 4zcMXjfMSLsPoJwQAEzWXZ
+      created_at: !ruby/object:DateTime 2019-05-22 00:26:06.129000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-22 00:26:17.457000000 Z
       content_type_id: insight
-      revision: 5
-    page_title: Deep, Trusting Relationships
-    insight_short: Deep, Trusting Relationships
-    insight_title: Grantees value deep and trusting relationships with funders, grounded
-      in subject area expertise.
-    short_description: A strong relationship between the funder and grantee builds
-      trust, enabling the grantee to take more initiative and negotiate for their
-      needs. Partnering with an investment lead (IL) or program officer with subject
-      area expertise is especially critical for grantees to feel like their work is
-      understood.
+      revision: 2
+    page_title: Reporting and Metrics
+    insight_short: Reporting and Metrics
+    insight_title: Reporting and metrics are not always perceived as useful and valuable
+      to grantees.
+    short_description: Co-designing metrics and reporting formats to be specific to
+      the needs of the grantee can lead to more meaningful and valuable impact measurement
+      for both funders and grantees.
     featured_quote:
       sys:
-        id: 3XbFyZvWauf1G4IV3ho6aO
-    long_description: "The investment lead (IL) or program officer is the face of
-      Luminate for grantees. A positive experience with an IL reflects very well on
-      the organization as a whole. IL’s with deep subject area knowledge are particularly
-      valued.\n\nThe ILs’ extensive knowledge about the space made the grantees feel
-      understood and heard, and contributed to an overall feeling of alignment with
-      GCE as a team. One participant expressed this as really valuing the “professional,
-      constructive, and encouraging thinking partner that our contact (IL) embodies.”
-      \n\nOrganizations who had a close relationship with their ILs were uniformly
-      positive about their IL’s capabilities and the amount of personal attention
-      they received. “They’ve truly felt as much like thought partners and co-conspirators
-      in our work as they do funders,” wrote one organization in the survey. \n\nGCE’s
-      openness to collaboration and negotiation was regarded as extremely positive
-      for those who had taken the initiative to take advantage of it. Grantees who
-      were confident enough to push back — usually with regard to metrics or reporting
-      — felt respected and heard, and often got what they asked for. Having pushed
-      back didn’t seem to hurt their reputation or relationship with GCE – if anything,
-      it seemed to lead to greater mutual respect."
+        id: 244ICJBBqDVOOvWwisIEgi
+    long_description: "### Reporting Processes\n\nIn the best case, quarterly and
+      annual reports serve as much more than just an update or checkup. Reporting
+      can be an integral part of creating a common understanding of the organization’s
+      goals and core mission. Some participants stated that creating reports helped
+      them hone their organizational focus.\n\nBut in other cases, reporting was seen
+      as busy work that takes time away from what organizations saw as their “real
+      work.” These participants viewed the report as a deliverable external to their
+      organizational goals. This group also expressed doubts about the utility of
+      their reports to GCE, since they rarely heard feedback after submitting reports.\n\nAmong
+      the people who were the most satisfied with reports, many of them had negotiated
+      a reporting format that worked for them. For example, some organizations sent
+      one standardized report to all of their funders, so they didn’t have to spend
+      time preparing multiple reports. Others worked with GCE to develop a specific
+      format that best fit both their needs and GCE’s. We noticed that the organizations
+      who took the initiative to make reporting work well for them were more likely
+      to see the real outcome as not the report itself, but as a benefit to their
+      organization’s health. On average, organizations reported that narrative reports
+      are more cumbersome to produce than financial reports, but almost all respondents
+      felt narrative reports were a clearer reflection of the organization. \n\n###
+      Metrics & Benchmarks\n\nWhen we explored the topic of reporting with interviewees,
+      the conversation often turned to the metrics that are, for organizations, tightly
+      linked with reporting.\n\nMost organizations had experience with impact measurement
+      of some kind, though sometimes at a less rigorous level than GCE's standards.
+      As with reporting formats, participants who pushed back on initial metrics,
+      and as a result collaborated to create metrics they found more meaningful and
+      useful, were the most satisfied and positive about their metrics. The chance
+      to create impact metrics together with GCE was described as a helpful learning
+      experience. In particular, some participants noted the value of being exposed
+      to learning measurement techniques associated with the commercial sector.\n\nThe
+      negative comments about metrics came from participants who felt that metrics
+      were handed to them without opportunities for discussion and revision, and thus
+      were neither reasonable nor applicable to their strategy and impact model. One
+      participant noted that they were “burdened with measurable but unfair metrics
+      and expectations.” Another commented that meeting metrics would only be possible
+      if they behaved unethically. These organizations generally saw metrics as a
+      way to quantitatively describe outputs, rather than a way to monitor outcomes.\n\n"
     related_theme:
     - Funding Approach & Process
-    - Trust & Power
+    - Assessing Impact
     related_recommendations:
     - sys:
-        id: 739159sAxh2eiycKRBdOfz
-    - sys:
-        id: 7HaggMuTZVQo9qMqqiQvJi
-    - sys:
-        id: 7ifyzI6bOqUiTn5aXg2Ac8
-    - sys:
-        id: 5UFLM9YhjV7pMyRVYAKGN7
+        id: 6usDyH5dFIPdiew4HipTs3
     - sys:
         id: 017p3qzOAZnrMjC3a5awyi
     - sys:
+        id: 7r9IEjpcUzDMCCofBKuFn0
+    - sys:
+        id: 4rrf45WE74ntAJMLgn8ulC
+    - sys:
+        id: 6CtHXkA7chCdYrtQerM3aD
+    - sys:
         id: 2jPpX1aCPfGnLCldon7zAv
-    related_resources:
     - sys:
-        id: 3FQVA12oDvZRa7iUrTJaas
+        id: 62AGKdvAhcnb1F3VjxmNFo
     - sys:
-        id: Aqrq7NXOreu5GwPYj5J7J
-    - sys:
-        id: 648LvvJeMpyWszz9HUvRGp
+        id: 5TrkIP1GfMYitT6ZyrOPiM
     related_quotes:
     - sys:
-        id: kvAzPII7XhsVREPsfqHyU
+        id: Uxx50gbi4lNbCZDCatwS0
     - sys:
-        id: 3XbFyZvWauf1G4IV3ho6aO
+        id: 6R1qdaSdZ68UWiykjpV3YZ
     - sys:
-        id: 3HjUvk7VX1pAERfNHzTHin
+        id: 2BDHN4nLDZSnSggJDuWK8q
     - sys:
-        id: 6gOe7cZkxErsApKK6kcFcD
+        id: Jf00FRKjvMboiB46BQTGW
     - sys:
-        id: 60OmUZh717UBHfX5lIl4oP
-    - sys:
-        id: 1rjl63zu9qPGZ9StCree47
-    - sys:
-        id: 2OlG4Gp8canggoSKbRnZI3
-    - sys:
-        id: 6t7fk8pkX6EVlOT6xiIsYF
-    - sys:
-        id: 7LfV2Gpsb1uxAHZ87vhfDz
+        id: 2OGYBGxf5RcDINfkwqTXXK
