@@ -77,6 +77,87 @@
   }
 }
 
+.list--index-cards {
+  line-height: 1.2;
+  padding-top: 2rem;
+
+  .list__item {
+    position: relative;
+    width: calc(100% / 2);
+
+    @include breakpoint($large) {
+      background-color: $cb-dark-gray!important;
+      &:nth-child(4n-2), &:nth-child(4n-1) {
+        background-color: $cb-light-gray!important;
+      }
+    }
+
+    @include breakpoint($medium-only) {
+      width: calc(100% / 2);
+    }
+    @include breakpoint($between-medium) {
+      width: calc(100% / 1);
+    }
+    @include breakpoint($small-only) {
+      width: calc(100% / 1);
+    }
+
+    &:hover {
+      background-color: $green!important;
+      img {
+        -webkit-filter: invert(100%);
+        filter: invert(100%);
+      }
+    }
+
+    .card {
+      font-family: $sans-serif;
+      font-size: 2.5rem;
+      font-weight: 900;
+
+      @include breakpoint($large) {
+        padding: 11rem 7rem 4rem 7rem;
+      }
+
+      @media screen and (min-width: 1024px) and (max-width: 1268px) {
+        font-size: 2.2rem;
+        min-height: 30rem;
+        padding: 8rem 4rem 4rem 4rem;
+      }
+
+      @media screen and (min-width: 787px) and (max-width: 937px) {
+        font-size: 1.7rem!important;
+        padding-top: 2rem!important;
+      }
+
+      @include breakpoint($medium-only) {
+        font-size: 1.8rem;
+        padding: 4rem;
+      }
+
+      @include breakpoint($small-only) {
+        font-size: 2rem;
+        padding-top: 2rem;
+      }
+    }
+
+    img {
+      width: 4.8rem;
+      padding-bottom: 2rem;
+      @include breakpoint($medium-only) {
+        font-size: 1.8rem;
+        min-height: 10rem;
+        padding-top: 5rem;
+        width: 3.5rem;
+      }
+      @include breakpoint($small-only) {
+        padding-top: 7rem;
+        width: 4rem;
+      }
+    }
+  }
+}
+
 .card {
   position: absolute;
   top: 0;
@@ -101,6 +182,27 @@
     @include breakpoint($small-only) {
       bottom: 3rem;
       right: 3rem;
+    }
+  }
+
+  &--index-cards {
+    &:before {
+      @extend .material-icons;
+      content: 'arrow_forward';
+      font-size: 3.5rem!important;
+      position: absolute;
+      bottom: 4rem;
+      right: 4rem;
+      @include breakpoint($medium-only) {
+        font-size: 2.5rem!important;
+        bottom: 2rem;
+        right: 2rem;
+      }
+      @include breakpoint($small-only) {
+        font-size: 3.5rem!important;
+        bottom: 2.5rem;
+        right: 2.5rem;
+      }
     }
   }
 
@@ -145,6 +247,18 @@
       bottom: 2rem;
       right: 2rem;
     }
+  }
+}
+
+.list__item--index-cards {
+  @include breakpoint($large) {
+    min-height: 35rem;
+  }
+  @media screen and (min-width: 1024px) and (max-width: 1268px) {
+    min-height: 30rem;
+  }
+  @media screen and (min-width: 787px) and (max-width: 937px) {
+    min-height: 25rem;
   }
 }
 
