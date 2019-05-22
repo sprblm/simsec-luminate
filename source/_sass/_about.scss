@@ -24,13 +24,17 @@
   &__container {
     background-color: $dark-blue;
     color: white;
-    padding-top: 2rem;
+    overflow-y: scroll;
+    padding: 2rem 0;
     position: fixed;
     width: 100%;
     height: 100%;
-    top: 0;
     transition: transform 0.3s 0.3s;
     z-index: 3;
+
+    .column {
+      padding-bottom: 2rem;
+    }
 
     h2 {
       font-size: 2rem;
@@ -50,6 +54,11 @@
       text-decoration: none;
       text-transform: uppercase;
     }
+  }
+
+  img {
+    width: 13rem;
+    padding-bottom: 1rem;
   }
 }
 
