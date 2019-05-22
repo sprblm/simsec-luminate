@@ -1,8 +1,10 @@
+{% assign index = site.data.contentful.index.index[0] %}
+
 <header class="top-bar">
   <span class="top-bar__button js-trigger-menu">menu</span>
   <nav class="main-menu js-target-menu main-menu--left nav">
-    <i class="material-icons">wb_sunny</i>
-    <a class="index-link" href="{{ '/'.html' }}">Trust, Power, and Support</a>
+    <a href="{{ '/'.html' }}"><i class="material-icons">wb_sunny</i></a>
+    <a class="index-link" href="{{ '/'.html' }}">{{ index.report_title }}</a>
     <a class="slide-about-page" href="#">About</a>
     <a class="nav-link scroll-link" href="{{ '/#themes'.html' | relative_url }}" nav-data='themes'>Themes</a>
     <a class="nav-link" href="{{ '/insights.html' | relative_url }}" nav-data='insights'>Insights</a>

@@ -3,19 +3,39 @@ about:
 - sys:
     id: 5fXKgdICZZbLiJ9MpO4axr
     created_at: !ruby/object:DateTime 2019-05-02 23:30:09.455000000 Z
-    updated_at: !ruby/object:DateTime 2019-05-02 23:31:42.861000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-21 23:52:21.648000000 Z
     content_type_id: about
-    revision: 3
+    revision: 6
   page_title: About
   about_description: |-
     In June 2018, Luminate commissioned Simply Secure to conduct a human-centered design research project focused on highlighting investees’ experiences of the funding process. This is the public report from that research — the Partner Perspectives project — a collaboration between Luminate, formally the Governance and Citizen Engagement (GCE) Initiative at Omidyar Network, and Simply Secure. The interviews and survey were conducted over the course of July - September 2018.
 
     Learn more about the project \[link to project details page eventually]
-  simsec_description: |-
-    Simply Secure is a US 501(c)3 non-profit building a community of practitioners that puts people at the center of privacy, security, and transparency. We have core staff in New York City, Swarthmore, and Berlin. Our small but nimble team collaborates with a global network of professionals to engage domain-specific talent for each project. Read more about Simply Secure.
-
-    [Contact](mailto:contact@simplysecure.org)
+  luminate_logo:
+    sys:
+      id: 3fexX1zyNZHvMatfmJBi9I
+      created_at: !ruby/object:DateTime 2019-05-21 23:43:31.649000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-21 23:43:31.649000000 Z
+    title: luminate-logo
+    description: 
+    url: "//images.ctfassets.net/h8kgu1arvxtu/3fexX1zyNZHvMatfmJBi9I/2537bfa4bb76af8e00f667b78cfb45be/luminate-logo.svg"
   luminate_description: |-
-    Established in 2018, Luminate is a global philanthropic organization with the goal of empowering people and institutions to work together to build just and fair societies. Luminate does this by funding and supporting nonprofit and for-profit organizations and advocating for policies and actions that will help people participate in and shape the issues affecting their lives, and make those in power more transparent, responsive, and accountable. Read more about Luminate.
+    Established in 2018, Luminate is a global philanthropic organization with the goal of empowering people and institutions to work together to build just and fair societies. Luminate does this by funding and supporting nonprofit and for-profit organizations and advocating for policies and actions that will help people participate in and shape the issues affecting their lives, and make those in power more transparent, responsive, and accountable. Read more about [Luminate](https://luminategroup.com/).
 
-    [Contact](mailto:hello@luminategroup.com)
+    __Contact__
+
+    [hello@luminategroup.com](mailto:hello@luminategroup.com)
+  simsec_description: |-
+    Simply Secure is a US 501(c)3 non-profit building a community of practitioners that puts people at the center of privacy, security, and transparency. We have core staff in New York City, Swarthmore, and Berlin. Our small but nimble team collaborates with a global network of professionals to engage domain-specific talent for each project. Read more about [Simply Secure](https://simplysecure.org/).
+
+    __Contact__
+
+    [contact@simplysecure.org](mailto:contact@simplysecure.org)
+  simsec_logo:
+    sys:
+      id: 7xku46Av2bRp4URFz3l19j
+      created_at: !ruby/object:DateTime 2019-05-21 23:44:02.541000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-21 23:44:02.541000000 Z
+    title: simsec-logo
+    description: 
+    url: "//images.ctfassets.net/h8kgu1arvxtu/7xku46Av2bRp4URFz3l19j/c5f8e07675ba2785face65e25fef5c11/simsec-logo.svg"

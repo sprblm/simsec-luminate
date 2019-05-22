@@ -3,12 +3,12 @@ index:
 - sys:
     id: 37stCeFxGeqoRZQaUKmOvd
     created_at: !ruby/object:DateTime 2019-05-02 23:27:13.174000000 Z
-    updated_at: !ruby/object:DateTime 2019-05-02 23:27:13.174000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-21 23:45:37.820000000 Z
     content_type_id: index
-    revision: 1
+    revision: 3
   page_title: Index
-  report_title: Trust, Power, and Support
-  report_subtitle: Human Centered Research on the Grantee Experience
+  report_title: On Trust & Transparency
+  report_subtitle: Perspectives from Luminate's portfolio
   intro_copy: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
     nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -23,6 +23,22 @@ index:
     culpa qui officia deserunt mollit anim id est laborum.
   simsec_footer: 'Simply Secure is a non-profit building a community of practitioners
     that puts people at the center of privacy, security, and transparency. '
+  simsec_logo:
+    sys:
+      id: 7xku46Av2bRp4URFz3l19j
+      created_at: !ruby/object:DateTime 2019-05-21 23:44:02.541000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-21 23:44:02.541000000 Z
+    title: simsec-logo
+    description: 
+    url: "//images.ctfassets.net/h8kgu1arvxtu/7xku46Av2bRp4URFz3l19j/c5f8e07675ba2785face65e25fef5c11/simsec-logo.svg"
   luminate_footer: 'Luminate is a global philanthropic organization with the goal
     of empowering people and institutions to work together to build just and fair
     societies. '
+  luminate_logo:
+    sys:
+      id: 3fexX1zyNZHvMatfmJBi9I
+      created_at: !ruby/object:DateTime 2019-05-21 23:43:31.649000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-21 23:43:31.649000000 Z
+    title: luminate-logo
+    description: 
+    url: "//images.ctfassets.net/h8kgu1arvxtu/3fexX1zyNZHvMatfmJBi9I/2537bfa4bb76af8e00f667b78cfb45be/luminate-logo.svg"

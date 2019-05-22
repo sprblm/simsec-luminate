@@ -13,6 +13,7 @@
     vertical-align: top;
     width: calc(100% / 3);
     min-height: 28rem;
+    @extend .u-transition;
 
     @include breakpoint($between-large) {
       width: calc(100% / 2);

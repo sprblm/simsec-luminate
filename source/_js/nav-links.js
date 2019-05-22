@@ -14,9 +14,9 @@ const NavLinks = {
 
         $(window).scroll(() => {
           if ($(window).scrollTop() + 50 >= $('#themes').position().top) {
-            link.classList.add('active-orange');
+            link.classList.add('active-blue');
           } else {
-            link.classList.remove('active-orange');
+            link.classList.remove('active-blue');
           }
         });
       }

@@ -26,6 +26,7 @@ $sans-serif: 'Roboto', sans-serif;
 $serif: 'Crimson Text', serif;
 
 @import 'breakpoint';
+@import 'mixins';
 
 @import 'about';
 @import 'base';
