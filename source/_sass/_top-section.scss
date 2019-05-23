@@ -115,6 +115,9 @@
         border-right: 1px solid white;
         padding-right: 6rem;
       }
+      &--recommendation {
+        p { all: unset; }
+      }
     }
 
     h1 {

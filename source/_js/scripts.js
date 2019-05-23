@@ -10,7 +10,6 @@ import Utils from './utils';
 import FixedDropdown from './fixed-dropdown';
 import SlidePage from './slide-page';
 import RecommendationsFilter from './recommendations-filter';
-import TagFilter from './tag-filter';
 import InsightsFilter from './insights-filter';
 import NavLinks from './nav-links';
 
@@ -26,6 +25,5 @@ Utils.markdownLinksNewPage();
 FixedDropdown.init();
 SlidePage.init();
 RecommendationsFilter.init();
-TagFilter.init();
 InsightsFilter.init();
 NavLinks.init();
