@@ -17,8 +17,8 @@ seo_image_path: #'/images/media/filename.jpg'
       <div class="column large-12 medium-12 small-12">
         <h1>Recommendation</h1>
       </div>
-      <div class="column large-7 medium-12 small-12 title-column">
-        <h2>{{ page.recommendation }}</h2>
+      <div class="column large-7 medium-12 small-12 title-column title-column--recommendation">
+        <h2>{{ page.recommendation | markdownify }}</h2>
       </div>
       <div class="column large-4 medium-12 small-12">
         <div class="tag-container">
@@ -26,7 +26,7 @@ seo_image_path: #'/images/media/filename.jpg'
             <div class="themes">
               <h3>Related Themes</h3>
               {% for theme in page.theme_tag %}
-                <a class="tag tag--white tag-filter-link" href="#" filter-tag="theme" filter-query="{{ theme | slugify }}">{{ theme }}</a>
+                <a class="tag tag--white tag-filter-link" href="{{ theme | slugify | prepend: '/themes/' | append: '.html' | relative_url }}" filter-tag="theme" filter-query="{{ theme | slugify }}">{{ theme }}</a>
               {% endfor %}
             </div>
           {% endif %}
@@ -35,7 +35,7 @@ seo_image_path: #'/images/media/filename.jpg'
             <div class="insights">
               <h3>Related Insights</h3>
               {% for insight in page.insight_tag %}
-                <a class="tag tag--white tag-filter-link" href="#" filter-tag="insight" filter-query="{{ insight | slugify }}">{{ insight }}</a>
+                <a class="tag tag--white tag-filter-link" href="{{ insight | slugify | prepend: '/insights/' | append: '.html' | relative_url }}" filter-tag="insight" filter-query="{{ insight | slugify }}">{{ insight }}</a>
               {% endfor %}
             </div>
           {% endif %}
@@ -53,14 +53,16 @@ seo_image_path: #'/images/media/filename.jpg'
   </section>
 
   <section class="">
-    <div class="row expanded">
+    <ul class="list">
       {% for resource in page.related_resources %}
-        <a href="{{ resource.resource_url }}" class="column large-4 medium-6 small-12 card card--resource">
-          <h5>{{ resource.resource_title }}</h5>
-          {{ resource.resource_description | markdownify }}
-          <span class="type">{{ resource.resource_type }}</span>
-        </a>
+        <li class="list__item list__item--insight">
+          <a href="{{ resource.resource_url }}" class="card card--resource">
+            <h5>{{ resource.resource_title }}</h5>
+            {{ resource.resource_description | markdownify }}
+            <span class="type">{{ resource.resource_type }}</span>
+          </a>
+        </li>
       {% endfor %}
-    </div>
+    </ul>
   </section>
 </main>
