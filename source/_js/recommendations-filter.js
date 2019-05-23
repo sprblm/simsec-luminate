@@ -83,7 +83,7 @@ const RecommendationsFilter = {
     RecommendationsFilter.filterList(RecommendationsFilter.searchQueries);
   },
   noResultsDiv: () => {
-    const recommendationsCount = document.querySelectorAll('.list-item').length;
+    const recommendationsCount = document.querySelectorAll('.list__item').length;
 
     recommendationsCount > 0
     ? document.querySelector('.no-results').style.display = 'none'
