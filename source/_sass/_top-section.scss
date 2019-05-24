@@ -31,6 +31,7 @@
       border-bottom: 1px solid white;
       width: 6rem;
       margin: 5rem 0;
+      text-align: left;
     }
 
     h1 {
@@ -96,6 +97,9 @@
     img {
       filter: invert(100%);
       -webkit-filter: invert(100%);
+      -moz-filter: invert(100%);
+      -o-filter: invert(100%);
+      -ms-filter: invert(100%);
       padding: 1rem 0;
       width: 3rem!important;
     }

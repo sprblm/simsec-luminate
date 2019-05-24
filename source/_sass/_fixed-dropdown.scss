@@ -43,8 +43,10 @@
     font-weight: bold;
     margin-bottom: 0;
     width: auto;
+    position: relative;
 
     &:before {
+      @extend .u-material-icons;
     }
 
     select {
