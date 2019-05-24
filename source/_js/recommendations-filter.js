@@ -34,12 +34,12 @@ const RecommendationsFilter = {
   filterByDropdowns: () => {
     const dropdownFilters = document.querySelectorAll('.dropdown');
 
-    dropdownFilters.forEach(filter => {
+    Array.prototype.slice.call(dropdownFilters).forEach(filter => {
       filter.addEventListener('change', e => {
         const filterSelection = e.currentTarget.id;
         let selectedOption;
 
-        Array.from(e.currentTarget.childNodes).forEach(item => {
+        Array.prototype.slice.call(e.currentTarget.childNodes).forEach(item => {
           if (item.selected === true) {
             selectedOption = item.getAttribute('data-select');
             RecommendationsFilter.searchQueries[filterSelection] = selectedOption;
@@ -86,20 +86,18 @@ const RecommendationsFilter = {
       RecommendationsFilter.setSearchQueryDefaults();
       RecommendationsFilter.recommendationList.filter();
       RecommendationsFilter.recommendationList.sort('title', { order: 'asc' });
-      document.querySelectorAll('.dropdown').forEach(dropdown => dropdown.selectedIndex = 0);
+      document.querySelector('.dropdown').selectedIndex = 0;
     });
   },
   matchSearchQueriesToUI() {
-    const dropdowns = document.querySelectorAll('.dropdown');
+    const dropdown = document.querySelector('.dropdown');
+    const selectedIndex = dropdown.options[dropdown.selectedIndex];
 
-    Array.from(dropdowns).forEach((dropdown, idx) => {
-      RecommendationsFilter.searchQueries[dropdown.id] = dropdown.selectedOptions[0].getAttribute('data-select');
-      const selectedIndex = dropdown.selectedOptions[0].index;
+    RecommendationsFilter.searchQueries[dropdown.id] = dropdown.options[dropdown.selectedIndex].getAttribute('data-select');
 
-      if (selectedIndex !== -1) {
-        dropdown.selectedIndex = selectedIndex;
-      }
-    });
+    if (selectedIndex !== -1) {
+      dropdown.selectedIndex = selectedIndex;
+    }
 
     RecommendationsFilter.filterList(RecommendationsFilter.searchQueries);
   },

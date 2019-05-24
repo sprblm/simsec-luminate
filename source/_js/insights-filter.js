@@ -28,7 +28,7 @@ const InsightsFilter = {
       const filterSelection = e.currentTarget.id;
       let selectedOption;
 
-      Array.from(e.currentTarget.childNodes).forEach(item => {
+      Array.prototype.slice.call(e.currentTarget.childNodes).forEach(item => {
         if (item.selected === true) {
           selectedOption = item.getAttribute('data-select');
           InsightsFilter.searchQueries[filterSelection] = selectedOption;
