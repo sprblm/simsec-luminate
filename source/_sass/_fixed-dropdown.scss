@@ -1,8 +1,42 @@
 .fixed-dropdown {
   background-color: $light-gray;
   color: $dark-gray;
+  font-family: $sans-serif;
   font-size: 0.9rem;
   text-align: center;
+
+  .row {
+    @include breakpoint($medium-only) {
+      -webkit-justify-content: center;
+      -ms-flex-pack: center;
+      justify-content: center;
+    }
+  }
+
+  .toggle-container {
+    padding: 0.7rem 0;
+    text-align: left;
+    @include breakpoint($large) {
+      padding-left: 1rem;
+    }
+    @include breakpoint($medium-only) {
+      text-align: center;
+
+    }
+    span {
+      font-weight: 900;
+      padding-right: 0.5rem;
+
+    }
+
+    .mdc-switch {
+      margin: 0 0.5rem;
+    }
+  }
+
+  .insight-dropdown {
+    display: none;
+  }
 
   .select {
     background-color: transparent;
@@ -33,4 +67,8 @@
     }
   }
 
+}
+
+:root {
+  --mdc-theme-secondary: #404040!important;
 }
