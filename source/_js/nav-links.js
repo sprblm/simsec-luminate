@@ -3,7 +3,7 @@ const NavLinks = {
     const currentPage = document.querySelector('main').id;
     const navLinks = document.querySelectorAll('.nav-link');
 
-    Array.from(navLinks).forEach(link => {
+    Array.prototype.slice.call(navLinks).forEach(link => {
       if (link.getAttribute('nav-data') === currentPage) {
         link.classList.add('active-orange');
       } else if (currentPage === 'insight' || currentPage === 'recommendation' || currentPage === 'theme') {

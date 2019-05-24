@@ -4,7 +4,7 @@ const SlidePage = {
     const aboutPanel = document.querySelector('.slide-panel');
     const closeButton = document.querySelector('.close-panel');
 
-    Array.from(aboutSlideButton).forEach(item => {
+    Array.prototype.slice.call(aboutSlideButton).forEach(item => {
       item.addEventListener('click', e => {
         e.preventDefault();
         aboutPanel.classList.add('slide-panel--is-visible');
