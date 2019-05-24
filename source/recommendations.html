@@ -34,8 +34,23 @@ themes | sort %} {% endfor %}
   </section>
 
   <section class="fixed-dropdown">
-    <div class="row align-center">
-      <div class="column large-3 medium-5 small-6">
+    <div class="row expanded ">
+      <div class="column large-5 medium-12 small-12 ">
+        <div class="toggle-container">
+          <span>Filter By</span>
+          <label for="basic-switch">Themes</label>
+          <div class="mdc-switch">
+            <div class="mdc-switch__track"></div>
+            <div class="mdc-switch__thumb-underlay">
+              <div class="mdc-switch__thumb">
+                  <input type="checkbox" id="basic-switch" class="mdc-switch__native-control" role="switch">
+              </div>
+            </div>
+          </div>
+          <label for="basic-switch">Insights</label>
+        </div>
+      </div>
+      <div class="column large-3 medium-7 small-8 theme-dropdown">
         <div class="select">
           <select class="dropdown" id="theme" data-filter="theme">
             <option data-select="all">All Themes</option>
@@ -45,7 +60,7 @@ themes | sort %} {% endfor %}
           </select>
         </div>
       </div>
-      <div class="column large-3 medium-5 small-6">
+      <div class="column large-3 medium-7 small-8 insight-dropdown">
         <div class="select">
           <select class="dropdown" id="insight" data-filter="insight">
             <option data-select="all">All Insights</option>
@@ -75,7 +90,7 @@ themes | sort %} {% endfor %}
         {% endfor %}
       </ul>
       <div class="no-results">
-        <p>No Results</p>
+        <!-- <p>No Results</p> -->
         <a href="#" class="clear-all button">Clear All</a>
       </div>
     </div>
