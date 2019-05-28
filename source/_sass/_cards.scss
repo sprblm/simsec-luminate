@@ -1,13 +1,18 @@
 .list {
+  display: -ms-flexbox;
+  display: -webkit-flex;
   display: flex;
+  -ms-flex-direction: row;
+  -webkit-flex-direction: row;
   flex-direction: row;
+  -ms-flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
   flex-wrap: wrap;
   padding: 0;
   margin: 0;
 
   &__item {
     color: $dark-gray;
-    display: inline-block;
     list-style-type: none;
     position: relative;
     vertical-align: top;
@@ -173,7 +178,7 @@
   }
 
   &:before {
-    @extend .material-icons;
+    @extend .u-material-icons;
     content: 'arrow_forward';
     font-size: 2rem!important;
     position: absolute;
@@ -187,7 +192,7 @@
 
   &--index-cards {
     &:before {
-      @extend .material-icons;
+      @extend .u-material-icons;
       content: 'arrow_forward';
       font-size: 3.5rem!important;
       position: absolute;
