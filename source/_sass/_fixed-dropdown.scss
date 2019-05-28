@@ -74,3 +74,18 @@
 :root {
   --mdc-theme-secondary: #404040!important;
 }
+
+.mdc-switch__thumb::after, .mdc-switch__thumb-underlay::before, .mdc-switch__thumb-underlay::after {
+  background-color: #404040!important;
+  border-color: #404040!important;
+}
+
+.mdc-switch.mdc-switch--checked .mdc-switch__thumb {
+  background-color: #404040!important;
+  border-color: #404040!important;
+}
+
+.mdc-switch--checked.mdc-switch .mdc-switch__track {
+  background-color: #404040!important;
+  border-color: #404040!important;
+}
