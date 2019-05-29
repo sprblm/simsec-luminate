@@ -56,7 +56,7 @@
 #recommendations, #insights, #theme {
   .top-section {
     h1, h2 {
-      margin: 5rem 0 0 0;
+      margin: 4rem 0 0 0;
       @include breakpoint($medium-only) {
         font-size: 3rem;
         margin-top: 3rem;
@@ -135,7 +135,7 @@
       font-weight: bold;
       text-transform: uppercase;
       margin-bottom: 1.8rem;
-      padding-top: 4rem;
+      padding-top: 2.8rem;
       @include breakpoint($medium-only) {
         padding-top: 2rem;
       }
