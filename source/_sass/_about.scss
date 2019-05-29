@@ -45,20 +45,19 @@
 
     p {
       font-size: 1.2rem;
-      font-weight: bold;
       margin-top: 0;
     }
 
     a {
       font-size: 1.1rem;
-      font-weight: bold;
       text-decoration: none;
-      text-transform: uppercase;
+      border-bottom: 1px solid;
     }
   }
 
   img {
     width: 13rem;
+    // height: 3.2rem;
     padding-bottom: 1rem;
   }
 }
