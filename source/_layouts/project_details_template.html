@@ -1,0 +1,28 @@
+---
+layout: default
+title:
+description:
+seo_image_path: #'/images/media/filename.jpg'
+---
+{% assign page_content = site.data.contentful.projectDetails.projectDetails[0] %}
+<main role="main" id="project-details-page">
+
+  {% include nav.html %}
+
+  <section class="top-section">
+    <div class="row">
+      <div class="column large-12 medium-12 small-12">
+        <h1>{{page.page_title}}</h1>
+      </div>
+    </div>
+  </section>
+
+  <section class="page-section">
+    <div class="row">
+      <div class="column large-12">
+        {{ page_content.details_description | rich_text_to_html }}
+      </div>
+    </div>
+  </section>
+
+</main>

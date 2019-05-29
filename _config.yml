@@ -83,6 +83,22 @@ contentful:
         all_entries: true
         cda_query:
           content_type: insight
+    - projectDetails:
+        space: ENV_SIMSEC_CONTENTFUL_SPACE_ID
+        access_token: ENV_SIMSEC_CONTENTFUL_ACCESS_TOKEN
+        base_path: ./source
+        destination: /contentful
+        all_entries: true
+        cda_query:
+          content_type: projectDetails
+    - figures:
+        space: ENV_SIMSEC_CONTENTFUL_SPACE_ID
+        access_token: ENV_SIMSEC_CONTENTFUL_ACCESS_TOKEN
+        base_path: ./source
+        destination: /contentful
+        all_entries: true
+        cda_query:
+          content_type: figure
 
 page_gen:
   - data: 'data.contentful.insight.insight'
@@ -97,3 +113,7 @@ page_gen:
     template: 'theme_template'
     name: 'page_title'
     dir: 'themes'
+  - data: 'data.contentful.projectDetails.projectDetails'
+    template: 'project_details_template'
+    name: 'page_title'
+    dir: './'

@@ -1,0 +1,626 @@
+---
+projectDetails:
+- sys:
+    id: 7391na5XCXEsY8bGxlbS9p
+    created_at: !ruby/object:DateTime 2019-05-29 15:44:57.862000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-29 15:44:57.862000000 Z
+    content_type_id: projectDetails
+    revision: 1
+  page_title: Project Details
+  details_description:
+    data: {}
+    content:
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: Overview
+        nodeType: text
+      nodeType: heading-2
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: 'In June 2018, Luminate commissioned Simply Secure to conduct '
+        nodeType: text
+      - data: {}
+        marks:
+        - type: bold
+        value: human-centered design (HCD) research
+        nodeType: text
+      - data: {}
+        marks: []
+        value: " focused on uncovering grantees’ experiences of the funding process.
+          The research focused on three main questions:"
+        nodeType: text
+      nodeType: paragraph
+    - data: {}
+      content:
+      - data: {}
+        content:
+        - data: {}
+          content:
+          - data: {}
+            marks: []
+            value: What pain points offer opportunities for improving grantees’ experience?
+            nodeType: text
+          nodeType: paragraph
+        nodeType: list-item
+      - data: {}
+        content:
+        - data: {}
+          content:
+          - data: {}
+            marks: []
+            value: What actionable recommendations are priorities for GCE to address?
+            nodeType: text
+          nodeType: paragraph
+        nodeType: list-item
+      - data: {}
+        content:
+        - data: {}
+          content:
+          - data: {}
+            marks: []
+            value: What steps can be taken to build continuous HCD research into GCE’s
+              processes?
+            nodeType: text
+          nodeType: paragraph
+        nodeType: list-item
+      nodeType: unordered-list
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: 'Simply Secure built confidentiality and anonymity into the research
+          process, so as to solicit authentic, critical feedback. The report highlights
+          feedback from '
+        nodeType: text
+      - data: {}
+        marks:
+        - type: bold
+        value: 20 interviews
+        nodeType: text
+      - data: {}
+        marks: []
+        value: " + "
+        nodeType: text
+      - data: {}
+        marks:
+        - type: bold
+        value: 53 survey responses
+        nodeType: text
+      - data: {}
+        marks: []
+        value: ", including anonymized quotes and comments."
+        nodeType: text
+      nodeType: paragraph
+    - data:
+        target:
+          sys:
+            id: 64SgkzvKBL5Cirn6boLvKA
+            created_at: !ruby/object:DateTime 2019-05-29 14:50:43.213000000 Z
+            updated_at: !ruby/object:DateTime 2019-05-29 14:50:43.213000000 Z
+            content_type_id: figure
+            revision: 1
+          figure_number: 1
+          figure_title: Human-Centered Design
+          figure_image:
+            sys:
+              id: 1zQNSeTxd7rezMgVJOLEo2
+              created_at: !ruby/object:DateTime 2019-05-29 14:46:54.006000000 Z
+              updated_at: !ruby/object:DateTime 2019-05-29 14:46:54.006000000 Z
+            title: Figure 1 - HCD
+            description: 
+            url: "//images.ctfassets.net/h8kgu1arvxtu/1zQNSeTxd7rezMgVJOLEo2/f9f9c46cb9b2bd66eeea683fc1bea0ca/Figure_1_-_HCD.png"
+          figure_description: HCD methods are applicable in any part of a product
+            or service development process, from initial needfinding through prototyping
+            and feedback. The Partner Perspectives project was early-stage, formative
+            work focused on surfacing the needs of investees. This work could potentially
+            be continued in the future to further develop the recommendations.
+          figure_caption: HCD methods are applicable in any part of a product or service
+            development process, from initial need-finding through prototyping and
+            feedback.
+          figure_alt: Figure 1 is a diagram illustrating where this project's work
+            falls within the overall human-centered design process.
+      content: []
+      nodeType: embedded-entry-block
+    - data:
+        target:
+          sys:
+            id: 1rYUjQOBkm7pi5WUfcw90P
+            created_at: !ruby/object:DateTime 2019-05-29 15:08:41.617000000 Z
+            updated_at: !ruby/object:DateTime 2019-05-29 15:08:41.617000000 Z
+            content_type_id: figure
+            revision: 1
+          figure_number: 2
+          figure_title: Workflow Overview
+          figure_image:
+            sys:
+              id: 4rtHx9xmDs3sFs06RutdX0
+              created_at: !ruby/object:DateTime 2019-05-29 15:00:54.274000000 Z
+              updated_at: !ruby/object:DateTime 2019-05-29 15:00:54.274000000 Z
+            title: Figure 2 - Report Workflow
+            description: 
+            url: "//images.ctfassets.net/h8kgu1arvxtu/4rtHx9xmDs3sFs06RutdX0/ddafd40112c83c1b9469f77095ef198e/Figure_2_-_Report_Workflow.png"
+          figure_description: |-
+            The report highlights feedback from 20 interviews + 53 survey responses, including
+            anonymized quotes and comments. This figure illustrates the major phases of the workflow for this project.
+          figure_caption: The report highlights feedback from 20 interviews + 53 survey
+            responses, including anonymized quotes and comments.
+          figure_alt: Figure 2 illustrates the major phases of the workflow for this
+            project.
+      content: []
+      nodeType: embedded-entry-block
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: 'HCD methods are applicable in any part of a product or service development
+          process, from initial needfinding through prototyping and feedback. The
+          Partner Perspectives project was early-stage, formative work '
+        nodeType: text
+      - data: {}
+        marks:
+        - type: bold
+        value: focused on surfacing the needs of grantees
+        nodeType: text
+      - data: {}
+        marks: []
+        value: ". This work could potentially be continued in the future to further
+          develop the recommendations. Additional HCD methods can ensure the research
+          participants’ needs stay central in the later design and implementation
+          process. "
+        nodeType: text
+      nodeType: paragraph
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: As this report is based on interviews and data collected from grantees
+          between July and September 2018, it is a reflection of grantees’ perspectives
+          on the experience they had while funded by Omidyar Network’s GCE initiative
+          and the recommendations have been developed according to experiences with
+          Omidyar Network’s processes and dynamics (rather than Luminate’s). These
+          learnings can therefore be seen as a useful baseline for Luminate to evaluate
+          itself against going forward.
+        nodeType: text
+      nodeType: paragraph
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: Methodology
+        nodeType: text
+      nodeType: heading-2
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: 'Simply Secure’s approach is '
+        nodeType: text
+      - data: {}
+        marks:
+        - type: bold
+        value: values-based
+        nodeType: text
+      - data: {}
+        marks: []
+        value: " and leverages "
+        nodeType: text
+      - data: {}
+        marks:
+        - type: bold
+        value: human-centered design
+        nodeType: text
+      - data: {}
+        marks: []
+        value: " practices throughout our work. Three values that particularly informed
+          the approach on this research are:"
+        nodeType: text
+      nodeType: paragraph
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: 1. Confidentiality
+        nodeType: text
+      nodeType: heading-3
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: Forming a rapport strong enough to get potentially critical information
+          about an influential funder from a tech-savvy audience required developing
+          a robust set of confidentiality practices.
+        nodeType: text
+      nodeType: paragraph
+    - data: {}
+      content:
+      - data: {}
+        content:
+        - data: {}
+          content:
+          - data: {}
+            marks: []
+            value: Participant data was stored only on encrypted devices.
+            nodeType: text
+          nodeType: paragraph
+        nodeType: list-item
+      - data: {}
+        content:
+        - data: {}
+          content:
+          - data: {}
+            marks: []
+            value: Temporary, purpose-specific email accounts and calendar items were
+              used, and have been deleted upon finalizing the research.
+            nodeType: text
+          nodeType: paragraph
+        nodeType: list-item
+      - data: {}
+        content:
+        - data: {}
+          content:
+          - data: {}
+            marks: []
+            value: Aliases were used for participants in all unencrypted electronic
+              communication (Slack, Google Apps, scheduling). The only link between
+              the alias and the participants’ names was on an encrypted drive and
+              in handwritten notes.
+            nodeType: text
+          nodeType: paragraph
+        nodeType: list-item
+      - data: {}
+        content:
+        - data: {}
+          content:
+          - data: {}
+            marks: []
+            value: Before the interviews, each participant received a data handling
+              statement via email.
+            nodeType: text
+          nodeType: paragraph
+        nodeType: list-item
+      - data: {}
+        content:
+        - data: {}
+          content:
+          - data: {}
+            marks: []
+            value: During the interviews, we only took handwritten notes to decrease
+              the digital footprint.
+            nodeType: text
+          nodeType: paragraph
+        nodeType: list-item
+      - data: {}
+        content:
+        - data: {}
+          content:
+          - data: {}
+            marks: []
+            value: We selected and used an open-source platform called LimeSurvey
+              because of its strong privacy-preserving policies.
+            nodeType: text
+          nodeType: paragraph
+        nodeType: list-item
+      - data: {}
+        content:
+        - data: {}
+          content:
+          - data: {}
+            marks: []
+            value: The entire project (data collection, storage, and processing) is
+              GDPR-compliant.
+            nodeType: text
+          nodeType: paragraph
+        nodeType: list-item
+      nodeType: unordered-list
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: We believe these policies, which can be found in the Resources section
+          on the report website, can be a model for the participants’ communities,
+          as well as others seeking to do HCD work in sensitive situations.
+        nodeType: text
+      nodeType: paragraph
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: 2. Openness
+        nodeType: text
+      nodeType: heading-3
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: Our practice is to share openly as much as possible from our work,
+          e.g., data, insights, learnings, findings, and techniques — while also respecting
+          participant and collaborator privacy and security. This allows us to reflect
+          how much we value participant input. For this work, the insights from this
+          research are shared as a public report. The techniques and methods used
+          for privacy-preserving user research are shared in the Resources section
+          on the report website.
+        nodeType: text
+      nodeType: paragraph
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: 3. Empathy
+        nodeType: text
+      nodeType: heading-3
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: Human-centered design (HCD) is grounded in empathy. In an HCD process,
+          we take the approach that understanding people’s experiences, needs, and
+          values sets the foundation for improving the world they live in.
+        nodeType: text
+      nodeType: paragraph
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: HCD research methods often take the form of semi-structured interactions,
+          e.g., interviews, design workshops and exercises, and participatory methods.
+          These techniques surface participants’ priorities and values by giving them
+          control over the focus of the research. Each interaction is a unique response
+          to each participant, tailored to their individual concerns. HCD methods
+          aren’t entirely open-ended; a common overall structure allows researchers
+          to draw out parallel themes and insights.
+        nodeType: text
+      nodeType: paragraph
+    - data: {}
+      content:
+      - data: {}
+        marks:
+        - type: bold
+        value: 'Why human centered research? '
+        nodeType: text
+      nodeType: paragraph
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: 'Human-centered research is about people, and about the impact that
+          a program, a process, or a technology has on those people’s lives. Human-centered
+          research generates actionable insights to improve an organization’s offerings.
+          In contrast to a top-down process which emphasizes the priorities of a funder,
+          human-centered research as applied to philanthropy offers the opportunity
+          to understand not just how a given grant impacts an organization, but how
+          the relationship between funder and grantee shapes the health of the nonprofit
+          sector as a whole. '
+        nodeType: text
+      nodeType: paragraph
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: 'Simply Secure’s approach to human-centered research is grounded in
+          respect for participants and dynamic adaptation to the ongoing insights
+          that emerge from the research process.  A mix of qualitative and quantitative
+          methods was employed: the core of this work was a series of semi-structured,
+          in-depth, participant-led interviews. The interview guide contained open-ended
+          questions and clear topics to cover, but remained flexible enough for the
+          participant to direct time and attention to their—rather than Simply Secure’s—priorities.
+          New questions that took shape during the interviews were then used to shape
+          a survey. The survey contained more targeted questions, and was distributed
+          to a larger group, in order to understand how these emerging questions and
+          opportunity areas resonated with a broader audience. '
+        nodeType: text
+      nodeType: paragraph
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: Overall, this human-centered approach to research allowed us to have
+          critical conversations around important relationships with the participants
+          and adapt as needed to the issues participants raised. A human-centered
+          lens is ideal for this type of research as it allows for better understanding
+          of the participants’ context and environment, as well as the specific process
+          or practice that is the focus of the research.
+        nodeType: text
+      nodeType: paragraph
+    - data: {}
+      content:
+      - data: {}
+        marks:
+        - type: bold
+        value: Limitations
+        nodeType: text
+      nodeType: heading-3
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: 'Although this project uses best practices for HCD user research, there
+          are some limitations to the approach. '
+        nodeType: text
+      nodeType: paragraph
+    - data: {}
+      content:
+      - data: {}
+        content:
+        - data: {}
+          content:
+          - data: {}
+            marks: []
+            value: 'The '
+            nodeType: text
+          - data: {}
+            marks:
+            - type: bold
+            value: response rate
+            nodeType: text
+          - data: {}
+            marks: []
+            value: " for both the interview requests and the survey were high overall,
+              but the response rate from "
+            nodeType: text
+          - data: {}
+            marks:
+            - type: italic
+            value: for-profit organizations
+            nodeType: text
+          - data: {}
+            marks: []
+            value: " was low. Although the sentiments from the participants were consistent
+              across both for-profit and non-profit organizations, the research team
+              decided that it would be better to remove the for-profit responses from
+              the data, so as not to inappropriately over-generalize the insights.
+              The research team has connected with the for-profit participants to
+              inform them of this decision."
+            nodeType: text
+          nodeType: paragraph
+        nodeType: list-item
+      - data: {}
+        content:
+        - data: {}
+          content:
+          - data: {}
+            marks: []
+            value: 'Drawing conclusions from '
+            nodeType: text
+          - data: {}
+            marks:
+            - type: bold
+            value: small-scale samples
+            nodeType: text
+          - data: {}
+            marks: []
+            value: " has risks. These risks can be mitigated, e.g., through a mixed-methods
+              approach using additional methods such as surveys and data analysis
+              to triangulate findings. "
+            nodeType: text
+          nodeType: paragraph
+        nodeType: list-item
+      - data: {}
+        content:
+        - data: {}
+          content:
+          - data: {}
+            marks:
+            - type: bold
+            value: 'Researcher bias '
+            nodeType: text
+          - data: {}
+            marks: []
+            value: 'in interpreting and prioritizing the results is another risk.
+              To mitigate the risks of bias, two researchers participated in every
+              interview, and the interviews were complemented with a survey. '
+            nodeType: text
+          nodeType: paragraph
+        nodeType: list-item
+      - data: {}
+        content:
+        - data: {}
+          content:
+          - data: {}
+            marks: []
+            value: This phase of research did not include GCE alumni. If further work
+              is pursued focused on the end of the grantee-funder relationship, then
+              Alumni input would be critical to better understand and shape future
+              guidelines.
+            nodeType: text
+          nodeType: paragraph
+        nodeType: list-item
+      nodeType: unordered-list
+    - data: {}
+      content:
+      - data: {}
+        marks:
+        - type: bold
+        value: Self-selection bias
+        nodeType: text
+      - data: {}
+        marks: []
+        value: " may have impacted who we heard from in the interviews and the survey.
+          Organizations who felt their relationship was particularly strong or particularly
+          terrible with GCE might not have chosen to participate, feeling that their
+          feedback was not needed (in the case of a strong relationship) or wouldn’t
+          be heard (in the case of a bad relationship). To mitigate this, organizations
+          were invited to participate multiple times, by both Simply Secure and GCE,
+          and the outreach communications covered concerns around confidentiality
+          and privacy."
+        nodeType: text
+      nodeType: paragraph
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: Notes
+        nodeType: text
+      nodeType: heading-3
+    - data: {}
+      content:
+      - data: {}
+        content:
+        - data: {}
+          content:
+          - data: {}
+            marks: []
+            value: Luminate funds both non-profits and for-profits and refers to both
+              collectively as investees. Due to removing for-profits from the participant
+              population, we have used the language of “grantee” in this report.
+            nodeType: text
+          nodeType: paragraph
+        nodeType: list-item
+      - data: {}
+        content:
+        - data: {}
+          content:
+          - data: {}
+            marks: []
+            value: Due to the confidentiality practices in place, it was not possible
+              to connect quotes back to organizations, so although for-profit organizations
+              are not represented in the participation rates and overview of the survey
+              participation below, quotes from for-profits may be included alongside
+              the quotes from grantees.
+            nodeType: text
+          nodeType: paragraph
+        nodeType: list-item
+      - data: {}
+        content:
+        - data: {}
+          content:
+          - data: {}
+            marks: []
+            value: Simply Secure conducted research prior to the Luminate launch in
+              October 2018, so the respondents shared their perceptions of the Governance
+              & Citizen Engagement (GCE) initiative at Omidyar Network, as it was
+              at that time. In this report, we have reframed current efforts around
+              Luminate, and otherwise referenced “GCE” or “Omidyar,” matching participants’
+              language about past experiences.
+            nodeType: text
+          nodeType: paragraph
+        nodeType: list-item
+      - data: {}
+        content:
+        - data: {}
+          content:
+          - data: {}
+            marks: []
+            value: 'Participants often used the terms “GCE,” “Omidyar,” and “ON” interchangeably. '
+            nodeType: text
+          nodeType: paragraph
+        nodeType: list-item
+      nodeType: unordered-list
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: ''
+        nodeType: text
+      nodeType: paragraph
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: ''
+        nodeType: text
+      nodeType: paragraph
+    nodeType: document
