@@ -43,6 +43,11 @@ const RecommendationsFilter = {
           if (item.selected === true) {
             selectedOption = item.getAttribute('data-select');
             RecommendationsFilter.searchQueries[filterSelection] = selectedOption;
+            console.log(selectedOption)
+
+            selectedOption !== 'all'
+              ? document.querySelector('.no-results').style.display = 'block'
+              : document.querySelector('.no-results').style.display = 'none';
           }
         });
         RecommendationsFilter.filterList(RecommendationsFilter.searchQueries);
@@ -73,6 +78,7 @@ const RecommendationsFilter = {
     mdc.ripple.MDCRipple.attachTo(document.querySelector('.mdc-switch'));
 
     switchControl.addEventListener('click', () => {
+      document.querySelector('.no-results').style.display = 'none';
       switchControl.classList.toggle('mdc-switch--checked');
 
       if (switchControl.classList.contains('mdc-switch--checked')) {
@@ -116,6 +122,7 @@ const RecommendationsFilter = {
       RecommendationsFilter.recommendationList.sort('title', { order: 'asc' });
       // RecommendationsFilter.noResultsDiv();
       document.querySelectorAll('.dropdown').forEach(dropdown => dropdown.selectedIndex = 0);
+      document.querySelector('.no-results').style.display = 'none';
     });
   },
   init() {
