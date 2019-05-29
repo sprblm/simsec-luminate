@@ -29,10 +29,11 @@ main {
     cursor: pointer!important;
   }
 
-  i {
-    font-size: 4rem;
+  .nav-logo {
+    margin-bottom: 1rem;
     padding-top: 2.5rem;
     padding-left: 3rem;
+    width: 7rem;
   }
 
   .nav-link, .slide-about-page {
