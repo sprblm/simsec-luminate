@@ -1,0 +1,50 @@
+---
+layout: default
+title: Figures
+description:
+seo_image_path: #'/images/media/filename.jpg'
+---
+
+{% assign figures = site.data.contentful.figures.figure %}
+
+<!-- Themes -->
+{% assign themes = "" | split: "" %}
+{% for insight in insights %} {% assign themes = themes | push: insight.related_theme | join: ", " %} {% assign themes =
+themes | split: ", " | uniq %} {% assign themes =
+themes | sort %} {% endfor %}
+
+<main role="main" id="figures-page">
+
+  {% include nav.html %}
+
+  <section class="top-section">
+    <div class="row">
+      <div class="column large-12 medium-12 small-12">
+        <h1>{{page.title}}</h1>
+      </div>
+    </div>
+  </section>
+
+  <section class="page-section">
+    <div class="row">
+      <div class="column large-12">
+        {% for figure in figures %}
+        <h1>figure {{figure.figure_number}}</h1>
+        <div class="figures-container" id="{{figure.figure_number | prepend: 'figure-'}}">
+          <figure>
+            <div class="figure-header">
+              <div class="figure-number">Figure {{figure.figure_number}}</div>
+              <div class="figure-title">{{figure.figure_title}}</div>
+            </div>
+            <img src="{{figure.figure_image.url}}" alt="{{figure.figureAltText}}" />
+            <figcaption>{{figure.figure_caption}}</figcaption>
+            <div class="figure-description">{{figure.figure_description | markdownify }}</div>
+          </figure>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+
+
+</main>

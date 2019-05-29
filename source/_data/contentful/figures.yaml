@@ -1,0 +1,49 @@
+---
+figure:
+- sys:
+    id: 64SgkzvKBL5Cirn6boLvKA
+    created_at: !ruby/object:DateTime 2019-05-29 14:50:43.213000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-29 14:50:43.213000000 Z
+    content_type_id: figure
+    revision: 1
+  figure_number: 1
+  figure_title: Human-Centered Design
+  figure_image:
+    sys:
+      id: 1zQNSeTxd7rezMgVJOLEo2
+      created_at: !ruby/object:DateTime 2019-05-29 14:46:54.006000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-29 14:46:54.006000000 Z
+    title: Figure 1 - HCD
+    description: 
+    url: "//images.ctfassets.net/h8kgu1arvxtu/1zQNSeTxd7rezMgVJOLEo2/f9f9c46cb9b2bd66eeea683fc1bea0ca/Figure_1_-_HCD.png"
+  figure_description: HCD methods are applicable in any part of a product or service
+    development process, from initial needfinding through prototyping and feedback.
+    The Partner Perspectives project was early-stage, formative work focused on surfacing
+    the needs of investees. This work could potentially be continued in the future
+    to further develop the recommendations.
+  figure_caption: HCD methods are applicable in any part of a product or service development
+    process, from initial need-finding through prototyping and feedback.
+  figure_alt: Figure 1 is a diagram illustrating where this project's work falls within
+    the overall human-centered design process.
+- sys:
+    id: 1rYUjQOBkm7pi5WUfcw90P
+    created_at: !ruby/object:DateTime 2019-05-29 15:08:41.617000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-29 15:08:41.617000000 Z
+    content_type_id: figure
+    revision: 1
+  figure_number: 2
+  figure_title: Workflow Overview
+  figure_image:
+    sys:
+      id: 4rtHx9xmDs3sFs06RutdX0
+      created_at: !ruby/object:DateTime 2019-05-29 15:00:54.274000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-29 15:00:54.274000000 Z
+    title: Figure 2 - Report Workflow
+    description: 
+    url: "//images.ctfassets.net/h8kgu1arvxtu/4rtHx9xmDs3sFs06RutdX0/ddafd40112c83c1b9469f77095ef198e/Figure_2_-_Report_Workflow.png"
+  figure_description: |-
+    The report highlights feedback from 20 interviews + 53 survey responses, including
+    anonymized quotes and comments. This figure illustrates the major phases of the workflow for this project.
+  figure_caption: The report highlights feedback from 20 interviews + 53 survey responses,
+    including anonymized quotes and comments.
+  figure_alt: Figure 2 illustrates the major phases of the workflow for this project.
