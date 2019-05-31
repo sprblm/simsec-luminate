@@ -12,14 +12,14 @@ $between-medium: screen and (min-width: 640px) and (max-width: 786px);
 $between-large: screen and (min-width: 1024px) and (max-width: 1260px);
 
 // Colors
-$primary-blue: #495FBE;
-$dark-blue: #2C3146;
-$green: #21C78F;
-$orange: #E85640;
-$light-gray: #F4F4F4;
+$primary-blue: #495fbe;
+$dark-blue: #2c3146;
+$green: #21c78f;
+$orange: #e85640;
+$light-gray: #f4f4f4;
 $dark-gray: #404040;
-$cb-light-gray: #FAFAFA;
-$cb-dark-gray: #EDEDED;
+$cb-light-gray: #fafafa;
+$cb-dark-gray: #ededed;
 
 // Fonts
 $sans-serif: 'Roboto', sans-serif;
@@ -40,3 +40,5 @@ $serif: 'Crimson Text', serif;
 @import 'no-results';
 @import 'tag';
 @import 'top-section';
+@import 'rich-text';
+@import 'figure';

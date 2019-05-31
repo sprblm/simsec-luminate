@@ -1,0 +1,27 @@
+.chart-container {
+  font-family: $serif;
+  figure {
+    margin: 0;
+    .figure-number {
+      font-size: 1.2rem;
+      font-weight: 600;
+    }
+    .figure-title {
+      font-size: 2rem;
+    }
+    figcaption {
+    }
+    .figure-link-container {
+      text-align: right;
+    }
+    .figure-description-link {
+      font-family: $sans-serif;
+      font-weight: 600;
+      font-size: 1.1rem;
+      text-align: right;
+      font-size: 1.1rem;
+      text-decoration: none;
+      border-bottom: 1px solid;
+    }
+  }
+}

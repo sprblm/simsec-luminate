@@ -113,7 +113,3 @@ page_gen:
     template: 'theme_template'
     name: 'page_title'
     dir: 'themes'
-  - data: 'data.contentful.projectDetails.projectDetails'
-    template: 'project_details_template'
-    name: 'page_title'
-    dir: './'
