@@ -3,9 +3,9 @@ projectDetails:
 - sys:
     id: 7391na5XCXEsY8bGxlbS9p
     created_at: !ruby/object:DateTime 2019-05-29 15:44:57.862000000 Z
-    updated_at: !ruby/object:DateTime 2019-05-29 15:44:57.862000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-30 20:47:35.569000000 Z
     content_type_id: projectDetails
-    revision: 1
+    revision: 2
   page_title: Project Details
   details_description:
     data: {}
@@ -609,6 +609,396 @@ projectDetails:
           nodeType: paragraph
         nodeType: list-item
       nodeType: unordered-list
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: Interview Participation Overview
+        nodeType: text
+      nodeType: heading-3
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: The interviews consisted of open-ended questions, similar to the questions
+          below, about the organization’s relationship with GCE. Interviews were 45-90
+          minutes long, depending on the respondent’s availability.
+        nodeType: text
+      nodeType: paragraph
+    - data: {}
+      content:
+      - data: {}
+        content:
+        - data: {}
+          content:
+          - data: {}
+            marks: []
+            value: 'We conducted 20 interviews: 17 with current grantees, and three
+              with other people of interest. All interviews were conducted by two
+              people from Simply Secure. Six were in person, and 14 were remote.'
+            nodeType: text
+          nodeType: paragraph
+        nodeType: list-item
+      - data: {}
+        content:
+        - data: {}
+          content:
+          - data: {}
+            marks: []
+            value: 'We used stratified random sampling to select participants from
+              the list of existing grantees. We invited participation proportionally
+              from the following groups in order to ensure representation: '
+            nodeType: text
+          - data: {}
+            marks:
+            - type: bold
+            value: Location
+            nodeType: text
+          - data: {}
+            marks: []
+            value: ", "
+            nodeType: text
+          - data: {}
+            marks:
+            - type: bold
+            value: Non-profit / for-profit
+            nodeType: text
+          - data: {}
+            marks: []
+            value: ",  and "
+            nodeType: text
+          - data: {}
+            marks:
+            - type: bold
+            value: No board member from GCE / board observer from GCE / full board
+              member from GCE
+            nodeType: text
+          - data: {}
+            marks: []
+            value: "."
+            nodeType: text
+          nodeType: paragraph
+        nodeType: list-item
+      - data: {}
+        content:
+        - data: {}
+          content:
+          - data: {}
+            marks: []
+            value: We reached out to 35 people, of whom 20 responded (a 57% response
+              rate). Of he 20 who responded, 2 were for-profit organizations, which
+              have been removed from the data counts.
+            nodeType: text
+          nodeType: paragraph
+        nodeType: list-item
+      nodeType: unordered-list
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: Survey Participation Overview
+        nodeType: text
+      nodeType: heading-3
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: 'The survey was designed to validate some of the emergent insights
+          from the qualitative study. It focused on the following topics:'
+        nodeType: text
+      nodeType: paragraph
+    - data: {}
+      content:
+      - data: {}
+        content:
+        - data: {}
+          content:
+          - data: {}
+            marks: []
+            value: Different needs in non-financial support
+            nodeType: text
+          nodeType: paragraph
+        nodeType: list-item
+      - data: {}
+        content:
+        - data: {}
+          content:
+          - data: {}
+            marks: []
+            value: Perceptions of GCE as a funder
+            nodeType: text
+          nodeType: paragraph
+        nodeType: list-item
+      - data: {}
+        content:
+        - data: {}
+          content:
+          - data: {}
+            marks: []
+            value: Communication and transparency
+            nodeType: text
+          nodeType: paragraph
+        nodeType: list-item
+      - data: {}
+        content:
+        - data: {}
+          content:
+          - data: {}
+            marks: []
+            value: Ease of reporting
+            nodeType: text
+          nodeType: paragraph
+        nodeType: list-item
+      - data: {}
+        content:
+        - data: {}
+          content:
+          - data: {}
+            marks: []
+            value: The experience of non-profit grantees vs. for-profit investees
+            nodeType: text
+          nodeType: paragraph
+        nodeType: list-item
+      nodeType: ordered-list
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: We sent a survey to 122 organizations that were part of GCE’s portfolio
+          at the time of the research.
+        nodeType: text
+      nodeType: paragraph
+    - data: {}
+      content:
+      - data: {}
+        content:
+        - data: {}
+          content:
+          - data: {}
+            marks: []
+            value: 53 out of 122 organizations responded (~43% response rate).
+            nodeType: text
+          nodeType: paragraph
+        nodeType: list-item
+      - data: {}
+        content:
+        - data: {}
+          content:
+          - data: {}
+            marks: []
+            value: We asked each organization to only respond once.
+            nodeType: text
+          nodeType: paragraph
+        nodeType: list-item
+      - data: {}
+        content:
+        - data: {}
+          content:
+          - data: {}
+            marks: []
+            value: 14 of the 53 responses came from the 17 organizations we interviewed.
+            nodeType: text
+          nodeType: paragraph
+        nodeType: list-item
+      - data: {}
+        content:
+        - data: {}
+          content:
+          - data: {}
+            marks: []
+            value: 'For-profits had an extremely low response rate on the survey. '
+            nodeType: text
+          - data: {}
+            marks:
+            - type: italic
+            value: Due to this, the survey findings cannot be used to validate the
+              difference in experience between for-profits and non-profits
+            nodeType: text
+          nodeType: paragraph
+        nodeType: list-item
+      nodeType: unordered-list
+    - data:
+        target:
+          sys:
+            id: Qc85JFf2Dlf3gDMiSnYMP
+            created_at: !ruby/object:DateTime 2019-05-30 20:23:06.146000000 Z
+            updated_at: !ruby/object:DateTime 2019-05-30 23:18:37.434000000 Z
+            content_type_id: figure
+            revision: 5
+          figure_number: 3
+          figure_title: Geographical focus of interviewees
+          figure_image:
+            sys:
+              id: 5rCp3RPj2oMT3kxnIGoMaY
+              created_at: !ruby/object:DateTime 2019-05-30 20:21:17.658000000 Z
+              updated_at: !ruby/object:DateTime 2019-05-30 20:21:17.658000000 Z
+            title: Figure 3 - Geography Interviewees
+            description: 
+            url: "//images.ctfassets.net/h8kgu1arvxtu/5rCp3RPj2oMT3kxnIGoMaY/5364b7dce19b7cb07e8f75248c4d4843/Figure_3_-_Geography_Interviewees.png"
+          figure_caption: 'Note: Three other people of interest not included in the
+            following interviewee charts.'
+          figure_alt: Figure 3 is a donut chart illustrating the number and percent
+            of interviewees base on the geographical focus of their work.
+      content: []
+      nodeType: embedded-entry-block
+    - data:
+        target:
+          sys:
+            id: 2SoTmWmKQYML03H61fpJt0
+            created_at: !ruby/object:DateTime 2019-05-30 20:24:42.691000000 Z
+            updated_at: !ruby/object:DateTime 2019-05-30 23:21:59.614000000 Z
+            content_type_id: figure
+            revision: 3
+          figure_number: 4
+          figure_title: Issue area focus of interviewees
+          figure_image:
+            sys:
+              id: EjYWujd7FfpIUcco8EvK8
+              created_at: !ruby/object:DateTime 2019-05-30 20:23:43.372000000 Z
+              updated_at: !ruby/object:DateTime 2019-05-30 20:23:43.372000000 Z
+            title: Figure 4 - Issue Area - Interviewees
+            description: 
+            url: "//images.ctfassets.net/h8kgu1arvxtu/EjYWujd7FfpIUcco8EvK8/14543dd698f9917d52043916dd921fff/Figure_4_-_Issue_Area_-_Interviewees.png"
+          figure_caption: 'Note: Former names for impact areas (Civic Tech, Data Governance,
+            Fiscal Governance, Independent Media) were used during the research.'
+          figure_alt: Figure 4 is a donut chart illustrating the number and percent
+            of interviewees based on the issue area focus of their work.
+      content: []
+      nodeType: embedded-entry-block
+    - data:
+        target:
+          sys:
+            id: 4lKCPKpbPK9gqgvBC77kpU
+            created_at: !ruby/object:DateTime 2019-05-30 20:29:42.921000000 Z
+            updated_at: !ruby/object:DateTime 2019-05-30 23:22:12.408000000 Z
+            content_type_id: figure
+            revision: 4
+          figure_number: 5
+          figure_title: Luminate board participation amongst interviewees
+          figure_image:
+            sys:
+              id: 50RUCTKWwAOJYOjqCUGGAZ
+              created_at: !ruby/object:DateTime 2019-05-30 20:27:42.550000000 Z
+              updated_at: !ruby/object:DateTime 2019-05-30 20:27:42.550000000 Z
+            title: Figure 5 - Board - Interviewees
+            description: 
+            url: "//images.ctfassets.net/h8kgu1arvxtu/50RUCTKWwAOJYOjqCUGGAZ/2d11a4a44239581cb83fd82e3376d83f/Figure_5_-_Board_-_Interviewees.png"
+          figure_alt: Figure 5 is a donut chart illustrating the degree of Luminate
+            participation on the boards of interviewees.
+      content: []
+      nodeType: embedded-entry-block
+    - data:
+        target:
+          sys:
+            id: 3N2rwsmCJkBfe8VGX1SdsG
+            created_at: !ruby/object:DateTime 2019-05-30 20:32:07.338000000 Z
+            updated_at: !ruby/object:DateTime 2019-05-30 23:34:18.232000000 Z
+            content_type_id: figure
+            revision: 5
+          figure_number: 6
+          figure_title: Date of first funding of interviewees
+          figure_image:
+            sys:
+              id: 3KJD50nXXkUWnRfjp66jEF
+              created_at: !ruby/object:DateTime 2019-05-30 20:30:33.111000000 Z
+              updated_at: !ruby/object:DateTime 2019-05-30 20:30:33.111000000 Z
+            title: Figure 6 - Date of first funding - interviewees
+            description: 
+            url: "//images.ctfassets.net/h8kgu1arvxtu/3KJD50nXXkUWnRfjp66jEF/8b69201cdc284fcff937898b5731f546/Figure_6_-_date_of_first_funding_-_interviewees.png"
+          figure_description: |
+            | Year        | Number of Interview Participants |
+            | ----------- | -------------------------------- |
+            | 2014        | 3                                |
+            | 2015        | 2                                |
+            | 2016        | 1                                |
+            | 2017        | 6                                |
+            | 2018        | 2                                |
+          figure_alt: Figure 6 is a bar graph illustrating the number of interviewees
+            by their year of first funding.
+      content: []
+      nodeType: embedded-entry-block
+    - data:
+        target:
+          sys:
+            id: 3QHNTIm1v8SfimllIQQZvk
+            created_at: !ruby/object:DateTime 2019-05-30 20:34:01.121000000 Z
+            updated_at: !ruby/object:DateTime 2019-05-30 23:39:05.785000000 Z
+            content_type_id: figure
+            revision: 4
+          figure_number: 7
+          figure_title: Funding level of interviewees
+          figure_image:
+            sys:
+              id: 4NcXLCvwwYH2241UMXQ1ed
+              created_at: !ruby/object:DateTime 2019-05-30 20:32:57.885000000 Z
+              updated_at: !ruby/object:DateTime 2019-05-30 20:32:57.885000000 Z
+            title: Figure 7 - Funding level - Interviewees
+            description: 
+            url: "//images.ctfassets.net/h8kgu1arvxtu/4NcXLCvwwYH2241UMXQ1ed/c79c387c77528e029c8aa383fbd21416/Figure_7_-_Funding_level_-_Interviewees.png"
+          figure_description: |
+            | Funding Level of Interviewees | Number of Interview Participants |
+            | ----------------------------- | -------------------------------- |
+            | Under $250K                   | 3                                |
+            | $250K - $1M                   | 2                                |
+            | $1M - $3M                     | 9                                |
+            | $3M+                          | 1                                |
+          figure_alt: Figure 7 is a bar graph illustrating the number of interviewees
+            by the amount of funding received from Luminate.
+      content: []
+      nodeType: embedded-entry-block
+    - data:
+        target:
+          sys:
+            id: 1jYFWx2rHYXTPQzBhxl2OD
+            created_at: !ruby/object:DateTime 2019-05-30 20:36:55.150000000 Z
+            updated_at: !ruby/object:DateTime 2019-05-30 23:22:59.804000000 Z
+            content_type_id: figure
+            revision: 3
+          figure_number: 8
+          figure_title: Geographical focus of survey respondents
+          figure_image:
+            sys:
+              id: 6XFO4QsVUPwacf7y0M58F8
+              created_at: !ruby/object:DateTime 2019-05-30 20:35:23.860000000 Z
+              updated_at: !ruby/object:DateTime 2019-05-30 20:35:23.860000000 Z
+            title: Figure 8 - Geography - Survey
+            description: 
+            url: "//images.ctfassets.net/h8kgu1arvxtu/6XFO4QsVUPwacf7y0M58F8/0e13692ec5fbcae938a4faf28fdd6d10/Figure_8_-_Geography_-_Survey.png"
+          figure_caption: 'Note: “Not applicable” and “Prefer not to say” responses
+            are excluded from survey charts'
+          figure_alt: Figure 8 is a donut chart illustrating the number and percent
+            of participants based on the geographical focus of their work.
+      content: []
+      nodeType: embedded-entry-block
+    - data:
+        target:
+          sys:
+            id: et9PurUeTzU3XmZBnHMxt
+            created_at: !ruby/object:DateTime 2019-05-30 20:38:45.431000000 Z
+            updated_at: !ruby/object:DateTime 2019-05-30 23:23:13.666000000 Z
+            content_type_id: figure
+            revision: 3
+          figure_number: 9
+          figure_title: Luminate board participation amongst survey respondents
+          figure_image:
+            sys:
+              id: 4wFxSSBEFJuDgaG1pAQ7Gv
+              created_at: !ruby/object:DateTime 2019-05-30 20:38:36.631000000 Z
+              updated_at: !ruby/object:DateTime 2019-05-30 20:38:36.631000000 Z
+            title: Figure 9 - Board Participation - Survey
+            description: 
+            url: "//images.ctfassets.net/h8kgu1arvxtu/4wFxSSBEFJuDgaG1pAQ7Gv/e673f0a7d11cd3d4ff283a3d4a8e0af9/Figure_9_-_Board_Participation_-_Survey.png"
+          figure_alt: Figure 9 is a donut chart illustrating  the number and percent
+            of survey participants based on their Luminate board participation.
+      content: []
+      nodeType: embedded-entry-block
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: ''
+        nodeType: text
+      nodeType: paragraph
     - data: {}
       content:
       - data: {}
