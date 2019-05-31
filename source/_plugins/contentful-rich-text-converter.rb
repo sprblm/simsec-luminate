@@ -18,18 +18,24 @@ class EmbeddedEntryRenderer < RichTextRenderer::BaseNodeRenderer
         figure_img_src = entry['figure_image']['url']
         figure_caption = entry['figure_caption']
         figure_alt_text = entry['alt_text']
-        figure_description = markdownConverter.convert(entry['figure_description'])
-        createChartHtml(figure_number, figure_title, figure_img_src, figure_caption, figure_alt_text, figure_description)
+        createChartHtml(figure_number, figure_title, figure_img_src, figure_caption, figure_alt_text)
       else
         puts "Can't render embedded entry"
     end
   end
 end
 
+class SilentNullRenderer < RichTextRenderer::BaseNodeRenderer
+  def render(node)
+    ""
+  end
+end
+
+
 module Jekyll
   module DataFormatter
     def rich_text_to_html(content)
-      renderer = RichTextRenderer::Renderer.new('embedded-entry-block' => EmbeddedEntryRenderer)
+      renderer = RichTextRenderer::Renderer.new(nil => SilentNullRenderer, 'embedded-entry-block' => EmbeddedEntryRenderer)
       renderer.render(content)
     end
   end
