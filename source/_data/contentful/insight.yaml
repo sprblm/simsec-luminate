@@ -113,54 +113,78 @@ insight:
   - sys:
       id: 3FQVA12oDvZRa7iUrTJaas
       created_at: !ruby/object:DateTime 2019-05-03 03:27:31.982000000 Z
-      updated_at: !ruby/object:DateTime 2019-05-03 03:27:31.982000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-05 04:41:06.239000000 Z
       content_type_id: resource
-      revision: 1
-    resource_title: Test Resource 1
-    resource_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-      sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-      minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-      commodo consequat.
+      revision: 2
+    resource_title: Survey Guide
+    resource_description: The survey guide used for the Partner Perspectives project.
+      This was hosted in [LimeSurvey](https://www.limesurvey.org/) an open-source
+      survey tool that can be self-hosted or hosted via Limesurvey's website.
     resource_url: https://www.example.com/
-    resource_type: Knowledge Base
+    resource_type: Report
     insight_tag:
     - Deep, trusting relationships
+    - Structure and clarity
+    - Multi-year flexible funding
+    - Reporting and metrics
+    - Non-financial support
+    - Power dynamics
+    - Funder reputation
+    - Diversity, equity, and inclusion
+    - Funder roles
     recommendation_tag:
     - Recommendation tag
+    - Recommendation tag2
+    - Recommendation tag3
   - sys:
       id: Aqrq7NXOreu5GwPYj5J7J
       created_at: !ruby/object:DateTime 2019-05-03 03:27:57.616000000 Z
-      updated_at: !ruby/object:DateTime 2019-05-03 03:27:57.616000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-05 04:41:06.221000000 Z
       content_type_id: resource
-      revision: 1
-    resource_title: Test Resource 2
-    resource_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-      sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-      minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-      commodo consequat.
+      revision: 2
+    resource_title: Interview Guide
+    resource_description: 'The interview guide used for the grantee interviews during
+      the Partner Perspectives project. '
     resource_url: https://www.example.com/
-    resource_type: Article
+    resource_type: Report
     insight_tag:
     - Deep, trusting relationships
+    - Structure and clarity
+    - Multi-year flexible funding
+    - Reporting and metrics
+    - Non-financial support
+    - Power dynamics
+    - Funder reputation
+    - Diversity, equity, and inclusion
+    - Funder roles
     recommendation_tag:
     - Recommendation tag
+    - Recommendation tag2
+    - Recommendation tag3
   - sys:
       id: 648LvvJeMpyWszz9HUvRGp
       created_at: !ruby/object:DateTime 2019-05-03 03:28:11.508000000 Z
-      updated_at: !ruby/object:DateTime 2019-05-03 03:28:11.508000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-05 04:41:06.221000000 Z
       content_type_id: resource
-      revision: 1
-    resource_title: Test Resource 3
-    resource_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-      sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-      minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-      commodo consequat.
+      revision: 2
+    resource_title: Partner Perspectives Report
+    resource_description: Download the full report.
     resource_url: https://www.example.com/
-    resource_type: Knowledge Base
+    resource_type: Report
     insight_tag:
     - Deep, trusting relationships
+    - Structure and clarity
+    - Multi-year flexible funding
+    - Reporting and metrics
+    - Non-financial support
+    - Power dynamics
+    - Funder reputation
+    - Diversity, equity, and inclusion
+    - Funder roles
     recommendation_tag:
     - Recommendation tag
+    - Recommendation tag2
+    - Recommendation tag3
   related_quotes:
   - sys:
       id: kvAzPII7XhsVREPsfqHyU
@@ -417,54 +441,78 @@ insight:
   - sys:
       id: 3FQVA12oDvZRa7iUrTJaas
       created_at: !ruby/object:DateTime 2019-05-03 03:27:31.982000000 Z
-      updated_at: !ruby/object:DateTime 2019-05-03 03:27:31.982000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-05 04:41:06.239000000 Z
       content_type_id: resource
-      revision: 1
-    resource_title: Test Resource 1
-    resource_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-      sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-      minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-      commodo consequat.
+      revision: 2
+    resource_title: Survey Guide
+    resource_description: The survey guide used for the Partner Perspectives project.
+      This was hosted in [LimeSurvey](https://www.limesurvey.org/) an open-source
+      survey tool that can be self-hosted or hosted via Limesurvey's website.
     resource_url: https://www.example.com/
-    resource_type: Knowledge Base
+    resource_type: Report
     insight_tag:
     - Deep, trusting relationships
+    - Structure and clarity
+    - Multi-year flexible funding
+    - Reporting and metrics
+    - Non-financial support
+    - Power dynamics
+    - Funder reputation
+    - Diversity, equity, and inclusion
+    - Funder roles
     recommendation_tag:
     - Recommendation tag
+    - Recommendation tag2
+    - Recommendation tag3
   - sys:
       id: Aqrq7NXOreu5GwPYj5J7J
       created_at: !ruby/object:DateTime 2019-05-03 03:27:57.616000000 Z
-      updated_at: !ruby/object:DateTime 2019-05-03 03:27:57.616000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-05 04:41:06.221000000 Z
       content_type_id: resource
-      revision: 1
-    resource_title: Test Resource 2
-    resource_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-      sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-      minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-      commodo consequat.
+      revision: 2
+    resource_title: Interview Guide
+    resource_description: 'The interview guide used for the grantee interviews during
+      the Partner Perspectives project. '
     resource_url: https://www.example.com/
-    resource_type: Article
+    resource_type: Report
     insight_tag:
     - Deep, trusting relationships
+    - Structure and clarity
+    - Multi-year flexible funding
+    - Reporting and metrics
+    - Non-financial support
+    - Power dynamics
+    - Funder reputation
+    - Diversity, equity, and inclusion
+    - Funder roles
     recommendation_tag:
     - Recommendation tag
+    - Recommendation tag2
+    - Recommendation tag3
   - sys:
       id: 648LvvJeMpyWszz9HUvRGp
       created_at: !ruby/object:DateTime 2019-05-03 03:28:11.508000000 Z
-      updated_at: !ruby/object:DateTime 2019-05-03 03:28:11.508000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-05 04:41:06.221000000 Z
       content_type_id: resource
-      revision: 1
-    resource_title: Test Resource 3
-    resource_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-      sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-      minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-      commodo consequat.
+      revision: 2
+    resource_title: Partner Perspectives Report
+    resource_description: Download the full report.
     resource_url: https://www.example.com/
-    resource_type: Knowledge Base
+    resource_type: Report
     insight_tag:
     - Deep, trusting relationships
+    - Structure and clarity
+    - Multi-year flexible funding
+    - Reporting and metrics
+    - Non-financial support
+    - Power dynamics
+    - Funder reputation
+    - Diversity, equity, and inclusion
+    - Funder roles
     recommendation_tag:
     - Recommendation tag
+    - Recommendation tag2
+    - Recommendation tag3
   related_quotes:
   - sys:
       id: 4ynm2yzOsV7LloWEHXkrPx
