@@ -65,4 +65,25 @@ seo_image_path: #'/images/media/filename.jpg'
     </ul>
   </section>
 
+  {% if page.related_recommendations %}
+    <section class="divider divider--white">
+      <div class="row">
+        <div class="column large-12">
+          <h4>Related Recommendations</h4>
+          <a class="arrow-forward" href="{{ '/recommendations.html' | relative_url }}">All Recommendations <i class="material-icons">arrow_forward</i></a>
+        </div>
+      </div>
+    </section>
+
+    <section class="">
+      <ul class="list list--recommendation">
+        {% for recommendation in page.related_recommendations %}
+          <li class="list__item list__item--recommendation">
+            <a href="{{ recommendation.page_title | slugify | prepend: '/recommendations/' | append: '.html' | relative_url }}" class="card card--recommendation">{{ recommendation.recommendation | markdownify }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    </section>
+  {% endif %}
+
 </main>

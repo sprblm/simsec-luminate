@@ -330,55 +330,6 @@ recommendation:
     and questioning your frame of reference for what is ‘a fit.’
   recommendation_short: Diversify Your Network
 - sys:
-    id: 5qNqyk3mW7hlG0PvQPnSeM
-    created_at: !ruby/object:DateTime 2019-05-15 06:00:02.390000000 Z
-    updated_at: !ruby/object:DateTime 2019-05-15 06:00:02.390000000 Z
-    content_type_id: recommendation
-    revision: 1
-  page_title: Test Recommendation
-  recommendation: 'Lorem ipsum, or lipsum as it is sometimes known, is dummy text
-    used in laying out print, graphic or web designs. '
-  recommendation_short: Test Recommendation
-  related_resources:
-  - sys:
-      id: 4RbE47IdZhjCbhclsbqR7W
-      created_at: !ruby/object:DateTime 2019-05-15 05:59:54.506000000 Z
-      updated_at: !ruby/object:DateTime 2019-05-15 05:59:54.506000000 Z
-      content_type_id: resource
-      revision: 1
-    resource_title: Test Resource
-    resource_description: 'Lorem ipsum, or lipsum as it is sometimes known, is dummy
-      text used in laying out print, graphic or web designs. Lorem ipsum, or lipsum
-      as it is sometimes known, is dummy text used in laying out print, graphic or
-      web designs. Lorem ipsum, or lipsum as it is sometimes known, is dummy text
-      used in laying out print, graphic or web designs. '
-    resource_url: https://www.google.com/
-    resource_type: Article
-    insight_tag:
-    - Reporting and metrics
-    recommendation_tag:
-    - Recommendation tag
-    - Recommendation tag2
-  insight_tag:
-  - Deep, trusting relationships
-  - Reporting and metrics
-  - Funder roles
-  theme_tag:
-  - Funding Approach & Process
-  - Trust & Power
-- sys:
-    id: 7lvxShqCVZtHG1S5tUwKpS
-    created_at: !ruby/object:DateTime 2019-05-19 08:33:33.511000000 Z
-    updated_at: !ruby/object:DateTime 2019-05-19 08:33:33.511000000 Z
-    content_type_id: recommendation
-    revision: 1
-  page_title: Test Recommendation 2
-  recommendation: Test Desciption
-  insight_tag:
-  - Non-financial support
-  theme_tag:
-  - Trust & Power
-- sys:
     id: 25uIG8E7r2TQ3F7ykBzVwn
     created_at: !ruby/object:DateTime 2019-05-22 00:15:01.670000000 Z
     updated_at: !ruby/object:DateTime 2019-05-22 00:15:01.670000000 Z
