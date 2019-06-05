@@ -33,7 +33,7 @@ themes | sort %} {% endfor %}
     <div class="row align-center">
       <div class="column large-3 medium-5 small-6">
         <div class="select">
-          <select class="dropdown" id="theme" data-filter="theme">
+          <select tabindex="1" aria-label="Select theme" class="dropdown" id="theme" data-filter="theme">
             <option data-select="all">All Themes</option>
             {% for theme in themes %}
               <option data-select="{{ theme | slugify }}">{{ theme }}</option>

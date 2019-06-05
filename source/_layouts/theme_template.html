@@ -33,7 +33,7 @@ seo_image_path: #'/images/media/filename.jpg'
     <div class="row align-center">
       <!-- <div class="select-wrapper"> -->
         <div class="select">
-          <select class="redirect-dropdown-nav">
+          <select aria-label="Select Theme" class="redirect-dropdown-nav">
             {% for theme in themes %}
               <option class="redirect-dropdown-nav__option" value="{{ theme.page_title | slugify }}" data-page="{{ theme.page_title | slugify }}" data-path="{{ theme.page_title | slugify | prepend: '/themes/' | append: '.html' | relative_url }}">{{ theme.page_title }}</option>
             {% endfor %}

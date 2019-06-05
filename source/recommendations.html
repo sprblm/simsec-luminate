@@ -52,7 +52,7 @@ themes | sort %} {% endfor %}
       </div>
       <div class="column large-3 medium-7 small-8 theme-dropdown">
         <div class="select">
-          <select class="dropdown" id="theme" data-filter="theme">
+          <select aria-label="All themes" class="dropdown" id="theme" data-filter="theme">
             <option data-select="all">All Themes</option>
             {% for theme in themes %}
               <option data-select="{{ theme | slugify }}">{{ theme }}</option>
@@ -62,7 +62,7 @@ themes | sort %} {% endfor %}
       </div>
       <div class="column large-3 medium-7 small-8 insight-dropdown">
         <div class="select">
-          <select class="dropdown" id="insight" data-filter="insight">
+          <select  aria-label="All insights" class="dropdown" id="insight" data-filter="insight">
             <option data-select="all">All Insights</option>
             {% for insight in insights %}
               <option data-select="{{ insight | slugify }}">{{ insight }}</option>
