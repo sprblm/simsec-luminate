@@ -11,8 +11,10 @@ const SlidePage = {
 
         document.querySelector('.main-menu--left').classList.remove('js-active-menu');
         document.querySelector('#overlay').classList.remove('js-active');
+        document.querySelector('.close-panel').focus();
+        document.querySelector('.slide-panel__container').focus();
       });
-    })
+    });
 
     closeButton.addEventListener('click', () => {
       aboutPanel.classList.remove('slide-panel--is-visible');
