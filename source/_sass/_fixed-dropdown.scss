@@ -21,12 +21,10 @@
     }
     @include breakpoint($medium-only) {
       text-align: center;
-
     }
     span {
       font-weight: 900;
       padding-right: 0.5rem;
-
     }
 
     .mdc-switch {
@@ -57,6 +55,9 @@
       &::-ms-expand {
         display: none;
       }
+      &:focus {
+        outline: -webkit-focus-ring-color auto 5px;
+      }
     }
   }
 
@@ -68,24 +69,25 @@
       }
     }
   }
-
 }
 
 :root {
-  --mdc-theme-secondary: #404040!important;
+  --mdc-theme-secondary: #404040 !important;
 }
 
-.mdc-switch__thumb::after, .mdc-switch__thumb-underlay::before, .mdc-switch__thumb-underlay::after {
-  background-color: #404040!important;
-  border-color: #404040!important;
+.mdc-switch__thumb::after,
+.mdc-switch__thumb-underlay::before,
+.mdc-switch__thumb-underlay::after {
+  background-color: #404040 !important;
+  border-color: #404040 !important;
 }
 
 .mdc-switch.mdc-switch--checked .mdc-switch__thumb {
-  background-color: #404040!important;
-  border-color: #404040!important;
+  background-color: #404040 !important;
+  border-color: #404040 !important;
 }
 
 .mdc-switch--checked.mdc-switch .mdc-switch__track {
-  background-color: #404040!important;
-  border-color: #404040!important;
+  background-color: #404040 !important;
+  border-color: #404040 !important;
 }
