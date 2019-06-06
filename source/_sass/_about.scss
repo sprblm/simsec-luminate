@@ -71,3 +71,9 @@
   transform: translate3d(0, 0, 0);
   transition-delay: 0s;
 }
+
+button.close-panel {
+  i.material-icons {
+    margin: 0;
+  }
+}
