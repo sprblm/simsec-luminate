@@ -99,6 +99,14 @@ contentful:
         all_entries: true
         cda_query:
           content_type: figure
+    - forewordPage:
+        space: ENV_SIMSEC_CONTENTFUL_SPACE_ID
+        access_token: ENV_SIMSEC_CONTENTFUL_ACCESS_TOKEN
+        base_path: ./source
+        destination: /contentful
+        all_entries: true
+        cda_query:
+          content_type: forewordPage
 
 page_gen:
   - data: 'data.contentful.insight.insight'
