@@ -18,7 +18,7 @@ themes | sort %} {% endfor %}
   {% include nav.html %}
 
   <section class="top-section">
-    <div class="row">
+    <div class="row align-middle">
       <div class="column large-12 medium-12 small-12">
         <h1>{{page.title}}</h1>
       </div>
@@ -29,19 +29,15 @@ themes | sort %} {% endfor %}
     <div class="row">
       <div class="column large-12">
         {% for figure in figures %}
-        <h1>figure {{figure.figure_number}}</h1>
-        <div class="figures-container" id="{{figure.figure_number | prepend: 'figure-'}}">
-          <figure>
-            <div class="figure-header">
-              <div class="figure-number">Figure {{figure.figure_number}}</div>
-              <div class="figure-title">{{figure.figure_title}}</div>
-            </div>
-            <img src="{{figure.figure_image.url}}" alt="{{figure.figureAltText}}" />
-            <figcaption>{{figure.figure_caption}}</figcaption>
+          <div class="chart-container" id="{{figure.figure_number | prepend: 'figure-'}}">
+            <figure><div class="figure-number">Figure {{figure.figure_number}}</div><div class="figure-title">{{figure.figure_title}}</div>
             <div class="figure-description">{{figure.figure_description | markdownify }}</div>
-          </figure>
-
-        </div>
+            </figure>
+            <div class="figure-link-container">
+              <a class="go-back-link" href="{{'project-details.html' | relative_url}}">Go Back</a>
+            </div>
+          </div>
+          <hr>
         {% endfor %}
       </div>
     </div>

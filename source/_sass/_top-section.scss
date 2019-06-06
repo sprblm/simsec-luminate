@@ -213,7 +213,8 @@
 #insights,
 #recommendations,
 #project-details,
-#foreword {
+#foreword,
+#figures-page {
   h1 {
     font-weight: 900;
     @include breakpoint($medium-only) {

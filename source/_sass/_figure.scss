@@ -25,3 +25,60 @@
     }
   }
 }
+
+#figures-page {
+  color: $dark-gray;
+  .chart-container {
+    padding: 1rem 0 3rem;
+  }
+  .figure-link-container {
+    padding: 1rem 0;
+    text-align: left;
+  }
+  .figure-description {
+    margin-bottom: 1rem;
+  }
+  .figure-description-link,
+  .go-back-link {
+    font-family: $sans-serif;
+    font-weight: 600;
+    font-size: 1.1rem;
+    text-align: right;
+    font-size: 1.1rem;
+    text-decoration: none;
+    border-bottom: 1px solid;
+  }
+
+  hr {
+    border-top: 2px solid rgba(#000, 0.1);
+  }
+}
+
+table {
+  font-family: $sans-serif;
+  caption {
+    text-align: left;
+    ul {
+      list-style: none;
+    }
+  }
+  tr {
+    th:first-of-type,
+    td:first-of-type {
+      font-weight: 700;
+    }
+  }
+  td,
+  th {
+    font-size: 1.1rem;
+    font-weight: 300;
+    background-color: white;
+    border-bottom: solid 2px rgba(#000, 0.1);
+    padding: 0.5rem 0 !important;
+  }
+  th {
+    color: $dark-gray;
+    background-color: white;
+    text-transform: initial;
+  }
+}
