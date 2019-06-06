@@ -1,5 +1,7 @@
-.rich-text {
+.rich-text,
+.foreword-text {
   color: #404040;
+  padding-bottom: 2rem;
   h2 {
     font-size: 2rem;
     font-weight: 600;
@@ -7,5 +9,8 @@
   p {
     font-family: 'Crimson Text', serif;
     font-size: 1.2rem;
+  }
+  h3 {
+    font-size: 1.4rem;
   }
 }
