@@ -113,14 +113,14 @@ insight:
   - sys:
       id: 3FQVA12oDvZRa7iUrTJaas
       created_at: !ruby/object:DateTime 2019-05-03 03:27:31.982000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-05 04:41:06.239000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-06 11:35:53.294000000 Z
       content_type_id: resource
-      revision: 2
+      revision: 3
     resource_title: Survey Guide
     resource_description: The survey guide used for the Partner Perspectives project.
-      This was hosted in [LimeSurvey](https://www.limesurvey.org/) an open-source
-      survey tool that can be self-hosted or hosted via Limesurvey's website.
-    resource_url: https://www.example.com/
+      This was hosted in LimeSurvey an open-source survey tool that can be self-hosted
+      or hosted via Limesurvey's website.
+    resource_url: https://www.limesurvey.org
     resource_type: Report
     insight_tag:
     - Deep, trusting relationships
@@ -441,14 +441,14 @@ insight:
   - sys:
       id: 3FQVA12oDvZRa7iUrTJaas
       created_at: !ruby/object:DateTime 2019-05-03 03:27:31.982000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-05 04:41:06.239000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-06 11:35:53.294000000 Z
       content_type_id: resource
-      revision: 2
+      revision: 3
     resource_title: Survey Guide
     resource_description: The survey guide used for the Partner Perspectives project.
-      This was hosted in [LimeSurvey](https://www.limesurvey.org/) an open-source
-      survey tool that can be self-hosted or hosted via Limesurvey's website.
-    resource_url: https://www.example.com/
+      This was hosted in LimeSurvey an open-source survey tool that can be self-hosted
+      or hosted via Limesurvey's website.
+    resource_url: https://www.limesurvey.org
     resource_type: Report
     insight_tag:
     - Deep, trusting relationships
