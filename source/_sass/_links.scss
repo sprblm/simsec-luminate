@@ -1,0 +1,18 @@
+.underline-link {
+  a {
+    text-decoration: none;
+    border-bottom: 1px solid transparentize($dark-gray, 0.5);
+    &:hover {
+      border-bottom: 2px solid $dark-gray;
+    }
+  }
+
+  &--white {
+    a {
+      border-bottom: 1px solid transparentize(white, 0.4);
+      &:hover {
+        border-bottom: 2px solid white;
+      }
+    }
+  }
+}
