@@ -51,7 +51,6 @@ p, ul, ol {
 footer {
   background-color: $dark-blue;
   color: white;
-  font-weight: bold;
   padding-top: 4rem;
   padding-bottom: 10rem;
   @include breakpoint($medium-only) {
@@ -61,6 +60,7 @@ footer {
   .partner-intro {
     font-family: $sans-serif;
     padding-bottom: 3rem;
+    font-weight: bold;
   }
 
   span {
@@ -83,7 +83,11 @@ footer {
 
     img {
       height: 2.3rem;
+      opacity: 0.7;
+      @extend .u-transition;
+      &:hover {
+        opacity: 1;
+      }
     }
   }
-
 }
