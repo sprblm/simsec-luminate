@@ -4,7 +4,6 @@ const InsightsFilter = {
   options: { valueNames: [ 'theme' ] },
   createList: () => {
     InsightsFilter.insightList = new List('insights-list', InsightsFilter.options);
-    InsightsFilter.insightList.sort('title', { order: 'asc' });
     InsightsFilter.setSearchQueryDefaults();
   },
   setSearchQueryDefaults: () => {
