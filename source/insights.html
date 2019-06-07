@@ -6,7 +6,7 @@ seo_image_path: #'/images/media/filename.jpg'
 list_js: true
 ---
 
-{% assign insights = site.data.contentful.insight.insight %}
+{% assign insights = site.data.contentful.insight.insight | sort: "order" %}
 
 <!-- Themes -->
 {% assign themes = "" | split: "" %}
