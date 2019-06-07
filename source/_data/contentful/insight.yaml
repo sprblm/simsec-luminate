@@ -3,9 +3,9 @@ insight:
 - sys:
     id: 5K90Xztqn08a6GbFj3ep4w
     created_at: !ruby/object:DateTime 2019-05-02 23:35:43.855000000 Z
-    updated_at: !ruby/object:DateTime 2019-05-06 20:23:53.135000000 Z
+    updated_at: !ruby/object:DateTime 2019-06-07 15:28:20.752000000 Z
     content_type_id: insight
-    revision: 5
+    revision: 6
   page_title: Deep, Trusting Relationships
   insight_short: Deep, Trusting Relationships
   insight_title: Grantees value deep and trusting relationships with funders, grounded
@@ -251,12 +251,13 @@ insight:
       content_type_id: quote
       revision: 1
     quote: "“People don’t know how foundations work! You just have to push back.”"
+  order: 1
 - sys:
     id: jyKMbw9LvNhaGzth0U8Dw
     created_at: !ruby/object:DateTime 2019-05-06 20:32:40.508000000 Z
-    updated_at: !ruby/object:DateTime 2019-05-06 20:32:40.508000000 Z
+    updated_at: !ruby/object:DateTime 2019-06-07 15:30:10.390000000 Z
     content_type_id: insight
-    revision: 1
+    revision: 2
   page_title: Structure and Clarity
   insight_short: Structure and Clarity
   insight_title: Grantees crave structure and clarity with regards to 1) the funding
@@ -590,12 +591,13 @@ insight:
       revision: 1
     quote: "“There’s an inherent competition among grantees that funders pretend doesn’t
       exist. It’s hard not to look over your shoulder at the new people getting funding.”"
+  order: 7
 - sys:
     id: 3iOxgGnCFSOPnKE3re9mfA
     created_at: !ruby/object:DateTime 2019-05-22 00:18:59.931000000 Z
-    updated_at: !ruby/object:DateTime 2019-05-22 00:18:59.931000000 Z
+    updated_at: !ruby/object:DateTime 2019-06-07 15:29:50.747000000 Z
     content_type_id: insight
-    revision: 1
+    revision: 2
   page_title: Multi-year Flexible Funding
   insight_short: Multi-year Flexible Funding
   insight_title: Multi-year flexible funding is extremely valued.
@@ -689,12 +691,13 @@ insight:
       content_type_id: quote
       revision: 1
     quote: "“They don’t pay attention to the program, but to the organization.”"
+  order: 6
 - sys:
     id: 4zcMXjfMSLsPoJwQAEzWXZ
     created_at: !ruby/object:DateTime 2019-05-22 00:26:06.129000000 Z
-    updated_at: !ruby/object:DateTime 2019-05-22 00:26:17.457000000 Z
+    updated_at: !ruby/object:DateTime 2019-06-07 15:30:36.091000000 Z
     content_type_id: insight
-    revision: 2
+    revision: 3
   page_title: Reporting and Metrics
   insight_short: Reporting and Metrics
   insight_title: Reporting and metrics are not always perceived as useful and valuable
@@ -875,12 +878,13 @@ insight:
       relationship with the GCE team… at the moment, the reporting requirements are
       onerous and do not support meaningful organizational monitoring, evaluation
       and learning.”"
+  order: 9
 - sys:
     id: 1mz5qNxgvkUfCHUN72zORV
     created_at: !ruby/object:DateTime 2019-05-22 00:35:36.623000000 Z
-    updated_at: !ruby/object:DateTime 2019-05-22 00:35:36.623000000 Z
+    updated_at: !ruby/object:DateTime 2019-06-07 15:30:24.257000000 Z
     content_type_id: insight
-    revision: 1
+    revision: 2
   page_title: Portfolio Support
   insight_short: Portfolio Support
   insight_title: Grantees are interested in, and looking for portfolio support, and
@@ -1032,12 +1036,13 @@ insight:
     quote: "“No. We don’t want them on a board. I’m not sure it makes sense to have
       the org giving the money supervising how it’s spent. Isn’t that a conflict of
       interest?”\n"
+  order: 8
 - sys:
     id: 4xrmz2cDxqIf97YYfahCQU
     created_at: !ruby/object:DateTime 2019-05-22 00:41:30.693000000 Z
-    updated_at: !ruby/object:DateTime 2019-05-22 00:41:30.693000000 Z
+    updated_at: !ruby/object:DateTime 2019-06-07 15:29:14.198000000 Z
     content_type_id: insight
-    revision: 1
+    revision: 2
   page_title: Power Dynamics
   insight_short: Power Dynamics
   insight_title: Power dynamics, if not acknowledged, can affect the strength and
@@ -1190,12 +1195,13 @@ insight:
       revision: 1
     quote: "“\\[When asked by ON] I responded that something ‘wasn’t in our roadmap.’
       But I didn’t ask them: should it be? I don’t know!”"
+  order: 4
 - sys:
     id: 2bwSfmkxe2O5t2tDHQt2vs
     created_at: !ruby/object:DateTime 2019-05-22 00:45:11.624000000 Z
-    updated_at: !ruby/object:DateTime 2019-05-22 00:45:11.624000000 Z
+    updated_at: !ruby/object:DateTime 2019-06-07 15:29:00.447000000 Z
     content_type_id: insight
-    revision: 1
+    revision: 2
   page_title: Funder Reputation
   insight_short: Funder Reputation
   insight_title: A funder’s reputation impacts the funder-grantee relationship.
@@ -1283,12 +1289,13 @@ insight:
       revision: 1
     quote: "“\\[X] funding comes with some liability, but ON doesn’t have the name
       recognition \\[outside the US] for that to be a risk. Yet.”"
+  order: 3
 - sys:
     id: XVD1SkpJyjScJv1XiJIti
     created_at: !ruby/object:DateTime 2019-05-22 00:51:13.658000000 Z
-    updated_at: !ruby/object:DateTime 2019-05-22 00:51:13.658000000 Z
+    updated_at: !ruby/object:DateTime 2019-06-07 15:29:35.457000000 Z
     content_type_id: insight
-    revision: 1
+    revision: 2
   page_title: Diversity, Equity, and Inclusion
   insight_short: Diversity, Equity, and Inclusion
   insight_title: A lack of transparency around how diversity, equity and inclusion
@@ -1432,12 +1439,13 @@ insight:
       revision: 1
     quote: "“I’m just not sure they’re the right group to help with \\[our sensitive
       DEI issue].”"
+  order: 5
 - sys:
     id: 5mwetRON9oTpEGQ6800wJP
     created_at: !ruby/object:DateTime 2019-05-22 00:54:05.065000000 Z
-    updated_at: !ruby/object:DateTime 2019-05-22 00:54:05.065000000 Z
+    updated_at: !ruby/object:DateTime 2019-06-07 15:28:44.591000000 Z
     content_type_id: insight
-    revision: 1
+    revision: 2
   page_title: Funder Roles
   insight_short: Funder Roles
   insight_title: When funders wear multiple hats — as individual advocates as well
@@ -1520,3 +1528,4 @@ insight:
       revision: 1
     quote: '"\[Luminate] has tremendous potential to be a major influence in the philanthropic
       and advocacy space and I encourage them to seize the moment!"'
+  order: 2
