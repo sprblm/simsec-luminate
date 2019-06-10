@@ -34,33 +34,31 @@ themes | sort %} {% endfor %}
   </section>
 
   <section class="fixed-dropdown">
-    <div class="row expanded ">
-      <div class="column large-5 medium-12 small-12 ">
-        <div class="toggle-container">
-          <span>Filter By</span>
-          <label for="basic-switch">Themes</label>
-          <div class="mdc-switch">
-            <div class="mdc-switch__track"></div>
-            <div class="mdc-switch__thumb-underlay">
-              <div class="mdc-switch__thumb">
-                  <input type="checkbox" id="basic-switch" class="mdc-switch__native-control" role="switch">
-              </div>
-            </div>
-          </div>
-          <label for="basic-switch">Insights</label>
-        </div>
-      </div>
+    <div class="row expanded align-center">
       <div class="column large-3 medium-7 small-8 theme-dropdown">
-        <div class="select">
-          <select aria-label="All themes" class="dropdown" id="theme" data-filter="theme">
+        <div class="select" data-select="all">
+          <select name="All Filters" aria-label="All filters" class="dropdown">
+            <option data-select="all">Filter By</option>
+            <optgroup label="All Themes" class="group">
+              {% for theme in themes %}
+                <option data-select="{{ theme | slugify }}" data-type="theme">{{ theme }}</option>
+              {% endfor %}
+            </optgroup>
+            <optgroup label="All Insights" class="group">
+              {% for insight in insights %}
+                <option data-select="{{ insight | slugify }}" data-type="insight">{{ insight }}</option>
+              {% endfor %}
+            </optgroup>
+          </select>
+          <!-- <select aria-label="All themes" class="dropdown" id="theme" data-filter="theme">
             <option data-select="all">All Themes</option>
             {% for theme in themes %}
               <option data-select="{{ theme | slugify }}">{{ theme }}</option>
             {% endfor %}
-          </select>
+          </select> -->
         </div>
       </div>
-      <div class="column large-3 medium-7 small-8 insight-dropdown">
+      <!-- <div class="column large-3 medium-7 small-8 insight-dropdown">
         <div class="select">
           <select  aria-label="All insights" class="dropdown" id="insight" data-filter="insight">
             <option data-select="all">All Insights</option>
@@ -69,7 +67,7 @@ themes | sort %} {% endfor %}
             {% endfor %}
           </select>
         </div>
-      </div>
+      </div> -->
     </div>
   </section>
 
