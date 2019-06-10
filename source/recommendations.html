@@ -38,13 +38,13 @@ themes | sort %} {% endfor %}
       <div class="column large-3 medium-7 small-8 theme-dropdown">
         <div class="select" data-select="all">
           <select name="All Filters" aria-label="All filters" class="dropdown">
-            <option data-select="all">Filter By</option>
-            <optgroup label="All Themes" class="group">
+            <option data-select="all">All Recommendations</option>
+            <optgroup label="Filter by Theme" class="group">
               {% for theme in themes %}
                 <option data-select="{{ theme | slugify }}" data-type="theme">{{ theme }}</option>
               {% endfor %}
             </optgroup>
-            <optgroup label="All Insights" class="group">
+            <optgroup label="Filter by Insight" class="group">
               {% for insight in insights %}
                 <option data-select="{{ insight | slugify }}" data-type="insight">{{ insight }}</option>
               {% endfor %}
