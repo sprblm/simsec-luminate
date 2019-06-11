@@ -12,6 +12,7 @@ import SlidePage from './slide-page';
 import RecommendationsFilter from './recommendations-filter';
 import InsightsFilter from './insights-filter';
 import NavLinks from './nav-links';
+import InternalPageNav from './internal-page-nav';
 
 // Footer.init();
 Modal.init();
@@ -27,3 +28,4 @@ SlidePage.init();
 RecommendationsFilter.init();
 InsightsFilter.init();
 NavLinks.init();
+InternalPageNav.init();

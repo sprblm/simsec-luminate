@@ -31,11 +31,23 @@ class SilentNullRenderer < RichTextRenderer::BaseNodeRenderer
   end
 end
 
+class HeadingAndIDRenderer < RichTextRenderer::BaseNodeRenderer
+  include Jekyll::Filters
+  def render(node)
+    headerTagMap = {'heading-1' => 'h1', 'heading-2' => 'h2', 'heading-3' => 'h3', 'heading-4' => 'h4', 'heading-5' => 'h5', 'heading-6' => 'h6'}
+    headingType = node['nodeType']
+    headingValue = node['content'][0]['value']
+    headingAnchorID = slugify(headingValue)
+    headerTag = headerTagMap[headingType]
+    "<#{headerTag}  class=\"internal-page-nav\" id=#{headingAnchorID}>#{headingValue}</#{headerTag}>"
+  end
+end
+
 
 module Jekyll
   module DataFormatter
     def rich_text_to_html(content)
-      renderer = RichTextRenderer::Renderer.new(nil => SilentNullRenderer, 'embedded-entry-block' => EmbeddedEntryRenderer)
+      renderer = RichTextRenderer::Renderer.new(nil => SilentNullRenderer, 'embedded-entry-block' => EmbeddedEntryRenderer, 'heading-2' => HeadingAndIDRenderer,  'heading-3' => HeadingAndIDRenderer)
       renderer.render(content)
     end
   end

@@ -17,9 +17,20 @@ seo_image_path: #'/images/media/filename.jpg'
     </div>
   </section>
 
+  <section class="fixed-dropdown">
+    <div class="row align-center">
+      <div class="column large-4 medium-8 small-8">
+        <div class="select internal-page-nav__container">
+          <select tabindex="1" aria-label="Select section" class="dropdown internal-page-nav__select" id="internal-page-nav">
+          </select>
+        </div>
+      </div>
+    </div>
+  </section>
+
   <section class="page-section">
     <div class="row">
-      <div class="column large-11 rich-text">
+      <div class="column large-11 rich-text internal-page-nav__section">
         {{ page_content.details_description | rich_text_to_html }}
       </div>
     </div>
