@@ -2,7 +2,7 @@ const InternalPageNav = {
   createDropdownOptions() {
     const headers = document.querySelectorAll('.internal-page-nav');
     const navDropdown = document.querySelector('#internal-page-nav');
-    headers.forEach(header => {
+    $(headers).each((idx,header) => {
       const newOption = document.createElement('option');
       newOption.value = header.innerHTML;
       newOption.text = header.innerHTML;

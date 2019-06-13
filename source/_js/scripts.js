@@ -28,4 +28,7 @@ SlidePage.init();
 RecommendationsFilter.init();
 InsightsFilter.init();
 NavLinks.init();
-InternalPageNav.init();
+
+if (window.location.pathname === '/project-details.html' || window.location.pathname === '/simsec-luminate/project-details.html') {
+  InternalPageNav.init();
+};
