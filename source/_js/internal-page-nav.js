@@ -26,10 +26,10 @@ const InternalPageNav = {
     });
   },
   matchDropdownToScrollPosition() {
-    document.querySelectorAll('.internal-page-nav').forEach(header => {
+    $('.internal-page-nav').each((idx, header) => {
       if (header.getBoundingClientRect().bottom < 300) {
         const currentScroll = header.id;
-        document.querySelectorAll('.internal-page-nav__option').forEach((dropdown, idx) => {
+        $('.internal-page-nav__option').each((idx, dropdown) => {
           if (currentScroll === dropdown.getAttribute('data-target')) {
             document.querySelector('#internal-page-nav').selectedIndex = idx;
           }
