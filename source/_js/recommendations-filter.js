@@ -37,11 +37,11 @@ const RecommendationsFilter = {
     let selectedOption;
 
     dropdownFilter.addEventListener('change', e => {
-      e.currentTarget.childNodes.forEach(optgroup => {
+      Array.prototype.slice.call(e.currentTarget.childNodes).forEach(optgroup => {
         if (optgroup.getAttribute('data-select') === 'all') {
           RecommendationsFilter.setSearchQueryDefaults();
         } else {
-          optgroup.childNodes.forEach(option => {
+          Array.prototype.slice.call(optgroup.childNodes).forEach(option => {
             if (option.selected === true) {
               filterSelection = option.getAttribute('data-type');
               selectedOption = option.getAttribute('data-select');
@@ -95,7 +95,7 @@ const RecommendationsFilter = {
   },
   init() {
     const recommendationsPage = document.querySelector('#recommendations');
-    
+
     if (recommendationsPage) {
       this.createList();
       this.filterByDropdowns();
