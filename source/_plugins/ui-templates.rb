@@ -8,7 +8,7 @@ module UITemplates
     chart_description_path = get_relative_url("/figures.html#figure-#{number}")
     chart_img_html = "<div class='figure-image-container'> <img src='#{img_src}' alt='#{alt_text}' longdesc='#{chart_description_path}' /></div>"
     chart_caption = "<figcaption>#{caption}</figcaption>"
-    chart_description_link = "<div class='figure-link-container'><a class='figure-description-link' href='#{chart_description_path}'>Text description of chart</a></div>"
+    chart_description_link = "<div class='figure-link-container underline-link'><a class='figure-description-link' href='#{chart_description_path}'>Text description of chart</a></div>"
 
     chartHtml = [
       "<div class='chart-container'><figure>",

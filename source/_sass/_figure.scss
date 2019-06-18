@@ -11,6 +11,9 @@
     }
     figcaption {
       text-align: left;
+      font-family: $sans-serif;
+      font-weight: 600;
+      font-size: 1.1rem;
     }
     .figure-image-container {
       margin: 1rem 0;
@@ -31,13 +34,10 @@
       text-align: right;
     }
     .figure-description-link {
-      font-family: $sans-serif;
-      font-weight: 600;
-      font-size: 1.1rem;
-      text-align: right;
-      font-size: 1.1rem;
-      text-decoration: none;
-      border-bottom: 1px solid;
+      font-style: italic;
+      // text-decoration: none;
+      // border-bottom: 1px solid;
+      // font-style: italic;
     }
   }
 }
@@ -62,13 +62,14 @@
   }
   .figure-description-link,
   .go-back-link {
-    font-family: $sans-serif;
-    font-weight: 600;
-    font-size: 1.1rem;
-    text-align: right;
-    font-size: 1.1rem;
-    text-decoration: none;
-    border-bottom: 1px solid;
+    font-style: italic;
+    // font-family: $sans-serif;
+    // font-weight: 600;
+    // font-size: 1.1rem;
+    // text-align: right;
+    // font-size: 1.1rem;
+    // text-decoration: none;
+    // border-bottom: 1px solid;
   }
 
   hr {
