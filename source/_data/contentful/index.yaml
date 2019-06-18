@@ -3,18 +3,24 @@ index:
 - sys:
     id: 37stCeFxGeqoRZQaUKmOvd
     created_at: !ruby/object:DateTime 2019-05-02 23:27:13.174000000 Z
-    updated_at: !ruby/object:DateTime 2019-05-21 23:45:37.820000000 Z
+    updated_at: !ruby/object:DateTime 2019-06-16 18:00:34.561000000 Z
     content_type_id: index
-    revision: 3
+    revision: 6
   page_title: Index
   report_title: On Trust & Transparency
   report_subtitle: Perspectives from Luminate's portfolio
-  intro_copy: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-    culpa qui officia deserunt mollit anim id est laborum.
+  intro_copy: 'In June 2018, Luminate commissioned Simply Secure to conduct human-centered
+    design (HCD) research focused on uncovering grantees’ experiences of the funding
+    process. The public report highlights insights, feedback — including anonymized
+    quotes and comments, and recommendations synthesized from 20 interviews + 53 survey
+    responses.
+
+'
+  themes_copy: 'In synthesizing the conversations and survey feedback into insights
+    and recommendations, four thematic areas emerged: Funding Approach & Process,
+    Trust & Power, Funder Identity & Culture, and Assessing Impact. Each insight has
+    been associated with one or more of the themes to provide an organizing framework
+    for these interdependent concepts.'
   findings_copy: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
     nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
