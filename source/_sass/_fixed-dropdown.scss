@@ -40,18 +40,24 @@
     background-color: transparent;
     font-weight: bold;
     margin-bottom: 0;
-    width: auto;
+    padding: 0;
     position: relative;
-
+    width: auto;
     &:before {
       @extend .u-material-icons;
+      padding-left: 1rem;
     }
-
     select {
+      padding: 0 1.5rem 0 0.5rem;
+      width: 100;
       -webkit-appearance: none;
       -moz-appearance: none;
       -o-appearance: none;
       appearance: none;
+      overflow: hidden;
+      white-space: nowrap;
+      -o-text-overflow: ellipsis;
+      text-overflow: ellipsis;
       &::-ms-expand {
         display: none;
       }
@@ -65,7 +71,6 @@
     .select {
       width: 18rem;
       &:before {
-        // padding-left: 2rem;
       }
     }
   }
