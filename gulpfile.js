@@ -111,7 +111,7 @@ gulp.task(
 gulp.task(
   'html_proofer',
   shell.task([
-    'bundle exec htmlproofer ./_site --allow-hash-href --disable-external --check-favicon --url-swap "/objectively-jekyll-boilerplate|:" --check-html'
+    'bundle exec htmlproofer ./_site --allow-hash-href --disable-external --check-favicon --url-swap "/simsec-luminate|:" --check-html'
   ])
 );
 

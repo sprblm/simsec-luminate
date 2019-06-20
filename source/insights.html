@@ -51,7 +51,7 @@ themes | sort %} {% endfor %}
           <li class="list__item list__item--insight">
             <div class="theme" style="display: none">all {% for item in insight.related_theme %} {{ item | slugify }} {% endfor %}</div>
             <div class="title" style="display: none">{{ insight.insight_title | slugify }}</div>
-            <a href="{{ insight.page_title | slugify | prepend: '/insights/' | append: '.html' | relative_url }}" class="card card--insight">
+            <a href="{{ insight.page_title | slugify | prepend: '/insights/' | relative_url }}" class="card card--insight">
               {{ insight.insight_title | markdownify }}
             </a>
           </li>

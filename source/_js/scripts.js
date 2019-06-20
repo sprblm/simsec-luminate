@@ -29,6 +29,6 @@ RecommendationsFilter.init();
 InsightsFilter.init();
 NavLinks.init();
 
-if (window.location.pathname === '/project-details.html' || window.location.pathname === '/simsec-luminate/project-details.html') {
+if (window.location.pathname === '/project-details/' || window.location.pathname === '/project-details' || window.location.pathname === '/simsec-luminate/project-details' || window.location.pathname === '/simsec-luminate/project-details/') {
   InternalPageNav.init();
 };

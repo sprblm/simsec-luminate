@@ -23,6 +23,8 @@ twitter_username:
 github_username:
 seo_image_path: #'/images/media/filename.jpg'
 
+permalink: pretty
+
 # Build settings
 markdown: kramdown
 gems:
