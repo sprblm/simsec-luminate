@@ -35,7 +35,7 @@ seo_image_path: #'/images/media/filename.jpg'
         <div class="select">
           <select aria-label="Select Theme" class="redirect-dropdown-nav">
             {% for theme in themes %}
-              <option class="redirect-dropdown-nav__option" value="{{ theme.page_title | slugify }}" data-page="{{ theme.page_title | slugify }}" data-path="{{ theme.page_title | slugify | prepend: '/themes/' | append: '.html' | relative_url }}">{{ theme.page_title }}</option>
+              <option class="redirect-dropdown-nav__option" value="{{ theme.page_title | slugify }}" data-page="{{ theme.page_title | slugify }}" data-path="{{ theme.page_title | slugify | prepend: '/themes/' | relative_url }}">{{ theme.page_title }}</option>
             {% endfor %}
           </select>
         </div>
@@ -47,7 +47,7 @@ seo_image_path: #'/images/media/filename.jpg'
     <div class="row">
       <div class="column large-12">
         <h4>Related Insights</h4>
-        <a class="arrow-forward" href="{{ '/insights.html' | relative_url }}">All Insights <i class="material-icons">arrow_forward</i></a>
+        <a class="arrow-forward" href="{{ '/insights' | relative_url }}">All Insights <i class="material-icons">arrow_forward</i></a>
       </div>
     </div>
   </section>
@@ -57,7 +57,7 @@ seo_image_path: #'/images/media/filename.jpg'
       {% for insight in page.related_insights %}
         <li class="list__item list__item--insight">
           <div class="title hidden">{{ insight.insight_title | slugify }}</div>
-          <a href="{{ insight.page_title | slugify | prepend: '/insights/' | append: '.html' | relative_url }}" class="card card--insight">
+          <a href="{{ insight.page_title | slugify | prepend: '/insights/' | relative_url }}" class="card card--insight">
             {{ insight.insight_title | markdownify }}
           </a>
         </li>
@@ -70,7 +70,7 @@ seo_image_path: #'/images/media/filename.jpg'
       <div class="row">
         <div class="column large-12">
           <h4>Related Recommendations</h4>
-          <a class="arrow-forward" href="{{ '/recommendations.html' | relative_url }}">All Recommendations <i class="material-icons">arrow_forward</i></a>
+          <a class="arrow-forward" href="{{ '/recommendations' | relative_url }}">All Recommendations <i class="material-icons">arrow_forward</i></a>
         </div>
       </div>
     </section>
@@ -79,7 +79,7 @@ seo_image_path: #'/images/media/filename.jpg'
       <ul class="list list--recommendation">
         {% for recommendation in page.related_recommendations %}
           <li class="list__item list__item--recommendation">
-            <a href="{{ recommendation.page_title | slugify | prepend: '/recommendations/' | append: '.html' | relative_url }}" class="card card--recommendation">{{ recommendation.recommendation | markdownify }}</a>
+            <a href="{{ recommendation.page_title | slugify | prepend: '/recommendations/' | relative_url }}" class="card card--recommendation">{{ recommendation.recommendation | markdownify }}</a>
           </li>
         {% endfor %}
       </ul>

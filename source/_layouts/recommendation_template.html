@@ -12,7 +12,7 @@ seo_image_path: #'/images/media/filename.jpg'
   <section class="top-section">
     <div class="row">
       <div class="column large-12 medium-12 small-12">
-        <a class="arrow-back" href="{{ '/recommendations.html' | relative_url }}"><i class="material-icons">arrow_back</i>All Recommendations</a>
+        <a class="arrow-back" href="{{ '/recommendations' | relative_url }}"><i class="material-icons">arrow_back</i>All Recommendations</a>
       </div>
       <div class="column large-12 medium-12 small-12">
         <h1>Recommendation</h1>
@@ -26,7 +26,7 @@ seo_image_path: #'/images/media/filename.jpg'
             <div class="themes">
               <h3>Related Themes</h3>
               {% for theme in page.theme_tag %}
-                <a class="tag tag--white tag-filter-link" href="{{ theme | slugify | prepend: '/themes/' | append: '.html' | relative_url }}" filter-tag="theme" filter-query="{{ theme | slugify }}">{{ theme }}</a>
+                <a class="tag tag--white tag-filter-link" href="{{ theme | slugify | prepend: '/themes/' | relative_url }}" filter-tag="theme" filter-query="{{ theme | slugify }}">{{ theme }}</a>
               {% endfor %}
             </div>
           {% endif %}
@@ -35,7 +35,7 @@ seo_image_path: #'/images/media/filename.jpg'
             <div class="insights">
               <h3>Related Insights</h3>
               {% for insight in page.insight_tag %}
-                <a class="tag tag--white tag-filter-link" href="{{ insight | slugify | prepend: '/insights/' | append: '.html' | relative_url }}" filter-tag="insight" filter-query="{{ insight | slugify }}">{{ insight }}</a>
+                <a class="tag tag--white tag-filter-link" href="{{ insight | slugify | prepend: '/insights/' | relative_url }}" filter-tag="insight" filter-query="{{ insight | slugify }}">{{ insight }}</a>
               {% endfor %}
             </div>
           {% endif %}

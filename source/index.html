@@ -29,8 +29,8 @@ seo_image_path: #'/images/media/filename.jpg'
       </div>
       <div class="column large-6 medium-10 small-12 center button-conainter">
         <a class="button" href="#">Download Report</a>
-        <a class="button" href="{{ '/foreword.html' | relative_url }}">Foreword</a>
-        <a class="button" href="{{ '/project-details.html' | relative_url }}">Project Details</a>
+        <a class="button" href="{{ '/foreword' | relative_url }}">Foreword</a>
+        <a class="button" href="{{ '/project-details' | relative_url }}">Project Details</a>
       </div>
     </div>
   </section>
@@ -46,7 +46,7 @@ seo_image_path: #'/images/media/filename.jpg'
     <div class="list list--index-cards">
       {% for theme in themes %}
         <div class="list__item list__item--index-cards">
-          <a href="{{ theme.page_title | slugify | prepend: '/themes/' | append: '.html' | relative_url }}" class="card card--index-cards">
+          <a href="{{ theme.page_title | slugify | prepend: '/themes/' | relative_url }}" class="card card--index-cards">
             <img src="{{ theme.theme_icon.url }}" alt="">
             <div class="card__title">{{ theme.page_title }}</div>
           </a>
@@ -65,7 +65,7 @@ seo_image_path: #'/images/media/filename.jpg'
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed necessitatibus, error eaque vero aperiam numquam, tenetur, soluta quibusdam odio eius aut. Distinctio placeat repellendus, repellat neque itaque in esse nobis!</p>
       </div>
       <div class="column large-6 medium-10 small-12 center button-conainter">
-        <a class="button" href="{{ '/insights.html' | relative_url }}">All Insights</a>
+        <a class="button" href="{{ '/insights' | relative_url }}">All Insights</a>
       </div>
     </div>
   </section>

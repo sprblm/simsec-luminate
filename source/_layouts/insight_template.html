@@ -12,7 +12,7 @@ seo_image_path: #'/images/media/filename.jpg'
   <section class="top-section">
     <div class="row">
       <div class="column large-12 medium-12 small-12">
-        <a class="arrow-back" href="{{ '/insights.html' | relative_url }}"><i class="material-icons">arrow_back</i>All Insights</a>
+        <a class="arrow-back" href="{{ '/insights' | relative_url }}"><i class="material-icons">arrow_back</i>All Insights</a>
       </div>
       <div class="column large-12 medium-12 small-12">
         <h1>Insight</h1>
@@ -40,7 +40,7 @@ seo_image_path: #'/images/media/filename.jpg'
           <div class="themes">
             <h3>Themes</h3>
             {% for theme in page.related_theme %}
-              <a href="{{ theme | slugify | prepend: '/themes/' | append: '.html' | relative_url }}" class="tag">{{ theme }}</a>
+              <a href="{{ theme | slugify | prepend: '/themes/' | relative_url }}" class="tag">{{ theme }}</a>
             {% endfor %}
           </div>
 
@@ -59,7 +59,7 @@ seo_image_path: #'/images/media/filename.jpg'
     <div class="row">
       <div class="column large-12">
         <h4>Related Recommendations</h4>
-        <a class="arrow-forward" href="{{ '/recommendations.html' | relative_url }}">All Recommendations <i class="material-icons">arrow_forward</i></a>
+        <a class="arrow-forward" href="{{ '/recommendations' | relative_url }}">All Recommendations <i class="material-icons">arrow_forward</i></a>
       </div>
     </div>
   </section>
@@ -68,7 +68,7 @@ seo_image_path: #'/images/media/filename.jpg'
     <ul class="list list--recommendation">
       {% for recommendation in page.related_recommendations %}
         <li class="list__item list__item--recommendation">
-          <a href="{{ recommendation.page_title | slugify | prepend: '/recommendations/' | append: '.html' | relative_url }}" class="card card--recommendation">{{ recommendation.recommendation | markdownify }}</a>
+          <a href="{{ recommendation.page_title | slugify | prepend: '/recommendations/' | relative_url }}" class="card card--recommendation">{{ recommendation.recommendation | markdownify }}</a>
         </li>
       {% endfor %}
     </ul>
