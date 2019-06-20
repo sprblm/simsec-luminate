@@ -21,7 +21,7 @@ baseurl: "/simsec-luminate" # the subpath of your site, e.g. /blog
 url: "https://objectively.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:
-seo_image_path: #'/images/media/filename.jpg'
+seo_image_path: '/images/simsec-luminate-og.jpg'
 
 permalink: pretty
 
