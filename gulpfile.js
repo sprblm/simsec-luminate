@@ -129,11 +129,13 @@ gulp.task('test', gulp.series('test:html', 'test:es-lint', 'test:mocha'), done =
   deploy
 ========================================= */
 
+gulp.task('circleci', () => gulp.src('.circleci/config.yml').pipe(gulp.dest('_site/.circleci/')))
+
 gulp.task('push-gh-master', shell.task(['git push origin master']));
 
-gulp.task('push-gh-pages', () => gulp.src('_site/**/*').pipe(ghPages({ force: true })));
+gulp.task('push-gh-pages', () => gulp.src('_site/**/*', { dot: true }).pipe(ghPages({ force: true })));
 
-gulp.task('deploy', gulp.series('build:prod', 'push-gh-master', 'push-gh-pages'));
+gulp.task('deploy', gulp.series('build:prod', 'circleci', 'push-gh-master', 'push-gh-pages'));
 
 /* =========================================
   serve

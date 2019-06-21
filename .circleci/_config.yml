@@ -1,0 +1,56 @@
+# Ruby CircleCI 2.0 configuration file
+#
+# Check https://circleci.com/docs/2.0/language-ruby/ for more details
+#
+version: 2
+jobs:
+  build:
+    branches:
+      ignore: gh-pages
+      only:
+        - master
+    docker:
+      # specify the version you desire here
+       - image: circleci/ruby:2.4.1-node-browsers
+
+    working_directory: ~/simsec-luminate
+    steps:
+      - checkout:
+          path: ~/simsec-luminate
+      # Download and cache dependencies
+      - restore_cache:
+          keys:
+          - v1-dependencies-{{ checksum "Gemfile.lock" }}
+          # fallback to using the latest cache if no exact match is found
+          - v1-dependencies-
+
+      - run: gem install bundler --pre
+      - run: bundle install
+      - run: npm install
+      - run: bash automated_build.sh
+
+      - save_cache:
+          paths:
+            - ./vendor/bundle
+            - ./node_modules
+          key: v1-dependencies-{{ checksum "Gemfile.lock" }}
+
+      # run tests!
+      - run:
+          name: run tests
+          command: npm test
+      - deploy:
+          name: Deploy
+          command: npm run deploy
+      # Upload test results
+      - store_test_results:
+          path: /tmp/test-reports
+
+  test:
+    docker:
+      # specify the version you desire here
+       - image: circleci/ruby:2.4.1-node-browsers
+    steps:
+      - checkout:
+          path: ~/simsec-luminate
+      - run: echo "done"
