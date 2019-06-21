@@ -3,9 +3,9 @@ projectDetails:
 - sys:
     id: 7391na5XCXEsY8bGxlbS9p
     created_at: !ruby/object:DateTime 2019-05-29 15:44:57.862000000 Z
-    updated_at: !ruby/object:DateTime 2019-05-31 01:37:04.607000000 Z
+    updated_at: !ruby/object:DateTime 2019-06-21 12:23:40.083000000 Z
     content_type_id: projectDetails
-    revision: 3
+    revision: 4
   page_title: Project Details
   details_description:
     data: {}
@@ -114,6 +114,15 @@ projectDetails:
           develop the recommendations. Additional HCD methods can ensure the research
           participants’ needs stay central in the later design and implementation
           process. "
+        nodeType: text
+      nodeType: paragraph
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: The findings in this report have been informed by feedback from Luminate’s
+          grantees and do not include responses from for-profit organizations in the
+          portfolio. Please see Methodology (pp. 10-11) for more information.
         nodeType: text
       nodeType: paragraph
     - data: {}
@@ -231,8 +240,17 @@ projectDetails:
         nodeType: text
       - data: {}
         marks: []
-        value: " practices throughout our work. Three values that particularly informed
-          the approach on this research are:"
+        value: " "
+        nodeType: text
+      - data: {}
+        marks:
+        - type: bold
+        value: practices
+        nodeType: text
+      - data: {}
+        marks: []
+        value: " throughout our work. Three values that particularly informed the
+          approach on this research are:"
         nodeType: text
       nodeType: paragraph
     - data: {}
@@ -336,9 +354,21 @@ projectDetails:
       content:
       - data: {}
         marks: []
-        value: We believe these policies, which can be found in the Resources section
-          on the report website, can be a model for the participants’ communities,
-          as well as others seeking to do HCD work in sensitive situations.
+        value: 'We believe these policies, which can be found in the Resources section
+          on the '
+        nodeType: text
+      - data:
+          uri: https://ontrustandtransparency.report
+        content:
+        - data: {}
+          marks: []
+          value: report website
+          nodeType: text
+        nodeType: hyperlink
+      - data: {}
+        marks: []
+        value: ", can be a model for the participants’ communities, as well as others
+          seeking to do HCD work in sensitive situations."
         nodeType: text
       nodeType: paragraph
     - data: {}
@@ -352,13 +382,24 @@ projectDetails:
       content:
       - data: {}
         marks: []
-        value: Our practice is to share openly as much as possible from our work,
-          e.g., data, insights, learnings, findings, and techniques — while also respecting
-          participant and collaborator privacy and security. This allows us to reflect
-          how much we value participant input. For this work, the insights from this
-          research are shared as a public report. The techniques and methods used
-          for privacy-preserving user research are shared in the Resources section
-          on the report website.
+        value: 'Our practice is to share openly as much as possible from our work,
+          e.g., data, insights, and techniques — while also respecting participant
+          and collaborator privacy and security. This allows us to reflect how much
+          we value participant input. For this work, the insights from this research
+          are shared as a public report. The techniques and methods used for privacy-preserving
+          user research are shared in the Resources section on the '
+        nodeType: text
+      - data:
+          uri: https://ontrustandtransparency.report
+        content:
+        - data: {}
+          marks: []
+          value: report website
+          nodeType: text
+        nodeType: hyperlink
+      - data: {}
+        marks: []
+        value: "."
         nodeType: text
       nodeType: paragraph
     - data: {}
@@ -453,8 +494,8 @@ projectDetails:
       content:
       - data: {}
         marks: []
-        value: 'Although this project uses best practices for HCD user research, there
-          are some limitations to the approach. '
+        value: 'Although this project uses best practices for human-centered user
+          research, there are some limitations to the approach. '
         nodeType: text
       nodeType: paragraph
     - data: {}
@@ -537,33 +578,44 @@ projectDetails:
           content:
           - data: {}
             marks: []
-            value: This phase of research did not include GCE alumni. If further work
-              is pursued focused on the end of the grantee-funder relationship, then
-              Alumni input would be critical to better understand and shape future
-              guidelines.
+            value: 'This phase of research did not include GCE '
+            nodeType: text
+          - data: {}
+            marks:
+            - type: bold
+            value: alumni
+            nodeType: text
+          - data: {}
+            marks: []
+            value: ". If further work is pursued focused on the end of the grantee-funder
+              relationship, then Alumni input would be critical to better understand
+              and shape future guidelines."
+            nodeType: text
+          nodeType: paragraph
+        nodeType: list-item
+      - data: {}
+        content:
+        - data: {}
+          content:
+          - data: {}
+            marks:
+            - type: bold
+            value: Self-selection bias
+            nodeType: text
+          - data: {}
+            marks: []
+            value: " may have impacted who we heard from in the interviews and the
+              survey. Organizations who felt their relationship was particularly strong
+              or particularly terrible with GCE might not have chosen to participate,
+              feeling that their feedback was not needed (in the case of a strong
+              relationship) or wouldn’t be heard (in the case of a bad relationship).
+              To mitigate this, organizations were invited to participate multiple
+              times, by both Simply Secure and GCE, and the outreach communications
+              covered concerns around confidentiality and privacy."
             nodeType: text
           nodeType: paragraph
         nodeType: list-item
       nodeType: unordered-list
-    - data: {}
-      content:
-      - data: {}
-        marks:
-        - type: bold
-        value: Self-selection bias
-        nodeType: text
-      - data: {}
-        marks: []
-        value: " may have impacted who we heard from in the interviews and the survey.
-          Organizations who felt their relationship was particularly strong or particularly
-          terrible with GCE might not have chosen to participate, feeling that their
-          feedback was not needed (in the case of a strong relationship) or wouldn’t
-          be heard (in the case of a bad relationship). To mitigate this, organizations
-          were invited to participate multiple times, by both Simply Secure and GCE,
-          and the outreach communications covered concerns around confidentiality
-          and privacy."
-        nodeType: text
-      nodeType: paragraph
     - data: {}
       content:
       - data: {}
@@ -636,9 +688,9 @@ projectDetails:
       content:
       - data: {}
         marks: []
-        value: The interviews consisted of open-ended questions, similar to the questions
-          below, about the organization’s relationship with GCE. Interviews were 45-90
-          minutes long, depending on the respondent’s availability.
+        value: The interviews consisted of open-ended questions about the organization’s
+          relationship with GCE. Interviews were 45-90 minutes long, depending on
+          the respondent’s availability.
         nodeType: text
       nodeType: paragraph
     - data: {}
@@ -650,8 +702,10 @@ projectDetails:
           - data: {}
             marks: []
             value: 'We conducted 20 interviews: 17 with current grantees, and three
-              with other people of interest. All interviews were conducted by two
-              people from Simply Secure. Six were in person, and 14 were remote.'
+              with other people of interest, e.g., sector experts or unfunded organizations.
+              All interviews were conducted by two people from Simply Secure. Six
+              were in person, and 14 were remote. The majority of interviews involved
+              one participant from the organization.'
             nodeType: text
           nodeType: paragraph
         nodeType: list-item
@@ -665,35 +719,77 @@ projectDetails:
               the list of existing grantees. We invited participation proportionally
               from the following groups in order to ensure representation: '
             nodeType: text
-          - data: {}
-            marks:
-            - type: bold
-            value: Location
-            nodeType: text
-          - data: {}
-            marks: []
-            value: ", "
-            nodeType: text
-          - data: {}
-            marks:
-            - type: bold
-            value: Non-profit / for-profit
-            nodeType: text
-          - data: {}
-            marks: []
-            value: ",  and "
-            nodeType: text
-          - data: {}
-            marks:
-            - type: bold
-            value: No board member from GCE / board observer from GCE / full board
-              member from GCE
-            nodeType: text
-          - data: {}
-            marks: []
-            value: "."
-            nodeType: text
           nodeType: paragraph
+        - data: {}
+          content:
+          - data: {}
+            content:
+            - data: {}
+              content:
+              - data: {}
+                marks:
+                - type: bold
+                value: Location
+                nodeType: text
+              nodeType: paragraph
+            nodeType: list-item
+          - data: {}
+            content:
+            - data: {}
+              content:
+              - data: {}
+                marks:
+                - type: bold
+                value: Non-profit / for-profit
+                nodeType: text
+              nodeType: paragraph
+            nodeType: list-item
+          - data: {}
+            content:
+            - data: {}
+              content:
+              - data: {}
+                marks:
+                - type: bold
+                value: No board member from GCE / board observer from GCE / full board
+                  member from GCE
+                nodeType: text
+              nodeType: paragraph
+            nodeType: list-item
+          - data: {}
+            content:
+            - data: {}
+              content:
+              - data: {}
+                marks:
+                - type: bold
+                value: Impact area
+                nodeType: text
+              nodeType: paragraph
+            nodeType: list-item
+          - data: {}
+            content:
+            - data: {}
+              content:
+              - data: {}
+                marks:
+                - type: bold
+                value: Funding amount
+                nodeType: text
+              nodeType: paragraph
+            nodeType: list-item
+          - data: {}
+            content:
+            - data: {}
+              content:
+              - data: {}
+                marks:
+                - type: bold
+                value: Initial funding year
+                nodeType: text
+              nodeType: paragraph
+            nodeType: list-item
+          nodeType: unordered-list
         nodeType: list-item
       - data: {}
         content:
@@ -702,7 +798,7 @@ projectDetails:
           - data: {}
             marks: []
             value: We reached out to 35 people, of whom 20 responded (a 57% response
-              rate). Of he 20 who responded, 2 were for-profit organizations, which
+              rate). Of the 20 who responded, 2 were for-profit organizations, which
               have been removed from the data counts.
             nodeType: text
           nodeType: paragraph
@@ -731,7 +827,7 @@ projectDetails:
           content:
           - data: {}
             marks: []
-            value: Different needs in non-financial support
+            value: Requested needs in portfolio support*
             nodeType: text
           nodeType: paragraph
         nodeType: list-item
@@ -776,6 +872,17 @@ projectDetails:
           nodeType: paragraph
         nodeType: list-item
       nodeType: ordered-list
+    - data: {}
+      content:
+      - data: {}
+        marks:
+        - type: italic
+        value: "*Specifically earmarked support, above and beyond grant funding, to
+          build organizational capacity and resilience. Examples include executive
+          coaching, fundraising support, digital security trainings, or diversity,
+          equity and inclusion (DEI) reviews."
+        nodeType: text
+      nodeType: paragraph
     - data: {}
       content:
       - data: {}
@@ -838,9 +945,9 @@ projectDetails:
           sys:
             id: Qc85JFf2Dlf3gDMiSnYMP
             created_at: !ruby/object:DateTime 2019-05-30 20:23:06.146000000 Z
-            updated_at: !ruby/object:DateTime 2019-05-31 01:29:03.606000000 Z
+            updated_at: !ruby/object:DateTime 2019-06-21 12:24:24.110000000 Z
             content_type_id: figure
-            revision: 7
+            revision: 8
           figure_number: 3
           figure_title: Geographical focus of interviewees
           figure_image:
@@ -859,8 +966,9 @@ projectDetails:
             | Latin America | 1 | 6% |
             | North America | 4 | 27% |
             | Global | 4 | 27% |
-          figure_caption: 'Note: Three other people of interest not included in the
-            following interviewee charts.'
+          figure_caption: 'Note: “Geographical focus” refers to the region that grantees
+            are working in. Participants with a “global” focus have work that cuts
+            across multiple regions, or work that takes a global view, more broadly.'
           figure_alt: Figure 3 is a donut chart illustrating the number and percent
             of interviewees base on the geographical focus of their work.
       content: []
@@ -992,9 +1100,9 @@ projectDetails:
           sys:
             id: 1jYFWx2rHYXTPQzBhxl2OD
             created_at: !ruby/object:DateTime 2019-05-30 20:36:55.150000000 Z
-            updated_at: !ruby/object:DateTime 2019-05-31 01:35:25.733000000 Z
+            updated_at: !ruby/object:DateTime 2019-06-21 12:28:15.242000000 Z
             content_type_id: figure
-            revision: 4
+            revision: 5
           figure_number: 8
           figure_title: Geographical focus of survey respondents
           figure_image:
@@ -1014,8 +1122,10 @@ projectDetails:
             | Latin America | 5 | 10% |
             | North America | 10 | 20% |
             | Global | 8 | 16% |
-          figure_caption: 'Note: “Not applicable” and “Prefer not to say” responses
-            are excluded from survey charts'
+          figure_caption: 'Notes: “Not applicable” and “Prefer not to say” responses
+            are excluded. “Geographical focus” refers to the region in which grantees
+            work. Participants with a “global” focus have work that cuts across multiple
+            regions, or work that takes a global view.'
           figure_alt: Figure 8 is a donut chart illustrating the number and percent
             of participants based on the geographical focus of their work.
       content: []

@@ -46,9 +46,9 @@ figure:
 - sys:
     id: Qc85JFf2Dlf3gDMiSnYMP
     created_at: !ruby/object:DateTime 2019-05-30 20:23:06.146000000 Z
-    updated_at: !ruby/object:DateTime 2019-05-31 01:29:03.606000000 Z
+    updated_at: !ruby/object:DateTime 2019-06-21 12:24:24.110000000 Z
     content_type_id: figure
-    revision: 7
+    revision: 8
   figure_number: 3
   figure_title: Geographical focus of interviewees
   figure_image:
@@ -67,8 +67,9 @@ figure:
     | Latin America | 1 | 6% |
     | North America | 4 | 27% |
     | Global | 4 | 27% |
-  figure_caption: 'Note: Three other people of interest not included in the following
-    interviewee charts.'
+  figure_caption: 'Note: “Geographical focus” refers to the region that grantees are
+    working in. Participants with a “global” focus have work that cuts across multiple
+    regions, or work that takes a global view, more broadly.'
   figure_alt: Figure 3 is a donut chart illustrating the number and percent of interviewees
     base on the geographical focus of their work.
 - sys:
@@ -180,9 +181,9 @@ figure:
 - sys:
     id: 1jYFWx2rHYXTPQzBhxl2OD
     created_at: !ruby/object:DateTime 2019-05-30 20:36:55.150000000 Z
-    updated_at: !ruby/object:DateTime 2019-05-31 01:35:25.733000000 Z
+    updated_at: !ruby/object:DateTime 2019-06-21 12:28:15.242000000 Z
     content_type_id: figure
-    revision: 4
+    revision: 5
   figure_number: 8
   figure_title: Geographical focus of survey respondents
   figure_image:
@@ -202,8 +203,10 @@ figure:
     | Latin America | 5 | 10% |
     | North America | 10 | 20% |
     | Global | 8 | 16% |
-  figure_caption: 'Note: “Not applicable” and “Prefer not to say” responses are excluded
-    from survey charts'
+  figure_caption: 'Notes: “Not applicable” and “Prefer not to say” responses are excluded.
+    “Geographical focus” refers to the region in which grantees work. Participants
+    with a “global” focus have work that cuts across multiple regions, or work that
+    takes a global view.'
   figure_alt: Figure 8 is a donut chart illustrating the number and percent of participants
     based on the geographical focus of their work.
 - sys:
