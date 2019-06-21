@@ -3,9 +3,9 @@ index:
 - sys:
     id: 37stCeFxGeqoRZQaUKmOvd
     created_at: !ruby/object:DateTime 2019-05-02 23:27:13.174000000 Z
-    updated_at: !ruby/object:DateTime 2019-06-16 18:00:34.561000000 Z
+    updated_at: !ruby/object:DateTime 2019-06-20 14:51:27.213000000 Z
     content_type_id: index
-    revision: 6
+    revision: 9
   page_title: Index
   report_title: On Trust & Transparency
   report_subtitle: Perspectives from Luminate's portfolio
@@ -21,14 +21,17 @@ index:
     Trust & Power, Funder Identity & Culture, and Assessing Impact. Each insight has
     been associated with one or more of the themes to provide an organizing framework
     for these interdependent concepts.'
-  findings_copy: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-    culpa qui officia deserunt mollit anim id est laborum.
-  simsec_footer: 'Simply Secure is a non-profit building a community of practitioners
-    that puts people at the center of privacy, security, and transparency. '
+  findings_copy: Explore the nine key insights that emerged from the interviews and
+    survey around the grantee experience. With each insight are anonymized quotes
+    from the interviews, a description, related recommendations and any relevant resources
+    related to the methodology and the insight or recommendations themselves.
+  recommendations_copy: From the nine insights stem thirty-three recommendations.
+    Recommendations have been mapped to resources, insights and themes and include
+    any relevant resources related to the methodology and the insight or recommendations
+    themselves.
+  simsec_footer: "Simply Secure is a non-profit building a community of practitioners
+    that puts people at the center of privacy, security, and transparency. \n\n[Follow
+    Simply Secure on Twitter](https://twitter.com/simplysecureorg)\n\n[contact@simplysecure.org](mailto:contact@simplysecure.org)"
   simsec_logo:
     sys:
       id: 7xku46Av2bRp4URFz3l19j
@@ -37,9 +40,9 @@ index:
     title: simsec-logo
     description: 
     url: "//images.ctfassets.net/h8kgu1arvxtu/7xku46Av2bRp4URFz3l19j/c5f8e07675ba2785face65e25fef5c11/simsec-logo.svg"
-  luminate_footer: 'Luminate is a global philanthropic organization with the goal
+  luminate_footer: "Luminate is a global philanthropic organization with the goal
     of empowering people and institutions to work together to build just and fair
-    societies. '
+    societies. \n\n[Follow Luminate on Twitter](https://twitter.com/luminategroup)\n\n[hello@luminategroup.com](mailto:@hello@luminategroup.com)"
   luminate_logo:
     sys:
       id: 3fexX1zyNZHvMatfmJBi9I

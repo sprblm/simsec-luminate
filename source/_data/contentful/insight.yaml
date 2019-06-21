@@ -3,9 +3,9 @@ insight:
 - sys:
     id: 5K90Xztqn08a6GbFj3ep4w
     created_at: !ruby/object:DateTime 2019-05-02 23:35:43.855000000 Z
-    updated_at: !ruby/object:DateTime 2019-06-07 15:28:20.752000000 Z
+    updated_at: !ruby/object:DateTime 2019-06-20 22:20:08.788000000 Z
     content_type_id: insight
-    revision: 6
+    revision: 7
   page_title: Deep, Trusting Relationships
   insight_short: Deep, Trusting Relationships
   insight_title: Grantees value deep and trusting relationships with funders, grounded
@@ -148,14 +148,15 @@ insight:
   - sys:
       id: 3FQVA12oDvZRa7iUrTJaas
       created_at: !ruby/object:DateTime 2019-05-03 03:27:31.982000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-06 11:35:53.294000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-20 22:20:09.851000000 Z
       content_type_id: resource
-      revision: 3
+      revision: 4
     resource_title: Survey Guide
-    resource_description: The survey guide used for the Partner Perspectives project.
-      This was hosted in LimeSurvey an open-source survey tool that can be self-hosted
-      or hosted via Limesurvey's website.
-    resource_url: https://www.limesurvey.org
+    resource_description: |-
+      The survey guide used for the Partner Perspectives project. This was hosted in LimeSurvey an open-source survey tool that can be self-hosted or hosted via Limesurvey's website.
+
+      Source: Simply Secure
+    resource_url: https://simplysecure.org/resources/ott/OTT-SurveyGuide-AppendixB.pdf
     resource_type: Report
     insight_tag:
     - Deep, trusting relationships
@@ -168,19 +169,49 @@ insight:
     - Diversity, equity, and inclusion
     - Funder roles
     recommendation_tag:
-    - Recommendation tag
-    - Recommendation tag2
-    - Recommendation tag3
+    - Acknowledge Your Power
+    - Align Metrics with Existing MEL Frameworks
+    - Alternative Funding Models
+    - Alternative Models of Portfolio Support
+    - Alternative Portfolio Support Availability
+    - Be Explicit About Roles
+    - Be Explicit About the Role DEI Plays
+    - Be Respectful Towards Existing Networks
+    - Clarify Grantee Expectations
+    - Clarify the Funding Process
+    - Clarify Roles and Responsibilities
+    - Clear, Collaborative Outputs
+    - Clearly Communicate your Identity
+    - Core Funding and Flexibility
+    - Create Processes for Feedback on Metrics
+    - Develop Transition Strategies
+    - Diversify Your Network
+    - End of Relationship Feedback
+    - Grant Reporting Guidance
+    - Integrate Reporting with Workflow
+    - Invest in Organizational Health
+    - Invite Proposed Metrics
+    - Iterative Feedback and Learning with Grantees
+    - Offer Genuine Space for Dialogue
+    - Portfolio Support Autonomy
+    - Provide Timely Feedback
+    - Strategic and Financial Planning Support Post-Funding
+    - Strategic Priorities
+    - Support Professional Development
+    - Sync Impact Measurement and Reporting
+    - Time to Develop Impact Measurement Framework
+    - Transparency and Honesty in Communications with Grantees
+    - Understanding and Communicating Power Systems
   - sys:
       id: Aqrq7NXOreu5GwPYj5J7J
       created_at: !ruby/object:DateTime 2019-05-03 03:27:57.616000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-05 04:41:06.221000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-20 22:20:09.744000000 Z
       content_type_id: resource
-      revision: 2
+      revision: 3
     resource_title: Interview Guide
-    resource_description: 'The interview guide used for the grantee interviews during
-      the Partner Perspectives project. '
-    resource_url: https://www.example.com/
+    resource_description: "The interview guide used for the participant interviews
+      during the Partner Perspectives project. \n\nSource: Simply Secure"
+    resource_url: https://simplysecure.org/resources/ott/OTT-InterviewGuide-AppendixA.pdf
     resource_type: Report
     insight_tag:
     - Deep, trusting relationships
@@ -193,18 +224,48 @@ insight:
     - Diversity, equity, and inclusion
     - Funder roles
     recommendation_tag:
-    - Recommendation tag
-    - Recommendation tag2
-    - Recommendation tag3
+    - Acknowledge Your Power
+    - Align Metrics with Existing MEL Frameworks
+    - Alternative Funding Models
+    - Alternative Models of Portfolio Support
+    - Alternative Portfolio Support Availability
+    - Be Explicit About Roles
+    - Be Explicit About the Role DEI Plays
+    - Be Respectful Towards Existing Networks
+    - Clarify Grantee Expectations
+    - Clarify the Funding Process
+    - Clarify Roles and Responsibilities
+    - Clear, Collaborative Outputs
+    - Clearly Communicate your Identity
+    - Core Funding and Flexibility
+    - Create Processes for Feedback on Metrics
+    - Develop Transition Strategies
+    - Diversify Your Network
+    - End of Relationship Feedback
+    - Grant Reporting Guidance
+    - Integrate Reporting with Workflow
+    - Invest in Organizational Health
+    - Invite Proposed Metrics
+    - Iterative Feedback and Learning with Grantees
+    - Offer Genuine Space for Dialogue
+    - Portfolio Support Autonomy
+    - Provide Timely Feedback
+    - Strategic and Financial Planning Support Post-Funding
+    - Strategic Priorities
+    - Support Professional Development
+    - Sync Impact Measurement and Reporting
+    - Time to Develop Impact Measurement Framework
+    - Transparency and Honesty in Communications with Grantees
+    - Understanding and Communicating Power Systems
   - sys:
       id: 648LvvJeMpyWszz9HUvRGp
       created_at: !ruby/object:DateTime 2019-05-03 03:28:11.508000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-05 04:41:06.221000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-20 22:20:09.745000000 Z
       content_type_id: resource
-      revision: 2
-    resource_title: Partner Perspectives Report
+      revision: 3
+    resource_title: On Trust and Transparency Full Report
     resource_description: Download the full report.
-    resource_url: https://www.example.com/
+    resource_url: https://ontrustandtransparency.report
     resource_type: Report
     insight_tag:
     - Deep, trusting relationships
@@ -217,9 +278,203 @@ insight:
     - Diversity, equity, and inclusion
     - Funder roles
     recommendation_tag:
-    - Recommendation tag
-    - Recommendation tag2
-    - Recommendation tag3
+    - Acknowledge Your Power
+    - Align Metrics with Existing MEL Frameworks
+    - Alternative Funding Models
+    - Alternative Models of Portfolio Support
+    - Alternative Portfolio Support Availability
+    - Be Explicit About Roles
+    - Be Explicit About the Role DEI Plays
+    - Be Respectful Towards Existing Networks
+    - Clarify Grantee Expectations
+    - Clarify the Funding Process
+    - Clarify Roles and Responsibilities
+    - Clear, Collaborative Outputs
+    - Clearly Communicate your Identity
+    - Core Funding and Flexibility
+    - Create Processes for Feedback on Metrics
+    - Develop Transition Strategies
+    - Diversify Your Network
+    - End of Relationship Feedback
+    - Grant Reporting Guidance
+    - Integrate Reporting with Workflow
+    - Invest in Organizational Health
+    - Invite Proposed Metrics
+    - Iterative Feedback and Learning with Grantees
+    - Offer Genuine Space for Dialogue
+    - Portfolio Support Autonomy
+    - Provide Timely Feedback
+    - Strategic and Financial Planning Support Post-Funding
+    - Strategic Priorities
+    - Support Professional Development
+    - Sync Impact Measurement and Reporting
+    - Time to Develop Impact Measurement Framework
+    - Transparency and Honesty in Communications with Grantees
+    - Understanding and Communicating Power Systems
+  - sys:
+      id: Aqrq7NXOreu5GwPYj5J7J
+      created_at: !ruby/object:DateTime 2019-05-03 03:27:57.616000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-20 22:20:09.744000000 Z
+      content_type_id: resource
+      revision: 3
+    resource_title: Interview Guide
+    resource_description: "The interview guide used for the participant interviews
+      during the Partner Perspectives project. \n\nSource: Simply Secure"
+    resource_url: https://simplysecure.org/resources/ott/OTT-InterviewGuide-AppendixA.pdf
+    resource_type: Report
+    insight_tag:
+    - Deep, trusting relationships
+    - Structure and clarity
+    - Multi-year flexible funding
+    - Reporting and metrics
+    - Non-financial support
+    - Power dynamics
+    - Funder reputation
+    - Diversity, equity, and inclusion
+    - Funder roles
+    recommendation_tag:
+    - Acknowledge Your Power
+    - Align Metrics with Existing MEL Frameworks
+    - Alternative Funding Models
+    - Alternative Models of Portfolio Support
+    - Alternative Portfolio Support Availability
+    - Be Explicit About Roles
+    - Be Explicit About the Role DEI Plays
+    - Be Respectful Towards Existing Networks
+    - Clarify Grantee Expectations
+    - Clarify the Funding Process
+    - Clarify Roles and Responsibilities
+    - Clear, Collaborative Outputs
+    - Clearly Communicate your Identity
+    - Core Funding and Flexibility
+    - Create Processes for Feedback on Metrics
+    - Develop Transition Strategies
+    - Diversify Your Network
+    - End of Relationship Feedback
+    - Grant Reporting Guidance
+    - Integrate Reporting with Workflow
+    - Invest in Organizational Health
+    - Invite Proposed Metrics
+    - Iterative Feedback and Learning with Grantees
+    - Offer Genuine Space for Dialogue
+    - Portfolio Support Autonomy
+    - Provide Timely Feedback
+    - Strategic and Financial Planning Support Post-Funding
+    - Strategic Priorities
+    - Support Professional Development
+    - Sync Impact Measurement and Reporting
+    - Time to Develop Impact Measurement Framework
+    - Transparency and Honesty in Communications with Grantees
+    - Understanding and Communicating Power Systems
+  - sys:
+      id: 3FQVA12oDvZRa7iUrTJaas
+      created_at: !ruby/object:DateTime 2019-05-03 03:27:31.982000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-20 22:20:09.851000000 Z
+      content_type_id: resource
+      revision: 4
+    resource_title: Survey Guide
+    resource_description: |-
+      The survey guide used for the Partner Perspectives project. This was hosted in LimeSurvey an open-source survey tool that can be self-hosted or hosted via Limesurvey's website.
+
+      Source: Simply Secure
+    resource_url: https://simplysecure.org/resources/ott/OTT-SurveyGuide-AppendixB.pdf
+    resource_type: Report
+    insight_tag:
+    - Deep, trusting relationships
+    - Structure and clarity
+    - Multi-year flexible funding
+    - Reporting and metrics
+    - Non-financial support
+    - Power dynamics
+    - Funder reputation
+    - Diversity, equity, and inclusion
+    - Funder roles
+    recommendation_tag:
+    - Acknowledge Your Power
+    - Align Metrics with Existing MEL Frameworks
+    - Alternative Funding Models
+    - Alternative Models of Portfolio Support
+    - Alternative Portfolio Support Availability
+    - Be Explicit About Roles
+    - Be Explicit About the Role DEI Plays
+    - Be Respectful Towards Existing Networks
+    - Clarify Grantee Expectations
+    - Clarify the Funding Process
+    - Clarify Roles and Responsibilities
+    - Clear, Collaborative Outputs
+    - Clearly Communicate your Identity
+    - Core Funding and Flexibility
+    - Create Processes for Feedback on Metrics
+    - Develop Transition Strategies
+    - Diversify Your Network
+    - End of Relationship Feedback
+    - Grant Reporting Guidance
+    - Integrate Reporting with Workflow
+    - Invest in Organizational Health
+    - Invite Proposed Metrics
+    - Iterative Feedback and Learning with Grantees
+    - Offer Genuine Space for Dialogue
+    - Portfolio Support Autonomy
+    - Provide Timely Feedback
+    - Strategic and Financial Planning Support Post-Funding
+    - Strategic Priorities
+    - Support Professional Development
+    - Sync Impact Measurement and Reporting
+    - Time to Develop Impact Measurement Framework
+    - Transparency and Honesty in Communications with Grantees
+    - Understanding and Communicating Power Systems
+  - sys:
+      id: 3CCx75O0FW2wxvEwZEg11q
+      created_at: !ruby/object:DateTime 2019-06-20 22:20:26.605000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-20 22:20:26.605000000 Z
+      content_type_id: resource
+      revision: 1
+    resource_title: Workshop Guide
+    resource_type: Article
+    insight_tag:
+    - Deep, trusting relationships
+    - Structure and clarity
+    - Multi-year flexible funding
+    - Reporting and metrics
+    - Non-financial support
+    - Power dynamics
+    - Funder reputation
+    - Diversity, equity, and inclusion
+    - Funder roles
+    recommendation_tag:
+    - Acknowledge Your Power
+    - Align Metrics with Existing MEL Frameworks
+    - Alternative Funding Models
+    - Alternative Models of Portfolio Support
+    - Alternative Portfolio Support Availability
+    - Be Explicit About Roles
+    - Be Explicit About the Role DEI Plays
+    - Be Respectful Towards Existing Networks
+    - Clarify Grantee Expectations
+    - Clarify the Funding Process
+    - Clarify Roles and Responsibilities
+    - Clear, Collaborative Outputs
+    - Clearly Communicate your Identity
+    - Core Funding and Flexibility
+    - Create Processes for Feedback on Metrics
+    - Develop Transition Strategies
+    - Diversify Your Network
+    - End of Relationship Feedback
+    - Grant Reporting Guidance
+    - Integrate Reporting with Workflow
+    - Invest in Organizational Health
+    - Invite Proposed Metrics
+    - Iterative Feedback and Learning with Grantees
+    - Offer Genuine Space for Dialogue
+    - Portfolio Support Autonomy
+    - Provide Timely Feedback
+    - Strategic and Financial Planning Support Post-Funding
+    - Strategic Priorities
+    - Support Professional Development
+    - Sync Impact Measurement and Reporting
+    - Time to Develop Impact Measurement Framework
+    - Transparency and Honesty in Communications with Grantees
+    - Understanding and Communicating Power Systems
   related_quotes:
   - sys:
       id: kvAzPII7XhsVREPsfqHyU
@@ -290,9 +545,9 @@ insight:
 - sys:
     id: jyKMbw9LvNhaGzth0U8Dw
     created_at: !ruby/object:DateTime 2019-05-06 20:32:40.508000000 Z
-    updated_at: !ruby/object:DateTime 2019-06-07 15:30:10.390000000 Z
+    updated_at: !ruby/object:DateTime 2019-06-20 22:20:09.030000000 Z
     content_type_id: insight
-    revision: 2
+    revision: 3
   page_title: Structure and Clarity
   insight_short: Structure and Clarity
   insight_title: Grantees crave structure and clarity with regards to 1) the funding
@@ -441,16 +696,16 @@ insight:
   - sys:
       id: 64aVefaJYpSHSj8GnNRqZj
       created_at: !ruby/object:DateTime 2019-05-06 19:48:06.481000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-15 22:58:56.676000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-20 21:22:33.341000000 Z
       content_type_id: recommendation
-      revision: 4
+      revision: 5
     page_title: Alternative Portfolio Support Availability
     recommendation: Clarify what alternative types of __portfolio support__ are available
       to grantees, why it is being offered, and particularly how this support is intended
       to help achieve the organization's goals.
     recommendation_short: Alternative Portfolio Support Availability
     insight_tag:
-    - Non-financial support
+    - Portfolio support
     theme_tag:
     - Funding Approach & Process
   - sys:
@@ -473,9 +728,9 @@ insight:
   - sys:
       id: 7DXzHNGSjjLIrrauaEX6xo
       created_at: !ruby/object:DateTime 2019-05-06 20:04:54.233000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-15 22:58:53.937000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-20 21:23:03.170000000 Z
       content_type_id: recommendation
-      revision: 2
+      revision: 3
     page_title: Transparency and Honesty in Communications with Grantees
     recommendation: Look for opportunities to __model transparency and honesty__ in
       communications with grantees. Greater transparency from funders around their
@@ -486,8 +741,8 @@ insight:
     insight_tag:
     - Deep, trusting relationships
     - Structure and clarity
-    - Non-financial support
     - Power dynamics
+    - Portfolio support
     theme_tag:
     - Funding Approach & Process
     - Trust & Power
@@ -525,16 +780,14 @@ insight:
     - Funding Approach & Process
   related_resources:
   - sys:
-      id: 3FQVA12oDvZRa7iUrTJaas
-      created_at: !ruby/object:DateTime 2019-05-03 03:27:31.982000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-06 11:35:53.294000000 Z
+      id: 648LvvJeMpyWszz9HUvRGp
+      created_at: !ruby/object:DateTime 2019-05-03 03:28:11.508000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-20 22:20:09.745000000 Z
       content_type_id: resource
       revision: 3
-    resource_title: Survey Guide
-    resource_description: The survey guide used for the Partner Perspectives project.
-      This was hosted in LimeSurvey an open-source survey tool that can be self-hosted
-      or hosted via Limesurvey's website.
-    resource_url: https://www.limesurvey.org
+    resource_title: On Trust and Transparency Full Report
+    resource_description: Download the full report.
+    resource_url: https://ontrustandtransparency.report
     resource_type: Report
     insight_tag:
     - Deep, trusting relationships
@@ -547,19 +800,106 @@ insight:
     - Diversity, equity, and inclusion
     - Funder roles
     recommendation_tag:
-    - Recommendation tag
-    - Recommendation tag2
-    - Recommendation tag3
+    - Acknowledge Your Power
+    - Align Metrics with Existing MEL Frameworks
+    - Alternative Funding Models
+    - Alternative Models of Portfolio Support
+    - Alternative Portfolio Support Availability
+    - Be Explicit About Roles
+    - Be Explicit About the Role DEI Plays
+    - Be Respectful Towards Existing Networks
+    - Clarify Grantee Expectations
+    - Clarify the Funding Process
+    - Clarify Roles and Responsibilities
+    - Clear, Collaborative Outputs
+    - Clearly Communicate your Identity
+    - Core Funding and Flexibility
+    - Create Processes for Feedback on Metrics
+    - Develop Transition Strategies
+    - Diversify Your Network
+    - End of Relationship Feedback
+    - Grant Reporting Guidance
+    - Integrate Reporting with Workflow
+    - Invest in Organizational Health
+    - Invite Proposed Metrics
+    - Iterative Feedback and Learning with Grantees
+    - Offer Genuine Space for Dialogue
+    - Portfolio Support Autonomy
+    - Provide Timely Feedback
+    - Strategic and Financial Planning Support Post-Funding
+    - Strategic Priorities
+    - Support Professional Development
+    - Sync Impact Measurement and Reporting
+    - Time to Develop Impact Measurement Framework
+    - Transparency and Honesty in Communications with Grantees
+    - Understanding and Communicating Power Systems
+  - sys:
+      id: 3FQVA12oDvZRa7iUrTJaas
+      created_at: !ruby/object:DateTime 2019-05-03 03:27:31.982000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-20 22:20:09.851000000 Z
+      content_type_id: resource
+      revision: 4
+    resource_title: Survey Guide
+    resource_description: |-
+      The survey guide used for the Partner Perspectives project. This was hosted in LimeSurvey an open-source survey tool that can be self-hosted or hosted via Limesurvey's website.
+
+      Source: Simply Secure
+    resource_url: https://simplysecure.org/resources/ott/OTT-SurveyGuide-AppendixB.pdf
+    resource_type: Report
+    insight_tag:
+    - Deep, trusting relationships
+    - Structure and clarity
+    - Multi-year flexible funding
+    - Reporting and metrics
+    - Non-financial support
+    - Power dynamics
+    - Funder reputation
+    - Diversity, equity, and inclusion
+    - Funder roles
+    recommendation_tag:
+    - Acknowledge Your Power
+    - Align Metrics with Existing MEL Frameworks
+    - Alternative Funding Models
+    - Alternative Models of Portfolio Support
+    - Alternative Portfolio Support Availability
+    - Be Explicit About Roles
+    - Be Explicit About the Role DEI Plays
+    - Be Respectful Towards Existing Networks
+    - Clarify Grantee Expectations
+    - Clarify the Funding Process
+    - Clarify Roles and Responsibilities
+    - Clear, Collaborative Outputs
+    - Clearly Communicate your Identity
+    - Core Funding and Flexibility
+    - Create Processes for Feedback on Metrics
+    - Develop Transition Strategies
+    - Diversify Your Network
+    - End of Relationship Feedback
+    - Grant Reporting Guidance
+    - Integrate Reporting with Workflow
+    - Invest in Organizational Health
+    - Invite Proposed Metrics
+    - Iterative Feedback and Learning with Grantees
+    - Offer Genuine Space for Dialogue
+    - Portfolio Support Autonomy
+    - Provide Timely Feedback
+    - Strategic and Financial Planning Support Post-Funding
+    - Strategic Priorities
+    - Support Professional Development
+    - Sync Impact Measurement and Reporting
+    - Time to Develop Impact Measurement Framework
+    - Transparency and Honesty in Communications with Grantees
+    - Understanding and Communicating Power Systems
   - sys:
       id: Aqrq7NXOreu5GwPYj5J7J
       created_at: !ruby/object:DateTime 2019-05-03 03:27:57.616000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-05 04:41:06.221000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-20 22:20:09.744000000 Z
       content_type_id: resource
-      revision: 2
+      revision: 3
     resource_title: Interview Guide
-    resource_description: 'The interview guide used for the grantee interviews during
-      the Partner Perspectives project. '
-    resource_url: https://www.example.com/
+    resource_description: "The interview guide used for the participant interviews
+      during the Partner Perspectives project. \n\nSource: Simply Secure"
+    resource_url: https://simplysecure.org/resources/ott/OTT-InterviewGuide-AppendixA.pdf
     resource_type: Report
     insight_tag:
     - Deep, trusting relationships
@@ -572,19 +912,47 @@ insight:
     - Diversity, equity, and inclusion
     - Funder roles
     recommendation_tag:
-    - Recommendation tag
-    - Recommendation tag2
-    - Recommendation tag3
+    - Acknowledge Your Power
+    - Align Metrics with Existing MEL Frameworks
+    - Alternative Funding Models
+    - Alternative Models of Portfolio Support
+    - Alternative Portfolio Support Availability
+    - Be Explicit About Roles
+    - Be Explicit About the Role DEI Plays
+    - Be Respectful Towards Existing Networks
+    - Clarify Grantee Expectations
+    - Clarify the Funding Process
+    - Clarify Roles and Responsibilities
+    - Clear, Collaborative Outputs
+    - Clearly Communicate your Identity
+    - Core Funding and Flexibility
+    - Create Processes for Feedback on Metrics
+    - Develop Transition Strategies
+    - Diversify Your Network
+    - End of Relationship Feedback
+    - Grant Reporting Guidance
+    - Integrate Reporting with Workflow
+    - Invest in Organizational Health
+    - Invite Proposed Metrics
+    - Iterative Feedback and Learning with Grantees
+    - Offer Genuine Space for Dialogue
+    - Portfolio Support Autonomy
+    - Provide Timely Feedback
+    - Strategic and Financial Planning Support Post-Funding
+    - Strategic Priorities
+    - Support Professional Development
+    - Sync Impact Measurement and Reporting
+    - Time to Develop Impact Measurement Framework
+    - Transparency and Honesty in Communications with Grantees
+    - Understanding and Communicating Power Systems
   - sys:
-      id: 648LvvJeMpyWszz9HUvRGp
-      created_at: !ruby/object:DateTime 2019-05-03 03:28:11.508000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-05 04:41:06.221000000 Z
+      id: 3CCx75O0FW2wxvEwZEg11q
+      created_at: !ruby/object:DateTime 2019-06-20 22:20:26.605000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-20 22:20:26.605000000 Z
       content_type_id: resource
-      revision: 2
-    resource_title: Partner Perspectives Report
-    resource_description: Download the full report.
-    resource_url: https://www.example.com/
-    resource_type: Report
+      revision: 1
+    resource_title: Workshop Guide
+    resource_type: Article
     insight_tag:
     - Deep, trusting relationships
     - Structure and clarity
@@ -596,9 +964,39 @@ insight:
     - Diversity, equity, and inclusion
     - Funder roles
     recommendation_tag:
-    - Recommendation tag
-    - Recommendation tag2
-    - Recommendation tag3
+    - Acknowledge Your Power
+    - Align Metrics with Existing MEL Frameworks
+    - Alternative Funding Models
+    - Alternative Models of Portfolio Support
+    - Alternative Portfolio Support Availability
+    - Be Explicit About Roles
+    - Be Explicit About the Role DEI Plays
+    - Be Respectful Towards Existing Networks
+    - Clarify Grantee Expectations
+    - Clarify the Funding Process
+    - Clarify Roles and Responsibilities
+    - Clear, Collaborative Outputs
+    - Clearly Communicate your Identity
+    - Core Funding and Flexibility
+    - Create Processes for Feedback on Metrics
+    - Develop Transition Strategies
+    - Diversify Your Network
+    - End of Relationship Feedback
+    - Grant Reporting Guidance
+    - Integrate Reporting with Workflow
+    - Invest in Organizational Health
+    - Invite Proposed Metrics
+    - Iterative Feedback and Learning with Grantees
+    - Offer Genuine Space for Dialogue
+    - Portfolio Support Autonomy
+    - Provide Timely Feedback
+    - Strategic and Financial Planning Support Post-Funding
+    - Strategic Priorities
+    - Support Professional Development
+    - Sync Impact Measurement and Reporting
+    - Time to Develop Impact Measurement Framework
+    - Transparency and Honesty in Communications with Grantees
+    - Understanding and Communicating Power Systems
   related_quotes:
   - sys:
       id: 4ynm2yzOsV7LloWEHXkrPx
@@ -680,9 +1078,9 @@ insight:
 - sys:
     id: 3iOxgGnCFSOPnKE3re9mfA
     created_at: !ruby/object:DateTime 2019-05-22 00:18:59.931000000 Z
-    updated_at: !ruby/object:DateTime 2019-06-07 15:29:50.747000000 Z
+    updated_at: !ruby/object:DateTime 2019-06-20 22:20:09.100000000 Z
     content_type_id: insight
-    revision: 2
+    revision: 3
   page_title: Multi-year Flexible Funding
   insight_short: Multi-year Flexible Funding
   insight_title: Multi-year flexible funding is extremely valued.
@@ -753,6 +1151,225 @@ insight:
     - Multi-year flexible funding
     theme_tag:
     - Funding Approach & Process
+  related_resources:
+  - sys:
+      id: 648LvvJeMpyWszz9HUvRGp
+      created_at: !ruby/object:DateTime 2019-05-03 03:28:11.508000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-20 22:20:09.745000000 Z
+      content_type_id: resource
+      revision: 3
+    resource_title: On Trust and Transparency Full Report
+    resource_description: Download the full report.
+    resource_url: https://ontrustandtransparency.report
+    resource_type: Report
+    insight_tag:
+    - Deep, trusting relationships
+    - Structure and clarity
+    - Multi-year flexible funding
+    - Reporting and metrics
+    - Non-financial support
+    - Power dynamics
+    - Funder reputation
+    - Diversity, equity, and inclusion
+    - Funder roles
+    recommendation_tag:
+    - Acknowledge Your Power
+    - Align Metrics with Existing MEL Frameworks
+    - Alternative Funding Models
+    - Alternative Models of Portfolio Support
+    - Alternative Portfolio Support Availability
+    - Be Explicit About Roles
+    - Be Explicit About the Role DEI Plays
+    - Be Respectful Towards Existing Networks
+    - Clarify Grantee Expectations
+    - Clarify the Funding Process
+    - Clarify Roles and Responsibilities
+    - Clear, Collaborative Outputs
+    - Clearly Communicate your Identity
+    - Core Funding and Flexibility
+    - Create Processes for Feedback on Metrics
+    - Develop Transition Strategies
+    - Diversify Your Network
+    - End of Relationship Feedback
+    - Grant Reporting Guidance
+    - Integrate Reporting with Workflow
+    - Invest in Organizational Health
+    - Invite Proposed Metrics
+    - Iterative Feedback and Learning with Grantees
+    - Offer Genuine Space for Dialogue
+    - Portfolio Support Autonomy
+    - Provide Timely Feedback
+    - Strategic and Financial Planning Support Post-Funding
+    - Strategic Priorities
+    - Support Professional Development
+    - Sync Impact Measurement and Reporting
+    - Time to Develop Impact Measurement Framework
+    - Transparency and Honesty in Communications with Grantees
+    - Understanding and Communicating Power Systems
+  - sys:
+      id: Aqrq7NXOreu5GwPYj5J7J
+      created_at: !ruby/object:DateTime 2019-05-03 03:27:57.616000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-20 22:20:09.744000000 Z
+      content_type_id: resource
+      revision: 3
+    resource_title: Interview Guide
+    resource_description: "The interview guide used for the participant interviews
+      during the Partner Perspectives project. \n\nSource: Simply Secure"
+    resource_url: https://simplysecure.org/resources/ott/OTT-InterviewGuide-AppendixA.pdf
+    resource_type: Report
+    insight_tag:
+    - Deep, trusting relationships
+    - Structure and clarity
+    - Multi-year flexible funding
+    - Reporting and metrics
+    - Non-financial support
+    - Power dynamics
+    - Funder reputation
+    - Diversity, equity, and inclusion
+    - Funder roles
+    recommendation_tag:
+    - Acknowledge Your Power
+    - Align Metrics with Existing MEL Frameworks
+    - Alternative Funding Models
+    - Alternative Models of Portfolio Support
+    - Alternative Portfolio Support Availability
+    - Be Explicit About Roles
+    - Be Explicit About the Role DEI Plays
+    - Be Respectful Towards Existing Networks
+    - Clarify Grantee Expectations
+    - Clarify the Funding Process
+    - Clarify Roles and Responsibilities
+    - Clear, Collaborative Outputs
+    - Clearly Communicate your Identity
+    - Core Funding and Flexibility
+    - Create Processes for Feedback on Metrics
+    - Develop Transition Strategies
+    - Diversify Your Network
+    - End of Relationship Feedback
+    - Grant Reporting Guidance
+    - Integrate Reporting with Workflow
+    - Invest in Organizational Health
+    - Invite Proposed Metrics
+    - Iterative Feedback and Learning with Grantees
+    - Offer Genuine Space for Dialogue
+    - Portfolio Support Autonomy
+    - Provide Timely Feedback
+    - Strategic and Financial Planning Support Post-Funding
+    - Strategic Priorities
+    - Support Professional Development
+    - Sync Impact Measurement and Reporting
+    - Time to Develop Impact Measurement Framework
+    - Transparency and Honesty in Communications with Grantees
+    - Understanding and Communicating Power Systems
+  - sys:
+      id: 3FQVA12oDvZRa7iUrTJaas
+      created_at: !ruby/object:DateTime 2019-05-03 03:27:31.982000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-20 22:20:09.851000000 Z
+      content_type_id: resource
+      revision: 4
+    resource_title: Survey Guide
+    resource_description: |-
+      The survey guide used for the Partner Perspectives project. This was hosted in LimeSurvey an open-source survey tool that can be self-hosted or hosted via Limesurvey's website.
+
+      Source: Simply Secure
+    resource_url: https://simplysecure.org/resources/ott/OTT-SurveyGuide-AppendixB.pdf
+    resource_type: Report
+    insight_tag:
+    - Deep, trusting relationships
+    - Structure and clarity
+    - Multi-year flexible funding
+    - Reporting and metrics
+    - Non-financial support
+    - Power dynamics
+    - Funder reputation
+    - Diversity, equity, and inclusion
+    - Funder roles
+    recommendation_tag:
+    - Acknowledge Your Power
+    - Align Metrics with Existing MEL Frameworks
+    - Alternative Funding Models
+    - Alternative Models of Portfolio Support
+    - Alternative Portfolio Support Availability
+    - Be Explicit About Roles
+    - Be Explicit About the Role DEI Plays
+    - Be Respectful Towards Existing Networks
+    - Clarify Grantee Expectations
+    - Clarify the Funding Process
+    - Clarify Roles and Responsibilities
+    - Clear, Collaborative Outputs
+    - Clearly Communicate your Identity
+    - Core Funding and Flexibility
+    - Create Processes for Feedback on Metrics
+    - Develop Transition Strategies
+    - Diversify Your Network
+    - End of Relationship Feedback
+    - Grant Reporting Guidance
+    - Integrate Reporting with Workflow
+    - Invest in Organizational Health
+    - Invite Proposed Metrics
+    - Iterative Feedback and Learning with Grantees
+    - Offer Genuine Space for Dialogue
+    - Portfolio Support Autonomy
+    - Provide Timely Feedback
+    - Strategic and Financial Planning Support Post-Funding
+    - Strategic Priorities
+    - Support Professional Development
+    - Sync Impact Measurement and Reporting
+    - Time to Develop Impact Measurement Framework
+    - Transparency and Honesty in Communications with Grantees
+    - Understanding and Communicating Power Systems
+  - sys:
+      id: 3CCx75O0FW2wxvEwZEg11q
+      created_at: !ruby/object:DateTime 2019-06-20 22:20:26.605000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-20 22:20:26.605000000 Z
+      content_type_id: resource
+      revision: 1
+    resource_title: Workshop Guide
+    resource_type: Article
+    insight_tag:
+    - Deep, trusting relationships
+    - Structure and clarity
+    - Multi-year flexible funding
+    - Reporting and metrics
+    - Non-financial support
+    - Power dynamics
+    - Funder reputation
+    - Diversity, equity, and inclusion
+    - Funder roles
+    recommendation_tag:
+    - Acknowledge Your Power
+    - Align Metrics with Existing MEL Frameworks
+    - Alternative Funding Models
+    - Alternative Models of Portfolio Support
+    - Alternative Portfolio Support Availability
+    - Be Explicit About Roles
+    - Be Explicit About the Role DEI Plays
+    - Be Respectful Towards Existing Networks
+    - Clarify Grantee Expectations
+    - Clarify the Funding Process
+    - Clarify Roles and Responsibilities
+    - Clear, Collaborative Outputs
+    - Clearly Communicate your Identity
+    - Core Funding and Flexibility
+    - Create Processes for Feedback on Metrics
+    - Develop Transition Strategies
+    - Diversify Your Network
+    - End of Relationship Feedback
+    - Grant Reporting Guidance
+    - Integrate Reporting with Workflow
+    - Invest in Organizational Health
+    - Invite Proposed Metrics
+    - Iterative Feedback and Learning with Grantees
+    - Offer Genuine Space for Dialogue
+    - Portfolio Support Autonomy
+    - Provide Timely Feedback
+    - Strategic and Financial Planning Support Post-Funding
+    - Strategic Priorities
+    - Support Professional Development
+    - Sync Impact Measurement and Reporting
+    - Time to Develop Impact Measurement Framework
+    - Transparency and Honesty in Communications with Grantees
+    - Understanding and Communicating Power Systems
   related_quotes:
   - sys:
       id: 4Pa5ZE4CHk5AZgzXXFQh0u
@@ -779,9 +1396,9 @@ insight:
 - sys:
     id: 4zcMXjfMSLsPoJwQAEzWXZ
     created_at: !ruby/object:DateTime 2019-05-22 00:26:06.129000000 Z
-    updated_at: !ruby/object:DateTime 2019-06-07 15:30:36.091000000 Z
+    updated_at: !ruby/object:DateTime 2019-06-20 22:20:09.864000000 Z
     content_type_id: insight
-    revision: 3
+    revision: 4
   page_title: Reporting and Metrics
   insight_short: Reporting and Metrics
   insight_title: Reporting and metrics are not always perceived as useful and valuable
@@ -963,6 +1580,225 @@ insight:
     theme_tag:
     - Funding Approach & Process
     - Assessing Impact
+  related_resources:
+  - sys:
+      id: 648LvvJeMpyWszz9HUvRGp
+      created_at: !ruby/object:DateTime 2019-05-03 03:28:11.508000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-20 22:20:09.745000000 Z
+      content_type_id: resource
+      revision: 3
+    resource_title: On Trust and Transparency Full Report
+    resource_description: Download the full report.
+    resource_url: https://ontrustandtransparency.report
+    resource_type: Report
+    insight_tag:
+    - Deep, trusting relationships
+    - Structure and clarity
+    - Multi-year flexible funding
+    - Reporting and metrics
+    - Non-financial support
+    - Power dynamics
+    - Funder reputation
+    - Diversity, equity, and inclusion
+    - Funder roles
+    recommendation_tag:
+    - Acknowledge Your Power
+    - Align Metrics with Existing MEL Frameworks
+    - Alternative Funding Models
+    - Alternative Models of Portfolio Support
+    - Alternative Portfolio Support Availability
+    - Be Explicit About Roles
+    - Be Explicit About the Role DEI Plays
+    - Be Respectful Towards Existing Networks
+    - Clarify Grantee Expectations
+    - Clarify the Funding Process
+    - Clarify Roles and Responsibilities
+    - Clear, Collaborative Outputs
+    - Clearly Communicate your Identity
+    - Core Funding and Flexibility
+    - Create Processes for Feedback on Metrics
+    - Develop Transition Strategies
+    - Diversify Your Network
+    - End of Relationship Feedback
+    - Grant Reporting Guidance
+    - Integrate Reporting with Workflow
+    - Invest in Organizational Health
+    - Invite Proposed Metrics
+    - Iterative Feedback and Learning with Grantees
+    - Offer Genuine Space for Dialogue
+    - Portfolio Support Autonomy
+    - Provide Timely Feedback
+    - Strategic and Financial Planning Support Post-Funding
+    - Strategic Priorities
+    - Support Professional Development
+    - Sync Impact Measurement and Reporting
+    - Time to Develop Impact Measurement Framework
+    - Transparency and Honesty in Communications with Grantees
+    - Understanding and Communicating Power Systems
+  - sys:
+      id: Aqrq7NXOreu5GwPYj5J7J
+      created_at: !ruby/object:DateTime 2019-05-03 03:27:57.616000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-20 22:20:09.744000000 Z
+      content_type_id: resource
+      revision: 3
+    resource_title: Interview Guide
+    resource_description: "The interview guide used for the participant interviews
+      during the Partner Perspectives project. \n\nSource: Simply Secure"
+    resource_url: https://simplysecure.org/resources/ott/OTT-InterviewGuide-AppendixA.pdf
+    resource_type: Report
+    insight_tag:
+    - Deep, trusting relationships
+    - Structure and clarity
+    - Multi-year flexible funding
+    - Reporting and metrics
+    - Non-financial support
+    - Power dynamics
+    - Funder reputation
+    - Diversity, equity, and inclusion
+    - Funder roles
+    recommendation_tag:
+    - Acknowledge Your Power
+    - Align Metrics with Existing MEL Frameworks
+    - Alternative Funding Models
+    - Alternative Models of Portfolio Support
+    - Alternative Portfolio Support Availability
+    - Be Explicit About Roles
+    - Be Explicit About the Role DEI Plays
+    - Be Respectful Towards Existing Networks
+    - Clarify Grantee Expectations
+    - Clarify the Funding Process
+    - Clarify Roles and Responsibilities
+    - Clear, Collaborative Outputs
+    - Clearly Communicate your Identity
+    - Core Funding and Flexibility
+    - Create Processes for Feedback on Metrics
+    - Develop Transition Strategies
+    - Diversify Your Network
+    - End of Relationship Feedback
+    - Grant Reporting Guidance
+    - Integrate Reporting with Workflow
+    - Invest in Organizational Health
+    - Invite Proposed Metrics
+    - Iterative Feedback and Learning with Grantees
+    - Offer Genuine Space for Dialogue
+    - Portfolio Support Autonomy
+    - Provide Timely Feedback
+    - Strategic and Financial Planning Support Post-Funding
+    - Strategic Priorities
+    - Support Professional Development
+    - Sync Impact Measurement and Reporting
+    - Time to Develop Impact Measurement Framework
+    - Transparency and Honesty in Communications with Grantees
+    - Understanding and Communicating Power Systems
+  - sys:
+      id: 3FQVA12oDvZRa7iUrTJaas
+      created_at: !ruby/object:DateTime 2019-05-03 03:27:31.982000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-20 22:20:09.851000000 Z
+      content_type_id: resource
+      revision: 4
+    resource_title: Survey Guide
+    resource_description: |-
+      The survey guide used for the Partner Perspectives project. This was hosted in LimeSurvey an open-source survey tool that can be self-hosted or hosted via Limesurvey's website.
+
+      Source: Simply Secure
+    resource_url: https://simplysecure.org/resources/ott/OTT-SurveyGuide-AppendixB.pdf
+    resource_type: Report
+    insight_tag:
+    - Deep, trusting relationships
+    - Structure and clarity
+    - Multi-year flexible funding
+    - Reporting and metrics
+    - Non-financial support
+    - Power dynamics
+    - Funder reputation
+    - Diversity, equity, and inclusion
+    - Funder roles
+    recommendation_tag:
+    - Acknowledge Your Power
+    - Align Metrics with Existing MEL Frameworks
+    - Alternative Funding Models
+    - Alternative Models of Portfolio Support
+    - Alternative Portfolio Support Availability
+    - Be Explicit About Roles
+    - Be Explicit About the Role DEI Plays
+    - Be Respectful Towards Existing Networks
+    - Clarify Grantee Expectations
+    - Clarify the Funding Process
+    - Clarify Roles and Responsibilities
+    - Clear, Collaborative Outputs
+    - Clearly Communicate your Identity
+    - Core Funding and Flexibility
+    - Create Processes for Feedback on Metrics
+    - Develop Transition Strategies
+    - Diversify Your Network
+    - End of Relationship Feedback
+    - Grant Reporting Guidance
+    - Integrate Reporting with Workflow
+    - Invest in Organizational Health
+    - Invite Proposed Metrics
+    - Iterative Feedback and Learning with Grantees
+    - Offer Genuine Space for Dialogue
+    - Portfolio Support Autonomy
+    - Provide Timely Feedback
+    - Strategic and Financial Planning Support Post-Funding
+    - Strategic Priorities
+    - Support Professional Development
+    - Sync Impact Measurement and Reporting
+    - Time to Develop Impact Measurement Framework
+    - Transparency and Honesty in Communications with Grantees
+    - Understanding and Communicating Power Systems
+  - sys:
+      id: 3CCx75O0FW2wxvEwZEg11q
+      created_at: !ruby/object:DateTime 2019-06-20 22:20:26.605000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-20 22:20:26.605000000 Z
+      content_type_id: resource
+      revision: 1
+    resource_title: Workshop Guide
+    resource_type: Article
+    insight_tag:
+    - Deep, trusting relationships
+    - Structure and clarity
+    - Multi-year flexible funding
+    - Reporting and metrics
+    - Non-financial support
+    - Power dynamics
+    - Funder reputation
+    - Diversity, equity, and inclusion
+    - Funder roles
+    recommendation_tag:
+    - Acknowledge Your Power
+    - Align Metrics with Existing MEL Frameworks
+    - Alternative Funding Models
+    - Alternative Models of Portfolio Support
+    - Alternative Portfolio Support Availability
+    - Be Explicit About Roles
+    - Be Explicit About the Role DEI Plays
+    - Be Respectful Towards Existing Networks
+    - Clarify Grantee Expectations
+    - Clarify the Funding Process
+    - Clarify Roles and Responsibilities
+    - Clear, Collaborative Outputs
+    - Clearly Communicate your Identity
+    - Core Funding and Flexibility
+    - Create Processes for Feedback on Metrics
+    - Develop Transition Strategies
+    - Diversify Your Network
+    - End of Relationship Feedback
+    - Grant Reporting Guidance
+    - Integrate Reporting with Workflow
+    - Invest in Organizational Health
+    - Invite Proposed Metrics
+    - Iterative Feedback and Learning with Grantees
+    - Offer Genuine Space for Dialogue
+    - Portfolio Support Autonomy
+    - Provide Timely Feedback
+    - Strategic and Financial Planning Support Post-Funding
+    - Strategic Priorities
+    - Support Professional Development
+    - Sync Impact Measurement and Reporting
+    - Time to Develop Impact Measurement Framework
+    - Transparency and Honesty in Communications with Grantees
+    - Understanding and Communicating Power Systems
   related_quotes:
   - sys:
       id: Uxx50gbi4lNbCZDCatwS0
@@ -1008,9 +1844,9 @@ insight:
 - sys:
     id: 1mz5qNxgvkUfCHUN72zORV
     created_at: !ruby/object:DateTime 2019-05-22 00:35:36.623000000 Z
-    updated_at: !ruby/object:DateTime 2019-06-07 15:30:24.257000000 Z
+    updated_at: !ruby/object:DateTime 2019-06-20 22:20:09.755000000 Z
     content_type_id: insight
-    revision: 2
+    revision: 3
   page_title: Portfolio Support
   insight_short: Portfolio Support
   insight_title: Grantees are interested in, and looking for portfolio support, and
@@ -1059,24 +1895,24 @@ insight:
   - sys:
       id: 64aVefaJYpSHSj8GnNRqZj
       created_at: !ruby/object:DateTime 2019-05-06 19:48:06.481000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-15 22:58:56.676000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-20 21:22:33.341000000 Z
       content_type_id: recommendation
-      revision: 4
+      revision: 5
     page_title: Alternative Portfolio Support Availability
     recommendation: Clarify what alternative types of __portfolio support__ are available
       to grantees, why it is being offered, and particularly how this support is intended
       to help achieve the organization's goals.
     recommendation_short: Alternative Portfolio Support Availability
     insight_tag:
-    - Non-financial support
+    - Portfolio support
     theme_tag:
     - Funding Approach & Process
   - sys:
       id: 5hKYhindU3pFFpe3q13egX
       created_at: !ruby/object:DateTime 2019-05-06 19:53:13.347000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-15 22:58:56.083000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-20 21:22:48.416000000 Z
       content_type_id: recommendation
-      revision: 5
+      revision: 6
     page_title: Portfolio Support Autonomy
     recommendation: Give grantees more autonomy and choice when taking advantage of
       additional __portfolio support__ e.g., by giving them ownership over who to
@@ -1084,16 +1920,16 @@ insight:
       with the vendors.
     recommendation_short: Portfolio Support Autonomy
     insight_tag:
-    - Non-financial support
+    - Portfolio support
     theme_tag:
     - Funding Approach & Process
     - Trust & Power
   - sys:
       id: 7DXzHNGSjjLIrrauaEX6xo
       created_at: !ruby/object:DateTime 2019-05-06 20:04:54.233000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-15 22:58:53.937000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-20 21:23:03.170000000 Z
       content_type_id: recommendation
-      revision: 2
+      revision: 3
     page_title: Transparency and Honesty in Communications with Grantees
     recommendation: Look for opportunities to __model transparency and honesty__ in
       communications with grantees. Greater transparency from funders around their
@@ -1104,8 +1940,8 @@ insight:
     insight_tag:
     - Deep, trusting relationships
     - Structure and clarity
-    - Non-financial support
     - Power dynamics
+    - Portfolio support
     theme_tag:
     - Funding Approach & Process
     - Trust & Power
@@ -1113,9 +1949,9 @@ insight:
   - sys:
       id: 1xnQafkeYLOxaZrpKvWs0s
       created_at: !ruby/object:DateTime 2019-05-06 19:52:10.089000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-15 22:58:56.508000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-20 21:22:41.561000000 Z
       content_type_id: recommendation
-      revision: 3
+      revision: 4
     page_title: Alternative Models of Portfolio Support
     recommendation: 'Explore __alternative and more flexible models for portfolio
       support__, as opposed to taking board seats as a funder, e.g., create opportunities
@@ -1124,25 +1960,244 @@ insight:
       leaders of grantee organizations to pursue professional development. '
     recommendation_short: Alternative Models of Portfolio Support
     insight_tag:
-    - Non-financial support
+    - Portfolio support
     theme_tag:
     - Funding Approach & Process
     - Trust & Power
   - sys:
       id: F38G9F4X0cp3bRAxpm193
       created_at: !ruby/object:DateTime 2019-05-06 20:02:56.461000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-15 22:58:53.957000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-20 21:22:56.275000000 Z
       content_type_id: recommendation
-      revision: 2
+      revision: 3
     page_title: Strategic and Financial Planning Support Post-Funding
     recommendation: Consider providing __strategic and financial planning support__,
       particularly focused on the post-funding phase.
     recommendation_short: Strategic and Financial Planning Support Post-Funding
     insight_tag:
     - Structure and clarity
-    - Non-financial support
+    - Portfolio support
     theme_tag:
     - Funding Approach & Process
+  related_resources:
+  - sys:
+      id: 648LvvJeMpyWszz9HUvRGp
+      created_at: !ruby/object:DateTime 2019-05-03 03:28:11.508000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-20 22:20:09.745000000 Z
+      content_type_id: resource
+      revision: 3
+    resource_title: On Trust and Transparency Full Report
+    resource_description: Download the full report.
+    resource_url: https://ontrustandtransparency.report
+    resource_type: Report
+    insight_tag:
+    - Deep, trusting relationships
+    - Structure and clarity
+    - Multi-year flexible funding
+    - Reporting and metrics
+    - Non-financial support
+    - Power dynamics
+    - Funder reputation
+    - Diversity, equity, and inclusion
+    - Funder roles
+    recommendation_tag:
+    - Acknowledge Your Power
+    - Align Metrics with Existing MEL Frameworks
+    - Alternative Funding Models
+    - Alternative Models of Portfolio Support
+    - Alternative Portfolio Support Availability
+    - Be Explicit About Roles
+    - Be Explicit About the Role DEI Plays
+    - Be Respectful Towards Existing Networks
+    - Clarify Grantee Expectations
+    - Clarify the Funding Process
+    - Clarify Roles and Responsibilities
+    - Clear, Collaborative Outputs
+    - Clearly Communicate your Identity
+    - Core Funding and Flexibility
+    - Create Processes for Feedback on Metrics
+    - Develop Transition Strategies
+    - Diversify Your Network
+    - End of Relationship Feedback
+    - Grant Reporting Guidance
+    - Integrate Reporting with Workflow
+    - Invest in Organizational Health
+    - Invite Proposed Metrics
+    - Iterative Feedback and Learning with Grantees
+    - Offer Genuine Space for Dialogue
+    - Portfolio Support Autonomy
+    - Provide Timely Feedback
+    - Strategic and Financial Planning Support Post-Funding
+    - Strategic Priorities
+    - Support Professional Development
+    - Sync Impact Measurement and Reporting
+    - Time to Develop Impact Measurement Framework
+    - Transparency and Honesty in Communications with Grantees
+    - Understanding and Communicating Power Systems
+  - sys:
+      id: Aqrq7NXOreu5GwPYj5J7J
+      created_at: !ruby/object:DateTime 2019-05-03 03:27:57.616000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-20 22:20:09.744000000 Z
+      content_type_id: resource
+      revision: 3
+    resource_title: Interview Guide
+    resource_description: "The interview guide used for the participant interviews
+      during the Partner Perspectives project. \n\nSource: Simply Secure"
+    resource_url: https://simplysecure.org/resources/ott/OTT-InterviewGuide-AppendixA.pdf
+    resource_type: Report
+    insight_tag:
+    - Deep, trusting relationships
+    - Structure and clarity
+    - Multi-year flexible funding
+    - Reporting and metrics
+    - Non-financial support
+    - Power dynamics
+    - Funder reputation
+    - Diversity, equity, and inclusion
+    - Funder roles
+    recommendation_tag:
+    - Acknowledge Your Power
+    - Align Metrics with Existing MEL Frameworks
+    - Alternative Funding Models
+    - Alternative Models of Portfolio Support
+    - Alternative Portfolio Support Availability
+    - Be Explicit About Roles
+    - Be Explicit About the Role DEI Plays
+    - Be Respectful Towards Existing Networks
+    - Clarify Grantee Expectations
+    - Clarify the Funding Process
+    - Clarify Roles and Responsibilities
+    - Clear, Collaborative Outputs
+    - Clearly Communicate your Identity
+    - Core Funding and Flexibility
+    - Create Processes for Feedback on Metrics
+    - Develop Transition Strategies
+    - Diversify Your Network
+    - End of Relationship Feedback
+    - Grant Reporting Guidance
+    - Integrate Reporting with Workflow
+    - Invest in Organizational Health
+    - Invite Proposed Metrics
+    - Iterative Feedback and Learning with Grantees
+    - Offer Genuine Space for Dialogue
+    - Portfolio Support Autonomy
+    - Provide Timely Feedback
+    - Strategic and Financial Planning Support Post-Funding
+    - Strategic Priorities
+    - Support Professional Development
+    - Sync Impact Measurement and Reporting
+    - Time to Develop Impact Measurement Framework
+    - Transparency and Honesty in Communications with Grantees
+    - Understanding and Communicating Power Systems
+  - sys:
+      id: 3FQVA12oDvZRa7iUrTJaas
+      created_at: !ruby/object:DateTime 2019-05-03 03:27:31.982000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-20 22:20:09.851000000 Z
+      content_type_id: resource
+      revision: 4
+    resource_title: Survey Guide
+    resource_description: |-
+      The survey guide used for the Partner Perspectives project. This was hosted in LimeSurvey an open-source survey tool that can be self-hosted or hosted via Limesurvey's website.
+
+      Source: Simply Secure
+    resource_url: https://simplysecure.org/resources/ott/OTT-SurveyGuide-AppendixB.pdf
+    resource_type: Report
+    insight_tag:
+    - Deep, trusting relationships
+    - Structure and clarity
+    - Multi-year flexible funding
+    - Reporting and metrics
+    - Non-financial support
+    - Power dynamics
+    - Funder reputation
+    - Diversity, equity, and inclusion
+    - Funder roles
+    recommendation_tag:
+    - Acknowledge Your Power
+    - Align Metrics with Existing MEL Frameworks
+    - Alternative Funding Models
+    - Alternative Models of Portfolio Support
+    - Alternative Portfolio Support Availability
+    - Be Explicit About Roles
+    - Be Explicit About the Role DEI Plays
+    - Be Respectful Towards Existing Networks
+    - Clarify Grantee Expectations
+    - Clarify the Funding Process
+    - Clarify Roles and Responsibilities
+    - Clear, Collaborative Outputs
+    - Clearly Communicate your Identity
+    - Core Funding and Flexibility
+    - Create Processes for Feedback on Metrics
+    - Develop Transition Strategies
+    - Diversify Your Network
+    - End of Relationship Feedback
+    - Grant Reporting Guidance
+    - Integrate Reporting with Workflow
+    - Invest in Organizational Health
+    - Invite Proposed Metrics
+    - Iterative Feedback and Learning with Grantees
+    - Offer Genuine Space for Dialogue
+    - Portfolio Support Autonomy
+    - Provide Timely Feedback
+    - Strategic and Financial Planning Support Post-Funding
+    - Strategic Priorities
+    - Support Professional Development
+    - Sync Impact Measurement and Reporting
+    - Time to Develop Impact Measurement Framework
+    - Transparency and Honesty in Communications with Grantees
+    - Understanding and Communicating Power Systems
+  - sys:
+      id: 3CCx75O0FW2wxvEwZEg11q
+      created_at: !ruby/object:DateTime 2019-06-20 22:20:26.605000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-20 22:20:26.605000000 Z
+      content_type_id: resource
+      revision: 1
+    resource_title: Workshop Guide
+    resource_type: Article
+    insight_tag:
+    - Deep, trusting relationships
+    - Structure and clarity
+    - Multi-year flexible funding
+    - Reporting and metrics
+    - Non-financial support
+    - Power dynamics
+    - Funder reputation
+    - Diversity, equity, and inclusion
+    - Funder roles
+    recommendation_tag:
+    - Acknowledge Your Power
+    - Align Metrics with Existing MEL Frameworks
+    - Alternative Funding Models
+    - Alternative Models of Portfolio Support
+    - Alternative Portfolio Support Availability
+    - Be Explicit About Roles
+    - Be Explicit About the Role DEI Plays
+    - Be Respectful Towards Existing Networks
+    - Clarify Grantee Expectations
+    - Clarify the Funding Process
+    - Clarify Roles and Responsibilities
+    - Clear, Collaborative Outputs
+    - Clearly Communicate your Identity
+    - Core Funding and Flexibility
+    - Create Processes for Feedback on Metrics
+    - Develop Transition Strategies
+    - Diversify Your Network
+    - End of Relationship Feedback
+    - Grant Reporting Guidance
+    - Integrate Reporting with Workflow
+    - Invest in Organizational Health
+    - Invite Proposed Metrics
+    - Iterative Feedback and Learning with Grantees
+    - Offer Genuine Space for Dialogue
+    - Portfolio Support Autonomy
+    - Provide Timely Feedback
+    - Strategic and Financial Planning Support Post-Funding
+    - Strategic Priorities
+    - Support Professional Development
+    - Sync Impact Measurement and Reporting
+    - Time to Develop Impact Measurement Framework
+    - Transparency and Honesty in Communications with Grantees
+    - Understanding and Communicating Power Systems
   related_quotes:
   - sys:
       id: GDb4R70Pw45fl6owh7WhG
@@ -1194,9 +2249,9 @@ insight:
 - sys:
     id: 4xrmz2cDxqIf97YYfahCQU
     created_at: !ruby/object:DateTime 2019-05-22 00:41:30.693000000 Z
-    updated_at: !ruby/object:DateTime 2019-06-07 15:29:14.198000000 Z
+    updated_at: !ruby/object:DateTime 2019-06-20 22:20:08.794000000 Z
     content_type_id: insight
-    revision: 2
+    revision: 3
   page_title: Power Dynamics
   insight_short: Power Dynamics
   insight_title: Power dynamics, if not acknowledged, can affect the strength and
@@ -1306,9 +2361,9 @@ insight:
   - sys:
       id: 7DXzHNGSjjLIrrauaEX6xo
       created_at: !ruby/object:DateTime 2019-05-06 20:04:54.233000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-15 22:58:53.937000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-20 21:23:03.170000000 Z
       content_type_id: recommendation
-      revision: 2
+      revision: 3
     page_title: Transparency and Honesty in Communications with Grantees
     recommendation: Look for opportunities to __model transparency and honesty__ in
       communications with grantees. Greater transparency from funders around their
@@ -1319,8 +2374,8 @@ insight:
     insight_tag:
     - Deep, trusting relationships
     - Structure and clarity
-    - Non-financial support
     - Power dynamics
+    - Portfolio support
     theme_tag:
     - Funding Approach & Process
     - Trust & Power
@@ -1342,6 +2397,225 @@ insight:
     - Diversity, equity, and inclusion
     theme_tag:
     - Funding Approach & Process
+  related_resources:
+  - sys:
+      id: 648LvvJeMpyWszz9HUvRGp
+      created_at: !ruby/object:DateTime 2019-05-03 03:28:11.508000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-20 22:20:09.745000000 Z
+      content_type_id: resource
+      revision: 3
+    resource_title: On Trust and Transparency Full Report
+    resource_description: Download the full report.
+    resource_url: https://ontrustandtransparency.report
+    resource_type: Report
+    insight_tag:
+    - Deep, trusting relationships
+    - Structure and clarity
+    - Multi-year flexible funding
+    - Reporting and metrics
+    - Non-financial support
+    - Power dynamics
+    - Funder reputation
+    - Diversity, equity, and inclusion
+    - Funder roles
+    recommendation_tag:
+    - Acknowledge Your Power
+    - Align Metrics with Existing MEL Frameworks
+    - Alternative Funding Models
+    - Alternative Models of Portfolio Support
+    - Alternative Portfolio Support Availability
+    - Be Explicit About Roles
+    - Be Explicit About the Role DEI Plays
+    - Be Respectful Towards Existing Networks
+    - Clarify Grantee Expectations
+    - Clarify the Funding Process
+    - Clarify Roles and Responsibilities
+    - Clear, Collaborative Outputs
+    - Clearly Communicate your Identity
+    - Core Funding and Flexibility
+    - Create Processes for Feedback on Metrics
+    - Develop Transition Strategies
+    - Diversify Your Network
+    - End of Relationship Feedback
+    - Grant Reporting Guidance
+    - Integrate Reporting with Workflow
+    - Invest in Organizational Health
+    - Invite Proposed Metrics
+    - Iterative Feedback and Learning with Grantees
+    - Offer Genuine Space for Dialogue
+    - Portfolio Support Autonomy
+    - Provide Timely Feedback
+    - Strategic and Financial Planning Support Post-Funding
+    - Strategic Priorities
+    - Support Professional Development
+    - Sync Impact Measurement and Reporting
+    - Time to Develop Impact Measurement Framework
+    - Transparency and Honesty in Communications with Grantees
+    - Understanding and Communicating Power Systems
+  - sys:
+      id: Aqrq7NXOreu5GwPYj5J7J
+      created_at: !ruby/object:DateTime 2019-05-03 03:27:57.616000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-20 22:20:09.744000000 Z
+      content_type_id: resource
+      revision: 3
+    resource_title: Interview Guide
+    resource_description: "The interview guide used for the participant interviews
+      during the Partner Perspectives project. \n\nSource: Simply Secure"
+    resource_url: https://simplysecure.org/resources/ott/OTT-InterviewGuide-AppendixA.pdf
+    resource_type: Report
+    insight_tag:
+    - Deep, trusting relationships
+    - Structure and clarity
+    - Multi-year flexible funding
+    - Reporting and metrics
+    - Non-financial support
+    - Power dynamics
+    - Funder reputation
+    - Diversity, equity, and inclusion
+    - Funder roles
+    recommendation_tag:
+    - Acknowledge Your Power
+    - Align Metrics with Existing MEL Frameworks
+    - Alternative Funding Models
+    - Alternative Models of Portfolio Support
+    - Alternative Portfolio Support Availability
+    - Be Explicit About Roles
+    - Be Explicit About the Role DEI Plays
+    - Be Respectful Towards Existing Networks
+    - Clarify Grantee Expectations
+    - Clarify the Funding Process
+    - Clarify Roles and Responsibilities
+    - Clear, Collaborative Outputs
+    - Clearly Communicate your Identity
+    - Core Funding and Flexibility
+    - Create Processes for Feedback on Metrics
+    - Develop Transition Strategies
+    - Diversify Your Network
+    - End of Relationship Feedback
+    - Grant Reporting Guidance
+    - Integrate Reporting with Workflow
+    - Invest in Organizational Health
+    - Invite Proposed Metrics
+    - Iterative Feedback and Learning with Grantees
+    - Offer Genuine Space for Dialogue
+    - Portfolio Support Autonomy
+    - Provide Timely Feedback
+    - Strategic and Financial Planning Support Post-Funding
+    - Strategic Priorities
+    - Support Professional Development
+    - Sync Impact Measurement and Reporting
+    - Time to Develop Impact Measurement Framework
+    - Transparency and Honesty in Communications with Grantees
+    - Understanding and Communicating Power Systems
+  - sys:
+      id: 3FQVA12oDvZRa7iUrTJaas
+      created_at: !ruby/object:DateTime 2019-05-03 03:27:31.982000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-20 22:20:09.851000000 Z
+      content_type_id: resource
+      revision: 4
+    resource_title: Survey Guide
+    resource_description: |-
+      The survey guide used for the Partner Perspectives project. This was hosted in LimeSurvey an open-source survey tool that can be self-hosted or hosted via Limesurvey's website.
+
+      Source: Simply Secure
+    resource_url: https://simplysecure.org/resources/ott/OTT-SurveyGuide-AppendixB.pdf
+    resource_type: Report
+    insight_tag:
+    - Deep, trusting relationships
+    - Structure and clarity
+    - Multi-year flexible funding
+    - Reporting and metrics
+    - Non-financial support
+    - Power dynamics
+    - Funder reputation
+    - Diversity, equity, and inclusion
+    - Funder roles
+    recommendation_tag:
+    - Acknowledge Your Power
+    - Align Metrics with Existing MEL Frameworks
+    - Alternative Funding Models
+    - Alternative Models of Portfolio Support
+    - Alternative Portfolio Support Availability
+    - Be Explicit About Roles
+    - Be Explicit About the Role DEI Plays
+    - Be Respectful Towards Existing Networks
+    - Clarify Grantee Expectations
+    - Clarify the Funding Process
+    - Clarify Roles and Responsibilities
+    - Clear, Collaborative Outputs
+    - Clearly Communicate your Identity
+    - Core Funding and Flexibility
+    - Create Processes for Feedback on Metrics
+    - Develop Transition Strategies
+    - Diversify Your Network
+    - End of Relationship Feedback
+    - Grant Reporting Guidance
+    - Integrate Reporting with Workflow
+    - Invest in Organizational Health
+    - Invite Proposed Metrics
+    - Iterative Feedback and Learning with Grantees
+    - Offer Genuine Space for Dialogue
+    - Portfolio Support Autonomy
+    - Provide Timely Feedback
+    - Strategic and Financial Planning Support Post-Funding
+    - Strategic Priorities
+    - Support Professional Development
+    - Sync Impact Measurement and Reporting
+    - Time to Develop Impact Measurement Framework
+    - Transparency and Honesty in Communications with Grantees
+    - Understanding and Communicating Power Systems
+  - sys:
+      id: 3CCx75O0FW2wxvEwZEg11q
+      created_at: !ruby/object:DateTime 2019-06-20 22:20:26.605000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-20 22:20:26.605000000 Z
+      content_type_id: resource
+      revision: 1
+    resource_title: Workshop Guide
+    resource_type: Article
+    insight_tag:
+    - Deep, trusting relationships
+    - Structure and clarity
+    - Multi-year flexible funding
+    - Reporting and metrics
+    - Non-financial support
+    - Power dynamics
+    - Funder reputation
+    - Diversity, equity, and inclusion
+    - Funder roles
+    recommendation_tag:
+    - Acknowledge Your Power
+    - Align Metrics with Existing MEL Frameworks
+    - Alternative Funding Models
+    - Alternative Models of Portfolio Support
+    - Alternative Portfolio Support Availability
+    - Be Explicit About Roles
+    - Be Explicit About the Role DEI Plays
+    - Be Respectful Towards Existing Networks
+    - Clarify Grantee Expectations
+    - Clarify the Funding Process
+    - Clarify Roles and Responsibilities
+    - Clear, Collaborative Outputs
+    - Clearly Communicate your Identity
+    - Core Funding and Flexibility
+    - Create Processes for Feedback on Metrics
+    - Develop Transition Strategies
+    - Diversify Your Network
+    - End of Relationship Feedback
+    - Grant Reporting Guidance
+    - Integrate Reporting with Workflow
+    - Invest in Organizational Health
+    - Invite Proposed Metrics
+    - Iterative Feedback and Learning with Grantees
+    - Offer Genuine Space for Dialogue
+    - Portfolio Support Autonomy
+    - Provide Timely Feedback
+    - Strategic and Financial Planning Support Post-Funding
+    - Strategic Priorities
+    - Support Professional Development
+    - Sync Impact Measurement and Reporting
+    - Time to Develop Impact Measurement Framework
+    - Transparency and Honesty in Communications with Grantees
+    - Understanding and Communicating Power Systems
   related_quotes:
   - sys:
       id: merH5JaNh2vv9RTTPGmNL
@@ -1393,9 +2667,9 @@ insight:
 - sys:
     id: 2bwSfmkxe2O5t2tDHQt2vs
     created_at: !ruby/object:DateTime 2019-05-22 00:45:11.624000000 Z
-    updated_at: !ruby/object:DateTime 2019-06-07 15:29:00.447000000 Z
+    updated_at: !ruby/object:DateTime 2019-06-20 22:20:08.791000000 Z
     content_type_id: insight
-    revision: 2
+    revision: 3
   page_title: Funder Reputation
   insight_short: Funder Reputation
   insight_title: A funder’s reputation impacts the funder-grantee relationship.
@@ -1453,6 +2727,225 @@ insight:
     theme_tag:
     - Funding Approach & Process
     - Funder Identity & Culture
+  related_resources:
+  - sys:
+      id: 648LvvJeMpyWszz9HUvRGp
+      created_at: !ruby/object:DateTime 2019-05-03 03:28:11.508000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-20 22:20:09.745000000 Z
+      content_type_id: resource
+      revision: 3
+    resource_title: On Trust and Transparency Full Report
+    resource_description: Download the full report.
+    resource_url: https://ontrustandtransparency.report
+    resource_type: Report
+    insight_tag:
+    - Deep, trusting relationships
+    - Structure and clarity
+    - Multi-year flexible funding
+    - Reporting and metrics
+    - Non-financial support
+    - Power dynamics
+    - Funder reputation
+    - Diversity, equity, and inclusion
+    - Funder roles
+    recommendation_tag:
+    - Acknowledge Your Power
+    - Align Metrics with Existing MEL Frameworks
+    - Alternative Funding Models
+    - Alternative Models of Portfolio Support
+    - Alternative Portfolio Support Availability
+    - Be Explicit About Roles
+    - Be Explicit About the Role DEI Plays
+    - Be Respectful Towards Existing Networks
+    - Clarify Grantee Expectations
+    - Clarify the Funding Process
+    - Clarify Roles and Responsibilities
+    - Clear, Collaborative Outputs
+    - Clearly Communicate your Identity
+    - Core Funding and Flexibility
+    - Create Processes for Feedback on Metrics
+    - Develop Transition Strategies
+    - Diversify Your Network
+    - End of Relationship Feedback
+    - Grant Reporting Guidance
+    - Integrate Reporting with Workflow
+    - Invest in Organizational Health
+    - Invite Proposed Metrics
+    - Iterative Feedback and Learning with Grantees
+    - Offer Genuine Space for Dialogue
+    - Portfolio Support Autonomy
+    - Provide Timely Feedback
+    - Strategic and Financial Planning Support Post-Funding
+    - Strategic Priorities
+    - Support Professional Development
+    - Sync Impact Measurement and Reporting
+    - Time to Develop Impact Measurement Framework
+    - Transparency and Honesty in Communications with Grantees
+    - Understanding and Communicating Power Systems
+  - sys:
+      id: Aqrq7NXOreu5GwPYj5J7J
+      created_at: !ruby/object:DateTime 2019-05-03 03:27:57.616000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-20 22:20:09.744000000 Z
+      content_type_id: resource
+      revision: 3
+    resource_title: Interview Guide
+    resource_description: "The interview guide used for the participant interviews
+      during the Partner Perspectives project. \n\nSource: Simply Secure"
+    resource_url: https://simplysecure.org/resources/ott/OTT-InterviewGuide-AppendixA.pdf
+    resource_type: Report
+    insight_tag:
+    - Deep, trusting relationships
+    - Structure and clarity
+    - Multi-year flexible funding
+    - Reporting and metrics
+    - Non-financial support
+    - Power dynamics
+    - Funder reputation
+    - Diversity, equity, and inclusion
+    - Funder roles
+    recommendation_tag:
+    - Acknowledge Your Power
+    - Align Metrics with Existing MEL Frameworks
+    - Alternative Funding Models
+    - Alternative Models of Portfolio Support
+    - Alternative Portfolio Support Availability
+    - Be Explicit About Roles
+    - Be Explicit About the Role DEI Plays
+    - Be Respectful Towards Existing Networks
+    - Clarify Grantee Expectations
+    - Clarify the Funding Process
+    - Clarify Roles and Responsibilities
+    - Clear, Collaborative Outputs
+    - Clearly Communicate your Identity
+    - Core Funding and Flexibility
+    - Create Processes for Feedback on Metrics
+    - Develop Transition Strategies
+    - Diversify Your Network
+    - End of Relationship Feedback
+    - Grant Reporting Guidance
+    - Integrate Reporting with Workflow
+    - Invest in Organizational Health
+    - Invite Proposed Metrics
+    - Iterative Feedback and Learning with Grantees
+    - Offer Genuine Space for Dialogue
+    - Portfolio Support Autonomy
+    - Provide Timely Feedback
+    - Strategic and Financial Planning Support Post-Funding
+    - Strategic Priorities
+    - Support Professional Development
+    - Sync Impact Measurement and Reporting
+    - Time to Develop Impact Measurement Framework
+    - Transparency and Honesty in Communications with Grantees
+    - Understanding and Communicating Power Systems
+  - sys:
+      id: 3FQVA12oDvZRa7iUrTJaas
+      created_at: !ruby/object:DateTime 2019-05-03 03:27:31.982000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-20 22:20:09.851000000 Z
+      content_type_id: resource
+      revision: 4
+    resource_title: Survey Guide
+    resource_description: |-
+      The survey guide used for the Partner Perspectives project. This was hosted in LimeSurvey an open-source survey tool that can be self-hosted or hosted via Limesurvey's website.
+
+      Source: Simply Secure
+    resource_url: https://simplysecure.org/resources/ott/OTT-SurveyGuide-AppendixB.pdf
+    resource_type: Report
+    insight_tag:
+    - Deep, trusting relationships
+    - Structure and clarity
+    - Multi-year flexible funding
+    - Reporting and metrics
+    - Non-financial support
+    - Power dynamics
+    - Funder reputation
+    - Diversity, equity, and inclusion
+    - Funder roles
+    recommendation_tag:
+    - Acknowledge Your Power
+    - Align Metrics with Existing MEL Frameworks
+    - Alternative Funding Models
+    - Alternative Models of Portfolio Support
+    - Alternative Portfolio Support Availability
+    - Be Explicit About Roles
+    - Be Explicit About the Role DEI Plays
+    - Be Respectful Towards Existing Networks
+    - Clarify Grantee Expectations
+    - Clarify the Funding Process
+    - Clarify Roles and Responsibilities
+    - Clear, Collaborative Outputs
+    - Clearly Communicate your Identity
+    - Core Funding and Flexibility
+    - Create Processes for Feedback on Metrics
+    - Develop Transition Strategies
+    - Diversify Your Network
+    - End of Relationship Feedback
+    - Grant Reporting Guidance
+    - Integrate Reporting with Workflow
+    - Invest in Organizational Health
+    - Invite Proposed Metrics
+    - Iterative Feedback and Learning with Grantees
+    - Offer Genuine Space for Dialogue
+    - Portfolio Support Autonomy
+    - Provide Timely Feedback
+    - Strategic and Financial Planning Support Post-Funding
+    - Strategic Priorities
+    - Support Professional Development
+    - Sync Impact Measurement and Reporting
+    - Time to Develop Impact Measurement Framework
+    - Transparency and Honesty in Communications with Grantees
+    - Understanding and Communicating Power Systems
+  - sys:
+      id: 3CCx75O0FW2wxvEwZEg11q
+      created_at: !ruby/object:DateTime 2019-06-20 22:20:26.605000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-20 22:20:26.605000000 Z
+      content_type_id: resource
+      revision: 1
+    resource_title: Workshop Guide
+    resource_type: Article
+    insight_tag:
+    - Deep, trusting relationships
+    - Structure and clarity
+    - Multi-year flexible funding
+    - Reporting and metrics
+    - Non-financial support
+    - Power dynamics
+    - Funder reputation
+    - Diversity, equity, and inclusion
+    - Funder roles
+    recommendation_tag:
+    - Acknowledge Your Power
+    - Align Metrics with Existing MEL Frameworks
+    - Alternative Funding Models
+    - Alternative Models of Portfolio Support
+    - Alternative Portfolio Support Availability
+    - Be Explicit About Roles
+    - Be Explicit About the Role DEI Plays
+    - Be Respectful Towards Existing Networks
+    - Clarify Grantee Expectations
+    - Clarify the Funding Process
+    - Clarify Roles and Responsibilities
+    - Clear, Collaborative Outputs
+    - Clearly Communicate your Identity
+    - Core Funding and Flexibility
+    - Create Processes for Feedback on Metrics
+    - Develop Transition Strategies
+    - Diversify Your Network
+    - End of Relationship Feedback
+    - Grant Reporting Guidance
+    - Integrate Reporting with Workflow
+    - Invest in Organizational Health
+    - Invite Proposed Metrics
+    - Iterative Feedback and Learning with Grantees
+    - Offer Genuine Space for Dialogue
+    - Portfolio Support Autonomy
+    - Provide Timely Feedback
+    - Strategic and Financial Planning Support Post-Funding
+    - Strategic Priorities
+    - Support Professional Development
+    - Sync Impact Measurement and Reporting
+    - Time to Develop Impact Measurement Framework
+    - Transparency and Honesty in Communications with Grantees
+    - Understanding and Communicating Power Systems
   related_quotes:
   - sys:
       id: 4ePwpIP3rz9hI5C97RZQGa
@@ -1497,9 +2990,9 @@ insight:
 - sys:
     id: XVD1SkpJyjScJv1XiJIti
     created_at: !ruby/object:DateTime 2019-05-22 00:51:13.658000000 Z
-    updated_at: !ruby/object:DateTime 2019-06-07 15:29:35.457000000 Z
+    updated_at: !ruby/object:DateTime 2019-06-20 22:20:08.840000000 Z
     content_type_id: insight
-    revision: 2
+    revision: 3
   page_title: Diversity, Equity, and Inclusion
   insight_short: Diversity, Equity, and Inclusion
   insight_title: A lack of transparency around how diversity, equity and inclusion
@@ -1648,16 +3141,16 @@ insight:
   - sys:
       id: 64aVefaJYpSHSj8GnNRqZj
       created_at: !ruby/object:DateTime 2019-05-06 19:48:06.481000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-15 22:58:56.676000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-20 21:22:33.341000000 Z
       content_type_id: recommendation
-      revision: 4
+      revision: 5
     page_title: Alternative Portfolio Support Availability
     recommendation: Clarify what alternative types of __portfolio support__ are available
       to grantees, why it is being offered, and particularly how this support is intended
       to help achieve the organization's goals.
     recommendation_short: Alternative Portfolio Support Availability
     insight_tag:
-    - Non-financial support
+    - Portfolio support
     theme_tag:
     - Funding Approach & Process
   - sys:
@@ -1675,6 +3168,225 @@ insight:
     - Funder roles
     theme_tag:
     - Funder Identity & Culture
+  related_resources:
+  - sys:
+      id: 648LvvJeMpyWszz9HUvRGp
+      created_at: !ruby/object:DateTime 2019-05-03 03:28:11.508000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-20 22:20:09.745000000 Z
+      content_type_id: resource
+      revision: 3
+    resource_title: On Trust and Transparency Full Report
+    resource_description: Download the full report.
+    resource_url: https://ontrustandtransparency.report
+    resource_type: Report
+    insight_tag:
+    - Deep, trusting relationships
+    - Structure and clarity
+    - Multi-year flexible funding
+    - Reporting and metrics
+    - Non-financial support
+    - Power dynamics
+    - Funder reputation
+    - Diversity, equity, and inclusion
+    - Funder roles
+    recommendation_tag:
+    - Acknowledge Your Power
+    - Align Metrics with Existing MEL Frameworks
+    - Alternative Funding Models
+    - Alternative Models of Portfolio Support
+    - Alternative Portfolio Support Availability
+    - Be Explicit About Roles
+    - Be Explicit About the Role DEI Plays
+    - Be Respectful Towards Existing Networks
+    - Clarify Grantee Expectations
+    - Clarify the Funding Process
+    - Clarify Roles and Responsibilities
+    - Clear, Collaborative Outputs
+    - Clearly Communicate your Identity
+    - Core Funding and Flexibility
+    - Create Processes for Feedback on Metrics
+    - Develop Transition Strategies
+    - Diversify Your Network
+    - End of Relationship Feedback
+    - Grant Reporting Guidance
+    - Integrate Reporting with Workflow
+    - Invest in Organizational Health
+    - Invite Proposed Metrics
+    - Iterative Feedback and Learning with Grantees
+    - Offer Genuine Space for Dialogue
+    - Portfolio Support Autonomy
+    - Provide Timely Feedback
+    - Strategic and Financial Planning Support Post-Funding
+    - Strategic Priorities
+    - Support Professional Development
+    - Sync Impact Measurement and Reporting
+    - Time to Develop Impact Measurement Framework
+    - Transparency and Honesty in Communications with Grantees
+    - Understanding and Communicating Power Systems
+  - sys:
+      id: Aqrq7NXOreu5GwPYj5J7J
+      created_at: !ruby/object:DateTime 2019-05-03 03:27:57.616000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-20 22:20:09.744000000 Z
+      content_type_id: resource
+      revision: 3
+    resource_title: Interview Guide
+    resource_description: "The interview guide used for the participant interviews
+      during the Partner Perspectives project. \n\nSource: Simply Secure"
+    resource_url: https://simplysecure.org/resources/ott/OTT-InterviewGuide-AppendixA.pdf
+    resource_type: Report
+    insight_tag:
+    - Deep, trusting relationships
+    - Structure and clarity
+    - Multi-year flexible funding
+    - Reporting and metrics
+    - Non-financial support
+    - Power dynamics
+    - Funder reputation
+    - Diversity, equity, and inclusion
+    - Funder roles
+    recommendation_tag:
+    - Acknowledge Your Power
+    - Align Metrics with Existing MEL Frameworks
+    - Alternative Funding Models
+    - Alternative Models of Portfolio Support
+    - Alternative Portfolio Support Availability
+    - Be Explicit About Roles
+    - Be Explicit About the Role DEI Plays
+    - Be Respectful Towards Existing Networks
+    - Clarify Grantee Expectations
+    - Clarify the Funding Process
+    - Clarify Roles and Responsibilities
+    - Clear, Collaborative Outputs
+    - Clearly Communicate your Identity
+    - Core Funding and Flexibility
+    - Create Processes for Feedback on Metrics
+    - Develop Transition Strategies
+    - Diversify Your Network
+    - End of Relationship Feedback
+    - Grant Reporting Guidance
+    - Integrate Reporting with Workflow
+    - Invest in Organizational Health
+    - Invite Proposed Metrics
+    - Iterative Feedback and Learning with Grantees
+    - Offer Genuine Space for Dialogue
+    - Portfolio Support Autonomy
+    - Provide Timely Feedback
+    - Strategic and Financial Planning Support Post-Funding
+    - Strategic Priorities
+    - Support Professional Development
+    - Sync Impact Measurement and Reporting
+    - Time to Develop Impact Measurement Framework
+    - Transparency and Honesty in Communications with Grantees
+    - Understanding and Communicating Power Systems
+  - sys:
+      id: 3FQVA12oDvZRa7iUrTJaas
+      created_at: !ruby/object:DateTime 2019-05-03 03:27:31.982000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-20 22:20:09.851000000 Z
+      content_type_id: resource
+      revision: 4
+    resource_title: Survey Guide
+    resource_description: |-
+      The survey guide used for the Partner Perspectives project. This was hosted in LimeSurvey an open-source survey tool that can be self-hosted or hosted via Limesurvey's website.
+
+      Source: Simply Secure
+    resource_url: https://simplysecure.org/resources/ott/OTT-SurveyGuide-AppendixB.pdf
+    resource_type: Report
+    insight_tag:
+    - Deep, trusting relationships
+    - Structure and clarity
+    - Multi-year flexible funding
+    - Reporting and metrics
+    - Non-financial support
+    - Power dynamics
+    - Funder reputation
+    - Diversity, equity, and inclusion
+    - Funder roles
+    recommendation_tag:
+    - Acknowledge Your Power
+    - Align Metrics with Existing MEL Frameworks
+    - Alternative Funding Models
+    - Alternative Models of Portfolio Support
+    - Alternative Portfolio Support Availability
+    - Be Explicit About Roles
+    - Be Explicit About the Role DEI Plays
+    - Be Respectful Towards Existing Networks
+    - Clarify Grantee Expectations
+    - Clarify the Funding Process
+    - Clarify Roles and Responsibilities
+    - Clear, Collaborative Outputs
+    - Clearly Communicate your Identity
+    - Core Funding and Flexibility
+    - Create Processes for Feedback on Metrics
+    - Develop Transition Strategies
+    - Diversify Your Network
+    - End of Relationship Feedback
+    - Grant Reporting Guidance
+    - Integrate Reporting with Workflow
+    - Invest in Organizational Health
+    - Invite Proposed Metrics
+    - Iterative Feedback and Learning with Grantees
+    - Offer Genuine Space for Dialogue
+    - Portfolio Support Autonomy
+    - Provide Timely Feedback
+    - Strategic and Financial Planning Support Post-Funding
+    - Strategic Priorities
+    - Support Professional Development
+    - Sync Impact Measurement and Reporting
+    - Time to Develop Impact Measurement Framework
+    - Transparency and Honesty in Communications with Grantees
+    - Understanding and Communicating Power Systems
+  - sys:
+      id: 3CCx75O0FW2wxvEwZEg11q
+      created_at: !ruby/object:DateTime 2019-06-20 22:20:26.605000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-20 22:20:26.605000000 Z
+      content_type_id: resource
+      revision: 1
+    resource_title: Workshop Guide
+    resource_type: Article
+    insight_tag:
+    - Deep, trusting relationships
+    - Structure and clarity
+    - Multi-year flexible funding
+    - Reporting and metrics
+    - Non-financial support
+    - Power dynamics
+    - Funder reputation
+    - Diversity, equity, and inclusion
+    - Funder roles
+    recommendation_tag:
+    - Acknowledge Your Power
+    - Align Metrics with Existing MEL Frameworks
+    - Alternative Funding Models
+    - Alternative Models of Portfolio Support
+    - Alternative Portfolio Support Availability
+    - Be Explicit About Roles
+    - Be Explicit About the Role DEI Plays
+    - Be Respectful Towards Existing Networks
+    - Clarify Grantee Expectations
+    - Clarify the Funding Process
+    - Clarify Roles and Responsibilities
+    - Clear, Collaborative Outputs
+    - Clearly Communicate your Identity
+    - Core Funding and Flexibility
+    - Create Processes for Feedback on Metrics
+    - Develop Transition Strategies
+    - Diversify Your Network
+    - End of Relationship Feedback
+    - Grant Reporting Guidance
+    - Integrate Reporting with Workflow
+    - Invest in Organizational Health
+    - Invite Proposed Metrics
+    - Iterative Feedback and Learning with Grantees
+    - Offer Genuine Space for Dialogue
+    - Portfolio Support Autonomy
+    - Provide Timely Feedback
+    - Strategic and Financial Planning Support Post-Funding
+    - Strategic Priorities
+    - Support Professional Development
+    - Sync Impact Measurement and Reporting
+    - Time to Develop Impact Measurement Framework
+    - Transparency and Honesty in Communications with Grantees
+    - Understanding and Communicating Power Systems
   related_quotes:
   - sys:
       id: 3i4giERzhEAlu9iL9AG5UV
@@ -1688,9 +3400,9 @@ insight:
 - sys:
     id: 5mwetRON9oTpEGQ6800wJP
     created_at: !ruby/object:DateTime 2019-05-22 00:54:05.065000000 Z
-    updated_at: !ruby/object:DateTime 2019-06-07 15:28:44.591000000 Z
+    updated_at: !ruby/object:DateTime 2019-06-20 22:20:08.779000000 Z
     content_type_id: insight
-    revision: 2
+    revision: 3
   page_title: Funder Roles
   insight_short: Funder Roles
   insight_title: When funders wear multiple hats — as individual advocates as well
@@ -1738,6 +3450,225 @@ insight:
     theme_tag:
     - Trust & Power
     - Funder Identity & Culture
+  related_resources:
+  - sys:
+      id: 648LvvJeMpyWszz9HUvRGp
+      created_at: !ruby/object:DateTime 2019-05-03 03:28:11.508000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-20 22:20:09.745000000 Z
+      content_type_id: resource
+      revision: 3
+    resource_title: On Trust and Transparency Full Report
+    resource_description: Download the full report.
+    resource_url: https://ontrustandtransparency.report
+    resource_type: Report
+    insight_tag:
+    - Deep, trusting relationships
+    - Structure and clarity
+    - Multi-year flexible funding
+    - Reporting and metrics
+    - Non-financial support
+    - Power dynamics
+    - Funder reputation
+    - Diversity, equity, and inclusion
+    - Funder roles
+    recommendation_tag:
+    - Acknowledge Your Power
+    - Align Metrics with Existing MEL Frameworks
+    - Alternative Funding Models
+    - Alternative Models of Portfolio Support
+    - Alternative Portfolio Support Availability
+    - Be Explicit About Roles
+    - Be Explicit About the Role DEI Plays
+    - Be Respectful Towards Existing Networks
+    - Clarify Grantee Expectations
+    - Clarify the Funding Process
+    - Clarify Roles and Responsibilities
+    - Clear, Collaborative Outputs
+    - Clearly Communicate your Identity
+    - Core Funding and Flexibility
+    - Create Processes for Feedback on Metrics
+    - Develop Transition Strategies
+    - Diversify Your Network
+    - End of Relationship Feedback
+    - Grant Reporting Guidance
+    - Integrate Reporting with Workflow
+    - Invest in Organizational Health
+    - Invite Proposed Metrics
+    - Iterative Feedback and Learning with Grantees
+    - Offer Genuine Space for Dialogue
+    - Portfolio Support Autonomy
+    - Provide Timely Feedback
+    - Strategic and Financial Planning Support Post-Funding
+    - Strategic Priorities
+    - Support Professional Development
+    - Sync Impact Measurement and Reporting
+    - Time to Develop Impact Measurement Framework
+    - Transparency and Honesty in Communications with Grantees
+    - Understanding and Communicating Power Systems
+  - sys:
+      id: Aqrq7NXOreu5GwPYj5J7J
+      created_at: !ruby/object:DateTime 2019-05-03 03:27:57.616000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-20 22:20:09.744000000 Z
+      content_type_id: resource
+      revision: 3
+    resource_title: Interview Guide
+    resource_description: "The interview guide used for the participant interviews
+      during the Partner Perspectives project. \n\nSource: Simply Secure"
+    resource_url: https://simplysecure.org/resources/ott/OTT-InterviewGuide-AppendixA.pdf
+    resource_type: Report
+    insight_tag:
+    - Deep, trusting relationships
+    - Structure and clarity
+    - Multi-year flexible funding
+    - Reporting and metrics
+    - Non-financial support
+    - Power dynamics
+    - Funder reputation
+    - Diversity, equity, and inclusion
+    - Funder roles
+    recommendation_tag:
+    - Acknowledge Your Power
+    - Align Metrics with Existing MEL Frameworks
+    - Alternative Funding Models
+    - Alternative Models of Portfolio Support
+    - Alternative Portfolio Support Availability
+    - Be Explicit About Roles
+    - Be Explicit About the Role DEI Plays
+    - Be Respectful Towards Existing Networks
+    - Clarify Grantee Expectations
+    - Clarify the Funding Process
+    - Clarify Roles and Responsibilities
+    - Clear, Collaborative Outputs
+    - Clearly Communicate your Identity
+    - Core Funding and Flexibility
+    - Create Processes for Feedback on Metrics
+    - Develop Transition Strategies
+    - Diversify Your Network
+    - End of Relationship Feedback
+    - Grant Reporting Guidance
+    - Integrate Reporting with Workflow
+    - Invest in Organizational Health
+    - Invite Proposed Metrics
+    - Iterative Feedback and Learning with Grantees
+    - Offer Genuine Space for Dialogue
+    - Portfolio Support Autonomy
+    - Provide Timely Feedback
+    - Strategic and Financial Planning Support Post-Funding
+    - Strategic Priorities
+    - Support Professional Development
+    - Sync Impact Measurement and Reporting
+    - Time to Develop Impact Measurement Framework
+    - Transparency and Honesty in Communications with Grantees
+    - Understanding and Communicating Power Systems
+  - sys:
+      id: 3FQVA12oDvZRa7iUrTJaas
+      created_at: !ruby/object:DateTime 2019-05-03 03:27:31.982000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-20 22:20:09.851000000 Z
+      content_type_id: resource
+      revision: 4
+    resource_title: Survey Guide
+    resource_description: |-
+      The survey guide used for the Partner Perspectives project. This was hosted in LimeSurvey an open-source survey tool that can be self-hosted or hosted via Limesurvey's website.
+
+      Source: Simply Secure
+    resource_url: https://simplysecure.org/resources/ott/OTT-SurveyGuide-AppendixB.pdf
+    resource_type: Report
+    insight_tag:
+    - Deep, trusting relationships
+    - Structure and clarity
+    - Multi-year flexible funding
+    - Reporting and metrics
+    - Non-financial support
+    - Power dynamics
+    - Funder reputation
+    - Diversity, equity, and inclusion
+    - Funder roles
+    recommendation_tag:
+    - Acknowledge Your Power
+    - Align Metrics with Existing MEL Frameworks
+    - Alternative Funding Models
+    - Alternative Models of Portfolio Support
+    - Alternative Portfolio Support Availability
+    - Be Explicit About Roles
+    - Be Explicit About the Role DEI Plays
+    - Be Respectful Towards Existing Networks
+    - Clarify Grantee Expectations
+    - Clarify the Funding Process
+    - Clarify Roles and Responsibilities
+    - Clear, Collaborative Outputs
+    - Clearly Communicate your Identity
+    - Core Funding and Flexibility
+    - Create Processes for Feedback on Metrics
+    - Develop Transition Strategies
+    - Diversify Your Network
+    - End of Relationship Feedback
+    - Grant Reporting Guidance
+    - Integrate Reporting with Workflow
+    - Invest in Organizational Health
+    - Invite Proposed Metrics
+    - Iterative Feedback and Learning with Grantees
+    - Offer Genuine Space for Dialogue
+    - Portfolio Support Autonomy
+    - Provide Timely Feedback
+    - Strategic and Financial Planning Support Post-Funding
+    - Strategic Priorities
+    - Support Professional Development
+    - Sync Impact Measurement and Reporting
+    - Time to Develop Impact Measurement Framework
+    - Transparency and Honesty in Communications with Grantees
+    - Understanding and Communicating Power Systems
+  - sys:
+      id: 3CCx75O0FW2wxvEwZEg11q
+      created_at: !ruby/object:DateTime 2019-06-20 22:20:26.605000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-20 22:20:26.605000000 Z
+      content_type_id: resource
+      revision: 1
+    resource_title: Workshop Guide
+    resource_type: Article
+    insight_tag:
+    - Deep, trusting relationships
+    - Structure and clarity
+    - Multi-year flexible funding
+    - Reporting and metrics
+    - Non-financial support
+    - Power dynamics
+    - Funder reputation
+    - Diversity, equity, and inclusion
+    - Funder roles
+    recommendation_tag:
+    - Acknowledge Your Power
+    - Align Metrics with Existing MEL Frameworks
+    - Alternative Funding Models
+    - Alternative Models of Portfolio Support
+    - Alternative Portfolio Support Availability
+    - Be Explicit About Roles
+    - Be Explicit About the Role DEI Plays
+    - Be Respectful Towards Existing Networks
+    - Clarify Grantee Expectations
+    - Clarify the Funding Process
+    - Clarify Roles and Responsibilities
+    - Clear, Collaborative Outputs
+    - Clearly Communicate your Identity
+    - Core Funding and Flexibility
+    - Create Processes for Feedback on Metrics
+    - Develop Transition Strategies
+    - Diversify Your Network
+    - End of Relationship Feedback
+    - Grant Reporting Guidance
+    - Integrate Reporting with Workflow
+    - Invest in Organizational Health
+    - Invite Proposed Metrics
+    - Iterative Feedback and Learning with Grantees
+    - Offer Genuine Space for Dialogue
+    - Portfolio Support Autonomy
+    - Provide Timely Feedback
+    - Strategic and Financial Planning Support Post-Funding
+    - Strategic Priorities
+    - Support Professional Development
+    - Sync Impact Measurement and Reporting
+    - Time to Develop Impact Measurement Framework
+    - Transparency and Honesty in Communications with Grantees
+    - Understanding and Communicating Power Systems
   related_quotes:
   - sys:
       id: 3knLXVHmeLPFpcVK2tKn1Z

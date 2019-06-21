@@ -3,14 +3,14 @@ about:
 - sys:
     id: 5fXKgdICZZbLiJ9MpO4axr
     created_at: !ruby/object:DateTime 2019-05-02 23:30:09.455000000 Z
-    updated_at: !ruby/object:DateTime 2019-06-06 13:34:22.115000000 Z
+    updated_at: !ruby/object:DateTime 2019-06-20 22:27:15.233000000 Z
     content_type_id: about
-    revision: 7
+    revision: 9
   page_title: About
   about_description: |-
     In June 2018, Luminate commissioned Simply Secure to conduct a human-centered design research project focused on highlighting investees’ experiences of the funding process. This is the public report from that research — the Partner Perspectives project — a collaboration between Luminate, formally the Governance and Citizen Engagement (GCE) Initiative at Omidyar Network, and Simply Secure. The interviews and survey were conducted over the course of July - September 2018.
 
-    Learn more about the project \[link to project details page eventually]
+    [Learn more about the project](/project-details)
   luminate_logo:
     sys:
       id: 3fexX1zyNZHvMatfmJBi9I
