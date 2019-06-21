@@ -56,16 +56,30 @@ seo_image_path: #'/images/media/filename.jpg'
 
   </section>
 
-  <section class="page-section">
+  <section class="page-section insights-section">
     <div class="row align-center">
       <div class="column large-12">
         <h3>Insights</h3>
       </div>
       <div class="column large-6 medium-12 small-12">
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed necessitatibus, error eaque vero aperiam numquam, tenetur, soluta quibusdam odio eius aut. Distinctio placeat repellendus, repellat neque itaque in esse nobis!</p>
+        {{ index.findings_copy | markdownify }}
       </div>
       <div class="column large-6 medium-10 small-12 center button-conainter">
         <a class="button" href="{{ '/insights' | relative_url }}">All Insights</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="page-section recommendations-section">
+    <div class="row align-center">
+      <div class="column large-12">
+        <h3>Recommendations</h3>
+      </div>
+      <div class="column large-6 medium-12 small-12">
+        {{ index.recommendations_copy | markdownify }}
+      </div>
+      <div class="column large-6 medium-10 small-12 center button-conainter">
+        <a class="button" href="{{ '/recommendations' | relative_url }}">All Recommendations</a>
       </div>
     </div>
   </section>

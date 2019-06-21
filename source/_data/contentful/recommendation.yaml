@@ -120,24 +120,24 @@ recommendation:
 - sys:
     id: 64aVefaJYpSHSj8GnNRqZj
     created_at: !ruby/object:DateTime 2019-05-06 19:48:06.481000000 Z
-    updated_at: !ruby/object:DateTime 2019-06-15 22:58:56.676000000 Z
+    updated_at: !ruby/object:DateTime 2019-06-20 21:22:33.341000000 Z
     content_type_id: recommendation
-    revision: 4
+    revision: 5
   page_title: Alternative Portfolio Support Availability
   recommendation: Clarify what alternative types of __portfolio support__ are available
     to grantees, why it is being offered, and particularly how this support is intended
     to help achieve the organization's goals.
   recommendation_short: Alternative Portfolio Support Availability
   insight_tag:
-  - Non-financial support
+  - Portfolio support
   theme_tag:
   - Funding Approach & Process
 - sys:
     id: 1xnQafkeYLOxaZrpKvWs0s
     created_at: !ruby/object:DateTime 2019-05-06 19:52:10.089000000 Z
-    updated_at: !ruby/object:DateTime 2019-06-15 22:58:56.508000000 Z
+    updated_at: !ruby/object:DateTime 2019-06-20 21:22:41.561000000 Z
     content_type_id: recommendation
-    revision: 3
+    revision: 4
   page_title: Alternative Models of Portfolio Support
   recommendation: 'Explore __alternative and more flexible models for portfolio support__,
     as opposed to taking board seats as a funder, e.g., create opportunities for grantees
@@ -146,16 +146,16 @@ recommendation:
     to pursue professional development. '
   recommendation_short: Alternative Models of Portfolio Support
   insight_tag:
-  - Non-financial support
+  - Portfolio support
   theme_tag:
   - Funding Approach & Process
   - Trust & Power
 - sys:
     id: 5hKYhindU3pFFpe3q13egX
     created_at: !ruby/object:DateTime 2019-05-06 19:53:13.347000000 Z
-    updated_at: !ruby/object:DateTime 2019-06-15 22:58:56.083000000 Z
+    updated_at: !ruby/object:DateTime 2019-06-20 21:22:48.416000000 Z
     content_type_id: recommendation
-    revision: 5
+    revision: 6
   page_title: Portfolio Support Autonomy
   recommendation: Give grantees more autonomy and choice when taking advantage of
     additional __portfolio support__ e.g., by giving them ownership over who to work
@@ -163,7 +163,7 @@ recommendation:
     the vendors.
   recommendation_short: Portfolio Support Autonomy
   insight_tag:
-  - Non-financial support
+  - Portfolio support
   theme_tag:
   - Funding Approach & Process
   - Trust & Power
@@ -331,16 +331,16 @@ recommendation:
 - sys:
     id: F38G9F4X0cp3bRAxpm193
     created_at: !ruby/object:DateTime 2019-05-06 20:02:56.461000000 Z
-    updated_at: !ruby/object:DateTime 2019-06-15 22:58:53.957000000 Z
+    updated_at: !ruby/object:DateTime 2019-06-20 21:22:56.275000000 Z
     content_type_id: recommendation
-    revision: 2
+    revision: 3
   page_title: Strategic and Financial Planning Support Post-Funding
   recommendation: Consider providing __strategic and financial planning support__,
     particularly focused on the post-funding phase.
   recommendation_short: Strategic and Financial Planning Support Post-Funding
   insight_tag:
   - Structure and clarity
-  - Non-financial support
+  - Portfolio support
   theme_tag:
   - Funding Approach & Process
 - sys:
@@ -361,9 +361,9 @@ recommendation:
 - sys:
     id: 7DXzHNGSjjLIrrauaEX6xo
     created_at: !ruby/object:DateTime 2019-05-06 20:04:54.233000000 Z
-    updated_at: !ruby/object:DateTime 2019-06-15 22:58:53.937000000 Z
+    updated_at: !ruby/object:DateTime 2019-06-20 21:23:03.170000000 Z
     content_type_id: recommendation
-    revision: 2
+    revision: 3
   page_title: Transparency and Honesty in Communications with Grantees
   recommendation: Look for opportunities to __model transparency and honesty__ in
     communications with grantees. Greater transparency from funders around their own
@@ -374,8 +374,8 @@ recommendation:
   insight_tag:
   - Deep, trusting relationships
   - Structure and clarity
-  - Non-financial support
   - Power dynamics
+  - Portfolio support
   theme_tag:
   - Funding Approach & Process
   - Trust & Power

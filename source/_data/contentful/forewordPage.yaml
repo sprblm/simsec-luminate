@@ -3,9 +3,9 @@ forewordPage:
 - sys:
     id: 5MmlpfpMu2OtAyFr0dLVhq
     created_at: !ruby/object:DateTime 2019-06-05 15:04:03.503000000 Z
-    updated_at: !ruby/object:DateTime 2019-06-18 13:46:07.285000000 Z
+    updated_at: !ruby/object:DateTime 2019-06-20 21:16:08.999000000 Z
     content_type_id: forewordPage
-    revision: 4
+    revision: 5
   page_title: Foreword
   description: "## From Governance & Citizen Engagement initiative to Luminate\n\nEstablished
     in 2018 by Pierre and Pam Omidyar, [Luminate](https://luminategroup.com/) is a
@@ -86,4 +86,4 @@ forewordPage:
     and improve on our practices, and we ask you, as our investees and peers, to hold
     us accountable for this.\n\nWe hope that in doing so, we can strengthen our most
     important relationships – those with our investees – and work in partnership to
-    drive change.\n\n__Stephen King  |  CEO, Luminate  |  June 2019__\n\n\n"
+    drive change.\n\n__Stephen King (CEO, Luminate)__\n\n__June 2019__\n\n\n"
