@@ -3,9 +3,9 @@ index:
 - sys:
     id: 37stCeFxGeqoRZQaUKmOvd
     created_at: !ruby/object:DateTime 2019-05-02 23:27:13.174000000 Z
-    updated_at: !ruby/object:DateTime 2019-06-20 14:51:27.213000000 Z
+    updated_at: !ruby/object:DateTime 2019-06-21 14:42:03.630000000 Z
     content_type_id: index
-    revision: 9
+    revision: 10
   page_title: Index
   report_title: On Trust & Transparency
   report_subtitle: Perspectives from Luminate's portfolio
@@ -25,10 +25,10 @@ index:
     survey around the grantee experience. With each insight are anonymized quotes
     from the interviews, a description, related recommendations and any relevant resources
     related to the methodology and the insight or recommendations themselves.
-  recommendations_copy: From the nine insights stem thirty-three recommendations.
-    Recommendations have been mapped to resources, insights and themes and include
-    any relevant resources related to the methodology and the insight or recommendations
-    themselves.
+  recommendations_copy: Explore the thirty-three recommendations that build from the
+    insights, participant interviews and the survey. Recommendations have been mapped
+    to resources, insights and themes and include any relevant resources related to
+    the methodology and the insight or recommendations themselves.
   simsec_footer: "Simply Secure is a non-profit building a community of practitioners
     that puts people at the center of privacy, security, and transparency. \n\n[Follow
     Simply Secure on Twitter](https://twitter.com/simplysecureorg)\n\n[contact@simplysecure.org](mailto:contact@simplysecure.org)"

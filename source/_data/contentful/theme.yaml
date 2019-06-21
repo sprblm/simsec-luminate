@@ -227,14 +227,18 @@ theme:
     - sys:
         id: 2jPpX1aCPfGnLCldon7zAv
         created_at: !ruby/object:DateTime 2019-05-02 23:44:26.109000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:30:32.095000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-21 16:26:07.188000000 Z
         content_type_id: recommendation
-        revision: 4
+        revision: 5
       page_title: Integrate Reporting with Workflow
       recommendation: 'Proactively talk with grantees about how __reporting can better
         fit into their existing workflow__ and improve their organizational health. '
       recommendation_short: Integrate Reporting with Workflow
       related_resources:
+      - sys:
+          id: W3P6BjUxiweX2m4ZjJxJY
+      - sys:
+          id: 3V0M3trGkaHPZxengYFxNz
       - sys:
           id: 648LvvJeMpyWszz9HUvRGp
       - sys:
@@ -243,10 +247,6 @@ theme:
           id: 3FQVA12oDvZRa7iUrTJaas
       - sys:
           id: 3CCx75O0FW2wxvEwZEg11q
-      - sys:
-          id: W3P6BjUxiweX2m4ZjJxJY
-      - sys:
-          id: 3V0M3trGkaHPZxengYFxNz
       - sys:
           id: 6I9Dibp3UqHX3S7XE3kvE
       - sys:
@@ -306,9 +306,9 @@ theme:
   - sys:
       id: 5mwetRON9oTpEGQ6800wJP
       created_at: !ruby/object:DateTime 2019-05-22 00:54:05.065000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 09:30:43.242000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 18:02:26.927000000 Z
       content_type_id: insight
-      revision: 4
+      revision: 5
     page_title: Funder Roles
     insight_short: Funder Roles
     insight_title: When funders wear multiple hats — as individual advocates as well
@@ -382,6 +382,8 @@ theme:
         id: W3P6BjUxiweX2m4ZjJxJY
     - sys:
         id: 4RbE47IdZhjCbhclsbqR7W
+    - sys:
+        id: 2qaUgiKc0bvX8iS1tawv3N
     related_quotes:
     - sys:
         id: 3knLXVHmeLPFpcVK2tKn1Z
@@ -397,9 +399,9 @@ theme:
   - sys:
       id: 3iOxgGnCFSOPnKE3re9mfA
       created_at: !ruby/object:DateTime 2019-05-22 00:18:59.931000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 09:30:44.248000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 18:02:27.816000000 Z
       content_type_id: insight
-      revision: 4
+      revision: 5
     page_title: Multi-year Flexible Funding
     insight_short: Multi-year Flexible Funding
     insight_title: Multi-year flexible funding is extremely valued.
@@ -537,6 +539,8 @@ theme:
         id: 3AKyAU3s36zTcT0oNQhN7P
     - sys:
         id: 2V4AEY4FMQ1NVFelmYUY6D
+    - sys:
+        id: 6M4Eo1DvQUT2zEZrVsWoda
     related_quotes:
     - sys:
         id: 4Pa5ZE4CHk5AZgzXXFQh0u
@@ -548,9 +552,9 @@ theme:
   - sys:
       id: 1mz5qNxgvkUfCHUN72zORV
       created_at: !ruby/object:DateTime 2019-05-22 00:35:36.623000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 09:30:44.234000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 18:02:27.819000000 Z
       content_type_id: insight
-      revision: 5
+      revision: 6
     page_title: Portfolio Support
     insight_short: Portfolio Support
     insight_title: Grantees are interested in, and looking for portfolio support,
@@ -747,6 +751,8 @@ theme:
         id: 2V4AEY4FMQ1NVFelmYUY6D
     - sys:
         id: 5cdDjuEjsojN5AfyV1EOS4
+    - sys:
+        id: 4r0BgqqXiyBjvZOiOzPUN8
     related_quotes:
     - sys:
         id: GDb4R70Pw45fl6owh7WhG
@@ -764,9 +770,9 @@ theme:
   - sys:
       id: 4zcMXjfMSLsPoJwQAEzWXZ
       created_at: !ruby/object:DateTime 2019-05-22 00:26:06.129000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 09:30:43.581000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 18:02:26.793000000 Z
       content_type_id: insight
-      revision: 6
+      revision: 7
     page_title: Reporting and Metrics
     insight_short: Reporting and Metrics
     insight_title: Reporting and metrics are not always perceived as useful and valuable
@@ -1006,14 +1012,18 @@ theme:
     - sys:
         id: 2jPpX1aCPfGnLCldon7zAv
         created_at: !ruby/object:DateTime 2019-05-02 23:44:26.109000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:30:32.095000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-21 16:26:07.188000000 Z
         content_type_id: recommendation
-        revision: 4
+        revision: 5
       page_title: Integrate Reporting with Workflow
       recommendation: 'Proactively talk with grantees about how __reporting can better
         fit into their existing workflow__ and improve their organizational health. '
       recommendation_short: Integrate Reporting with Workflow
       related_resources:
+      - sys:
+          id: W3P6BjUxiweX2m4ZjJxJY
+      - sys:
+          id: 3V0M3trGkaHPZxengYFxNz
       - sys:
           id: 648LvvJeMpyWszz9HUvRGp
       - sys:
@@ -1022,10 +1032,6 @@ theme:
           id: 3FQVA12oDvZRa7iUrTJaas
       - sys:
           id: 3CCx75O0FW2wxvEwZEg11q
-      - sys:
-          id: W3P6BjUxiweX2m4ZjJxJY
-      - sys:
-          id: 3V0M3trGkaHPZxengYFxNz
       - sys:
           id: 6I9Dibp3UqHX3S7XE3kvE
       - sys:
@@ -1133,6 +1139,8 @@ theme:
         id: 6I9Dibp3UqHX3S7XE3kvE
     - sys:
         id: 5cdDjuEjsojN5AfyV1EOS4
+    - sys:
+        id: 4PthJ9gYrpxampm69VH4EU
     related_quotes:
     - sys:
         id: Uxx50gbi4lNbCZDCatwS0
@@ -1148,9 +1156,9 @@ theme:
   - sys:
       id: jyKMbw9LvNhaGzth0U8Dw
       created_at: !ruby/object:DateTime 2019-05-06 20:32:40.508000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 09:30:43.305000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 18:02:26.788000000 Z
       content_type_id: insight
-      revision: 4
+      revision: 5
     page_title: Structure and Clarity
     insight_short: Structure and Clarity
     insight_title: Grantees crave structure and clarity with regards to 1) the funding
@@ -1518,6 +1526,8 @@ theme:
         id: 6I9Dibp3UqHX3S7XE3kvE
     - sys:
         id: 5cdDjuEjsojN5AfyV1EOS4
+    - sys:
+        id: 3RR7vk5GdaGzdPJpbHJ8rv
     related_quotes:
     - sys:
         id: 4ynm2yzOsV7LloWEHXkrPx
@@ -1880,14 +1890,18 @@ theme:
   - sys:
       id: 2jPpX1aCPfGnLCldon7zAv
       created_at: !ruby/object:DateTime 2019-05-02 23:44:26.109000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:30:32.095000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 16:26:07.188000000 Z
       content_type_id: recommendation
-      revision: 4
+      revision: 5
     page_title: Integrate Reporting with Workflow
     recommendation: 'Proactively talk with grantees about how __reporting can better
       fit into their existing workflow__ and improve their organizational health. '
     recommendation_short: Integrate Reporting with Workflow
     related_resources:
+    - sys:
+        id: W3P6BjUxiweX2m4ZjJxJY
+    - sys:
+        id: 3V0M3trGkaHPZxengYFxNz
     - sys:
         id: 648LvvJeMpyWszz9HUvRGp
     - sys:
@@ -1896,10 +1910,6 @@ theme:
         id: 3FQVA12oDvZRa7iUrTJaas
     - sys:
         id: 3CCx75O0FW2wxvEwZEg11q
-    - sys:
-        id: W3P6BjUxiweX2m4ZjJxJY
-    - sys:
-        id: 3V0M3trGkaHPZxengYFxNz
     - sys:
         id: 6I9Dibp3UqHX3S7XE3kvE
     - sys:
@@ -2613,14 +2623,18 @@ theme:
     - sys:
         id: 2jPpX1aCPfGnLCldon7zAv
         created_at: !ruby/object:DateTime 2019-05-02 23:44:26.109000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:30:32.095000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-21 16:26:07.188000000 Z
         content_type_id: recommendation
-        revision: 4
+        revision: 5
       page_title: Integrate Reporting with Workflow
       recommendation: 'Proactively talk with grantees about how __reporting can better
         fit into their existing workflow__ and improve their organizational health. '
       recommendation_short: Integrate Reporting with Workflow
       related_resources:
+      - sys:
+          id: W3P6BjUxiweX2m4ZjJxJY
+      - sys:
+          id: 3V0M3trGkaHPZxengYFxNz
       - sys:
           id: 648LvvJeMpyWszz9HUvRGp
       - sys:
@@ -2629,10 +2643,6 @@ theme:
           id: 3FQVA12oDvZRa7iUrTJaas
       - sys:
           id: 3CCx75O0FW2wxvEwZEg11q
-      - sys:
-          id: W3P6BjUxiweX2m4ZjJxJY
-      - sys:
-          id: 3V0M3trGkaHPZxengYFxNz
       - sys:
           id: 6I9Dibp3UqHX3S7XE3kvE
       - sys:
@@ -2692,9 +2702,9 @@ theme:
   - sys:
       id: XVD1SkpJyjScJv1XiJIti
       created_at: !ruby/object:DateTime 2019-05-22 00:51:13.658000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 09:30:43.237000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 18:02:26.801000000 Z
       content_type_id: insight
-      revision: 5
+      revision: 6
     page_title: Diversity, Equity, and Inclusion
     insight_short: Diversity, Equity, and Inclusion
     insight_title: A lack of transparency around how diversity, equity and inclusion
@@ -2974,6 +2984,8 @@ theme:
         id: 6I9Dibp3UqHX3S7XE3kvE
     - sys:
         id: 5cdDjuEjsojN5AfyV1EOS4
+    - sys:
+        id: lU2hizfRHPrX0LIDe7WuP
     related_quotes:
     - sys:
         id: 3i4giERzhEAlu9iL9AG5UV
@@ -2981,9 +2993,9 @@ theme:
   - sys:
       id: 2bwSfmkxe2O5t2tDHQt2vs
       created_at: !ruby/object:DateTime 2019-05-22 00:45:11.624000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 09:30:43.227000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 18:02:26.846000000 Z
       content_type_id: insight
-      revision: 4
+      revision: 5
     page_title: Funder Reputation
     insight_short: Funder Reputation
     insight_title: A funder’s reputation impacts the funder-grantee relationship.
@@ -3053,6 +3065,8 @@ theme:
         id: 3CCx75O0FW2wxvEwZEg11q
     - sys:
         id: W3P6BjUxiweX2m4ZjJxJY
+    - sys:
+        id: 6FoBrNXjyAsbLn4AgkyMOx
     related_quotes:
     - sys:
         id: 4ePwpIP3rz9hI5C97RZQGa
@@ -3068,9 +3082,9 @@ theme:
   - sys:
       id: 1mz5qNxgvkUfCHUN72zORV
       created_at: !ruby/object:DateTime 2019-05-22 00:35:36.623000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 09:30:44.234000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 18:02:27.819000000 Z
       content_type_id: insight
-      revision: 5
+      revision: 6
     page_title: Portfolio Support
     insight_short: Portfolio Support
     insight_title: Grantees are interested in, and looking for portfolio support,
@@ -3267,6 +3281,8 @@ theme:
         id: 2V4AEY4FMQ1NVFelmYUY6D
     - sys:
         id: 5cdDjuEjsojN5AfyV1EOS4
+    - sys:
+        id: 4r0BgqqXiyBjvZOiOzPUN8
     related_quotes:
     - sys:
         id: GDb4R70Pw45fl6owh7WhG
@@ -3284,9 +3300,9 @@ theme:
   - sys:
       id: jyKMbw9LvNhaGzth0U8Dw
       created_at: !ruby/object:DateTime 2019-05-06 20:32:40.508000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 09:30:43.305000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 18:02:26.788000000 Z
       content_type_id: insight
-      revision: 4
+      revision: 5
     page_title: Structure and Clarity
     insight_short: Structure and Clarity
     insight_title: Grantees crave structure and clarity with regards to 1) the funding
@@ -3654,6 +3670,8 @@ theme:
         id: 6I9Dibp3UqHX3S7XE3kvE
     - sys:
         id: 5cdDjuEjsojN5AfyV1EOS4
+    - sys:
+        id: 3RR7vk5GdaGzdPJpbHJ8rv
     related_quotes:
     - sys:
         id: 4ynm2yzOsV7LloWEHXkrPx
@@ -3679,9 +3697,9 @@ theme:
   - sys:
       id: 4xrmz2cDxqIf97YYfahCQU
       created_at: !ruby/object:DateTime 2019-05-22 00:41:30.693000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 09:30:43.225000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 18:02:26.987000000 Z
       content_type_id: insight
-      revision: 4
+      revision: 5
     page_title: Power Dynamics
     insight_short: Power Dynamics
     insight_title: Power dynamics, if not acknowledged, can affect the strength and
@@ -3988,6 +4006,8 @@ theme:
         id: 6I9Dibp3UqHX3S7XE3kvE
     - sys:
         id: 5cdDjuEjsojN5AfyV1EOS4
+    - sys:
+        id: Tw13sEoMOePK6bgMc0wlp
     related_quotes:
     - sys:
         id: merH5JaNh2vv9RTTPGmNL
@@ -4340,9 +4360,9 @@ theme:
   - sys:
       id: XVD1SkpJyjScJv1XiJIti
       created_at: !ruby/object:DateTime 2019-05-22 00:51:13.658000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 09:30:43.237000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 18:02:26.801000000 Z
       content_type_id: insight
-      revision: 5
+      revision: 6
     page_title: Diversity, Equity, and Inclusion
     insight_short: Diversity, Equity, and Inclusion
     insight_title: A lack of transparency around how diversity, equity and inclusion
@@ -4622,6 +4642,8 @@ theme:
         id: 6I9Dibp3UqHX3S7XE3kvE
     - sys:
         id: 5cdDjuEjsojN5AfyV1EOS4
+    - sys:
+        id: lU2hizfRHPrX0LIDe7WuP
     related_quotes:
     - sys:
         id: 3i4giERzhEAlu9iL9AG5UV
@@ -4629,9 +4651,9 @@ theme:
   - sys:
       id: 2bwSfmkxe2O5t2tDHQt2vs
       created_at: !ruby/object:DateTime 2019-05-22 00:45:11.624000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 09:30:43.227000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 18:02:26.846000000 Z
       content_type_id: insight
-      revision: 4
+      revision: 5
     page_title: Funder Reputation
     insight_short: Funder Reputation
     insight_title: A funder’s reputation impacts the funder-grantee relationship.
@@ -4701,6 +4723,8 @@ theme:
         id: 3CCx75O0FW2wxvEwZEg11q
     - sys:
         id: W3P6BjUxiweX2m4ZjJxJY
+    - sys:
+        id: 6FoBrNXjyAsbLn4AgkyMOx
     related_quotes:
     - sys:
         id: 4ePwpIP3rz9hI5C97RZQGa
@@ -4716,9 +4740,9 @@ theme:
   - sys:
       id: 5mwetRON9oTpEGQ6800wJP
       created_at: !ruby/object:DateTime 2019-05-22 00:54:05.065000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 09:30:43.242000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 18:02:26.927000000 Z
       content_type_id: insight
-      revision: 4
+      revision: 5
     page_title: Funder Roles
     insight_short: Funder Roles
     insight_title: When funders wear multiple hats — as individual advocates as well
@@ -4792,6 +4816,8 @@ theme:
         id: W3P6BjUxiweX2m4ZjJxJY
     - sys:
         id: 4RbE47IdZhjCbhclsbqR7W
+    - sys:
+        id: 2qaUgiKc0bvX8iS1tawv3N
     related_quotes:
     - sys:
         id: 3knLXVHmeLPFpcVK2tKn1Z
@@ -4807,9 +4833,9 @@ theme:
   - sys:
       id: 4xrmz2cDxqIf97YYfahCQU
       created_at: !ruby/object:DateTime 2019-05-22 00:41:30.693000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 09:30:43.225000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 18:02:26.987000000 Z
       content_type_id: insight
-      revision: 4
+      revision: 5
     page_title: Power Dynamics
     insight_short: Power Dynamics
     insight_title: Power dynamics, if not acknowledged, can affect the strength and
@@ -5116,6 +5142,8 @@ theme:
         id: 6I9Dibp3UqHX3S7XE3kvE
     - sys:
         id: 5cdDjuEjsojN5AfyV1EOS4
+    - sys:
+        id: Tw13sEoMOePK6bgMc0wlp
     related_quotes:
     - sys:
         id: merH5JaNh2vv9RTTPGmNL
@@ -5133,9 +5161,9 @@ theme:
   - sys:
       id: jyKMbw9LvNhaGzth0U8Dw
       created_at: !ruby/object:DateTime 2019-05-06 20:32:40.508000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 09:30:43.305000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 18:02:26.788000000 Z
       content_type_id: insight
-      revision: 4
+      revision: 5
     page_title: Structure and Clarity
     insight_short: Structure and Clarity
     insight_title: Grantees crave structure and clarity with regards to 1) the funding
@@ -5503,6 +5531,8 @@ theme:
         id: 6I9Dibp3UqHX3S7XE3kvE
     - sys:
         id: 5cdDjuEjsojN5AfyV1EOS4
+    - sys:
+        id: 3RR7vk5GdaGzdPJpbHJ8rv
     related_quotes:
     - sys:
         id: 4ynm2yzOsV7LloWEHXkrPx
@@ -5836,9 +5866,9 @@ theme:
   - sys:
       id: 4zcMXjfMSLsPoJwQAEzWXZ
       created_at: !ruby/object:DateTime 2019-05-22 00:26:06.129000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 09:30:43.581000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 18:02:26.793000000 Z
       content_type_id: insight
-      revision: 6
+      revision: 7
     page_title: Reporting and Metrics
     insight_short: Reporting and Metrics
     insight_title: Reporting and metrics are not always perceived as useful and valuable
@@ -6078,14 +6108,18 @@ theme:
     - sys:
         id: 2jPpX1aCPfGnLCldon7zAv
         created_at: !ruby/object:DateTime 2019-05-02 23:44:26.109000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:30:32.095000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-21 16:26:07.188000000 Z
         content_type_id: recommendation
-        revision: 4
+        revision: 5
       page_title: Integrate Reporting with Workflow
       recommendation: 'Proactively talk with grantees about how __reporting can better
         fit into their existing workflow__ and improve their organizational health. '
       recommendation_short: Integrate Reporting with Workflow
       related_resources:
+      - sys:
+          id: W3P6BjUxiweX2m4ZjJxJY
+      - sys:
+          id: 3V0M3trGkaHPZxengYFxNz
       - sys:
           id: 648LvvJeMpyWszz9HUvRGp
       - sys:
@@ -6094,10 +6128,6 @@ theme:
           id: 3FQVA12oDvZRa7iUrTJaas
       - sys:
           id: 3CCx75O0FW2wxvEwZEg11q
-      - sys:
-          id: W3P6BjUxiweX2m4ZjJxJY
-      - sys:
-          id: 3V0M3trGkaHPZxengYFxNz
       - sys:
           id: 6I9Dibp3UqHX3S7XE3kvE
       - sys:
@@ -6205,6 +6235,8 @@ theme:
         id: 6I9Dibp3UqHX3S7XE3kvE
     - sys:
         id: 5cdDjuEjsojN5AfyV1EOS4
+    - sys:
+        id: 4PthJ9gYrpxampm69VH4EU
     related_quotes:
     - sys:
         id: Uxx50gbi4lNbCZDCatwS0
@@ -6326,14 +6358,18 @@ theme:
   - sys:
       id: 2jPpX1aCPfGnLCldon7zAv
       created_at: !ruby/object:DateTime 2019-05-02 23:44:26.109000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:30:32.095000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 16:26:07.188000000 Z
       content_type_id: recommendation
-      revision: 4
+      revision: 5
     page_title: Integrate Reporting with Workflow
     recommendation: 'Proactively talk with grantees about how __reporting can better
       fit into their existing workflow__ and improve their organizational health. '
     recommendation_short: Integrate Reporting with Workflow
     related_resources:
+    - sys:
+        id: W3P6BjUxiweX2m4ZjJxJY
+    - sys:
+        id: 3V0M3trGkaHPZxengYFxNz
     - sys:
         id: 648LvvJeMpyWszz9HUvRGp
     - sys:
@@ -6342,10 +6378,6 @@ theme:
         id: 3FQVA12oDvZRa7iUrTJaas
     - sys:
         id: 3CCx75O0FW2wxvEwZEg11q
-    - sys:
-        id: W3P6BjUxiweX2m4ZjJxJY
-    - sys:
-        id: 3V0M3trGkaHPZxengYFxNz
     - sys:
         id: 6I9Dibp3UqHX3S7XE3kvE
     - sys:

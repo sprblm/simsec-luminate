@@ -16,14 +16,15 @@ recommendation:
   - sys:
       id: 648LvvJeMpyWszz9HUvRGp
       created_at: !ruby/object:DateTime 2019-05-03 03:28:11.508000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 12:36:14.381000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 15:15:54.163000000 Z
       content_type_id: resource
-      revision: 5
+      revision: 8
     resource_title: 'On Trust & Transparency: Full Report'
     resource_description: |-
       Download the full report.
+
       Source: Simply Secure
-    resource_url: https://simplysecure.org/resources/ott/OnTrustandTransparency-20190621.pdf
+    resource_url: https://simplysecure.org/resources/ott/On_Trust_and_Transparency.pdf
     resource_type: Report
     insight_tag:
     - Deep, trusting relationships
@@ -49,6 +50,7 @@ recommendation:
     - Clarify Roles and Responsibilities
     - Clear, Collaborative Outputs
     - Clearly Communicate your Identity
+    - Communicate Funding Approach and Impact Model
     - Core Funding and Flexibility
     - Create Processes for Feedback on Metrics
     - Develop Transition Strategies
@@ -323,14 +325,15 @@ recommendation:
   - sys:
       id: 648LvvJeMpyWszz9HUvRGp
       created_at: !ruby/object:DateTime 2019-05-03 03:28:11.508000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 12:36:14.381000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 15:15:54.163000000 Z
       content_type_id: resource
-      revision: 5
+      revision: 8
     resource_title: 'On Trust & Transparency: Full Report'
     resource_description: |-
       Download the full report.
+
       Source: Simply Secure
-    resource_url: https://simplysecure.org/resources/ott/OnTrustandTransparency-20190621.pdf
+    resource_url: https://simplysecure.org/resources/ott/On_Trust_and_Transparency.pdf
     resource_type: Report
     insight_tag:
     - Deep, trusting relationships
@@ -356,6 +359,7 @@ recommendation:
     - Clarify Roles and Responsibilities
     - Clear, Collaborative Outputs
     - Clearly Communicate your Identity
+    - Communicate Funding Approach and Impact Model
     - Core Funding and Flexibility
     - Create Processes for Feedback on Metrics
     - Develop Transition Strategies
@@ -626,14 +630,15 @@ recommendation:
   - sys:
       id: 648LvvJeMpyWszz9HUvRGp
       created_at: !ruby/object:DateTime 2019-05-03 03:28:11.508000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 12:36:14.381000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 15:15:54.163000000 Z
       content_type_id: resource
-      revision: 5
+      revision: 8
     resource_title: 'On Trust & Transparency: Full Report'
     resource_description: |-
       Download the full report.
+
       Source: Simply Secure
-    resource_url: https://simplysecure.org/resources/ott/OnTrustandTransparency-20190621.pdf
+    resource_url: https://simplysecure.org/resources/ott/On_Trust_and_Transparency.pdf
     resource_type: Report
     insight_tag:
     - Deep, trusting relationships
@@ -659,6 +664,7 @@ recommendation:
     - Clarify Roles and Responsibilities
     - Clear, Collaborative Outputs
     - Clearly Communicate your Identity
+    - Communicate Funding Approach and Impact Model
     - Core Funding and Flexibility
     - Create Processes for Feedback on Metrics
     - Develop Transition Strategies
@@ -936,14 +942,15 @@ recommendation:
   - sys:
       id: 648LvvJeMpyWszz9HUvRGp
       created_at: !ruby/object:DateTime 2019-05-03 03:28:11.508000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 12:36:14.381000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 15:15:54.163000000 Z
       content_type_id: resource
-      revision: 5
+      revision: 8
     resource_title: 'On Trust & Transparency: Full Report'
     resource_description: |-
       Download the full report.
+
       Source: Simply Secure
-    resource_url: https://simplysecure.org/resources/ott/OnTrustandTransparency-20190621.pdf
+    resource_url: https://simplysecure.org/resources/ott/On_Trust_and_Transparency.pdf
     resource_type: Report
     insight_tag:
     - Deep, trusting relationships
@@ -969,6 +976,7 @@ recommendation:
     - Clarify Roles and Responsibilities
     - Clear, Collaborative Outputs
     - Clearly Communicate your Identity
+    - Communicate Funding Approach and Impact Model
     - Core Funding and Flexibility
     - Create Processes for Feedback on Metrics
     - Develop Transition Strategies
@@ -1325,25 +1333,98 @@ recommendation:
 - sys:
     id: 2jPpX1aCPfGnLCldon7zAv
     created_at: !ruby/object:DateTime 2019-05-02 23:44:26.109000000 Z
-    updated_at: !ruby/object:DateTime 2019-06-21 10:30:32.095000000 Z
+    updated_at: !ruby/object:DateTime 2019-06-21 16:26:07.188000000 Z
     content_type_id: recommendation
-    revision: 4
+    revision: 5
   page_title: Integrate Reporting with Workflow
   recommendation: 'Proactively talk with grantees about how __reporting can better
     fit into their existing workflow__ and improve their organizational health. '
   recommendation_short: Integrate Reporting with Workflow
   related_resources:
   - sys:
+      id: W3P6BjUxiweX2m4ZjJxJY
+      created_at: !ruby/object:DateTime 2019-06-20 22:20:26.963000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 10:27:54.787000000 Z
+      content_type_id: resource
+      revision: 3
+    resource_title: A practical guide to outcome-focused philanthropy
+    resource_description: "“Outcome-focused philanthropy” is a philanthropic framework
+      that emphasizes rigor, results, learning, and adaptation. This guidebook and
+      set of worksheets helps foundation staff integrate this approach across all
+      stages of philanthropic work. \nSource: Lori Grange, Hewlett Foundation"
+    resource_url: https://hewlett.org/practical-guide-outcome-focused-philanthropy/
+    resource_type: Knowledge Base
+    insight_tag:
+    - Deep, trusting relationships
+    - Structure and clarity
+    - Multi-year flexible funding
+    - Reporting and metrics
+    - Non-financial support
+    - Power dynamics
+    - Funder reputation
+    - Diversity, equity, and inclusion
+    - Funder roles
+    recommendation_tag:
+    - Align Metrics with Existing MEL Frameworks
+    - Alternative Funding Models
+    - Alternative Models of Portfolio Support
+    - Alternative Portfolio Support Availability
+    - Be Explicit About Roles
+    - Be Explicit About the Role DEI Plays
+    - Be Respectful Towards Existing Networks
+    - Clarify Grantee Expectations
+    - Clarify the Funding Process
+    - Clarify Roles and Responsibilities
+    - Clear, Collaborative Outputs
+    - Clearly Communicate your Identity
+    - Core Funding and Flexibility
+    - Create Processes for Feedback on Metrics
+    - Develop Transition Strategies
+    - End of Relationship Feedback
+    - Grant Reporting Guidance
+    - Integrate Reporting with Workflow
+    - Invest in Organizational Health
+    - Invite Proposed Metrics
+    - Iterative Feedback and Learning with Grantees
+    - Offer Genuine Space for Dialogue
+    - Portfolio Support Autonomy
+    - Provide Timely Feedback
+    - Strategic and Financial Planning Support Post-Funding
+    - Strategic Priorities
+    - Sync Impact Measurement and Reporting
+    - Time to Develop Impact Measurement Framework
+    - Transparency and Honesty in Communications with Grantees
+    - Understanding and Communicating Power Systems
+  - sys:
+      id: 3V0M3trGkaHPZxengYFxNz
+      created_at: !ruby/object:DateTime 2019-06-21 09:09:09.303000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 09:09:09.303000000 Z
+      content_type_id: resource
+      revision: 1
+    resource_title: 'Annual reports: Stop the madness!'
+    resource_description: This article discusses the poor benefit/cost ratio for annual
+      reports and advises nonprofit leaders on alternative ways to allocate their
+      energy to strategic fundraising communications and efforts.
+    resource_url: https://hewlett.org/annual-reports-stop-the-madness/
+    resource_type: Article
+    insight_tag:
+    - Reporting and metrics
+    recommendation_tag:
+    - Grant Reporting Guidance
+    - Integrate Reporting with Workflow
+    - Provide Timely Feedback
+  - sys:
       id: 648LvvJeMpyWszz9HUvRGp
       created_at: !ruby/object:DateTime 2019-05-03 03:28:11.508000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 12:36:14.381000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 15:15:54.163000000 Z
       content_type_id: resource
-      revision: 5
+      revision: 8
     resource_title: 'On Trust & Transparency: Full Report'
     resource_description: |-
       Download the full report.
+
       Source: Simply Secure
-    resource_url: https://simplysecure.org/resources/ott/OnTrustandTransparency-20190621.pdf
+    resource_url: https://simplysecure.org/resources/ott/On_Trust_and_Transparency.pdf
     resource_type: Report
     insight_tag:
     - Deep, trusting relationships
@@ -1369,6 +1450,7 @@ recommendation:
     - Clarify Roles and Responsibilities
     - Clear, Collaborative Outputs
     - Clearly Communicate your Identity
+    - Communicate Funding Approach and Impact Model
     - Core Funding and Flexibility
     - Create Processes for Feedback on Metrics
     - Develop Transition Strategies
@@ -1500,78 +1582,6 @@ recommendation:
     - Time to Develop Impact Measurement Framework
     - Transparency and Honesty in Communications with Grantees
     - Understanding and Communicating Power Systems
-  - sys:
-      id: W3P6BjUxiweX2m4ZjJxJY
-      created_at: !ruby/object:DateTime 2019-06-20 22:20:26.963000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:54.787000000 Z
-      content_type_id: resource
-      revision: 3
-    resource_title: A practical guide to outcome-focused philanthropy
-    resource_description: "“Outcome-focused philanthropy” is a philanthropic framework
-      that emphasizes rigor, results, learning, and adaptation. This guidebook and
-      set of worksheets helps foundation staff integrate this approach across all
-      stages of philanthropic work. \nSource: Lori Grange, Hewlett Foundation"
-    resource_url: https://hewlett.org/practical-guide-outcome-focused-philanthropy/
-    resource_type: Knowledge Base
-    insight_tag:
-    - Deep, trusting relationships
-    - Structure and clarity
-    - Multi-year flexible funding
-    - Reporting and metrics
-    - Non-financial support
-    - Power dynamics
-    - Funder reputation
-    - Diversity, equity, and inclusion
-    - Funder roles
-    recommendation_tag:
-    - Align Metrics with Existing MEL Frameworks
-    - Alternative Funding Models
-    - Alternative Models of Portfolio Support
-    - Alternative Portfolio Support Availability
-    - Be Explicit About Roles
-    - Be Explicit About the Role DEI Plays
-    - Be Respectful Towards Existing Networks
-    - Clarify Grantee Expectations
-    - Clarify the Funding Process
-    - Clarify Roles and Responsibilities
-    - Clear, Collaborative Outputs
-    - Clearly Communicate your Identity
-    - Core Funding and Flexibility
-    - Create Processes for Feedback on Metrics
-    - Develop Transition Strategies
-    - End of Relationship Feedback
-    - Grant Reporting Guidance
-    - Integrate Reporting with Workflow
-    - Invest in Organizational Health
-    - Invite Proposed Metrics
-    - Iterative Feedback and Learning with Grantees
-    - Offer Genuine Space for Dialogue
-    - Portfolio Support Autonomy
-    - Provide Timely Feedback
-    - Strategic and Financial Planning Support Post-Funding
-    - Strategic Priorities
-    - Sync Impact Measurement and Reporting
-    - Time to Develop Impact Measurement Framework
-    - Transparency and Honesty in Communications with Grantees
-    - Understanding and Communicating Power Systems
-  - sys:
-      id: 3V0M3trGkaHPZxengYFxNz
-      created_at: !ruby/object:DateTime 2019-06-21 09:09:09.303000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 09:09:09.303000000 Z
-      content_type_id: resource
-      revision: 1
-    resource_title: 'Annual reports: Stop the madness!'
-    resource_description: This article discusses the poor benefit/cost ratio for annual
-      reports and advises nonprofit leaders on alternative ways to allocate their
-      energy to strategic fundraising communications and efforts.
-    resource_url: https://hewlett.org/annual-reports-stop-the-madness/
-    resource_type: Article
-    insight_tag:
-    - Reporting and metrics
-    recommendation_tag:
-    - Grant Reporting Guidance
-    - Integrate Reporting with Workflow
-    - Provide Timely Feedback
   - sys:
       id: 6I9Dibp3UqHX3S7XE3kvE
       created_at: !ruby/object:DateTime 2019-06-21 09:09:08.982000000 Z
@@ -1710,14 +1720,15 @@ recommendation:
   - sys:
       id: 648LvvJeMpyWszz9HUvRGp
       created_at: !ruby/object:DateTime 2019-05-03 03:28:11.508000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 12:36:14.381000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 15:15:54.163000000 Z
       content_type_id: resource
-      revision: 5
+      revision: 8
     resource_title: 'On Trust & Transparency: Full Report'
     resource_description: |-
       Download the full report.
+
       Source: Simply Secure
-    resource_url: https://simplysecure.org/resources/ott/OnTrustandTransparency-20190621.pdf
+    resource_url: https://simplysecure.org/resources/ott/On_Trust_and_Transparency.pdf
     resource_type: Report
     insight_tag:
     - Deep, trusting relationships
@@ -1743,6 +1754,7 @@ recommendation:
     - Clarify Roles and Responsibilities
     - Clear, Collaborative Outputs
     - Clearly Communicate your Identity
+    - Communicate Funding Approach and Impact Model
     - Core Funding and Flexibility
     - Create Processes for Feedback on Metrics
     - Develop Transition Strategies
@@ -2047,14 +2059,15 @@ recommendation:
   - sys:
       id: 648LvvJeMpyWszz9HUvRGp
       created_at: !ruby/object:DateTime 2019-05-03 03:28:11.508000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 12:36:14.381000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 15:15:54.163000000 Z
       content_type_id: resource
-      revision: 5
+      revision: 8
     resource_title: 'On Trust & Transparency: Full Report'
     resource_description: |-
       Download the full report.
+
       Source: Simply Secure
-    resource_url: https://simplysecure.org/resources/ott/OnTrustandTransparency-20190621.pdf
+    resource_url: https://simplysecure.org/resources/ott/On_Trust_and_Transparency.pdf
     resource_type: Report
     insight_tag:
     - Deep, trusting relationships
@@ -2080,6 +2093,7 @@ recommendation:
     - Clarify Roles and Responsibilities
     - Clear, Collaborative Outputs
     - Clearly Communicate your Identity
+    - Communicate Funding Approach and Impact Model
     - Core Funding and Flexibility
     - Create Processes for Feedback on Metrics
     - Develop Transition Strategies
@@ -2415,14 +2429,15 @@ recommendation:
   - sys:
       id: 648LvvJeMpyWszz9HUvRGp
       created_at: !ruby/object:DateTime 2019-05-03 03:28:11.508000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 12:36:14.381000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 15:15:54.163000000 Z
       content_type_id: resource
-      revision: 5
+      revision: 8
     resource_title: 'On Trust & Transparency: Full Report'
     resource_description: |-
       Download the full report.
+
       Source: Simply Secure
-    resource_url: https://simplysecure.org/resources/ott/OnTrustandTransparency-20190621.pdf
+    resource_url: https://simplysecure.org/resources/ott/On_Trust_and_Transparency.pdf
     resource_type: Report
     insight_tag:
     - Deep, trusting relationships
@@ -2448,6 +2463,7 @@ recommendation:
     - Clarify Roles and Responsibilities
     - Clear, Collaborative Outputs
     - Clearly Communicate your Identity
+    - Communicate Funding Approach and Impact Model
     - Core Funding and Flexibility
     - Create Processes for Feedback on Metrics
     - Develop Transition Strategies
@@ -2762,14 +2778,15 @@ recommendation:
   - sys:
       id: 648LvvJeMpyWszz9HUvRGp
       created_at: !ruby/object:DateTime 2019-05-03 03:28:11.508000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 12:36:14.381000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 15:15:54.163000000 Z
       content_type_id: resource
-      revision: 5
+      revision: 8
     resource_title: 'On Trust & Transparency: Full Report'
     resource_description: |-
       Download the full report.
+
       Source: Simply Secure
-    resource_url: https://simplysecure.org/resources/ott/OnTrustandTransparency-20190621.pdf
+    resource_url: https://simplysecure.org/resources/ott/On_Trust_and_Transparency.pdf
     resource_type: Report
     insight_tag:
     - Deep, trusting relationships
@@ -2795,6 +2812,7 @@ recommendation:
     - Clarify Roles and Responsibilities
     - Clear, Collaborative Outputs
     - Clearly Communicate your Identity
+    - Communicate Funding Approach and Impact Model
     - Core Funding and Flexibility
     - Create Processes for Feedback on Metrics
     - Develop Transition Strategies
@@ -3109,14 +3127,15 @@ recommendation:
   - sys:
       id: 648LvvJeMpyWszz9HUvRGp
       created_at: !ruby/object:DateTime 2019-05-03 03:28:11.508000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 12:36:14.381000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 15:15:54.163000000 Z
       content_type_id: resource
-      revision: 5
+      revision: 8
     resource_title: 'On Trust & Transparency: Full Report'
     resource_description: |-
       Download the full report.
+
       Source: Simply Secure
-    resource_url: https://simplysecure.org/resources/ott/OnTrustandTransparency-20190621.pdf
+    resource_url: https://simplysecure.org/resources/ott/On_Trust_and_Transparency.pdf
     resource_type: Report
     insight_tag:
     - Deep, trusting relationships
@@ -3142,6 +3161,7 @@ recommendation:
     - Clarify Roles and Responsibilities
     - Clear, Collaborative Outputs
     - Clearly Communicate your Identity
+    - Communicate Funding Approach and Impact Model
     - Core Funding and Flexibility
     - Create Processes for Feedback on Metrics
     - Develop Transition Strategies
@@ -3389,14 +3409,15 @@ recommendation:
   - sys:
       id: 648LvvJeMpyWszz9HUvRGp
       created_at: !ruby/object:DateTime 2019-05-03 03:28:11.508000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 12:36:14.381000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 15:15:54.163000000 Z
       content_type_id: resource
-      revision: 5
+      revision: 8
     resource_title: 'On Trust & Transparency: Full Report'
     resource_description: |-
       Download the full report.
+
       Source: Simply Secure
-    resource_url: https://simplysecure.org/resources/ott/OnTrustandTransparency-20190621.pdf
+    resource_url: https://simplysecure.org/resources/ott/On_Trust_and_Transparency.pdf
     resource_type: Report
     insight_tag:
     - Deep, trusting relationships
@@ -3422,6 +3443,7 @@ recommendation:
     - Clarify Roles and Responsibilities
     - Clear, Collaborative Outputs
     - Clearly Communicate your Identity
+    - Communicate Funding Approach and Impact Model
     - Core Funding and Flexibility
     - Create Processes for Feedback on Metrics
     - Develop Transition Strategies
@@ -3648,14 +3670,15 @@ recommendation:
   - sys:
       id: 648LvvJeMpyWszz9HUvRGp
       created_at: !ruby/object:DateTime 2019-05-03 03:28:11.508000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 12:36:14.381000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 15:15:54.163000000 Z
       content_type_id: resource
-      revision: 5
+      revision: 8
     resource_title: 'On Trust & Transparency: Full Report'
     resource_description: |-
       Download the full report.
+
       Source: Simply Secure
-    resource_url: https://simplysecure.org/resources/ott/OnTrustandTransparency-20190621.pdf
+    resource_url: https://simplysecure.org/resources/ott/On_Trust_and_Transparency.pdf
     resource_type: Report
     insight_tag:
     - Deep, trusting relationships
@@ -3681,6 +3704,7 @@ recommendation:
     - Clarify Roles and Responsibilities
     - Clear, Collaborative Outputs
     - Clearly Communicate your Identity
+    - Communicate Funding Approach and Impact Model
     - Core Funding and Flexibility
     - Create Processes for Feedback on Metrics
     - Develop Transition Strategies
@@ -3969,14 +3993,15 @@ recommendation:
   - sys:
       id: 648LvvJeMpyWszz9HUvRGp
       created_at: !ruby/object:DateTime 2019-05-03 03:28:11.508000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 12:36:14.381000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 15:15:54.163000000 Z
       content_type_id: resource
-      revision: 5
+      revision: 8
     resource_title: 'On Trust & Transparency: Full Report'
     resource_description: |-
       Download the full report.
+
       Source: Simply Secure
-    resource_url: https://simplysecure.org/resources/ott/OnTrustandTransparency-20190621.pdf
+    resource_url: https://simplysecure.org/resources/ott/On_Trust_and_Transparency.pdf
     resource_type: Report
     insight_tag:
     - Deep, trusting relationships
@@ -4002,6 +4027,7 @@ recommendation:
     - Clarify Roles and Responsibilities
     - Clear, Collaborative Outputs
     - Clearly Communicate your Identity
+    - Communicate Funding Approach and Impact Model
     - Core Funding and Flexibility
     - Create Processes for Feedback on Metrics
     - Develop Transition Strategies
@@ -4257,14 +4283,15 @@ recommendation:
   - sys:
       id: 648LvvJeMpyWszz9HUvRGp
       created_at: !ruby/object:DateTime 2019-05-03 03:28:11.508000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 12:36:14.381000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 15:15:54.163000000 Z
       content_type_id: resource
-      revision: 5
+      revision: 8
     resource_title: 'On Trust & Transparency: Full Report'
     resource_description: |-
       Download the full report.
+
       Source: Simply Secure
-    resource_url: https://simplysecure.org/resources/ott/OnTrustandTransparency-20190621.pdf
+    resource_url: https://simplysecure.org/resources/ott/On_Trust_and_Transparency.pdf
     resource_type: Report
     insight_tag:
     - Deep, trusting relationships
@@ -4290,6 +4317,7 @@ recommendation:
     - Clarify Roles and Responsibilities
     - Clear, Collaborative Outputs
     - Clearly Communicate your Identity
+    - Communicate Funding Approach and Impact Model
     - Core Funding and Flexibility
     - Create Processes for Feedback on Metrics
     - Develop Transition Strategies
@@ -4608,14 +4636,15 @@ recommendation:
   - sys:
       id: 648LvvJeMpyWszz9HUvRGp
       created_at: !ruby/object:DateTime 2019-05-03 03:28:11.508000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 12:36:14.381000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 15:15:54.163000000 Z
       content_type_id: resource
-      revision: 5
+      revision: 8
     resource_title: 'On Trust & Transparency: Full Report'
     resource_description: |-
       Download the full report.
+
       Source: Simply Secure
-    resource_url: https://simplysecure.org/resources/ott/OnTrustandTransparency-20190621.pdf
+    resource_url: https://simplysecure.org/resources/ott/On_Trust_and_Transparency.pdf
     resource_type: Report
     insight_tag:
     - Deep, trusting relationships
@@ -4641,6 +4670,7 @@ recommendation:
     - Clarify Roles and Responsibilities
     - Clear, Collaborative Outputs
     - Clearly Communicate your Identity
+    - Communicate Funding Approach and Impact Model
     - Core Funding and Flexibility
     - Create Processes for Feedback on Metrics
     - Develop Transition Strategies
@@ -4932,14 +4962,15 @@ recommendation:
   - sys:
       id: 648LvvJeMpyWszz9HUvRGp
       created_at: !ruby/object:DateTime 2019-05-03 03:28:11.508000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 12:36:14.381000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 15:15:54.163000000 Z
       content_type_id: resource
-      revision: 5
+      revision: 8
     resource_title: 'On Trust & Transparency: Full Report'
     resource_description: |-
       Download the full report.
+
       Source: Simply Secure
-    resource_url: https://simplysecure.org/resources/ott/OnTrustandTransparency-20190621.pdf
+    resource_url: https://simplysecure.org/resources/ott/On_Trust_and_Transparency.pdf
     resource_type: Report
     insight_tag:
     - Deep, trusting relationships
@@ -4965,6 +4996,7 @@ recommendation:
     - Clarify Roles and Responsibilities
     - Clear, Collaborative Outputs
     - Clearly Communicate your Identity
+    - Communicate Funding Approach and Impact Model
     - Core Funding and Flexibility
     - Create Processes for Feedback on Metrics
     - Develop Transition Strategies
@@ -5333,14 +5365,15 @@ recommendation:
   - sys:
       id: 648LvvJeMpyWszz9HUvRGp
       created_at: !ruby/object:DateTime 2019-05-03 03:28:11.508000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 12:36:14.381000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 15:15:54.163000000 Z
       content_type_id: resource
-      revision: 5
+      revision: 8
     resource_title: 'On Trust & Transparency: Full Report'
     resource_description: |-
       Download the full report.
+
       Source: Simply Secure
-    resource_url: https://simplysecure.org/resources/ott/OnTrustandTransparency-20190621.pdf
+    resource_url: https://simplysecure.org/resources/ott/On_Trust_and_Transparency.pdf
     resource_type: Report
     insight_tag:
     - Deep, trusting relationships
@@ -5366,6 +5399,7 @@ recommendation:
     - Clarify Roles and Responsibilities
     - Clear, Collaborative Outputs
     - Clearly Communicate your Identity
+    - Communicate Funding Approach and Impact Model
     - Core Funding and Flexibility
     - Create Processes for Feedback on Metrics
     - Develop Transition Strategies
@@ -5715,14 +5749,15 @@ recommendation:
   - sys:
       id: 648LvvJeMpyWszz9HUvRGp
       created_at: !ruby/object:DateTime 2019-05-03 03:28:11.508000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 12:36:14.381000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 15:15:54.163000000 Z
       content_type_id: resource
-      revision: 5
+      revision: 8
     resource_title: 'On Trust & Transparency: Full Report'
     resource_description: |-
       Download the full report.
+
       Source: Simply Secure
-    resource_url: https://simplysecure.org/resources/ott/OnTrustandTransparency-20190621.pdf
+    resource_url: https://simplysecure.org/resources/ott/On_Trust_and_Transparency.pdf
     resource_type: Report
     insight_tag:
     - Deep, trusting relationships
@@ -5748,6 +5783,7 @@ recommendation:
     - Clarify Roles and Responsibilities
     - Clear, Collaborative Outputs
     - Clearly Communicate your Identity
+    - Communicate Funding Approach and Impact Model
     - Core Funding and Flexibility
     - Create Processes for Feedback on Metrics
     - Develop Transition Strategies
@@ -6136,14 +6172,15 @@ recommendation:
   - sys:
       id: 648LvvJeMpyWszz9HUvRGp
       created_at: !ruby/object:DateTime 2019-05-03 03:28:11.508000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 12:36:14.381000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 15:15:54.163000000 Z
       content_type_id: resource
-      revision: 5
+      revision: 8
     resource_title: 'On Trust & Transparency: Full Report'
     resource_description: |-
       Download the full report.
+
       Source: Simply Secure
-    resource_url: https://simplysecure.org/resources/ott/OnTrustandTransparency-20190621.pdf
+    resource_url: https://simplysecure.org/resources/ott/On_Trust_and_Transparency.pdf
     resource_type: Report
     insight_tag:
     - Deep, trusting relationships
@@ -6169,6 +6206,7 @@ recommendation:
     - Clarify Roles and Responsibilities
     - Clear, Collaborative Outputs
     - Clearly Communicate your Identity
+    - Communicate Funding Approach and Impact Model
     - Core Funding and Flexibility
     - Create Processes for Feedback on Metrics
     - Develop Transition Strategies
@@ -6537,14 +6575,15 @@ recommendation:
   - sys:
       id: 648LvvJeMpyWszz9HUvRGp
       created_at: !ruby/object:DateTime 2019-05-03 03:28:11.508000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 12:36:14.381000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 15:15:54.163000000 Z
       content_type_id: resource
-      revision: 5
+      revision: 8
     resource_title: 'On Trust & Transparency: Full Report'
     resource_description: |-
       Download the full report.
+
       Source: Simply Secure
-    resource_url: https://simplysecure.org/resources/ott/OnTrustandTransparency-20190621.pdf
+    resource_url: https://simplysecure.org/resources/ott/On_Trust_and_Transparency.pdf
     resource_type: Report
     insight_tag:
     - Deep, trusting relationships
@@ -6570,6 +6609,7 @@ recommendation:
     - Clarify Roles and Responsibilities
     - Clear, Collaborative Outputs
     - Clearly Communicate your Identity
+    - Communicate Funding Approach and Impact Model
     - Core Funding and Flexibility
     - Create Processes for Feedback on Metrics
     - Develop Transition Strategies
@@ -6817,14 +6857,15 @@ recommendation:
   - sys:
       id: 648LvvJeMpyWszz9HUvRGp
       created_at: !ruby/object:DateTime 2019-05-03 03:28:11.508000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 12:36:14.381000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 15:15:54.163000000 Z
       content_type_id: resource
-      revision: 5
+      revision: 8
     resource_title: 'On Trust & Transparency: Full Report'
     resource_description: |-
       Download the full report.
+
       Source: Simply Secure
-    resource_url: https://simplysecure.org/resources/ott/OnTrustandTransparency-20190621.pdf
+    resource_url: https://simplysecure.org/resources/ott/On_Trust_and_Transparency.pdf
     resource_type: Report
     insight_tag:
     - Deep, trusting relationships
@@ -6850,6 +6891,7 @@ recommendation:
     - Clarify Roles and Responsibilities
     - Clear, Collaborative Outputs
     - Clearly Communicate your Identity
+    - Communicate Funding Approach and Impact Model
     - Core Funding and Flexibility
     - Create Processes for Feedback on Metrics
     - Develop Transition Strategies
@@ -7098,14 +7140,15 @@ recommendation:
   - sys:
       id: 648LvvJeMpyWszz9HUvRGp
       created_at: !ruby/object:DateTime 2019-05-03 03:28:11.508000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 12:36:14.381000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 15:15:54.163000000 Z
       content_type_id: resource
-      revision: 5
+      revision: 8
     resource_title: 'On Trust & Transparency: Full Report'
     resource_description: |-
       Download the full report.
+
       Source: Simply Secure
-    resource_url: https://simplysecure.org/resources/ott/OnTrustandTransparency-20190621.pdf
+    resource_url: https://simplysecure.org/resources/ott/On_Trust_and_Transparency.pdf
     resource_type: Report
     insight_tag:
     - Deep, trusting relationships
@@ -7131,6 +7174,7 @@ recommendation:
     - Clarify Roles and Responsibilities
     - Clear, Collaborative Outputs
     - Clearly Communicate your Identity
+    - Communicate Funding Approach and Impact Model
     - Core Funding and Flexibility
     - Create Processes for Feedback on Metrics
     - Develop Transition Strategies
@@ -7380,14 +7424,15 @@ recommendation:
   - sys:
       id: 648LvvJeMpyWszz9HUvRGp
       created_at: !ruby/object:DateTime 2019-05-03 03:28:11.508000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 12:36:14.381000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 15:15:54.163000000 Z
       content_type_id: resource
-      revision: 5
+      revision: 8
     resource_title: 'On Trust & Transparency: Full Report'
     resource_description: |-
       Download the full report.
+
       Source: Simply Secure
-    resource_url: https://simplysecure.org/resources/ott/OnTrustandTransparency-20190621.pdf
+    resource_url: https://simplysecure.org/resources/ott/On_Trust_and_Transparency.pdf
     resource_type: Report
     insight_tag:
     - Deep, trusting relationships
@@ -7413,6 +7458,7 @@ recommendation:
     - Clarify Roles and Responsibilities
     - Clear, Collaborative Outputs
     - Clearly Communicate your Identity
+    - Communicate Funding Approach and Impact Model
     - Core Funding and Flexibility
     - Create Processes for Feedback on Metrics
     - Develop Transition Strategies
@@ -7736,14 +7782,15 @@ recommendation:
   - sys:
       id: 648LvvJeMpyWszz9HUvRGp
       created_at: !ruby/object:DateTime 2019-05-03 03:28:11.508000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 12:36:14.381000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 15:15:54.163000000 Z
       content_type_id: resource
-      revision: 5
+      revision: 8
     resource_title: 'On Trust & Transparency: Full Report'
     resource_description: |-
       Download the full report.
+
       Source: Simply Secure
-    resource_url: https://simplysecure.org/resources/ott/OnTrustandTransparency-20190621.pdf
+    resource_url: https://simplysecure.org/resources/ott/On_Trust_and_Transparency.pdf
     resource_type: Report
     insight_tag:
     - Deep, trusting relationships
@@ -7769,6 +7816,7 @@ recommendation:
     - Clarify Roles and Responsibilities
     - Clear, Collaborative Outputs
     - Clearly Communicate your Identity
+    - Communicate Funding Approach and Impact Model
     - Core Funding and Flexibility
     - Create Processes for Feedback on Metrics
     - Develop Transition Strategies
@@ -8082,14 +8130,15 @@ recommendation:
   - sys:
       id: 648LvvJeMpyWszz9HUvRGp
       created_at: !ruby/object:DateTime 2019-05-03 03:28:11.508000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 12:36:14.381000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 15:15:54.163000000 Z
       content_type_id: resource
-      revision: 5
+      revision: 8
     resource_title: 'On Trust & Transparency: Full Report'
     resource_description: |-
       Download the full report.
+
       Source: Simply Secure
-    resource_url: https://simplysecure.org/resources/ott/OnTrustandTransparency-20190621.pdf
+    resource_url: https://simplysecure.org/resources/ott/On_Trust_and_Transparency.pdf
     resource_type: Report
     insight_tag:
     - Deep, trusting relationships
@@ -8115,6 +8164,7 @@ recommendation:
     - Clarify Roles and Responsibilities
     - Clear, Collaborative Outputs
     - Clearly Communicate your Identity
+    - Communicate Funding Approach and Impact Model
     - Core Funding and Flexibility
     - Create Processes for Feedback on Metrics
     - Develop Transition Strategies
@@ -8440,14 +8490,15 @@ recommendation:
   - sys:
       id: 648LvvJeMpyWszz9HUvRGp
       created_at: !ruby/object:DateTime 2019-05-03 03:28:11.508000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 12:36:14.381000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 15:15:54.163000000 Z
       content_type_id: resource
-      revision: 5
+      revision: 8
     resource_title: 'On Trust & Transparency: Full Report'
     resource_description: |-
       Download the full report.
+
       Source: Simply Secure
-    resource_url: https://simplysecure.org/resources/ott/OnTrustandTransparency-20190621.pdf
+    resource_url: https://simplysecure.org/resources/ott/On_Trust_and_Transparency.pdf
     resource_type: Report
     insight_tag:
     - Deep, trusting relationships
@@ -8473,6 +8524,7 @@ recommendation:
     - Clarify Roles and Responsibilities
     - Clear, Collaborative Outputs
     - Clearly Communicate your Identity
+    - Communicate Funding Approach and Impact Model
     - Core Funding and Flexibility
     - Create Processes for Feedback on Metrics
     - Develop Transition Strategies
@@ -8824,14 +8876,15 @@ recommendation:
   - sys:
       id: 648LvvJeMpyWszz9HUvRGp
       created_at: !ruby/object:DateTime 2019-05-03 03:28:11.508000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 12:36:14.381000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 15:15:54.163000000 Z
       content_type_id: resource
-      revision: 5
+      revision: 8
     resource_title: 'On Trust & Transparency: Full Report'
     resource_description: |-
       Download the full report.
+
       Source: Simply Secure
-    resource_url: https://simplysecure.org/resources/ott/OnTrustandTransparency-20190621.pdf
+    resource_url: https://simplysecure.org/resources/ott/On_Trust_and_Transparency.pdf
     resource_type: Report
     insight_tag:
     - Deep, trusting relationships
@@ -8857,6 +8910,7 @@ recommendation:
     - Clarify Roles and Responsibilities
     - Clear, Collaborative Outputs
     - Clearly Communicate your Identity
+    - Communicate Funding Approach and Impact Model
     - Core Funding and Flexibility
     - Create Processes for Feedback on Metrics
     - Develop Transition Strategies
@@ -9197,14 +9251,15 @@ recommendation:
   - sys:
       id: 648LvvJeMpyWszz9HUvRGp
       created_at: !ruby/object:DateTime 2019-05-03 03:28:11.508000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 12:36:14.381000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 15:15:54.163000000 Z
       content_type_id: resource
-      revision: 5
+      revision: 8
     resource_title: 'On Trust & Transparency: Full Report'
     resource_description: |-
       Download the full report.
+
       Source: Simply Secure
-    resource_url: https://simplysecure.org/resources/ott/OnTrustandTransparency-20190621.pdf
+    resource_url: https://simplysecure.org/resources/ott/On_Trust_and_Transparency.pdf
     resource_type: Report
     insight_tag:
     - Deep, trusting relationships
@@ -9230,6 +9285,7 @@ recommendation:
     - Clarify Roles and Responsibilities
     - Clear, Collaborative Outputs
     - Clearly Communicate your Identity
+    - Communicate Funding Approach and Impact Model
     - Core Funding and Flexibility
     - Create Processes for Feedback on Metrics
     - Develop Transition Strategies
@@ -9619,14 +9675,15 @@ recommendation:
   - sys:
       id: 648LvvJeMpyWszz9HUvRGp
       created_at: !ruby/object:DateTime 2019-05-03 03:28:11.508000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 12:36:14.381000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 15:15:54.163000000 Z
       content_type_id: resource
-      revision: 5
+      revision: 8
     resource_title: 'On Trust & Transparency: Full Report'
     resource_description: |-
       Download the full report.
+
       Source: Simply Secure
-    resource_url: https://simplysecure.org/resources/ott/OnTrustandTransparency-20190621.pdf
+    resource_url: https://simplysecure.org/resources/ott/On_Trust_and_Transparency.pdf
     resource_type: Report
     insight_tag:
     - Deep, trusting relationships
@@ -9652,6 +9709,7 @@ recommendation:
     - Clarify Roles and Responsibilities
     - Clear, Collaborative Outputs
     - Clearly Communicate your Identity
+    - Communicate Funding Approach and Impact Model
     - Core Funding and Flexibility
     - Create Processes for Feedback on Metrics
     - Develop Transition Strategies
@@ -10026,14 +10084,15 @@ recommendation:
   - sys:
       id: 648LvvJeMpyWszz9HUvRGp
       created_at: !ruby/object:DateTime 2019-05-03 03:28:11.508000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 12:36:14.381000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 15:15:54.163000000 Z
       content_type_id: resource
-      revision: 5
+      revision: 8
     resource_title: 'On Trust & Transparency: Full Report'
     resource_description: |-
       Download the full report.
+
       Source: Simply Secure
-    resource_url: https://simplysecure.org/resources/ott/OnTrustandTransparency-20190621.pdf
+    resource_url: https://simplysecure.org/resources/ott/On_Trust_and_Transparency.pdf
     resource_type: Report
     insight_tag:
     - Deep, trusting relationships
@@ -10059,6 +10118,7 @@ recommendation:
     - Clarify Roles and Responsibilities
     - Clear, Collaborative Outputs
     - Clearly Communicate your Identity
+    - Communicate Funding Approach and Impact Model
     - Core Funding and Flexibility
     - Create Processes for Feedback on Metrics
     - Develop Transition Strategies
@@ -10249,14 +10309,15 @@ recommendation:
   - sys:
       id: 648LvvJeMpyWszz9HUvRGp
       created_at: !ruby/object:DateTime 2019-05-03 03:28:11.508000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 12:36:14.381000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 15:15:54.163000000 Z
       content_type_id: resource
-      revision: 5
+      revision: 8
     resource_title: 'On Trust & Transparency: Full Report'
     resource_description: |-
       Download the full report.
+
       Source: Simply Secure
-    resource_url: https://simplysecure.org/resources/ott/OnTrustandTransparency-20190621.pdf
+    resource_url: https://simplysecure.org/resources/ott/On_Trust_and_Transparency.pdf
     resource_type: Report
     insight_tag:
     - Deep, trusting relationships
@@ -10282,6 +10343,7 @@ recommendation:
     - Clarify Roles and Responsibilities
     - Clear, Collaborative Outputs
     - Clearly Communicate your Identity
+    - Communicate Funding Approach and Impact Model
     - Core Funding and Flexibility
     - Create Processes for Feedback on Metrics
     - Develop Transition Strategies
@@ -10552,14 +10614,15 @@ recommendation:
   - sys:
       id: 648LvvJeMpyWszz9HUvRGp
       created_at: !ruby/object:DateTime 2019-05-03 03:28:11.508000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 12:36:14.381000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 15:15:54.163000000 Z
       content_type_id: resource
-      revision: 5
+      revision: 8
     resource_title: 'On Trust & Transparency: Full Report'
     resource_description: |-
       Download the full report.
+
       Source: Simply Secure
-    resource_url: https://simplysecure.org/resources/ott/OnTrustandTransparency-20190621.pdf
+    resource_url: https://simplysecure.org/resources/ott/On_Trust_and_Transparency.pdf
     resource_type: Report
     insight_tag:
     - Deep, trusting relationships
@@ -10585,6 +10648,7 @@ recommendation:
     - Clarify Roles and Responsibilities
     - Clear, Collaborative Outputs
     - Clearly Communicate your Identity
+    - Communicate Funding Approach and Impact Model
     - Core Funding and Flexibility
     - Create Processes for Feedback on Metrics
     - Develop Transition Strategies
@@ -10852,14 +10916,15 @@ recommendation:
   - sys:
       id: 648LvvJeMpyWszz9HUvRGp
       created_at: !ruby/object:DateTime 2019-05-03 03:28:11.508000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 12:36:14.381000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 15:15:54.163000000 Z
       content_type_id: resource
-      revision: 5
+      revision: 8
     resource_title: 'On Trust & Transparency: Full Report'
     resource_description: |-
       Download the full report.
+
       Source: Simply Secure
-    resource_url: https://simplysecure.org/resources/ott/OnTrustandTransparency-20190621.pdf
+    resource_url: https://simplysecure.org/resources/ott/On_Trust_and_Transparency.pdf
     resource_type: Report
     insight_tag:
     - Deep, trusting relationships
@@ -10885,6 +10950,7 @@ recommendation:
     - Clarify Roles and Responsibilities
     - Clear, Collaborative Outputs
     - Clearly Communicate your Identity
+    - Communicate Funding Approach and Impact Model
     - Core Funding and Flexibility
     - Create Processes for Feedback on Metrics
     - Develop Transition Strategies
@@ -11241,14 +11307,15 @@ recommendation:
   - sys:
       id: 648LvvJeMpyWszz9HUvRGp
       created_at: !ruby/object:DateTime 2019-05-03 03:28:11.508000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 12:36:14.381000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 15:15:54.163000000 Z
       content_type_id: resource
-      revision: 5
+      revision: 8
     resource_title: 'On Trust & Transparency: Full Report'
     resource_description: |-
       Download the full report.
+
       Source: Simply Secure
-    resource_url: https://simplysecure.org/resources/ott/OnTrustandTransparency-20190621.pdf
+    resource_url: https://simplysecure.org/resources/ott/On_Trust_and_Transparency.pdf
     resource_type: Report
     insight_tag:
     - Deep, trusting relationships
@@ -11274,6 +11341,7 @@ recommendation:
     - Clarify Roles and Responsibilities
     - Clear, Collaborative Outputs
     - Clearly Communicate your Identity
+    - Communicate Funding Approach and Impact Model
     - Core Funding and Flexibility
     - Create Processes for Feedback on Metrics
     - Develop Transition Strategies
