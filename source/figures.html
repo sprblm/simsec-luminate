@@ -34,7 +34,8 @@ themes | sort %} {% endfor %}
             <div class="figure-description">{{figure.figure_description | markdownify }}</div>
             </figure>
             <div class="figure-link-container underline-link">
-              <a class="go-back-link" href="javascript:history.back()">Go Back</a>
+              {% assign chart_anchor = "#chart-" | append: figure.figure_number %}
+              <a class="go-back-link" href="{{'/project-details/' | append: chart_anchor | relative_url }}">Go Back</a>
             </div>
           </div>
           <hr>

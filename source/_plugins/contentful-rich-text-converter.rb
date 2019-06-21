@@ -5,7 +5,7 @@ require_relative './ui-templates.rb'
 
 class EmbeddedEntryRenderer < RichTextRenderer::BaseNodeRenderer
   include UITemplates
-  include Jekyll::Filters::URLFilters
+  include Jekyll::Filters
   def render(node)
     site = Jekyll.sites.first
     entry = node['data']['target']
@@ -17,7 +17,8 @@ class EmbeddedEntryRenderer < RichTextRenderer::BaseNodeRenderer
         figure_title = entry['figure_title']
         figure_img_src = entry['figure_image']['url']
         figure_caption = entry['figure_caption']
-        figure_alt_text = entry['alt_text']
+        # figure_alt_text = site.find_converter_instance(Jekyll::Converters::SmartyPants).convert(entry['figure_alt'])
+        figure_alt_text = %Q[#{entry['figure_alt']}]
         createChartHtml(figure_number, figure_title, figure_img_src, figure_caption, figure_alt_text)
       else
         puts "Can't render embedded entry"
