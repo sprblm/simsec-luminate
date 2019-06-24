@@ -6,7 +6,7 @@ seo_image_path: #'/images/media/filename.jpg'
 list_js: true
 ---
 
-{% assign recommendations = site.data.contentful.recommendation.recommendation %}
+{% assign recommendations = site.data.contentful.recommendation.recommendation | sort: "order" %%}
 
 <!-- Themes -->
 {% assign themes = "" | split: "" %}

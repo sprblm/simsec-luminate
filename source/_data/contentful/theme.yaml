@@ -22,9 +22,9 @@ theme:
   - sys:
       id: 5K90Xztqn08a6GbFj3ep4w
       created_at: !ruby/object:DateTime 2019-05-02 23:35:43.855000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 09:30:43.112000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 08:48:00.994000000 Z
       content_type_id: insight
-      revision: 9
+      revision: 11
     page_title: Deep, Trusting Relationships
     insight_short: Deep, Trusting Relationships
     insight_title: Grantees value deep and trusting relationships with funders, grounded
@@ -37,23 +37,24 @@ theme:
     featured_quote:
       sys:
         id: 3XbFyZvWauf1G4IV3ho6aO
-    long_description: "The investment lead (IL) or program officer is the face of
-      Luminate for grantees. A positive experience with an IL reflects very well on
-      the organization as a whole. IL’s with deep subject area knowledge are particularly
-      valued.\n\nThe ILs’ extensive knowledge about the space made the grantees feel
-      understood and heard, and contributed to an overall feeling of alignment with
-      GCE as a team. One participant expressed this as really valuing the “professional,
-      constructive, and encouraging thinking partner that our contact (IL) embodies.”
-      \n\nOrganizations who had a close relationship with their ILs were uniformly
-      positive about their IL’s capabilities and the amount of personal attention
-      they received. “They’ve truly felt as much like thought partners and co-conspirators
-      in our work as they do funders,” wrote one organization in the survey. \n\nGCE’s
-      openness to collaboration and negotiation was regarded as extremely positive
-      for those who had taken the initiative to take advantage of it. Grantees who
-      were confident enough to push back — usually with regard to metrics or reporting
-      — felt respected and heard, and often got what they asked for. Having pushed
-      back didn’t seem to hurt their reputation or relationship with GCE – if anything,
-      it seemed to lead to greater mutual respect."
+    long_description: "The investment lead (IL) is the face of Luminate for grantees.*
+      A positive experience with an IL reflects very well on the organization as a
+      whole. IL’s with deep subject area knowledge are particularly valued.\n\nThe
+      ILs’ extensive knowledge about the space made the grantees feel understood and
+      heard, and contributed to an overall feeling of alignment with GCE as a team.
+      One participant expressed this as really valuing the “professional, constructive,
+      and encouraging thinking partner that our contact (IL) embodies.” \n\nOrganizations
+      who had a close relationship with their ILs were uniformly positive about their
+      IL’s capabilities and the amount of personal attention they received. “They’ve
+      truly felt as much like thought partners and co-conspirators in our work as
+      they do funders,” wrote one organization in the survey. \n\nGCE’s openness to
+      collaboration and negotiation was regarded as extremely positive for those who
+      had taken the initiative to take advantage of it. Grantees who were confident
+      enough to push back — usually with regard to metrics or reporting — felt respected
+      and heard, and often got what they asked for. Having pushed back didn’t seem
+      to hurt their reputation or relationship with GCE – if anything, it seemed to
+      lead to greater mutual respect.\n\n*Investment Lead (IL) is a similar role to
+      a Program Officer at a foundation."
     related_theme:
     - Funding Approach & Process
     - Trust & Power
@@ -61,9 +62,9 @@ theme:
     - sys:
         id: 739159sAxh2eiycKRBdOfz
         created_at: !ruby/object:DateTime 2019-05-06 19:54:02.811000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:55.735000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:17:25.317000000 Z
         content_type_id: recommendation
-        revision: 4
+        revision: 5
       page_title: Support Professional Development
       recommendation: Support __professional development of investment leads__ to
         develop expertise in the field in which they are managing grants.
@@ -89,12 +90,13 @@ theme:
       theme_tag:
       - Trust & Power
       - Funder Identity & Culture
+      order: 9
     - sys:
         id: 7HaggMuTZVQo9qMqqiQvJi
         created_at: !ruby/object:DateTime 2019-05-02 23:38:31.638000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:57.711000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:28.712000000 Z
         content_type_id: recommendation
-        revision: 4
+        revision: 5
       page_title: Clarify Roles and Responsibilities
       recommendation: Clarify roles and responsibilities of key people involved in
         __relationship management__ with the grantee. This is particularly important
@@ -121,12 +123,13 @@ theme:
       theme_tag:
       - Funding Approach & Process
       - Trust & Power
+      order: 4
     - sys:
         id: 7ifyzI6bOqUiTn5aXg2Ac8
         created_at: !ruby/object:DateTime 2019-05-02 23:39:19.396000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:57.729000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:28.669000000 Z
         content_type_id: recommendation
-        revision: 4
+        revision: 5
       page_title: Clarify the Funding Process
       recommendation: Clarify the steps, inputs and outputs of the __funding process__,
         and the process for accessing alternative types of support. Pay particular
@@ -153,12 +156,13 @@ theme:
       - Diversity, equity, and inclusion
       theme_tag:
       - Funding Approach & Process
+      order: 3
     - sys:
         id: 5UFLM9YhjV7pMyRVYAKGN7
         created_at: !ruby/object:DateTime 2019-05-02 23:39:58.648000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:57.730000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:28.684000000 Z
         content_type_id: recommendation
-        revision: 3
+        revision: 4
       page_title: Clarify Grantee Expectations
       recommendation: 'Be clear about __expectations and responsibilities of grantees
         once in the portfolio__ e.g., with regards to reporting, evaluation, and expected
@@ -185,12 +189,13 @@ theme:
       theme_tag:
       - Funding Approach & Process
       - Assessing Impact
+      order: 8
     - sys:
         id: 017p3qzOAZnrMjC3a5awyi
         created_at: !ruby/object:DateTime 2019-05-02 23:41:34.145000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:55.717000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:15:58.489000000 Z
         content_type_id: recommendation
-        revision: 4
+        revision: 5
       page_title: Time to Develop Impact Measurement Framework
       recommendation: 'Give sufficient time to develop an __impact measurement framework__
         that a grantee is comfortable with, e.g., consider allocating time at the
@@ -224,12 +229,13 @@ theme:
       - Funding Approach & Process
       - Trust & Power
       - Assessing Impact
+      order: 12
     - sys:
         id: 2jPpX1aCPfGnLCldon7zAv
         created_at: !ruby/object:DateTime 2019-05-02 23:44:26.109000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 16:26:07.188000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:27.667000000 Z
         content_type_id: recommendation
-        revision: 5
+        revision: 6
       page_title: Integrate Reporting with Workflow
       recommendation: 'Proactively talk with grantees about how __reporting can better
         fit into their existing workflow__ and improve their organizational health. '
@@ -260,6 +266,7 @@ theme:
       theme_tag:
       - Funding Approach & Process
       - Assessing Impact
+      order: 14
     related_resources:
     - sys:
         id: 648LvvJeMpyWszz9HUvRGp
@@ -283,11 +290,11 @@ theme:
         id: 6I9Dibp3UqHX3S7XE3kvE
     - sys:
         id: 5cdDjuEjsojN5AfyV1EOS4
+    - sys:
+        id: 3GwWdE740i2u11ikFAzLFD
     related_quotes:
     - sys:
         id: kvAzPII7XhsVREPsfqHyU
-    - sys:
-        id: 3XbFyZvWauf1G4IV3ho6aO
     - sys:
         id: 3HjUvk7VX1pAERfNHzTHin
     - sys:
@@ -306,9 +313,9 @@ theme:
   - sys:
       id: 5mwetRON9oTpEGQ6800wJP
       created_at: !ruby/object:DateTime 2019-05-22 00:54:05.065000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 18:02:26.927000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 21:02:00.763000000 Z
       content_type_id: insight
-      revision: 5
+      revision: 6
     page_title: Funder Roles
     insight_short: Funder Roles
     insight_title: When funders wear multiple hats — as individual advocates as well
@@ -335,9 +342,9 @@ theme:
     - sys:
         id: 3qucwEc0fp3r4YKIAFlb74
         created_at: !ruby/object:DateTime 2019-05-06 19:55:18.323000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:58.100000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:28.687000000 Z
         content_type_id: recommendation
-        revision: 3
+        revision: 4
       page_title: Be Explicit About Roles
       recommendation: Be explicit about __which role you are playing at a given time
         (as both a funder and advocate in the field)__, understand where the boundaries
@@ -367,6 +374,7 @@ theme:
       theme_tag:
       - Trust & Power
       - Funder Identity & Culture
+      order: 10
     related_resources:
     - sys:
         id: 648LvvJeMpyWszz9HUvRGp
@@ -399,9 +407,9 @@ theme:
   - sys:
       id: 3iOxgGnCFSOPnKE3re9mfA
       created_at: !ruby/object:DateTime 2019-05-22 00:18:59.931000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 18:02:27.816000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:07:04.119000000 Z
       content_type_id: insight
-      revision: 5
+      revision: 6
     page_title: Multi-year Flexible Funding
     insight_short: Multi-year Flexible Funding
     insight_title: Multi-year flexible funding is extremely valued.
@@ -416,8 +424,8 @@ theme:
       represented GCE committing to investing in their organizations, helping them
       expand beyond their current spheres of influence, building and strengthening
       organizational capacity, and becoming lasting, sustainable contributors to the
-      field. \n\nWe heard many examples of organizations reported scrambling to meet
-      the additional requirements of detailed project-based proposals while trying
+      field. \n\nWe heard many examples of organizations scrambling to meet the additional
+      requirements of other funders for detailed project-based proposals while trying
       to “keep the lights on” in their day-to-day operations. \n\nHowever, participants
       who received core funding reflected on the value of such holistic support in
       helping strengthen organizational health. This stood out in the non-profit sector
@@ -428,9 +436,9 @@ theme:
     - sys:
         id: 25uIG8E7r2TQ3F7ykBzVwn
         created_at: !ruby/object:DateTime 2019-05-22 00:15:01.670000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:55.071000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:15:22.902000000 Z
         content_type_id: recommendation
-        revision: 3
+        revision: 4
       page_title: Core funding and flexibility
       recommendation: __Provide core funding where possible, and build flexibility__
         in the grant structures to allow the grantee to develop sustainable organizational
@@ -457,16 +465,17 @@ theme:
       - Multi-year flexible funding
       theme_tag:
       - Funding Approach & Process
+      order: 32
     - sys:
         id: 4rjSbRM4lt2De5UTonoVjK
         created_at: !ruby/object:DateTime 2019-05-22 00:15:50.789000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:55.699000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:11:44.922000000 Z
         content_type_id: recommendation
-        revision: 3
+        revision: 4
       page_title: Alternative funding models
-      recommendation: Where appropriate, explore __alternative funding models__ in
-        collaboration with your grantees, to help alleviate dependency on philanthropic
-        funding, and build operational sustainability.
+      recommendation: Explore __alternative funding models__ in collaboration with
+        your grantees, to help alleviate dependency on philanthropic funding, and
+        build operational sustainability.
       recommendation_short: Alternative funding models
       related_resources:
       - sys:
@@ -487,12 +496,13 @@ theme:
           id: 3AKyAU3s36zTcT0oNQhN7P
       theme_tag:
       - Funding Approach & Process
+      order: 33
     - sys:
         id: TIxnVzPScmMILBZuIWVaE
         created_at: !ruby/object:DateTime 2019-05-22 00:16:29.817000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:56.706000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:29.688000000 Z
         content_type_id: recommendation
-        revision: 3
+        revision: 4
       page_title: Invest in organizational health
       recommendation: Take steps to __invest in the organizational health__ of your
         grantees, beyond individual projects.
@@ -522,6 +532,7 @@ theme:
       - Multi-year flexible funding
       theme_tag:
       - Funding Approach & Process
+      order: 34
     related_resources:
     - sys:
         id: 648LvvJeMpyWszz9HUvRGp
@@ -552,9 +563,9 @@ theme:
   - sys:
       id: 1mz5qNxgvkUfCHUN72zORV
       created_at: !ruby/object:DateTime 2019-05-22 00:35:36.623000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 18:02:27.819000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 08:48:00.894000000 Z
       content_type_id: insight
-      revision: 6
+      revision: 8
     page_title: Portfolio Support
     insight_short: Portfolio Support
     insight_title: Grantees are interested in, and looking for portfolio support,
@@ -569,9 +580,9 @@ theme:
       sys:
         id: 81bICoX8Ilj36S4if6xXH
     long_description: |+
-      Participants expressed interest in the following support areas:
+      Participants expressed interest in the following support* areas:
 
-      - Recruiting and hiring: Growth and scaling are important concerns for many of our respondents, and in some cases “growth” is understood to mean hiring people to help meet metrics. Non-profit organizations see a need for active recruiting and hiring support.
+      - Recruiting and hiring: Growth and scaling were important concerns for many of the respondents, and in some cases “growth” was understood to mean hiring people to help meet metrics. Grantees see a need for active recruiting and hiring support.
       - Financial management: Both survey respondents and interview participants strongly agreed that GCE had expertise in financial management.
       - Fundraising: 88% of survey respondents indicated that fundraising support was extremely desirable.
       - Networking, outreach and community development: Interview participants appreciated the sense of belonging that came from attending GCE gatherings and viewed access to other grantees as valuable. They also appreciated when GCE helped to expand their reach, e.g., on social media by "signal boosting" or promoting their work.
@@ -589,6 +600,7 @@ theme:
 
       What most organizations appreciated from board members was strategic advice, operational support, and connections to the ecosystem.
 
+      *Portfolio support refers to specifically earmarked support, above and beyond grant funding, to build organizational capacity and resilience. Examples include executive coaching, fundraising support, digital security trainings, or diversity, equity and inclusion (DEI) reviews.
 
     related_theme:
     - Funding Approach & Process
@@ -599,9 +611,9 @@ theme:
     - sys:
         id: 5hKYhindU3pFFpe3q13egX
         created_at: !ruby/object:DateTime 2019-05-06 19:53:13.347000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:56.058000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:30.679000000 Z
         content_type_id: recommendation
-        revision: 7
+        revision: 8
       page_title: Portfolio Support Autonomy
       recommendation: Give grantees more autonomy and choice when taking advantage
         of additional __portfolio support__ e.g., by giving them ownership over who
@@ -626,12 +638,13 @@ theme:
       theme_tag:
       - Funding Approach & Process
       - Trust & Power
+      order: 7
     - sys:
         id: 7DXzHNGSjjLIrrauaEX6xo
         created_at: !ruby/object:DateTime 2019-05-06 20:04:54.233000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:58.789000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:27.683000000 Z
         content_type_id: recommendation
-        revision: 4
+        revision: 5
       page_title: Transparency and Honesty in Communications with Grantees
       recommendation: Look for opportunities to __model transparency and honesty__
         in communications with grantees. Greater transparency from funders around
@@ -667,12 +680,13 @@ theme:
       - Funding Approach & Process
       - Trust & Power
       - Funder Identity & Culture
+      order: 23
     - sys:
         id: 1xnQafkeYLOxaZrpKvWs0s
         created_at: !ruby/object:DateTime 2019-05-06 19:52:10.089000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:57.764000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:28.683000000 Z
         content_type_id: recommendation
-        revision: 5
+        revision: 6
       page_title: Alternative Models of Portfolio Support
       recommendation: 'Explore __alternative and more flexible models for portfolio
         support__, as opposed to taking board seats as a funder, e.g., create opportunities
@@ -702,12 +716,13 @@ theme:
       theme_tag:
       - Funding Approach & Process
       - Trust & Power
+      order: 6
     - sys:
         id: F38G9F4X0cp3bRAxpm193
         created_at: !ruby/object:DateTime 2019-05-06 20:02:56.461000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:55.724000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:16:56.418000000 Z
         content_type_id: recommendation
-        revision: 4
+        revision: 5
       page_title: Strategic and Financial Planning Support Post-Funding
       recommendation: Consider providing __strategic and financial planning support__,
         particularly focused on the post-funding phase.
@@ -730,6 +745,7 @@ theme:
       - Portfolio support
       theme_tag:
       - Funding Approach & Process
+      order: 21
     related_resources:
     - sys:
         id: 648LvvJeMpyWszz9HUvRGp
@@ -756,8 +772,6 @@ theme:
     related_quotes:
     - sys:
         id: GDb4R70Pw45fl6owh7WhG
-    - sys:
-        id: 81bICoX8Ilj36S4if6xXH
     - sys:
         id: 4NNKcvSkJNRFo3nEAwSWil
     - sys:
@@ -826,11 +840,11 @@ theme:
     - sys:
         id: 6usDyH5dFIPdiew4HipTs3
         created_at: !ruby/object:DateTime 2019-05-06 19:59:14.677000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:56.698000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:29.915000000 Z
         content_type_id: recommendation
-        revision: 4
+        revision: 5
       page_title: Invite Proposed Metrics
-      recommendation: Invite grantees to propose __metrics or impact measurement frameworks__
+      recommendation: Invite grantees to __propose metrics or impact measurement frameworks__
         that best reflect their strategy, impact model, and desired outcomes.
       recommendation_short: Invite Proposed Metrics
       related_resources:
@@ -859,12 +873,13 @@ theme:
       theme_tag:
       - Funding Approach & Process
       - Assessing Impact
+      order: 16
     - sys:
         id: 017p3qzOAZnrMjC3a5awyi
         created_at: !ruby/object:DateTime 2019-05-02 23:41:34.145000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:55.717000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:15:58.489000000 Z
         content_type_id: recommendation
-        revision: 4
+        revision: 5
       page_title: Time to Develop Impact Measurement Framework
       recommendation: 'Give sufficient time to develop an __impact measurement framework__
         that a grantee is comfortable with, e.g., consider allocating time at the
@@ -898,12 +913,13 @@ theme:
       - Funding Approach & Process
       - Trust & Power
       - Assessing Impact
+      order: 12
     - sys:
         id: 7r9IEjpcUzDMCCofBKuFn0
         created_at: !ruby/object:DateTime 2019-05-06 19:59:56.990000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:54.759000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:14:13.774000000 Z
         content_type_id: recommendation
-        revision: 5
+        revision: 6
       page_title: Align Metrics with Existing MEL Frameworks
       recommendation: 'Where possible, __align metrics with organizations’ existing
         frameworks for monitoring, evaluation, and learning (MEL)__, and where organizations
@@ -937,12 +953,13 @@ theme:
       theme_tag:
       - Funding Approach & Process
       - Assessing Impact
+      order: 17
     - sys:
         id: 4rrf45WE74ntAJMLgn8ulC
         created_at: !ruby/object:DateTime 2019-05-06 20:00:23.630000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:55.721000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:16:23.737000000 Z
         content_type_id: recommendation
-        revision: 4
+        revision: 5
       page_title: Sync Impact Measurement and Reporting
       recommendation: Where possible, identify an opportunity to __sync impact measurement__
         and reporting across co-funders to alleviate the burden on grantees.
@@ -975,12 +992,13 @@ theme:
       theme_tag:
       - Funding Approach & Process
       - Assessing Impact
+      order: 18
     - sys:
         id: 6CtHXkA7chCdYrtQerM3aD
         created_at: !ruby/object:DateTime 2019-05-06 19:56:58.968000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:56.739000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:29.675000000 Z
         content_type_id: recommendation
-        revision: 4
+        revision: 5
       page_title: Grant Reporting Guidance
       recommendation: Be explicit about the __purpose of grant reporting__ and where
         possible offer guidance and options around formats.
@@ -1009,12 +1027,13 @@ theme:
       theme_tag:
       - Funding Approach & Process
       - Assessing Impact
+      order: 13
     - sys:
         id: 2jPpX1aCPfGnLCldon7zAv
         created_at: !ruby/object:DateTime 2019-05-02 23:44:26.109000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 16:26:07.188000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:27.667000000 Z
         content_type_id: recommendation
-        revision: 5
+        revision: 6
       page_title: Integrate Reporting with Workflow
       recommendation: 'Proactively talk with grantees about how __reporting can better
         fit into their existing workflow__ and improve their organizational health. '
@@ -1045,12 +1064,13 @@ theme:
       theme_tag:
       - Funding Approach & Process
       - Assessing Impact
+      order: 14
     - sys:
         id: 62AGKdvAhcnb1F3VjxmNFo
         created_at: !ruby/object:DateTime 2019-05-06 20:01:05.423000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:57.098000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:29.667000000 Z
         content_type_id: recommendation
-        revision: 4
+        revision: 5
       page_title: Create Processes for Feedback on Metrics
       recommendation: Create processes for __gathering and incorporating organizational
         feedback on metrics__ over the course of the funding period and offer flexibility
@@ -1083,12 +1103,13 @@ theme:
       theme_tag:
       - Funding Approach & Process
       - Assessing Impact
+      order: 19
     - sys:
         id: 5TrkIP1GfMYitT6ZyrOPiM
         created_at: !ruby/object:DateTime 2019-05-06 19:57:50.462000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:55.777000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:30.680000000 Z
         content_type_id: recommendation
-        revision: 3
+        revision: 4
       page_title: Provide Timely Feedback
       recommendation: Provide __timely feedback on reports__ provided by grantees.
       recommendation_short: Provide Timely Feedback
@@ -1114,6 +1135,7 @@ theme:
       theme_tag:
       - Funding Approach & Process
       - Assessing Impact
+      order: 15
     related_resources:
     - sys:
         id: 648LvvJeMpyWszz9HUvRGp
@@ -1156,28 +1178,27 @@ theme:
   - sys:
       id: jyKMbw9LvNhaGzth0U8Dw
       created_at: !ruby/object:DateTime 2019-05-06 20:32:40.508000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 18:02:26.788000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 08:48:00.918000000 Z
       content_type_id: insight
-      revision: 5
+      revision: 7
     page_title: Structure and Clarity
     insight_short: Structure and Clarity
     insight_title: Grantees crave structure and clarity with regards to 1) the funding
-      process, 2) what to expect from the relationship once funded, and 3) shifting
+      process and what to expect from the relationship once funded, and 2) shifting
       strategic priorities.
-    short_description: Structured funding processes, and clear communication about
-      a funder’s strategic priorities and how to secure funding, are critical. Without
-      this, potential grantees have inconsistent experiences and misunderstandings
-      can arise.
+    short_description: Structured funding processes, clear communication about strategic
+      priorities, and how to secure funding are critical. Without this, potential
+      grantees have inconsistent experiences and misunderstandings can arise.
     featured_quote:
       sys:
         id: 2kEoS4hHqkxrm6zVDLJ9Qj
-    long_description: "\nWhen we asked grantees about their experiences with GCE,
-      almost all of them mentioned that theirs was an exceptional or unique case,
-      and not likely to be generalizable feedback. This seems to stem from a lack
-      of structure in the IL/grantee relationship overall. Funding relationships fall
-      somewhere on the spectrum between “hands-on” – meaning customized, high-touch
-      interactions – and “hands-off” – meaning more standardized, low-touch interactions.
-      Both extremes have advantages and disadvantages. Overall, this “culture of exceptions”
+    long_description: "When we asked grantees about their experiences with GCE, almost
+      all of them mentioned that theirs was an exceptional or unique case, and not
+      likely to be generalizable feedback. This seems to stem from a lack of structure
+      in the IL/grantee relationship overall. Funding relationships fall somewhere
+      on the spectrum between “hands-on” – meaning customized, high-touch interactions
+      – and “hands-off” – meaning more standardized, low-touch interactions. Both
+      extremes have advantages and disadvantages. Overall, this “culture of exceptions”
       can be associated with a lack of transparency, high unpredictability, and even
       nepotism.\n\nIn more hands-on relationships, organizations felt they had received
       bespoke engagement from GCE, often describing their ILs as mentors and partners.
@@ -1194,15 +1215,15 @@ theme:
       needs were not being met. They were more likely to see other grantees as competitors
       for GCE’s attention.\n\n## The Funding Process\n\nMany participants said they
       were uncertain about what to expect before and during the process. For example,
-      some interviewees expressed bewilderment about the role of the investment committee.
+      some interviewees expressed bewilderment about the role of the investment committee.*
       This confusion translated into insecurity about whether they can trust their
       ILs with information they feel might not be appropriate to share with the investment
       committee. They wondered about how much information they should share with their
       IL, especially information that might make their organization look bad, and
-      how much of that will then be shared with the investment committee, who they
-      may not meet for the first time until the end of a long process.\n\nSome participants
-      mentioned frustration with burdensome processes that lasted over a year and
-      involved multiple people from GCE. Over two-thirds of non-profit interviewees
+      how much of that would then be shared with the investment committee, who they
+      would likely not have met for the first time until the end of a long process.\n\nSome
+      participants mentioned frustration with burdensome processes that lasted over
+      a year and involved multiple people from GCE. Over two-thirds of interviewees
       bemoaned a process that was long, difficult, and opaque – one even called it
       “unprofessional.”\n\nThey reported being asked to submit documents on short
       notice, and having to repeat information, sending the same or very similar information
@@ -1216,19 +1237,19 @@ theme:
       through their connection with Luminate, and reap the benefits of a personal
       relationship with their IL, who is often a powerful player in their field.\n\nSince
       the personal relationship with the IL is a signature component of being part
-      of the Luminate network, being transitioned out of the portfolio can feel like
-      a personal betrayal. When their relationship with Luminate ends, some organizations
-      that have received longer-term support from Luminate feel that new projects
-      are competitors, not just for money, but also for attention. Participants raised
-      these concerns based on what they know of other organizations’ experiences,
-      and fears they have about the the stability of their funding.\n\nThis feeling
-      of personal betrayal also goes beyond the relationship with the IL. Many grantees
-      working in the space deeply identify with the issues they are working on. When
-      GCE/Luminate pivots to a different investment strategy, such as focusing on
-      new and emerging issues, people working in the “old” issues feel a rejection
-      of the issues they personally care about. It is not only a financial, but also
-      an emotional matter, to lose the support of Luminate, and one that can be seen
-      to reflect inherent power imbalances in the funder-grantee relationship."
+      of the network, being transitioned out of the portfolio can feel like a personal
+      betrayal. Some participants, that have received longer-term support from GCE,
+      felt that new projects were competitors not just for money but also for attention.
+      Concerns were raised based on what they knew of other organization’s experiences,
+      and fears over the stability of their own funding.\n\nThis feeling of personal
+      betrayal also goes beyond the relationship with the IL. Many grantees working
+      in the space deeply identify with the issues they are working on. When GCE/Luminate
+      pivots to a different investment strategy, such as focusing on new and emerging
+      issues, people working in the “old” issues feel a rejection of the issues they
+      personally care about. It is not only a financial, but also an emotional matter,
+      to lose the support of Luminate, and one that can be seen to reflect inherent
+      power imbalances in the funder-grantee relationship.\n\n*The investment committee
+      is the approval committee for grants and investments."
     related_theme:
     - Funding Approach & Process
     - Trust & Power
@@ -1237,9 +1258,9 @@ theme:
     - sys:
         id: 59J8XvABHc0OSDJ4D2BLBc
         created_at: !ruby/object:DateTime 2019-05-06 19:44:39.071000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:54.813000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:15:01.742000000 Z
         content_type_id: recommendation
-        revision: 3
+        revision: 4
       page_title: Strategic Priorities
       recommendation: Be __transparent__ about your __strategic priorities__, and
         keep grantees informed as to how they may be changing.
@@ -1270,12 +1291,13 @@ theme:
       theme_tag:
       - Funding Approach & Process
       - Funder Identity & Culture
+      order: 1
     - sys:
         id: 7ifyzI6bOqUiTn5aXg2Ac8
         created_at: !ruby/object:DateTime 2019-05-02 23:39:19.396000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:57.729000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:28.669000000 Z
         content_type_id: recommendation
-        revision: 4
+        revision: 5
       page_title: Clarify the Funding Process
       recommendation: Clarify the steps, inputs and outputs of the __funding process__,
         and the process for accessing alternative types of support. Pay particular
@@ -1302,12 +1324,13 @@ theme:
       - Diversity, equity, and inclusion
       theme_tag:
       - Funding Approach & Process
+      order: 3
     - sys:
         id: 7HaggMuTZVQo9qMqqiQvJi
         created_at: !ruby/object:DateTime 2019-05-02 23:38:31.638000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:57.711000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:28.712000000 Z
         content_type_id: recommendation
-        revision: 4
+        revision: 5
       page_title: Clarify Roles and Responsibilities
       recommendation: Clarify roles and responsibilities of key people involved in
         __relationship management__ with the grantee. This is particularly important
@@ -1334,51 +1357,15 @@ theme:
       theme_tag:
       - Funding Approach & Process
       - Trust & Power
-    - sys:
-        id: VQ7OXAIvpXWtiSY3oWE89
-        created_at: !ruby/object:DateTime 2019-05-06 20:06:24.054000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:57.792000000 Z
-        content_type_id: recommendation
-        revision: 3
-      page_title: Be Explicit About the Role DEI Plays
-      recommendation: Be __explicit about the role DEI plays in your organization__
-        and how you are integrating DEI-related efforts and considerations into your
-        funding approach, strategies and external relationships.
-      recommendation_short: Be Explicit About the Role DEI Plays
-      related_resources:
-      - sys:
-          id: 648LvvJeMpyWszz9HUvRGp
-      - sys:
-          id: Aqrq7NXOreu5GwPYj5J7J
-      - sys:
-          id: 3FQVA12oDvZRa7iUrTJaas
-      - sys:
-          id: 3CCx75O0FW2wxvEwZEg11q
-      - sys:
-          id: 2XZGFvjIjrN1IfcUeupNdL
-      - sys:
-          id: 4iFg1e6qKt6OiUSlBgWcPC
-      - sys:
-          id: W3P6BjUxiweX2m4ZjJxJY
-      - sys:
-          id: 1fNy0unV3wEtTEkU5l3whq
-      - sys:
-          id: 1iPSO2KZsJJR8knoNosTwJ
-      - sys:
-          id: 5cdDjuEjsojN5AfyV1EOS4
-      insight_tag:
-      - Diversity, equity, and inclusion
-      theme_tag:
-      - Funding Approach & Process
-      - Funder Identity & Culture
+      order: 4
     - sys:
         id: 64aVefaJYpSHSj8GnNRqZj
     - sys:
         id: 5UFLM9YhjV7pMyRVYAKGN7
         created_at: !ruby/object:DateTime 2019-05-02 23:39:58.648000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:57.730000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:28.684000000 Z
         content_type_id: recommendation
-        revision: 3
+        revision: 4
       page_title: Clarify Grantee Expectations
       recommendation: 'Be clear about __expectations and responsibilities of grantees
         once in the portfolio__ e.g., with regards to reporting, evaluation, and expected
@@ -1405,12 +1392,13 @@ theme:
       theme_tag:
       - Funding Approach & Process
       - Assessing Impact
+      order: 8
     - sys:
         id: 7DXzHNGSjjLIrrauaEX6xo
         created_at: !ruby/object:DateTime 2019-05-06 20:04:54.233000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:58.789000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:27.683000000 Z
         content_type_id: recommendation
-        revision: 4
+        revision: 5
       page_title: Transparency and Honesty in Communications with Grantees
       recommendation: Look for opportunities to __model transparency and honesty__
         in communications with grantees. Greater transparency from funders around
@@ -1446,12 +1434,13 @@ theme:
       - Funding Approach & Process
       - Trust & Power
       - Funder Identity & Culture
+      order: 23
     - sys:
         id: 3QVf7L1Gq74un7NUugqYhx
         created_at: !ruby/object:DateTime 2019-05-06 20:01:59.216000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:56.767000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:29.669000000 Z
         content_type_id: recommendation
-        revision: 3
+        revision: 4
       page_title: Develop Transition Strategies
       recommendation: When __expecting to transition a grantee out of your portfolio__,
         specify a “ramp down” time period, during which grantees have time to adjust
@@ -1475,12 +1464,42 @@ theme:
       theme_tag:
       - Funding Approach & Process
       - Assessing Impact
+      order: 20
+    - sys:
+        id: F38G9F4X0cp3bRAxpm193
+        created_at: !ruby/object:DateTime 2019-05-06 20:02:56.461000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:16:56.418000000 Z
+        content_type_id: recommendation
+        revision: 5
+      page_title: Strategic and Financial Planning Support Post-Funding
+      recommendation: Consider providing __strategic and financial planning support__,
+        particularly focused on the post-funding phase.
+      recommendation_short: Strategic and Financial Planning Support Post-Funding
+      related_resources:
+      - sys:
+          id: 648LvvJeMpyWszz9HUvRGp
+      - sys:
+          id: Aqrq7NXOreu5GwPYj5J7J
+      - sys:
+          id: 3FQVA12oDvZRa7iUrTJaas
+      - sys:
+          id: 3CCx75O0FW2wxvEwZEg11q
+      - sys:
+          id: 5LVm25wQZqjsKzGtU6a1zE
+      - sys:
+          id: W3P6BjUxiweX2m4ZjJxJY
+      insight_tag:
+      - Structure and clarity
+      - Portfolio support
+      theme_tag:
+      - Funding Approach & Process
+      order: 21
     - sys:
         id: 7JwfVjPvS8FuBtTYBpE1v4
         created_at: !ruby/object:DateTime 2019-05-06 20:04:00.511000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:56.710000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:29.675000000 Z
         content_type_id: recommendation
-        revision: 3
+        revision: 4
       page_title: End of Relationship Feedback
       recommendation: Consider inviting organizations to do an __exit interview or
         survey at the end of a grant or the funding relationship__ to collect meaningful
@@ -1503,6 +1522,7 @@ theme:
       - Structure and clarity
       theme_tag:
       - Funding Approach & Process
+      order: 22
     related_resources:
     - sys:
         id: 648LvvJeMpyWszz9HUvRGp
@@ -1540,8 +1560,6 @@ theme:
     - sys:
         id: 2C0l0vZBzF785Q1NbGfGvO
     - sys:
-        id: 2kEoS4hHqkxrm6zVDLJ9Qj
-    - sys:
         id: 3uW85No8luSk66sK6BJYDo
     - sys:
         id: 6oIxnhT6aMnOCzDicLFD7o
@@ -1554,9 +1572,9 @@ theme:
   - sys:
       id: 59J8XvABHc0OSDJ4D2BLBc
       created_at: !ruby/object:DateTime 2019-05-06 19:44:39.071000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:54.813000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:15:01.742000000 Z
       content_type_id: recommendation
-      revision: 3
+      revision: 4
     page_title: Strategic Priorities
     recommendation: Be __transparent__ about your __strategic priorities__, and keep
       grantees informed as to how they may be changing.
@@ -1587,12 +1605,13 @@ theme:
     theme_tag:
     - Funding Approach & Process
     - Funder Identity & Culture
+    order: 1
   - sys:
       id: wfKc9XecT9ZjuKOFNKvTi
       created_at: !ruby/object:DateTime 2019-05-06 19:45:56.419000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:57.726000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:27:28.911000000 Z
       content_type_id: recommendation
-      revision: 4
+      revision: 5
     page_title: Clear, Collaborative Outputs
     recommendation: 'Develop processes that are __transparent__ and used __consistently__
       with all potential grantees, so that everyone has the __same opportunities to
@@ -1623,12 +1642,13 @@ theme:
     - Diversity, equity, and inclusion
     theme_tag:
     - Funding Approach & Process
+    order: 2
   - sys:
       id: 7ifyzI6bOqUiTn5aXg2Ac8
       created_at: !ruby/object:DateTime 2019-05-02 23:39:19.396000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:57.729000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:27:28.669000000 Z
       content_type_id: recommendation
-      revision: 4
+      revision: 5
     page_title: Clarify the Funding Process
     recommendation: Clarify the steps, inputs and outputs of the __funding process__,
       and the process for accessing alternative types of support. Pay particular attention
@@ -1654,12 +1674,13 @@ theme:
     - Diversity, equity, and inclusion
     theme_tag:
     - Funding Approach & Process
+    order: 3
   - sys:
       id: 7HaggMuTZVQo9qMqqiQvJi
       created_at: !ruby/object:DateTime 2019-05-02 23:38:31.638000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:57.711000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:27:28.712000000 Z
       content_type_id: recommendation
-      revision: 4
+      revision: 5
     page_title: Clarify Roles and Responsibilities
     recommendation: Clarify roles and responsibilities of key people involved in __relationship
       management__ with the grantee. This is particularly important for creating a
@@ -1686,12 +1707,13 @@ theme:
     theme_tag:
     - Funding Approach & Process
     - Trust & Power
+    order: 4
   - sys:
       id: 1xnQafkeYLOxaZrpKvWs0s
       created_at: !ruby/object:DateTime 2019-05-06 19:52:10.089000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:57.764000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:27:28.683000000 Z
       content_type_id: recommendation
-      revision: 5
+      revision: 6
     page_title: Alternative Models of Portfolio Support
     recommendation: 'Explore __alternative and more flexible models for portfolio
       support__, as opposed to taking board seats as a funder, e.g., create opportunities
@@ -1721,12 +1743,13 @@ theme:
     theme_tag:
     - Funding Approach & Process
     - Trust & Power
+    order: 6
   - sys:
       id: 5hKYhindU3pFFpe3q13egX
       created_at: !ruby/object:DateTime 2019-05-06 19:53:13.347000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:56.058000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:27:30.679000000 Z
       content_type_id: recommendation
-      revision: 7
+      revision: 8
     page_title: Portfolio Support Autonomy
     recommendation: Give grantees more autonomy and choice when taking advantage of
       additional __portfolio support__ e.g., by giving them ownership over who to
@@ -1751,12 +1774,13 @@ theme:
     theme_tag:
     - Funding Approach & Process
     - Trust & Power
+    order: 7
   - sys:
       id: 5UFLM9YhjV7pMyRVYAKGN7
       created_at: !ruby/object:DateTime 2019-05-02 23:39:58.648000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:57.730000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:27:28.684000000 Z
       content_type_id: recommendation
-      revision: 3
+      revision: 4
     page_title: Clarify Grantee Expectations
     recommendation: 'Be clear about __expectations and responsibilities of grantees
       once in the portfolio__ e.g., with regards to reporting, evaluation, and expected
@@ -1783,12 +1807,13 @@ theme:
     theme_tag:
     - Funding Approach & Process
     - Assessing Impact
+    order: 8
   - sys:
       id: 6PFzfQyngpV581NtHSeZx8
       created_at: !ruby/object:DateTime 2019-05-06 19:56:09.265000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:58.755000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:27:28.034000000 Z
       content_type_id: recommendation
-      revision: 3
+      revision: 4
     page_title: Be Respectful Towards Existing Networks
     recommendation: Be respectful towards __organizations’ existing networks__ and
       relationships when conducting __diligence__, by being explicit about the times
@@ -1814,12 +1839,13 @@ theme:
     theme_tag:
     - Funding Approach & Process
     - Trust & Power
+    order: 11
   - sys:
       id: 017p3qzOAZnrMjC3a5awyi
       created_at: !ruby/object:DateTime 2019-05-02 23:41:34.145000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:55.717000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:15:58.489000000 Z
       content_type_id: recommendation
-      revision: 4
+      revision: 5
     page_title: Time to Develop Impact Measurement Framework
     recommendation: 'Give sufficient time to develop an __impact measurement framework__
       that a grantee is comfortable with, e.g., consider allocating time at the beginning
@@ -1853,12 +1879,13 @@ theme:
     - Funding Approach & Process
     - Trust & Power
     - Assessing Impact
+    order: 12
   - sys:
       id: 6CtHXkA7chCdYrtQerM3aD
       created_at: !ruby/object:DateTime 2019-05-06 19:56:58.968000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:56.739000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:27:29.675000000 Z
       content_type_id: recommendation
-      revision: 4
+      revision: 5
     page_title: Grant Reporting Guidance
     recommendation: Be explicit about the __purpose of grant reporting__ and where
       possible offer guidance and options around formats.
@@ -1887,12 +1914,13 @@ theme:
     theme_tag:
     - Funding Approach & Process
     - Assessing Impact
+    order: 13
   - sys:
       id: 2jPpX1aCPfGnLCldon7zAv
       created_at: !ruby/object:DateTime 2019-05-02 23:44:26.109000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 16:26:07.188000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:27:27.667000000 Z
       content_type_id: recommendation
-      revision: 5
+      revision: 6
     page_title: Integrate Reporting with Workflow
     recommendation: 'Proactively talk with grantees about how __reporting can better
       fit into their existing workflow__ and improve their organizational health. '
@@ -1923,12 +1951,13 @@ theme:
     theme_tag:
     - Funding Approach & Process
     - Assessing Impact
+    order: 14
   - sys:
       id: 5TrkIP1GfMYitT6ZyrOPiM
       created_at: !ruby/object:DateTime 2019-05-06 19:57:50.462000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:55.777000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:27:30.680000000 Z
       content_type_id: recommendation
-      revision: 3
+      revision: 4
     page_title: Provide Timely Feedback
     recommendation: Provide __timely feedback on reports__ provided by grantees.
     recommendation_short: Provide Timely Feedback
@@ -1954,14 +1983,15 @@ theme:
     theme_tag:
     - Funding Approach & Process
     - Assessing Impact
+    order: 15
   - sys:
       id: 6usDyH5dFIPdiew4HipTs3
       created_at: !ruby/object:DateTime 2019-05-06 19:59:14.677000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:56.698000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:27:29.915000000 Z
       content_type_id: recommendation
-      revision: 4
+      revision: 5
     page_title: Invite Proposed Metrics
-    recommendation: Invite grantees to propose __metrics or impact measurement frameworks__
+    recommendation: Invite grantees to __propose metrics or impact measurement frameworks__
       that best reflect their strategy, impact model, and desired outcomes.
     recommendation_short: Invite Proposed Metrics
     related_resources:
@@ -1990,12 +2020,13 @@ theme:
     theme_tag:
     - Funding Approach & Process
     - Assessing Impact
+    order: 16
   - sys:
       id: 7r9IEjpcUzDMCCofBKuFn0
       created_at: !ruby/object:DateTime 2019-05-06 19:59:56.990000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:54.759000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:14:13.774000000 Z
       content_type_id: recommendation
-      revision: 5
+      revision: 6
     page_title: Align Metrics with Existing MEL Frameworks
     recommendation: 'Where possible, __align metrics with organizations’ existing
       frameworks for monitoring, evaluation, and learning (MEL)__, and where organizations
@@ -2028,12 +2059,13 @@ theme:
     theme_tag:
     - Funding Approach & Process
     - Assessing Impact
+    order: 17
   - sys:
       id: 4rrf45WE74ntAJMLgn8ulC
       created_at: !ruby/object:DateTime 2019-05-06 20:00:23.630000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:55.721000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:16:23.737000000 Z
       content_type_id: recommendation
-      revision: 4
+      revision: 5
     page_title: Sync Impact Measurement and Reporting
     recommendation: Where possible, identify an opportunity to __sync impact measurement__
       and reporting across co-funders to alleviate the burden on grantees.
@@ -2066,12 +2098,13 @@ theme:
     theme_tag:
     - Funding Approach & Process
     - Assessing Impact
+    order: 18
   - sys:
       id: 62AGKdvAhcnb1F3VjxmNFo
       created_at: !ruby/object:DateTime 2019-05-06 20:01:05.423000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:57.098000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:27:29.667000000 Z
       content_type_id: recommendation
-      revision: 4
+      revision: 5
     page_title: Create Processes for Feedback on Metrics
     recommendation: Create processes for __gathering and incorporating organizational
       feedback on metrics__ over the course of the funding period and offer flexibility
@@ -2104,12 +2137,13 @@ theme:
     theme_tag:
     - Funding Approach & Process
     - Assessing Impact
+    order: 19
   - sys:
       id: 3QVf7L1Gq74un7NUugqYhx
       created_at: !ruby/object:DateTime 2019-05-06 20:01:59.216000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:56.767000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:27:29.669000000 Z
       content_type_id: recommendation
-      revision: 3
+      revision: 4
     page_title: Develop Transition Strategies
     recommendation: When __expecting to transition a grantee out of your portfolio__,
       specify a “ramp down” time period, during which grantees have time to adjust
@@ -2133,12 +2167,13 @@ theme:
     theme_tag:
     - Funding Approach & Process
     - Assessing Impact
+    order: 20
   - sys:
       id: F38G9F4X0cp3bRAxpm193
       created_at: !ruby/object:DateTime 2019-05-06 20:02:56.461000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:55.724000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:16:56.418000000 Z
       content_type_id: recommendation
-      revision: 4
+      revision: 5
     page_title: Strategic and Financial Planning Support Post-Funding
     recommendation: Consider providing __strategic and financial planning support__,
       particularly focused on the post-funding phase.
@@ -2161,12 +2196,13 @@ theme:
     - Portfolio support
     theme_tag:
     - Funding Approach & Process
+    order: 21
   - sys:
       id: 7JwfVjPvS8FuBtTYBpE1v4
       created_at: !ruby/object:DateTime 2019-05-06 20:04:00.511000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:56.710000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:27:29.675000000 Z
       content_type_id: recommendation
-      revision: 3
+      revision: 4
     page_title: End of Relationship Feedback
     recommendation: Consider inviting organizations to do an __exit interview or survey
       at the end of a grant or the funding relationship__ to collect meaningful feedback
@@ -2189,12 +2225,13 @@ theme:
     - Structure and clarity
     theme_tag:
     - Funding Approach & Process
+    order: 22
   - sys:
       id: 7DXzHNGSjjLIrrauaEX6xo
       created_at: !ruby/object:DateTime 2019-05-06 20:04:54.233000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:58.789000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:27:27.683000000 Z
       content_type_id: recommendation
-      revision: 4
+      revision: 5
     page_title: Transparency and Honesty in Communications with Grantees
     recommendation: Look for opportunities to __model transparency and honesty__ in
       communications with grantees. Greater transparency from funders around their
@@ -2230,12 +2267,13 @@ theme:
     - Funding Approach & Process
     - Trust & Power
     - Funder Identity & Culture
+    order: 23
   - sys:
       id: 69Cd3AfVpw9mjYZVghjizc
       created_at: !ruby/object:DateTime 2019-05-06 20:05:24.415000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:56.703000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:27:29.690000000 Z
       content_type_id: recommendation
-      revision: 3
+      revision: 4
     page_title: Iterative Feedback and Learning with Grantees
     recommendation: Build in more opportunities for __iterative feedback and learning
       with grantees__.
@@ -2262,12 +2300,13 @@ theme:
     theme_tag:
     - Funding Approach & Process
     - Assessing Impact
+    order: 24
   - sys:
       id: VQ7OXAIvpXWtiSY3oWE89
       created_at: !ruby/object:DateTime 2019-05-06 20:06:24.054000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:57.792000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:27:28.668000000 Z
       content_type_id: recommendation
-      revision: 3
+      revision: 4
     page_title: Be Explicit About the Role DEI Plays
     recommendation: Be __explicit about the role DEI plays in your organization__
       and how you are integrating DEI-related efforts and considerations into your
@@ -2299,12 +2338,13 @@ theme:
     theme_tag:
     - Funding Approach & Process
     - Funder Identity & Culture
+    order: 25
   - sys:
       id: TIxnVzPScmMILBZuIWVaE
       created_at: !ruby/object:DateTime 2019-05-22 00:16:29.817000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:56.706000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:27:29.688000000 Z
       content_type_id: recommendation
-      revision: 3
+      revision: 4
     page_title: Invest in organizational health
     recommendation: Take steps to __invest in the organizational health__ of your
       grantees, beyond individual projects.
@@ -2334,16 +2374,17 @@ theme:
     - Multi-year flexible funding
     theme_tag:
     - Funding Approach & Process
+    order: 34
   - sys:
       id: 4rjSbRM4lt2De5UTonoVjK
       created_at: !ruby/object:DateTime 2019-05-22 00:15:50.789000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:55.699000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:11:44.922000000 Z
       content_type_id: recommendation
-      revision: 3
+      revision: 4
     page_title: Alternative funding models
-    recommendation: Where appropriate, explore __alternative funding models__ in collaboration
-      with your grantees, to help alleviate dependency on philanthropic funding, and
-      build operational sustainability.
+    recommendation: Explore __alternative funding models__ in collaboration with your
+      grantees, to help alleviate dependency on philanthropic funding, and build operational
+      sustainability.
     recommendation_short: Alternative funding models
     related_resources:
     - sys:
@@ -2364,12 +2405,13 @@ theme:
         id: 3AKyAU3s36zTcT0oNQhN7P
     theme_tag:
     - Funding Approach & Process
+    order: 33
   - sys:
       id: 25uIG8E7r2TQ3F7ykBzVwn
       created_at: !ruby/object:DateTime 2019-05-22 00:15:01.670000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:55.071000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:15:22.902000000 Z
       content_type_id: recommendation
-      revision: 3
+      revision: 4
     page_title: Core funding and flexibility
     recommendation: __Provide core funding where possible, and build flexibility__
       in the grant structures to allow the grantee to develop sustainable organizational
@@ -2396,6 +2438,7 @@ theme:
     - Multi-year flexible funding
     theme_tag:
     - Funding Approach & Process
+    order: 32
 - sys:
     id: 4UDIcXStAWXpPwjDpq1hCU
     created_at: !ruby/object:DateTime 2019-05-03 00:04:36.588000000 Z
@@ -2418,9 +2461,9 @@ theme:
   - sys:
       id: 5K90Xztqn08a6GbFj3ep4w
       created_at: !ruby/object:DateTime 2019-05-02 23:35:43.855000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 09:30:43.112000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 08:48:00.994000000 Z
       content_type_id: insight
-      revision: 9
+      revision: 11
     page_title: Deep, Trusting Relationships
     insight_short: Deep, Trusting Relationships
     insight_title: Grantees value deep and trusting relationships with funders, grounded
@@ -2433,23 +2476,24 @@ theme:
     featured_quote:
       sys:
         id: 3XbFyZvWauf1G4IV3ho6aO
-    long_description: "The investment lead (IL) or program officer is the face of
-      Luminate for grantees. A positive experience with an IL reflects very well on
-      the organization as a whole. IL’s with deep subject area knowledge are particularly
-      valued.\n\nThe ILs’ extensive knowledge about the space made the grantees feel
-      understood and heard, and contributed to an overall feeling of alignment with
-      GCE as a team. One participant expressed this as really valuing the “professional,
-      constructive, and encouraging thinking partner that our contact (IL) embodies.”
-      \n\nOrganizations who had a close relationship with their ILs were uniformly
-      positive about their IL’s capabilities and the amount of personal attention
-      they received. “They’ve truly felt as much like thought partners and co-conspirators
-      in our work as they do funders,” wrote one organization in the survey. \n\nGCE’s
-      openness to collaboration and negotiation was regarded as extremely positive
-      for those who had taken the initiative to take advantage of it. Grantees who
-      were confident enough to push back — usually with regard to metrics or reporting
-      — felt respected and heard, and often got what they asked for. Having pushed
-      back didn’t seem to hurt their reputation or relationship with GCE – if anything,
-      it seemed to lead to greater mutual respect."
+    long_description: "The investment lead (IL) is the face of Luminate for grantees.*
+      A positive experience with an IL reflects very well on the organization as a
+      whole. IL’s with deep subject area knowledge are particularly valued.\n\nThe
+      ILs’ extensive knowledge about the space made the grantees feel understood and
+      heard, and contributed to an overall feeling of alignment with GCE as a team.
+      One participant expressed this as really valuing the “professional, constructive,
+      and encouraging thinking partner that our contact (IL) embodies.” \n\nOrganizations
+      who had a close relationship with their ILs were uniformly positive about their
+      IL’s capabilities and the amount of personal attention they received. “They’ve
+      truly felt as much like thought partners and co-conspirators in our work as
+      they do funders,” wrote one organization in the survey. \n\nGCE’s openness to
+      collaboration and negotiation was regarded as extremely positive for those who
+      had taken the initiative to take advantage of it. Grantees who were confident
+      enough to push back — usually with regard to metrics or reporting — felt respected
+      and heard, and often got what they asked for. Having pushed back didn’t seem
+      to hurt their reputation or relationship with GCE – if anything, it seemed to
+      lead to greater mutual respect.\n\n*Investment Lead (IL) is a similar role to
+      a Program Officer at a foundation."
     related_theme:
     - Funding Approach & Process
     - Trust & Power
@@ -2457,9 +2501,9 @@ theme:
     - sys:
         id: 739159sAxh2eiycKRBdOfz
         created_at: !ruby/object:DateTime 2019-05-06 19:54:02.811000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:55.735000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:17:25.317000000 Z
         content_type_id: recommendation
-        revision: 4
+        revision: 5
       page_title: Support Professional Development
       recommendation: Support __professional development of investment leads__ to
         develop expertise in the field in which they are managing grants.
@@ -2485,12 +2529,13 @@ theme:
       theme_tag:
       - Trust & Power
       - Funder Identity & Culture
+      order: 9
     - sys:
         id: 7HaggMuTZVQo9qMqqiQvJi
         created_at: !ruby/object:DateTime 2019-05-02 23:38:31.638000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:57.711000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:28.712000000 Z
         content_type_id: recommendation
-        revision: 4
+        revision: 5
       page_title: Clarify Roles and Responsibilities
       recommendation: Clarify roles and responsibilities of key people involved in
         __relationship management__ with the grantee. This is particularly important
@@ -2517,12 +2562,13 @@ theme:
       theme_tag:
       - Funding Approach & Process
       - Trust & Power
+      order: 4
     - sys:
         id: 7ifyzI6bOqUiTn5aXg2Ac8
         created_at: !ruby/object:DateTime 2019-05-02 23:39:19.396000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:57.729000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:28.669000000 Z
         content_type_id: recommendation
-        revision: 4
+        revision: 5
       page_title: Clarify the Funding Process
       recommendation: Clarify the steps, inputs and outputs of the __funding process__,
         and the process for accessing alternative types of support. Pay particular
@@ -2549,12 +2595,13 @@ theme:
       - Diversity, equity, and inclusion
       theme_tag:
       - Funding Approach & Process
+      order: 3
     - sys:
         id: 5UFLM9YhjV7pMyRVYAKGN7
         created_at: !ruby/object:DateTime 2019-05-02 23:39:58.648000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:57.730000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:28.684000000 Z
         content_type_id: recommendation
-        revision: 3
+        revision: 4
       page_title: Clarify Grantee Expectations
       recommendation: 'Be clear about __expectations and responsibilities of grantees
         once in the portfolio__ e.g., with regards to reporting, evaluation, and expected
@@ -2581,12 +2628,13 @@ theme:
       theme_tag:
       - Funding Approach & Process
       - Assessing Impact
+      order: 8
     - sys:
         id: 017p3qzOAZnrMjC3a5awyi
         created_at: !ruby/object:DateTime 2019-05-02 23:41:34.145000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:55.717000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:15:58.489000000 Z
         content_type_id: recommendation
-        revision: 4
+        revision: 5
       page_title: Time to Develop Impact Measurement Framework
       recommendation: 'Give sufficient time to develop an __impact measurement framework__
         that a grantee is comfortable with, e.g., consider allocating time at the
@@ -2620,12 +2668,13 @@ theme:
       - Funding Approach & Process
       - Trust & Power
       - Assessing Impact
+      order: 12
     - sys:
         id: 2jPpX1aCPfGnLCldon7zAv
         created_at: !ruby/object:DateTime 2019-05-02 23:44:26.109000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 16:26:07.188000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:27.667000000 Z
         content_type_id: recommendation
-        revision: 5
+        revision: 6
       page_title: Integrate Reporting with Workflow
       recommendation: 'Proactively talk with grantees about how __reporting can better
         fit into their existing workflow__ and improve their organizational health. '
@@ -2656,6 +2705,7 @@ theme:
       theme_tag:
       - Funding Approach & Process
       - Assessing Impact
+      order: 14
     related_resources:
     - sys:
         id: 648LvvJeMpyWszz9HUvRGp
@@ -2679,11 +2729,11 @@ theme:
         id: 6I9Dibp3UqHX3S7XE3kvE
     - sys:
         id: 5cdDjuEjsojN5AfyV1EOS4
+    - sys:
+        id: 3GwWdE740i2u11ikFAzLFD
     related_quotes:
     - sys:
         id: kvAzPII7XhsVREPsfqHyU
-    - sys:
-        id: 3XbFyZvWauf1G4IV3ho6aO
     - sys:
         id: 3HjUvk7VX1pAERfNHzTHin
     - sys:
@@ -2702,9 +2752,9 @@ theme:
   - sys:
       id: XVD1SkpJyjScJv1XiJIti
       created_at: !ruby/object:DateTime 2019-05-22 00:51:13.658000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 18:02:26.801000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:06:13.638000000 Z
       content_type_id: insight
-      revision: 6
+      revision: 9
     page_title: Diversity, Equity, and Inclusion
     insight_short: Diversity, Equity, and Inclusion
     insight_title: A lack of transparency around how diversity, equity and inclusion
@@ -2725,7 +2775,7 @@ theme:
       to the values of DEI at Luminate. Participants sometimes ascribed frustration
       with systemic discrimination problems happening in Silicon Valley onto GCE as
       well, due to their perception that GCE’s approach was aligned with more negative
-      aspects of Silicon Valley’s cutlure. Some participants even spoke about not
+      aspects of Silicon Valley’s culture. Some participants even spoke about not
       bringing up DEI-related issues with GCE, saying that they didn’t think GCE would
       be able to help or even understand. For these participants, their perception
       of GCE was of an organization that was heteronormative, white, and male.\n\nSeveral
@@ -2733,14 +2783,12 @@ theme:
       Omidyar Network / GCE website. They also remarked on the fact that the team
       did not ask for any diversity data during the investment process.\n\nParticipants
       were generally aware that GCE used DEI considerations in their assessment of
-      an organization, but it seems that not all ILs involve grantees in the collection
+      an organization, but it seems that not all ILs involved grantees in the collection
       or reporting of that information about the organization.\n\n__NOTES:__ \n\nTransparency
       is a key component to fostering an equitable playing field amongst grantees.
       Transparency ensures that information about funding processes and supports are
       made clear to all, rather than offered through informal channels only to grantees
-      in a social position to initiate a discussion or inquiry.\n\nLuminate offers
-      direct support around diversity, equity, and inclusion—e.g., in the form of
-      diversity consultants\" works\n\n\n"
+      in a social position to initiate a discussion or inquiry.\n\n\n"
     related_theme:
     - Trust & Power
     - Funder Identity & Culture
@@ -2748,9 +2796,9 @@ theme:
     - sys:
         id: VQ7OXAIvpXWtiSY3oWE89
         created_at: !ruby/object:DateTime 2019-05-06 20:06:24.054000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:57.792000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:28.668000000 Z
         content_type_id: recommendation
-        revision: 3
+        revision: 4
       page_title: Be Explicit About the Role DEI Plays
       recommendation: Be __explicit about the role DEI plays in your organization__
         and how you are integrating DEI-related efforts and considerations into your
@@ -2782,12 +2830,13 @@ theme:
       theme_tag:
       - Funding Approach & Process
       - Funder Identity & Culture
+      order: 25
     - sys:
         id: 1xpFI6iZClNLmhFwWXnk8r
         created_at: !ruby/object:DateTime 2019-05-06 20:10:49.223000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:54.766000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:14:37.202000000 Z
         content_type_id: recommendation
-        revision: 3
+        revision: 4
       page_title: Diversify Your Network
       recommendation: Consider finding ways to __diversify your network__ and the
         organizations you fund, by, for example, intentionally engaging with organizations
@@ -2813,12 +2862,13 @@ theme:
       theme_tag:
       - Trust & Power
       - Funder Identity & Culture
+      order: 31
     - sys:
         id: 59J8XvABHc0OSDJ4D2BLBc
         created_at: !ruby/object:DateTime 2019-05-06 19:44:39.071000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:54.813000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:15:01.742000000 Z
         content_type_id: recommendation
-        revision: 3
+        revision: 4
       page_title: Strategic Priorities
       recommendation: Be __transparent__ about your __strategic priorities__, and
         keep grantees informed as to how they may be changing.
@@ -2849,12 +2899,13 @@ theme:
       theme_tag:
       - Funding Approach & Process
       - Funder Identity & Culture
+      order: 1
     - sys:
         id: wfKc9XecT9ZjuKOFNKvTi
         created_at: !ruby/object:DateTime 2019-05-06 19:45:56.419000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:57.726000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:28.911000000 Z
         content_type_id: recommendation
-        revision: 4
+        revision: 5
       page_title: Clear, Collaborative Outputs
       recommendation: 'Develop processes that are __transparent__ and used __consistently__
         with all potential grantees, so that everyone has the __same opportunities
@@ -2885,12 +2936,13 @@ theme:
       - Diversity, equity, and inclusion
       theme_tag:
       - Funding Approach & Process
+      order: 2
     - sys:
         id: 7ifyzI6bOqUiTn5aXg2Ac8
         created_at: !ruby/object:DateTime 2019-05-02 23:39:19.396000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:57.729000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:28.669000000 Z
         content_type_id: recommendation
-        revision: 4
+        revision: 5
       page_title: Clarify the Funding Process
       recommendation: Clarify the steps, inputs and outputs of the __funding process__,
         and the process for accessing alternative types of support. Pay particular
@@ -2917,12 +2969,13 @@ theme:
       - Diversity, equity, and inclusion
       theme_tag:
       - Funding Approach & Process
+      order: 3
     - sys:
         id: 7HaggMuTZVQo9qMqqiQvJi
         created_at: !ruby/object:DateTime 2019-05-02 23:38:31.638000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:57.711000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:28.712000000 Z
         content_type_id: recommendation
-        revision: 4
+        revision: 5
       page_title: Clarify Roles and Responsibilities
       recommendation: Clarify roles and responsibilities of key people involved in
         __relationship management__ with the grantee. This is particularly important
@@ -2949,6 +3002,7 @@ theme:
       theme_tag:
       - Funding Approach & Process
       - Trust & Power
+      order: 4
     - sys:
         id: 64aVefaJYpSHSj8GnNRqZj
     - sys:
@@ -2993,9 +3047,9 @@ theme:
   - sys:
       id: 2bwSfmkxe2O5t2tDHQt2vs
       created_at: !ruby/object:DateTime 2019-05-22 00:45:11.624000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 18:02:26.846000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 21:02:00.737000000 Z
       content_type_id: insight
-      revision: 5
+      revision: 6
     page_title: Funder Reputation
     insight_short: Funder Reputation
     insight_title: A funder’s reputation impacts the funder-grantee relationship.
@@ -3019,11 +3073,13 @@ theme:
     - sys:
         id: 60zNrJKfHNEWML0tpY6KlI
     - sys:
+        id: 6AXhCXKDhYQW6dRirkhmL
+    - sys:
         id: 59J8XvABHc0OSDJ4D2BLBc
         created_at: !ruby/object:DateTime 2019-05-06 19:44:39.071000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:54.813000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:15:01.742000000 Z
         content_type_id: recommendation
-        revision: 3
+        revision: 4
       page_title: Strategic Priorities
       recommendation: Be __transparent__ about your __strategic priorities__, and
         keep grantees informed as to how they may be changing.
@@ -3054,6 +3110,7 @@ theme:
       theme_tag:
       - Funding Approach & Process
       - Funder Identity & Culture
+      order: 1
     related_resources:
     - sys:
         id: 648LvvJeMpyWszz9HUvRGp
@@ -3082,9 +3139,9 @@ theme:
   - sys:
       id: 1mz5qNxgvkUfCHUN72zORV
       created_at: !ruby/object:DateTime 2019-05-22 00:35:36.623000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 18:02:27.819000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 08:48:00.894000000 Z
       content_type_id: insight
-      revision: 6
+      revision: 8
     page_title: Portfolio Support
     insight_short: Portfolio Support
     insight_title: Grantees are interested in, and looking for portfolio support,
@@ -3099,9 +3156,9 @@ theme:
       sys:
         id: 81bICoX8Ilj36S4if6xXH
     long_description: |+
-      Participants expressed interest in the following support areas:
+      Participants expressed interest in the following support* areas:
 
-      - Recruiting and hiring: Growth and scaling are important concerns for many of our respondents, and in some cases “growth” is understood to mean hiring people to help meet metrics. Non-profit organizations see a need for active recruiting and hiring support.
+      - Recruiting and hiring: Growth and scaling were important concerns for many of the respondents, and in some cases “growth” was understood to mean hiring people to help meet metrics. Grantees see a need for active recruiting and hiring support.
       - Financial management: Both survey respondents and interview participants strongly agreed that GCE had expertise in financial management.
       - Fundraising: 88% of survey respondents indicated that fundraising support was extremely desirable.
       - Networking, outreach and community development: Interview participants appreciated the sense of belonging that came from attending GCE gatherings and viewed access to other grantees as valuable. They also appreciated when GCE helped to expand their reach, e.g., on social media by "signal boosting" or promoting their work.
@@ -3119,6 +3176,7 @@ theme:
 
       What most organizations appreciated from board members was strategic advice, operational support, and connections to the ecosystem.
 
+      *Portfolio support refers to specifically earmarked support, above and beyond grant funding, to build organizational capacity and resilience. Examples include executive coaching, fundraising support, digital security trainings, or diversity, equity and inclusion (DEI) reviews.
 
     related_theme:
     - Funding Approach & Process
@@ -3129,9 +3187,9 @@ theme:
     - sys:
         id: 5hKYhindU3pFFpe3q13egX
         created_at: !ruby/object:DateTime 2019-05-06 19:53:13.347000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:56.058000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:30.679000000 Z
         content_type_id: recommendation
-        revision: 7
+        revision: 8
       page_title: Portfolio Support Autonomy
       recommendation: Give grantees more autonomy and choice when taking advantage
         of additional __portfolio support__ e.g., by giving them ownership over who
@@ -3156,12 +3214,13 @@ theme:
       theme_tag:
       - Funding Approach & Process
       - Trust & Power
+      order: 7
     - sys:
         id: 7DXzHNGSjjLIrrauaEX6xo
         created_at: !ruby/object:DateTime 2019-05-06 20:04:54.233000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:58.789000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:27.683000000 Z
         content_type_id: recommendation
-        revision: 4
+        revision: 5
       page_title: Transparency and Honesty in Communications with Grantees
       recommendation: Look for opportunities to __model transparency and honesty__
         in communications with grantees. Greater transparency from funders around
@@ -3197,12 +3256,13 @@ theme:
       - Funding Approach & Process
       - Trust & Power
       - Funder Identity & Culture
+      order: 23
     - sys:
         id: 1xnQafkeYLOxaZrpKvWs0s
         created_at: !ruby/object:DateTime 2019-05-06 19:52:10.089000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:57.764000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:28.683000000 Z
         content_type_id: recommendation
-        revision: 5
+        revision: 6
       page_title: Alternative Models of Portfolio Support
       recommendation: 'Explore __alternative and more flexible models for portfolio
         support__, as opposed to taking board seats as a funder, e.g., create opportunities
@@ -3232,12 +3292,13 @@ theme:
       theme_tag:
       - Funding Approach & Process
       - Trust & Power
+      order: 6
     - sys:
         id: F38G9F4X0cp3bRAxpm193
         created_at: !ruby/object:DateTime 2019-05-06 20:02:56.461000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:55.724000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:16:56.418000000 Z
         content_type_id: recommendation
-        revision: 4
+        revision: 5
       page_title: Strategic and Financial Planning Support Post-Funding
       recommendation: Consider providing __strategic and financial planning support__,
         particularly focused on the post-funding phase.
@@ -3260,6 +3321,7 @@ theme:
       - Portfolio support
       theme_tag:
       - Funding Approach & Process
+      order: 21
     related_resources:
     - sys:
         id: 648LvvJeMpyWszz9HUvRGp
@@ -3287,8 +3349,6 @@ theme:
     - sys:
         id: GDb4R70Pw45fl6owh7WhG
     - sys:
-        id: 81bICoX8Ilj36S4if6xXH
-    - sys:
         id: 4NNKcvSkJNRFo3nEAwSWil
     - sys:
         id: 34RcQrlXolw4e86vwajut1
@@ -3300,28 +3360,27 @@ theme:
   - sys:
       id: jyKMbw9LvNhaGzth0U8Dw
       created_at: !ruby/object:DateTime 2019-05-06 20:32:40.508000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 18:02:26.788000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 08:48:00.918000000 Z
       content_type_id: insight
-      revision: 5
+      revision: 7
     page_title: Structure and Clarity
     insight_short: Structure and Clarity
     insight_title: Grantees crave structure and clarity with regards to 1) the funding
-      process, 2) what to expect from the relationship once funded, and 3) shifting
+      process and what to expect from the relationship once funded, and 2) shifting
       strategic priorities.
-    short_description: Structured funding processes, and clear communication about
-      a funder’s strategic priorities and how to secure funding, are critical. Without
-      this, potential grantees have inconsistent experiences and misunderstandings
-      can arise.
+    short_description: Structured funding processes, clear communication about strategic
+      priorities, and how to secure funding are critical. Without this, potential
+      grantees have inconsistent experiences and misunderstandings can arise.
     featured_quote:
       sys:
         id: 2kEoS4hHqkxrm6zVDLJ9Qj
-    long_description: "\nWhen we asked grantees about their experiences with GCE,
-      almost all of them mentioned that theirs was an exceptional or unique case,
-      and not likely to be generalizable feedback. This seems to stem from a lack
-      of structure in the IL/grantee relationship overall. Funding relationships fall
-      somewhere on the spectrum between “hands-on” – meaning customized, high-touch
-      interactions – and “hands-off” – meaning more standardized, low-touch interactions.
-      Both extremes have advantages and disadvantages. Overall, this “culture of exceptions”
+    long_description: "When we asked grantees about their experiences with GCE, almost
+      all of them mentioned that theirs was an exceptional or unique case, and not
+      likely to be generalizable feedback. This seems to stem from a lack of structure
+      in the IL/grantee relationship overall. Funding relationships fall somewhere
+      on the spectrum between “hands-on” – meaning customized, high-touch interactions
+      – and “hands-off” – meaning more standardized, low-touch interactions. Both
+      extremes have advantages and disadvantages. Overall, this “culture of exceptions”
       can be associated with a lack of transparency, high unpredictability, and even
       nepotism.\n\nIn more hands-on relationships, organizations felt they had received
       bespoke engagement from GCE, often describing their ILs as mentors and partners.
@@ -3338,15 +3397,15 @@ theme:
       needs were not being met. They were more likely to see other grantees as competitors
       for GCE’s attention.\n\n## The Funding Process\n\nMany participants said they
       were uncertain about what to expect before and during the process. For example,
-      some interviewees expressed bewilderment about the role of the investment committee.
+      some interviewees expressed bewilderment about the role of the investment committee.*
       This confusion translated into insecurity about whether they can trust their
       ILs with information they feel might not be appropriate to share with the investment
       committee. They wondered about how much information they should share with their
       IL, especially information that might make their organization look bad, and
-      how much of that will then be shared with the investment committee, who they
-      may not meet for the first time until the end of a long process.\n\nSome participants
-      mentioned frustration with burdensome processes that lasted over a year and
-      involved multiple people from GCE. Over two-thirds of non-profit interviewees
+      how much of that would then be shared with the investment committee, who they
+      would likely not have met for the first time until the end of a long process.\n\nSome
+      participants mentioned frustration with burdensome processes that lasted over
+      a year and involved multiple people from GCE. Over two-thirds of interviewees
       bemoaned a process that was long, difficult, and opaque – one even called it
       “unprofessional.”\n\nThey reported being asked to submit documents on short
       notice, and having to repeat information, sending the same or very similar information
@@ -3360,19 +3419,19 @@ theme:
       through their connection with Luminate, and reap the benefits of a personal
       relationship with their IL, who is often a powerful player in their field.\n\nSince
       the personal relationship with the IL is a signature component of being part
-      of the Luminate network, being transitioned out of the portfolio can feel like
-      a personal betrayal. When their relationship with Luminate ends, some organizations
-      that have received longer-term support from Luminate feel that new projects
-      are competitors, not just for money, but also for attention. Participants raised
-      these concerns based on what they know of other organizations’ experiences,
-      and fears they have about the the stability of their funding.\n\nThis feeling
-      of personal betrayal also goes beyond the relationship with the IL. Many grantees
-      working in the space deeply identify with the issues they are working on. When
-      GCE/Luminate pivots to a different investment strategy, such as focusing on
-      new and emerging issues, people working in the “old” issues feel a rejection
-      of the issues they personally care about. It is not only a financial, but also
-      an emotional matter, to lose the support of Luminate, and one that can be seen
-      to reflect inherent power imbalances in the funder-grantee relationship."
+      of the network, being transitioned out of the portfolio can feel like a personal
+      betrayal. Some participants, that have received longer-term support from GCE,
+      felt that new projects were competitors not just for money but also for attention.
+      Concerns were raised based on what they knew of other organization’s experiences,
+      and fears over the stability of their own funding.\n\nThis feeling of personal
+      betrayal also goes beyond the relationship with the IL. Many grantees working
+      in the space deeply identify with the issues they are working on. When GCE/Luminate
+      pivots to a different investment strategy, such as focusing on new and emerging
+      issues, people working in the “old” issues feel a rejection of the issues they
+      personally care about. It is not only a financial, but also an emotional matter,
+      to lose the support of Luminate, and one that can be seen to reflect inherent
+      power imbalances in the funder-grantee relationship.\n\n*The investment committee
+      is the approval committee for grants and investments."
     related_theme:
     - Funding Approach & Process
     - Trust & Power
@@ -3381,9 +3440,9 @@ theme:
     - sys:
         id: 59J8XvABHc0OSDJ4D2BLBc
         created_at: !ruby/object:DateTime 2019-05-06 19:44:39.071000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:54.813000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:15:01.742000000 Z
         content_type_id: recommendation
-        revision: 3
+        revision: 4
       page_title: Strategic Priorities
       recommendation: Be __transparent__ about your __strategic priorities__, and
         keep grantees informed as to how they may be changing.
@@ -3414,12 +3473,13 @@ theme:
       theme_tag:
       - Funding Approach & Process
       - Funder Identity & Culture
+      order: 1
     - sys:
         id: 7ifyzI6bOqUiTn5aXg2Ac8
         created_at: !ruby/object:DateTime 2019-05-02 23:39:19.396000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:57.729000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:28.669000000 Z
         content_type_id: recommendation
-        revision: 4
+        revision: 5
       page_title: Clarify the Funding Process
       recommendation: Clarify the steps, inputs and outputs of the __funding process__,
         and the process for accessing alternative types of support. Pay particular
@@ -3446,12 +3506,13 @@ theme:
       - Diversity, equity, and inclusion
       theme_tag:
       - Funding Approach & Process
+      order: 3
     - sys:
         id: 7HaggMuTZVQo9qMqqiQvJi
         created_at: !ruby/object:DateTime 2019-05-02 23:38:31.638000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:57.711000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:28.712000000 Z
         content_type_id: recommendation
-        revision: 4
+        revision: 5
       page_title: Clarify Roles and Responsibilities
       recommendation: Clarify roles and responsibilities of key people involved in
         __relationship management__ with the grantee. This is particularly important
@@ -3478,51 +3539,15 @@ theme:
       theme_tag:
       - Funding Approach & Process
       - Trust & Power
-    - sys:
-        id: VQ7OXAIvpXWtiSY3oWE89
-        created_at: !ruby/object:DateTime 2019-05-06 20:06:24.054000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:57.792000000 Z
-        content_type_id: recommendation
-        revision: 3
-      page_title: Be Explicit About the Role DEI Plays
-      recommendation: Be __explicit about the role DEI plays in your organization__
-        and how you are integrating DEI-related efforts and considerations into your
-        funding approach, strategies and external relationships.
-      recommendation_short: Be Explicit About the Role DEI Plays
-      related_resources:
-      - sys:
-          id: 648LvvJeMpyWszz9HUvRGp
-      - sys:
-          id: Aqrq7NXOreu5GwPYj5J7J
-      - sys:
-          id: 3FQVA12oDvZRa7iUrTJaas
-      - sys:
-          id: 3CCx75O0FW2wxvEwZEg11q
-      - sys:
-          id: 2XZGFvjIjrN1IfcUeupNdL
-      - sys:
-          id: 4iFg1e6qKt6OiUSlBgWcPC
-      - sys:
-          id: W3P6BjUxiweX2m4ZjJxJY
-      - sys:
-          id: 1fNy0unV3wEtTEkU5l3whq
-      - sys:
-          id: 1iPSO2KZsJJR8knoNosTwJ
-      - sys:
-          id: 5cdDjuEjsojN5AfyV1EOS4
-      insight_tag:
-      - Diversity, equity, and inclusion
-      theme_tag:
-      - Funding Approach & Process
-      - Funder Identity & Culture
+      order: 4
     - sys:
         id: 64aVefaJYpSHSj8GnNRqZj
     - sys:
         id: 5UFLM9YhjV7pMyRVYAKGN7
         created_at: !ruby/object:DateTime 2019-05-02 23:39:58.648000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:57.730000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:28.684000000 Z
         content_type_id: recommendation
-        revision: 3
+        revision: 4
       page_title: Clarify Grantee Expectations
       recommendation: 'Be clear about __expectations and responsibilities of grantees
         once in the portfolio__ e.g., with regards to reporting, evaluation, and expected
@@ -3549,12 +3574,13 @@ theme:
       theme_tag:
       - Funding Approach & Process
       - Assessing Impact
+      order: 8
     - sys:
         id: 7DXzHNGSjjLIrrauaEX6xo
         created_at: !ruby/object:DateTime 2019-05-06 20:04:54.233000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:58.789000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:27.683000000 Z
         content_type_id: recommendation
-        revision: 4
+        revision: 5
       page_title: Transparency and Honesty in Communications with Grantees
       recommendation: Look for opportunities to __model transparency and honesty__
         in communications with grantees. Greater transparency from funders around
@@ -3590,12 +3616,13 @@ theme:
       - Funding Approach & Process
       - Trust & Power
       - Funder Identity & Culture
+      order: 23
     - sys:
         id: 3QVf7L1Gq74un7NUugqYhx
         created_at: !ruby/object:DateTime 2019-05-06 20:01:59.216000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:56.767000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:29.669000000 Z
         content_type_id: recommendation
-        revision: 3
+        revision: 4
       page_title: Develop Transition Strategies
       recommendation: When __expecting to transition a grantee out of your portfolio__,
         specify a “ramp down” time period, during which grantees have time to adjust
@@ -3619,12 +3646,42 @@ theme:
       theme_tag:
       - Funding Approach & Process
       - Assessing Impact
+      order: 20
+    - sys:
+        id: F38G9F4X0cp3bRAxpm193
+        created_at: !ruby/object:DateTime 2019-05-06 20:02:56.461000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:16:56.418000000 Z
+        content_type_id: recommendation
+        revision: 5
+      page_title: Strategic and Financial Planning Support Post-Funding
+      recommendation: Consider providing __strategic and financial planning support__,
+        particularly focused on the post-funding phase.
+      recommendation_short: Strategic and Financial Planning Support Post-Funding
+      related_resources:
+      - sys:
+          id: 648LvvJeMpyWszz9HUvRGp
+      - sys:
+          id: Aqrq7NXOreu5GwPYj5J7J
+      - sys:
+          id: 3FQVA12oDvZRa7iUrTJaas
+      - sys:
+          id: 3CCx75O0FW2wxvEwZEg11q
+      - sys:
+          id: 5LVm25wQZqjsKzGtU6a1zE
+      - sys:
+          id: W3P6BjUxiweX2m4ZjJxJY
+      insight_tag:
+      - Structure and clarity
+      - Portfolio support
+      theme_tag:
+      - Funding Approach & Process
+      order: 21
     - sys:
         id: 7JwfVjPvS8FuBtTYBpE1v4
         created_at: !ruby/object:DateTime 2019-05-06 20:04:00.511000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:56.710000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:29.675000000 Z
         content_type_id: recommendation
-        revision: 3
+        revision: 4
       page_title: End of Relationship Feedback
       recommendation: Consider inviting organizations to do an __exit interview or
         survey at the end of a grant or the funding relationship__ to collect meaningful
@@ -3647,6 +3704,7 @@ theme:
       - Structure and clarity
       theme_tag:
       - Funding Approach & Process
+      order: 22
     related_resources:
     - sys:
         id: 648LvvJeMpyWszz9HUvRGp
@@ -3684,8 +3742,6 @@ theme:
     - sys:
         id: 2C0l0vZBzF785Q1NbGfGvO
     - sys:
-        id: 2kEoS4hHqkxrm6zVDLJ9Qj
-    - sys:
         id: 3uW85No8luSk66sK6BJYDo
     - sys:
         id: 6oIxnhT6aMnOCzDicLFD7o
@@ -3697,9 +3753,9 @@ theme:
   - sys:
       id: 4xrmz2cDxqIf97YYfahCQU
       created_at: !ruby/object:DateTime 2019-05-22 00:41:30.693000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 18:02:26.987000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 21:02:00.759000000 Z
       content_type_id: insight
-      revision: 5
+      revision: 6
     page_title: Power Dynamics
     insight_short: Power Dynamics
     insight_title: Power dynamics, if not acknowledged, can affect the strength and
@@ -3726,9 +3782,9 @@ theme:
     - sys:
         id: 28oni0f59XkxVXUTQLddD8
         created_at: !ruby/object:DateTime 2019-05-06 20:08:04.235000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:58.781000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:27.684000000 Z
         content_type_id: recommendation
-        revision: 3
+        revision: 4
       page_title: Acknowledge Your Power
       recommendation: '__Honestly and frankly acknowledge the power you hold in relation
         to your grantees__, as a prerequisite for building trust in relationships. '
@@ -3761,12 +3817,13 @@ theme:
       theme_tag:
       - Trust & Power
       - Funder Identity & Culture
+      order: 28
     - sys:
         id: 6kBDVIvZsVyTtNQgH47x3S
         created_at: !ruby/object:DateTime 2019-05-06 20:08:42.565000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:58.750000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:28.037000000 Z
         content_type_id: recommendation
-        revision: 3
+        revision: 4
       page_title: Offer Genuine Space for Dialogue
       recommendation: Offer genuine space for __organizations to challenge and engage
         in dialogue__ around requests, processes, funding requirements, and even strategy.
@@ -3798,12 +3855,13 @@ theme:
       - Power dynamics
       theme_tag:
       - Trust & Power
+      order: 29
     - sys:
         id: 6Hv0eFtakFZ2y9zbf0Xmyx
         created_at: !ruby/object:DateTime 2019-05-06 20:10:26.044000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:58.742000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:28.070000000 Z
         content_type_id: recommendation
-        revision: 3
+        revision: 4
       page_title: Understanding and Communicating Power Systems
       recommendation: Explore opportunities for training and professional development
         to help staff __build awareness of power dynamics and skills__ for how to
@@ -3837,12 +3895,13 @@ theme:
       theme_tag:
       - Trust & Power
       - Funder Identity & Culture
+      order: 30
     - sys:
         id: 1xpFI6iZClNLmhFwWXnk8r
         created_at: !ruby/object:DateTime 2019-05-06 20:10:49.223000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:54.766000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:14:37.202000000 Z
         content_type_id: recommendation
-        revision: 3
+        revision: 4
       page_title: Diversify Your Network
       recommendation: Consider finding ways to __diversify your network__ and the
         organizations you fund, by, for example, intentionally engaging with organizations
@@ -3868,12 +3927,13 @@ theme:
       theme_tag:
       - Trust & Power
       - Funder Identity & Culture
+      order: 31
     - sys:
         id: 69Cd3AfVpw9mjYZVghjizc
         created_at: !ruby/object:DateTime 2019-05-06 20:05:24.415000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:56.703000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:29.690000000 Z
         content_type_id: recommendation
-        revision: 3
+        revision: 4
       page_title: Iterative Feedback and Learning with Grantees
       recommendation: Build in more opportunities for __iterative feedback and learning
         with grantees__.
@@ -3900,12 +3960,13 @@ theme:
       theme_tag:
       - Funding Approach & Process
       - Assessing Impact
+      order: 24
     - sys:
         id: 7DXzHNGSjjLIrrauaEX6xo
         created_at: !ruby/object:DateTime 2019-05-06 20:04:54.233000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:58.789000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:27.683000000 Z
         content_type_id: recommendation
-        revision: 4
+        revision: 5
       page_title: Transparency and Honesty in Communications with Grantees
       recommendation: Look for opportunities to __model transparency and honesty__
         in communications with grantees. Greater transparency from funders around
@@ -3941,12 +4002,13 @@ theme:
       - Funding Approach & Process
       - Trust & Power
       - Funder Identity & Culture
+      order: 23
     - sys:
         id: wfKc9XecT9ZjuKOFNKvTi
         created_at: !ruby/object:DateTime 2019-05-06 19:45:56.419000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:57.726000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:28.911000000 Z
         content_type_id: recommendation
-        revision: 4
+        revision: 5
       page_title: Clear, Collaborative Outputs
       recommendation: 'Develop processes that are __transparent__ and used __consistently__
         with all potential grantees, so that everyone has the __same opportunities
@@ -3977,6 +4039,7 @@ theme:
       - Diversity, equity, and inclusion
       theme_tag:
       - Funding Approach & Process
+      order: 2
     related_resources:
     - sys:
         id: 648LvvJeMpyWszz9HUvRGp
@@ -4026,9 +4089,9 @@ theme:
   - sys:
       id: 7HaggMuTZVQo9qMqqiQvJi
       created_at: !ruby/object:DateTime 2019-05-02 23:38:31.638000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:57.711000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:27:28.712000000 Z
       content_type_id: recommendation
-      revision: 4
+      revision: 5
     page_title: Clarify Roles and Responsibilities
     recommendation: Clarify roles and responsibilities of key people involved in __relationship
       management__ with the grantee. This is particularly important for creating a
@@ -4055,12 +4118,13 @@ theme:
     theme_tag:
     - Funding Approach & Process
     - Trust & Power
+    order: 4
   - sys:
       id: 1xnQafkeYLOxaZrpKvWs0s
       created_at: !ruby/object:DateTime 2019-05-06 19:52:10.089000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:57.764000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:27:28.683000000 Z
       content_type_id: recommendation
-      revision: 5
+      revision: 6
     page_title: Alternative Models of Portfolio Support
     recommendation: 'Explore __alternative and more flexible models for portfolio
       support__, as opposed to taking board seats as a funder, e.g., create opportunities
@@ -4090,12 +4154,13 @@ theme:
     theme_tag:
     - Funding Approach & Process
     - Trust & Power
+    order: 6
   - sys:
       id: 5hKYhindU3pFFpe3q13egX
       created_at: !ruby/object:DateTime 2019-05-06 19:53:13.347000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:56.058000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:27:30.679000000 Z
       content_type_id: recommendation
-      revision: 7
+      revision: 8
     page_title: Portfolio Support Autonomy
     recommendation: Give grantees more autonomy and choice when taking advantage of
       additional __portfolio support__ e.g., by giving them ownership over who to
@@ -4120,12 +4185,13 @@ theme:
     theme_tag:
     - Funding Approach & Process
     - Trust & Power
+    order: 7
   - sys:
       id: 6PFzfQyngpV581NtHSeZx8
       created_at: !ruby/object:DateTime 2019-05-06 19:56:09.265000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:58.755000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:27:28.034000000 Z
       content_type_id: recommendation
-      revision: 3
+      revision: 4
     page_title: Be Respectful Towards Existing Networks
     recommendation: Be respectful towards __organizations’ existing networks__ and
       relationships when conducting __diligence__, by being explicit about the times
@@ -4151,12 +4217,13 @@ theme:
     theme_tag:
     - Funding Approach & Process
     - Trust & Power
+    order: 11
   - sys:
       id: 017p3qzOAZnrMjC3a5awyi
       created_at: !ruby/object:DateTime 2019-05-02 23:41:34.145000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:55.717000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:15:58.489000000 Z
       content_type_id: recommendation
-      revision: 4
+      revision: 5
     page_title: Time to Develop Impact Measurement Framework
     recommendation: 'Give sufficient time to develop an __impact measurement framework__
       that a grantee is comfortable with, e.g., consider allocating time at the beginning
@@ -4190,12 +4257,13 @@ theme:
     - Funding Approach & Process
     - Trust & Power
     - Assessing Impact
+    order: 12
   - sys:
       id: 7DXzHNGSjjLIrrauaEX6xo
       created_at: !ruby/object:DateTime 2019-05-06 20:04:54.233000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:58.789000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:27:27.683000000 Z
       content_type_id: recommendation
-      revision: 4
+      revision: 5
     page_title: Transparency and Honesty in Communications with Grantees
     recommendation: Look for opportunities to __model transparency and honesty__ in
       communications with grantees. Greater transparency from funders around their
@@ -4231,12 +4299,13 @@ theme:
     - Funding Approach & Process
     - Trust & Power
     - Funder Identity & Culture
+    order: 23
   - sys:
       id: 6kBDVIvZsVyTtNQgH47x3S
       created_at: !ruby/object:DateTime 2019-05-06 20:08:42.565000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:58.750000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:27:28.037000000 Z
       content_type_id: recommendation
-      revision: 3
+      revision: 4
     page_title: Offer Genuine Space for Dialogue
     recommendation: Offer genuine space for __organizations to challenge and engage
       in dialogue__ around requests, processes, funding requirements, and even strategy.
@@ -4268,12 +4337,13 @@ theme:
     - Power dynamics
     theme_tag:
     - Trust & Power
+    order: 29
   - sys:
       id: 6Hv0eFtakFZ2y9zbf0Xmyx
       created_at: !ruby/object:DateTime 2019-05-06 20:10:26.044000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:58.742000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:27:28.070000000 Z
       content_type_id: recommendation
-      revision: 3
+      revision: 4
     page_title: Understanding and Communicating Power Systems
     recommendation: Explore opportunities for training and professional development
       to help staff __build awareness of power dynamics and skills__ for how to communicate
@@ -4307,12 +4377,13 @@ theme:
     theme_tag:
     - Trust & Power
     - Funder Identity & Culture
+    order: 30
   - sys:
       id: 1xpFI6iZClNLmhFwWXnk8r
       created_at: !ruby/object:DateTime 2019-05-06 20:10:49.223000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:54.766000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:14:37.202000000 Z
       content_type_id: recommendation
-      revision: 3
+      revision: 4
     page_title: Diversify Your Network
     recommendation: Consider finding ways to __diversify your network__ and the organizations
       you fund, by, for example, intentionally engaging with organizations beyond
@@ -4338,6 +4409,7 @@ theme:
     theme_tag:
     - Trust & Power
     - Funder Identity & Culture
+    order: 31
 - sys:
     id: 3IU2vd7hHiF8B8Zhq55mvo
     created_at: !ruby/object:DateTime 2019-05-03 00:05:23.821000000 Z
@@ -4360,9 +4432,9 @@ theme:
   - sys:
       id: XVD1SkpJyjScJv1XiJIti
       created_at: !ruby/object:DateTime 2019-05-22 00:51:13.658000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 18:02:26.801000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:06:13.638000000 Z
       content_type_id: insight
-      revision: 6
+      revision: 9
     page_title: Diversity, Equity, and Inclusion
     insight_short: Diversity, Equity, and Inclusion
     insight_title: A lack of transparency around how diversity, equity and inclusion
@@ -4383,7 +4455,7 @@ theme:
       to the values of DEI at Luminate. Participants sometimes ascribed frustration
       with systemic discrimination problems happening in Silicon Valley onto GCE as
       well, due to their perception that GCE’s approach was aligned with more negative
-      aspects of Silicon Valley’s cutlure. Some participants even spoke about not
+      aspects of Silicon Valley’s culture. Some participants even spoke about not
       bringing up DEI-related issues with GCE, saying that they didn’t think GCE would
       be able to help or even understand. For these participants, their perception
       of GCE was of an organization that was heteronormative, white, and male.\n\nSeveral
@@ -4391,14 +4463,12 @@ theme:
       Omidyar Network / GCE website. They also remarked on the fact that the team
       did not ask for any diversity data during the investment process.\n\nParticipants
       were generally aware that GCE used DEI considerations in their assessment of
-      an organization, but it seems that not all ILs involve grantees in the collection
+      an organization, but it seems that not all ILs involved grantees in the collection
       or reporting of that information about the organization.\n\n__NOTES:__ \n\nTransparency
       is a key component to fostering an equitable playing field amongst grantees.
       Transparency ensures that information about funding processes and supports are
       made clear to all, rather than offered through informal channels only to grantees
-      in a social position to initiate a discussion or inquiry.\n\nLuminate offers
-      direct support around diversity, equity, and inclusion—e.g., in the form of
-      diversity consultants\" works\n\n\n"
+      in a social position to initiate a discussion or inquiry.\n\n\n"
     related_theme:
     - Trust & Power
     - Funder Identity & Culture
@@ -4406,9 +4476,9 @@ theme:
     - sys:
         id: VQ7OXAIvpXWtiSY3oWE89
         created_at: !ruby/object:DateTime 2019-05-06 20:06:24.054000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:57.792000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:28.668000000 Z
         content_type_id: recommendation
-        revision: 3
+        revision: 4
       page_title: Be Explicit About the Role DEI Plays
       recommendation: Be __explicit about the role DEI plays in your organization__
         and how you are integrating DEI-related efforts and considerations into your
@@ -4440,12 +4510,13 @@ theme:
       theme_tag:
       - Funding Approach & Process
       - Funder Identity & Culture
+      order: 25
     - sys:
         id: 1xpFI6iZClNLmhFwWXnk8r
         created_at: !ruby/object:DateTime 2019-05-06 20:10:49.223000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:54.766000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:14:37.202000000 Z
         content_type_id: recommendation
-        revision: 3
+        revision: 4
       page_title: Diversify Your Network
       recommendation: Consider finding ways to __diversify your network__ and the
         organizations you fund, by, for example, intentionally engaging with organizations
@@ -4471,12 +4542,13 @@ theme:
       theme_tag:
       - Trust & Power
       - Funder Identity & Culture
+      order: 31
     - sys:
         id: 59J8XvABHc0OSDJ4D2BLBc
         created_at: !ruby/object:DateTime 2019-05-06 19:44:39.071000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:54.813000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:15:01.742000000 Z
         content_type_id: recommendation
-        revision: 3
+        revision: 4
       page_title: Strategic Priorities
       recommendation: Be __transparent__ about your __strategic priorities__, and
         keep grantees informed as to how they may be changing.
@@ -4507,12 +4579,13 @@ theme:
       theme_tag:
       - Funding Approach & Process
       - Funder Identity & Culture
+      order: 1
     - sys:
         id: wfKc9XecT9ZjuKOFNKvTi
         created_at: !ruby/object:DateTime 2019-05-06 19:45:56.419000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:57.726000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:28.911000000 Z
         content_type_id: recommendation
-        revision: 4
+        revision: 5
       page_title: Clear, Collaborative Outputs
       recommendation: 'Develop processes that are __transparent__ and used __consistently__
         with all potential grantees, so that everyone has the __same opportunities
@@ -4543,12 +4616,13 @@ theme:
       - Diversity, equity, and inclusion
       theme_tag:
       - Funding Approach & Process
+      order: 2
     - sys:
         id: 7ifyzI6bOqUiTn5aXg2Ac8
         created_at: !ruby/object:DateTime 2019-05-02 23:39:19.396000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:57.729000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:28.669000000 Z
         content_type_id: recommendation
-        revision: 4
+        revision: 5
       page_title: Clarify the Funding Process
       recommendation: Clarify the steps, inputs and outputs of the __funding process__,
         and the process for accessing alternative types of support. Pay particular
@@ -4575,12 +4649,13 @@ theme:
       - Diversity, equity, and inclusion
       theme_tag:
       - Funding Approach & Process
+      order: 3
     - sys:
         id: 7HaggMuTZVQo9qMqqiQvJi
         created_at: !ruby/object:DateTime 2019-05-02 23:38:31.638000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:57.711000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:28.712000000 Z
         content_type_id: recommendation
-        revision: 4
+        revision: 5
       page_title: Clarify Roles and Responsibilities
       recommendation: Clarify roles and responsibilities of key people involved in
         __relationship management__ with the grantee. This is particularly important
@@ -4607,6 +4682,7 @@ theme:
       theme_tag:
       - Funding Approach & Process
       - Trust & Power
+      order: 4
     - sys:
         id: 64aVefaJYpSHSj8GnNRqZj
     - sys:
@@ -4651,9 +4727,9 @@ theme:
   - sys:
       id: 2bwSfmkxe2O5t2tDHQt2vs
       created_at: !ruby/object:DateTime 2019-05-22 00:45:11.624000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 18:02:26.846000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 21:02:00.737000000 Z
       content_type_id: insight
-      revision: 5
+      revision: 6
     page_title: Funder Reputation
     insight_short: Funder Reputation
     insight_title: A funder’s reputation impacts the funder-grantee relationship.
@@ -4677,11 +4753,13 @@ theme:
     - sys:
         id: 60zNrJKfHNEWML0tpY6KlI
     - sys:
+        id: 6AXhCXKDhYQW6dRirkhmL
+    - sys:
         id: 59J8XvABHc0OSDJ4D2BLBc
         created_at: !ruby/object:DateTime 2019-05-06 19:44:39.071000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:54.813000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:15:01.742000000 Z
         content_type_id: recommendation
-        revision: 3
+        revision: 4
       page_title: Strategic Priorities
       recommendation: Be __transparent__ about your __strategic priorities__, and
         keep grantees informed as to how they may be changing.
@@ -4712,6 +4790,7 @@ theme:
       theme_tag:
       - Funding Approach & Process
       - Funder Identity & Culture
+      order: 1
     related_resources:
     - sys:
         id: 648LvvJeMpyWszz9HUvRGp
@@ -4740,9 +4819,9 @@ theme:
   - sys:
       id: 5mwetRON9oTpEGQ6800wJP
       created_at: !ruby/object:DateTime 2019-05-22 00:54:05.065000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 18:02:26.927000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 21:02:00.763000000 Z
       content_type_id: insight
-      revision: 5
+      revision: 6
     page_title: Funder Roles
     insight_short: Funder Roles
     insight_title: When funders wear multiple hats — as individual advocates as well
@@ -4769,9 +4848,9 @@ theme:
     - sys:
         id: 3qucwEc0fp3r4YKIAFlb74
         created_at: !ruby/object:DateTime 2019-05-06 19:55:18.323000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:58.100000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:28.687000000 Z
         content_type_id: recommendation
-        revision: 3
+        revision: 4
       page_title: Be Explicit About Roles
       recommendation: Be explicit about __which role you are playing at a given time
         (as both a funder and advocate in the field)__, understand where the boundaries
@@ -4801,6 +4880,7 @@ theme:
       theme_tag:
       - Trust & Power
       - Funder Identity & Culture
+      order: 10
     related_resources:
     - sys:
         id: 648LvvJeMpyWszz9HUvRGp
@@ -4833,9 +4913,9 @@ theme:
   - sys:
       id: 4xrmz2cDxqIf97YYfahCQU
       created_at: !ruby/object:DateTime 2019-05-22 00:41:30.693000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 18:02:26.987000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-21 21:02:00.759000000 Z
       content_type_id: insight
-      revision: 5
+      revision: 6
     page_title: Power Dynamics
     insight_short: Power Dynamics
     insight_title: Power dynamics, if not acknowledged, can affect the strength and
@@ -4862,9 +4942,9 @@ theme:
     - sys:
         id: 28oni0f59XkxVXUTQLddD8
         created_at: !ruby/object:DateTime 2019-05-06 20:08:04.235000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:58.781000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:27.684000000 Z
         content_type_id: recommendation
-        revision: 3
+        revision: 4
       page_title: Acknowledge Your Power
       recommendation: '__Honestly and frankly acknowledge the power you hold in relation
         to your grantees__, as a prerequisite for building trust in relationships. '
@@ -4897,12 +4977,13 @@ theme:
       theme_tag:
       - Trust & Power
       - Funder Identity & Culture
+      order: 28
     - sys:
         id: 6kBDVIvZsVyTtNQgH47x3S
         created_at: !ruby/object:DateTime 2019-05-06 20:08:42.565000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:58.750000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:28.037000000 Z
         content_type_id: recommendation
-        revision: 3
+        revision: 4
       page_title: Offer Genuine Space for Dialogue
       recommendation: Offer genuine space for __organizations to challenge and engage
         in dialogue__ around requests, processes, funding requirements, and even strategy.
@@ -4934,12 +5015,13 @@ theme:
       - Power dynamics
       theme_tag:
       - Trust & Power
+      order: 29
     - sys:
         id: 6Hv0eFtakFZ2y9zbf0Xmyx
         created_at: !ruby/object:DateTime 2019-05-06 20:10:26.044000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:58.742000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:28.070000000 Z
         content_type_id: recommendation
-        revision: 3
+        revision: 4
       page_title: Understanding and Communicating Power Systems
       recommendation: Explore opportunities for training and professional development
         to help staff __build awareness of power dynamics and skills__ for how to
@@ -4973,12 +5055,13 @@ theme:
       theme_tag:
       - Trust & Power
       - Funder Identity & Culture
+      order: 30
     - sys:
         id: 1xpFI6iZClNLmhFwWXnk8r
         created_at: !ruby/object:DateTime 2019-05-06 20:10:49.223000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:54.766000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:14:37.202000000 Z
         content_type_id: recommendation
-        revision: 3
+        revision: 4
       page_title: Diversify Your Network
       recommendation: Consider finding ways to __diversify your network__ and the
         organizations you fund, by, for example, intentionally engaging with organizations
@@ -5004,12 +5087,13 @@ theme:
       theme_tag:
       - Trust & Power
       - Funder Identity & Culture
+      order: 31
     - sys:
         id: 69Cd3AfVpw9mjYZVghjizc
         created_at: !ruby/object:DateTime 2019-05-06 20:05:24.415000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:56.703000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:29.690000000 Z
         content_type_id: recommendation
-        revision: 3
+        revision: 4
       page_title: Iterative Feedback and Learning with Grantees
       recommendation: Build in more opportunities for __iterative feedback and learning
         with grantees__.
@@ -5036,12 +5120,13 @@ theme:
       theme_tag:
       - Funding Approach & Process
       - Assessing Impact
+      order: 24
     - sys:
         id: 7DXzHNGSjjLIrrauaEX6xo
         created_at: !ruby/object:DateTime 2019-05-06 20:04:54.233000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:58.789000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:27.683000000 Z
         content_type_id: recommendation
-        revision: 4
+        revision: 5
       page_title: Transparency and Honesty in Communications with Grantees
       recommendation: Look for opportunities to __model transparency and honesty__
         in communications with grantees. Greater transparency from funders around
@@ -5077,12 +5162,13 @@ theme:
       - Funding Approach & Process
       - Trust & Power
       - Funder Identity & Culture
+      order: 23
     - sys:
         id: wfKc9XecT9ZjuKOFNKvTi
         created_at: !ruby/object:DateTime 2019-05-06 19:45:56.419000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:57.726000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:28.911000000 Z
         content_type_id: recommendation
-        revision: 4
+        revision: 5
       page_title: Clear, Collaborative Outputs
       recommendation: 'Develop processes that are __transparent__ and used __consistently__
         with all potential grantees, so that everyone has the __same opportunities
@@ -5113,6 +5199,7 @@ theme:
       - Diversity, equity, and inclusion
       theme_tag:
       - Funding Approach & Process
+      order: 2
     related_resources:
     - sys:
         id: 648LvvJeMpyWszz9HUvRGp
@@ -5161,28 +5248,27 @@ theme:
   - sys:
       id: jyKMbw9LvNhaGzth0U8Dw
       created_at: !ruby/object:DateTime 2019-05-06 20:32:40.508000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 18:02:26.788000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 08:48:00.918000000 Z
       content_type_id: insight
-      revision: 5
+      revision: 7
     page_title: Structure and Clarity
     insight_short: Structure and Clarity
     insight_title: Grantees crave structure and clarity with regards to 1) the funding
-      process, 2) what to expect from the relationship once funded, and 3) shifting
+      process and what to expect from the relationship once funded, and 2) shifting
       strategic priorities.
-    short_description: Structured funding processes, and clear communication about
-      a funder’s strategic priorities and how to secure funding, are critical. Without
-      this, potential grantees have inconsistent experiences and misunderstandings
-      can arise.
+    short_description: Structured funding processes, clear communication about strategic
+      priorities, and how to secure funding are critical. Without this, potential
+      grantees have inconsistent experiences and misunderstandings can arise.
     featured_quote:
       sys:
         id: 2kEoS4hHqkxrm6zVDLJ9Qj
-    long_description: "\nWhen we asked grantees about their experiences with GCE,
-      almost all of them mentioned that theirs was an exceptional or unique case,
-      and not likely to be generalizable feedback. This seems to stem from a lack
-      of structure in the IL/grantee relationship overall. Funding relationships fall
-      somewhere on the spectrum between “hands-on” – meaning customized, high-touch
-      interactions – and “hands-off” – meaning more standardized, low-touch interactions.
-      Both extremes have advantages and disadvantages. Overall, this “culture of exceptions”
+    long_description: "When we asked grantees about their experiences with GCE, almost
+      all of them mentioned that theirs was an exceptional or unique case, and not
+      likely to be generalizable feedback. This seems to stem from a lack of structure
+      in the IL/grantee relationship overall. Funding relationships fall somewhere
+      on the spectrum between “hands-on” – meaning customized, high-touch interactions
+      – and “hands-off” – meaning more standardized, low-touch interactions. Both
+      extremes have advantages and disadvantages. Overall, this “culture of exceptions”
       can be associated with a lack of transparency, high unpredictability, and even
       nepotism.\n\nIn more hands-on relationships, organizations felt they had received
       bespoke engagement from GCE, often describing their ILs as mentors and partners.
@@ -5199,15 +5285,15 @@ theme:
       needs were not being met. They were more likely to see other grantees as competitors
       for GCE’s attention.\n\n## The Funding Process\n\nMany participants said they
       were uncertain about what to expect before and during the process. For example,
-      some interviewees expressed bewilderment about the role of the investment committee.
+      some interviewees expressed bewilderment about the role of the investment committee.*
       This confusion translated into insecurity about whether they can trust their
       ILs with information they feel might not be appropriate to share with the investment
       committee. They wondered about how much information they should share with their
       IL, especially information that might make their organization look bad, and
-      how much of that will then be shared with the investment committee, who they
-      may not meet for the first time until the end of a long process.\n\nSome participants
-      mentioned frustration with burdensome processes that lasted over a year and
-      involved multiple people from GCE. Over two-thirds of non-profit interviewees
+      how much of that would then be shared with the investment committee, who they
+      would likely not have met for the first time until the end of a long process.\n\nSome
+      participants mentioned frustration with burdensome processes that lasted over
+      a year and involved multiple people from GCE. Over two-thirds of interviewees
       bemoaned a process that was long, difficult, and opaque – one even called it
       “unprofessional.”\n\nThey reported being asked to submit documents on short
       notice, and having to repeat information, sending the same or very similar information
@@ -5221,19 +5307,19 @@ theme:
       through their connection with Luminate, and reap the benefits of a personal
       relationship with their IL, who is often a powerful player in their field.\n\nSince
       the personal relationship with the IL is a signature component of being part
-      of the Luminate network, being transitioned out of the portfolio can feel like
-      a personal betrayal. When their relationship with Luminate ends, some organizations
-      that have received longer-term support from Luminate feel that new projects
-      are competitors, not just for money, but also for attention. Participants raised
-      these concerns based on what they know of other organizations’ experiences,
-      and fears they have about the the stability of their funding.\n\nThis feeling
-      of personal betrayal also goes beyond the relationship with the IL. Many grantees
-      working in the space deeply identify with the issues they are working on. When
-      GCE/Luminate pivots to a different investment strategy, such as focusing on
-      new and emerging issues, people working in the “old” issues feel a rejection
-      of the issues they personally care about. It is not only a financial, but also
-      an emotional matter, to lose the support of Luminate, and one that can be seen
-      to reflect inherent power imbalances in the funder-grantee relationship."
+      of the network, being transitioned out of the portfolio can feel like a personal
+      betrayal. Some participants, that have received longer-term support from GCE,
+      felt that new projects were competitors not just for money but also for attention.
+      Concerns were raised based on what they knew of other organization’s experiences,
+      and fears over the stability of their own funding.\n\nThis feeling of personal
+      betrayal also goes beyond the relationship with the IL. Many grantees working
+      in the space deeply identify with the issues they are working on. When GCE/Luminate
+      pivots to a different investment strategy, such as focusing on new and emerging
+      issues, people working in the “old” issues feel a rejection of the issues they
+      personally care about. It is not only a financial, but also an emotional matter,
+      to lose the support of Luminate, and one that can be seen to reflect inherent
+      power imbalances in the funder-grantee relationship.\n\n*The investment committee
+      is the approval committee for grants and investments."
     related_theme:
     - Funding Approach & Process
     - Trust & Power
@@ -5242,9 +5328,9 @@ theme:
     - sys:
         id: 59J8XvABHc0OSDJ4D2BLBc
         created_at: !ruby/object:DateTime 2019-05-06 19:44:39.071000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:54.813000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:15:01.742000000 Z
         content_type_id: recommendation
-        revision: 3
+        revision: 4
       page_title: Strategic Priorities
       recommendation: Be __transparent__ about your __strategic priorities__, and
         keep grantees informed as to how they may be changing.
@@ -5275,12 +5361,13 @@ theme:
       theme_tag:
       - Funding Approach & Process
       - Funder Identity & Culture
+      order: 1
     - sys:
         id: 7ifyzI6bOqUiTn5aXg2Ac8
         created_at: !ruby/object:DateTime 2019-05-02 23:39:19.396000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:57.729000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:28.669000000 Z
         content_type_id: recommendation
-        revision: 4
+        revision: 5
       page_title: Clarify the Funding Process
       recommendation: Clarify the steps, inputs and outputs of the __funding process__,
         and the process for accessing alternative types of support. Pay particular
@@ -5307,12 +5394,13 @@ theme:
       - Diversity, equity, and inclusion
       theme_tag:
       - Funding Approach & Process
+      order: 3
     - sys:
         id: 7HaggMuTZVQo9qMqqiQvJi
         created_at: !ruby/object:DateTime 2019-05-02 23:38:31.638000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:57.711000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:28.712000000 Z
         content_type_id: recommendation
-        revision: 4
+        revision: 5
       page_title: Clarify Roles and Responsibilities
       recommendation: Clarify roles and responsibilities of key people involved in
         __relationship management__ with the grantee. This is particularly important
@@ -5339,51 +5427,15 @@ theme:
       theme_tag:
       - Funding Approach & Process
       - Trust & Power
-    - sys:
-        id: VQ7OXAIvpXWtiSY3oWE89
-        created_at: !ruby/object:DateTime 2019-05-06 20:06:24.054000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:57.792000000 Z
-        content_type_id: recommendation
-        revision: 3
-      page_title: Be Explicit About the Role DEI Plays
-      recommendation: Be __explicit about the role DEI plays in your organization__
-        and how you are integrating DEI-related efforts and considerations into your
-        funding approach, strategies and external relationships.
-      recommendation_short: Be Explicit About the Role DEI Plays
-      related_resources:
-      - sys:
-          id: 648LvvJeMpyWszz9HUvRGp
-      - sys:
-          id: Aqrq7NXOreu5GwPYj5J7J
-      - sys:
-          id: 3FQVA12oDvZRa7iUrTJaas
-      - sys:
-          id: 3CCx75O0FW2wxvEwZEg11q
-      - sys:
-          id: 2XZGFvjIjrN1IfcUeupNdL
-      - sys:
-          id: 4iFg1e6qKt6OiUSlBgWcPC
-      - sys:
-          id: W3P6BjUxiweX2m4ZjJxJY
-      - sys:
-          id: 1fNy0unV3wEtTEkU5l3whq
-      - sys:
-          id: 1iPSO2KZsJJR8knoNosTwJ
-      - sys:
-          id: 5cdDjuEjsojN5AfyV1EOS4
-      insight_tag:
-      - Diversity, equity, and inclusion
-      theme_tag:
-      - Funding Approach & Process
-      - Funder Identity & Culture
+      order: 4
     - sys:
         id: 64aVefaJYpSHSj8GnNRqZj
     - sys:
         id: 5UFLM9YhjV7pMyRVYAKGN7
         created_at: !ruby/object:DateTime 2019-05-02 23:39:58.648000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:57.730000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:28.684000000 Z
         content_type_id: recommendation
-        revision: 3
+        revision: 4
       page_title: Clarify Grantee Expectations
       recommendation: 'Be clear about __expectations and responsibilities of grantees
         once in the portfolio__ e.g., with regards to reporting, evaluation, and expected
@@ -5410,12 +5462,13 @@ theme:
       theme_tag:
       - Funding Approach & Process
       - Assessing Impact
+      order: 8
     - sys:
         id: 7DXzHNGSjjLIrrauaEX6xo
         created_at: !ruby/object:DateTime 2019-05-06 20:04:54.233000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:58.789000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:27.683000000 Z
         content_type_id: recommendation
-        revision: 4
+        revision: 5
       page_title: Transparency and Honesty in Communications with Grantees
       recommendation: Look for opportunities to __model transparency and honesty__
         in communications with grantees. Greater transparency from funders around
@@ -5451,12 +5504,13 @@ theme:
       - Funding Approach & Process
       - Trust & Power
       - Funder Identity & Culture
+      order: 23
     - sys:
         id: 3QVf7L1Gq74un7NUugqYhx
         created_at: !ruby/object:DateTime 2019-05-06 20:01:59.216000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:56.767000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:29.669000000 Z
         content_type_id: recommendation
-        revision: 3
+        revision: 4
       page_title: Develop Transition Strategies
       recommendation: When __expecting to transition a grantee out of your portfolio__,
         specify a “ramp down” time period, during which grantees have time to adjust
@@ -5480,12 +5534,42 @@ theme:
       theme_tag:
       - Funding Approach & Process
       - Assessing Impact
+      order: 20
+    - sys:
+        id: F38G9F4X0cp3bRAxpm193
+        created_at: !ruby/object:DateTime 2019-05-06 20:02:56.461000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:16:56.418000000 Z
+        content_type_id: recommendation
+        revision: 5
+      page_title: Strategic and Financial Planning Support Post-Funding
+      recommendation: Consider providing __strategic and financial planning support__,
+        particularly focused on the post-funding phase.
+      recommendation_short: Strategic and Financial Planning Support Post-Funding
+      related_resources:
+      - sys:
+          id: 648LvvJeMpyWszz9HUvRGp
+      - sys:
+          id: Aqrq7NXOreu5GwPYj5J7J
+      - sys:
+          id: 3FQVA12oDvZRa7iUrTJaas
+      - sys:
+          id: 3CCx75O0FW2wxvEwZEg11q
+      - sys:
+          id: 5LVm25wQZqjsKzGtU6a1zE
+      - sys:
+          id: W3P6BjUxiweX2m4ZjJxJY
+      insight_tag:
+      - Structure and clarity
+      - Portfolio support
+      theme_tag:
+      - Funding Approach & Process
+      order: 21
     - sys:
         id: 7JwfVjPvS8FuBtTYBpE1v4
         created_at: !ruby/object:DateTime 2019-05-06 20:04:00.511000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:56.710000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:29.675000000 Z
         content_type_id: recommendation
-        revision: 3
+        revision: 4
       page_title: End of Relationship Feedback
       recommendation: Consider inviting organizations to do an __exit interview or
         survey at the end of a grant or the funding relationship__ to collect meaningful
@@ -5508,6 +5592,7 @@ theme:
       - Structure and clarity
       theme_tag:
       - Funding Approach & Process
+      order: 22
     related_resources:
     - sys:
         id: 648LvvJeMpyWszz9HUvRGp
@@ -5545,8 +5630,6 @@ theme:
     - sys:
         id: 2C0l0vZBzF785Q1NbGfGvO
     - sys:
-        id: 2kEoS4hHqkxrm6zVDLJ9Qj
-    - sys:
         id: 3uW85No8luSk66sK6BJYDo
     - sys:
         id: 6oIxnhT6aMnOCzDicLFD7o
@@ -5559,9 +5642,9 @@ theme:
   - sys:
       id: 59J8XvABHc0OSDJ4D2BLBc
       created_at: !ruby/object:DateTime 2019-05-06 19:44:39.071000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:54.813000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:15:01.742000000 Z
       content_type_id: recommendation
-      revision: 3
+      revision: 4
     page_title: Strategic Priorities
     recommendation: Be __transparent__ about your __strategic priorities__, and keep
       grantees informed as to how they may be changing.
@@ -5592,12 +5675,13 @@ theme:
     theme_tag:
     - Funding Approach & Process
     - Funder Identity & Culture
+    order: 1
   - sys:
       id: 739159sAxh2eiycKRBdOfz
       created_at: !ruby/object:DateTime 2019-05-06 19:54:02.811000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:55.735000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:17:25.317000000 Z
       content_type_id: recommendation
-      revision: 4
+      revision: 5
     page_title: Support Professional Development
     recommendation: Support __professional development of investment leads__ to develop
       expertise in the field in which they are managing grants.
@@ -5623,12 +5707,13 @@ theme:
     theme_tag:
     - Trust & Power
     - Funder Identity & Culture
+    order: 9
   - sys:
       id: 3qucwEc0fp3r4YKIAFlb74
       created_at: !ruby/object:DateTime 2019-05-06 19:55:18.323000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:58.100000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:27:28.687000000 Z
       content_type_id: recommendation
-      revision: 3
+      revision: 4
     page_title: Be Explicit About Roles
     recommendation: Be explicit about __which role you are playing at a given time
       (as both a funder and advocate in the field)__, understand where the boundaries
@@ -5658,12 +5743,13 @@ theme:
     theme_tag:
     - Trust & Power
     - Funder Identity & Culture
+    order: 10
   - sys:
       id: 7DXzHNGSjjLIrrauaEX6xo
       created_at: !ruby/object:DateTime 2019-05-06 20:04:54.233000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:58.789000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:27:27.683000000 Z
       content_type_id: recommendation
-      revision: 4
+      revision: 5
     page_title: Transparency and Honesty in Communications with Grantees
     recommendation: Look for opportunities to __model transparency and honesty__ in
       communications with grantees. Greater transparency from funders around their
@@ -5699,12 +5785,13 @@ theme:
     - Funding Approach & Process
     - Trust & Power
     - Funder Identity & Culture
+    order: 23
   - sys:
       id: VQ7OXAIvpXWtiSY3oWE89
       created_at: !ruby/object:DateTime 2019-05-06 20:06:24.054000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:57.792000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:27:28.668000000 Z
       content_type_id: recommendation
-      revision: 3
+      revision: 4
     page_title: Be Explicit About the Role DEI Plays
     recommendation: Be __explicit about the role DEI plays in your organization__
       and how you are integrating DEI-related efforts and considerations into your
@@ -5736,12 +5823,13 @@ theme:
     theme_tag:
     - Funding Approach & Process
     - Funder Identity & Culture
+    order: 25
   - sys:
       id: 28oni0f59XkxVXUTQLddD8
       created_at: !ruby/object:DateTime 2019-05-06 20:08:04.235000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:58.781000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:27:27.684000000 Z
       content_type_id: recommendation
-      revision: 3
+      revision: 4
     page_title: Acknowledge Your Power
     recommendation: '__Honestly and frankly acknowledge the power you hold in relation
       to your grantees__, as a prerequisite for building trust in relationships. '
@@ -5774,12 +5862,13 @@ theme:
     theme_tag:
     - Trust & Power
     - Funder Identity & Culture
+    order: 28
   - sys:
       id: 6Hv0eFtakFZ2y9zbf0Xmyx
       created_at: !ruby/object:DateTime 2019-05-06 20:10:26.044000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:58.742000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:27:28.070000000 Z
       content_type_id: recommendation
-      revision: 3
+      revision: 4
     page_title: Understanding and Communicating Power Systems
     recommendation: Explore opportunities for training and professional development
       to help staff __build awareness of power dynamics and skills__ for how to communicate
@@ -5813,12 +5902,13 @@ theme:
     theme_tag:
     - Trust & Power
     - Funder Identity & Culture
+    order: 30
   - sys:
       id: 1xpFI6iZClNLmhFwWXnk8r
       created_at: !ruby/object:DateTime 2019-05-06 20:10:49.223000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:54.766000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:14:37.202000000 Z
       content_type_id: recommendation
-      revision: 3
+      revision: 4
     page_title: Diversify Your Network
     recommendation: Consider finding ways to __diversify your network__ and the organizations
       you fund, by, for example, intentionally engaging with organizations beyond
@@ -5844,6 +5934,7 @@ theme:
     theme_tag:
     - Trust & Power
     - Funder Identity & Culture
+    order: 31
 - sys:
     id: 750yLhhRjBoGihBm56AZmF
     created_at: !ruby/object:DateTime 2019-05-03 00:05:46.680000000 Z
@@ -5922,11 +6013,11 @@ theme:
     - sys:
         id: 6usDyH5dFIPdiew4HipTs3
         created_at: !ruby/object:DateTime 2019-05-06 19:59:14.677000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:56.698000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:29.915000000 Z
         content_type_id: recommendation
-        revision: 4
+        revision: 5
       page_title: Invite Proposed Metrics
-      recommendation: Invite grantees to propose __metrics or impact measurement frameworks__
+      recommendation: Invite grantees to __propose metrics or impact measurement frameworks__
         that best reflect their strategy, impact model, and desired outcomes.
       recommendation_short: Invite Proposed Metrics
       related_resources:
@@ -5955,12 +6046,13 @@ theme:
       theme_tag:
       - Funding Approach & Process
       - Assessing Impact
+      order: 16
     - sys:
         id: 017p3qzOAZnrMjC3a5awyi
         created_at: !ruby/object:DateTime 2019-05-02 23:41:34.145000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:55.717000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:15:58.489000000 Z
         content_type_id: recommendation
-        revision: 4
+        revision: 5
       page_title: Time to Develop Impact Measurement Framework
       recommendation: 'Give sufficient time to develop an __impact measurement framework__
         that a grantee is comfortable with, e.g., consider allocating time at the
@@ -5994,12 +6086,13 @@ theme:
       - Funding Approach & Process
       - Trust & Power
       - Assessing Impact
+      order: 12
     - sys:
         id: 7r9IEjpcUzDMCCofBKuFn0
         created_at: !ruby/object:DateTime 2019-05-06 19:59:56.990000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:54.759000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:14:13.774000000 Z
         content_type_id: recommendation
-        revision: 5
+        revision: 6
       page_title: Align Metrics with Existing MEL Frameworks
       recommendation: 'Where possible, __align metrics with organizations’ existing
         frameworks for monitoring, evaluation, and learning (MEL)__, and where organizations
@@ -6033,12 +6126,13 @@ theme:
       theme_tag:
       - Funding Approach & Process
       - Assessing Impact
+      order: 17
     - sys:
         id: 4rrf45WE74ntAJMLgn8ulC
         created_at: !ruby/object:DateTime 2019-05-06 20:00:23.630000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:55.721000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:16:23.737000000 Z
         content_type_id: recommendation
-        revision: 4
+        revision: 5
       page_title: Sync Impact Measurement and Reporting
       recommendation: Where possible, identify an opportunity to __sync impact measurement__
         and reporting across co-funders to alleviate the burden on grantees.
@@ -6071,12 +6165,13 @@ theme:
       theme_tag:
       - Funding Approach & Process
       - Assessing Impact
+      order: 18
     - sys:
         id: 6CtHXkA7chCdYrtQerM3aD
         created_at: !ruby/object:DateTime 2019-05-06 19:56:58.968000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:56.739000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:29.675000000 Z
         content_type_id: recommendation
-        revision: 4
+        revision: 5
       page_title: Grant Reporting Guidance
       recommendation: Be explicit about the __purpose of grant reporting__ and where
         possible offer guidance and options around formats.
@@ -6105,12 +6200,13 @@ theme:
       theme_tag:
       - Funding Approach & Process
       - Assessing Impact
+      order: 13
     - sys:
         id: 2jPpX1aCPfGnLCldon7zAv
         created_at: !ruby/object:DateTime 2019-05-02 23:44:26.109000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 16:26:07.188000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:27.667000000 Z
         content_type_id: recommendation
-        revision: 5
+        revision: 6
       page_title: Integrate Reporting with Workflow
       recommendation: 'Proactively talk with grantees about how __reporting can better
         fit into their existing workflow__ and improve their organizational health. '
@@ -6141,12 +6237,13 @@ theme:
       theme_tag:
       - Funding Approach & Process
       - Assessing Impact
+      order: 14
     - sys:
         id: 62AGKdvAhcnb1F3VjxmNFo
         created_at: !ruby/object:DateTime 2019-05-06 20:01:05.423000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:57.098000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:29.667000000 Z
         content_type_id: recommendation
-        revision: 4
+        revision: 5
       page_title: Create Processes for Feedback on Metrics
       recommendation: Create processes for __gathering and incorporating organizational
         feedback on metrics__ over the course of the funding period and offer flexibility
@@ -6179,12 +6276,13 @@ theme:
       theme_tag:
       - Funding Approach & Process
       - Assessing Impact
+      order: 19
     - sys:
         id: 5TrkIP1GfMYitT6ZyrOPiM
         created_at: !ruby/object:DateTime 2019-05-06 19:57:50.462000000 Z
-        updated_at: !ruby/object:DateTime 2019-06-21 10:27:55.777000000 Z
+        updated_at: !ruby/object:DateTime 2019-06-24 16:27:30.680000000 Z
         content_type_id: recommendation
-        revision: 3
+        revision: 4
       page_title: Provide Timely Feedback
       recommendation: Provide __timely feedback on reports__ provided by grantees.
       recommendation_short: Provide Timely Feedback
@@ -6210,6 +6308,7 @@ theme:
       theme_tag:
       - Funding Approach & Process
       - Assessing Impact
+      order: 15
     related_resources:
     - sys:
         id: 648LvvJeMpyWszz9HUvRGp
@@ -6253,9 +6352,9 @@ theme:
   - sys:
       id: 5UFLM9YhjV7pMyRVYAKGN7
       created_at: !ruby/object:DateTime 2019-05-02 23:39:58.648000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:57.730000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:27:28.684000000 Z
       content_type_id: recommendation
-      revision: 3
+      revision: 4
     page_title: Clarify Grantee Expectations
     recommendation: 'Be clear about __expectations and responsibilities of grantees
       once in the portfolio__ e.g., with regards to reporting, evaluation, and expected
@@ -6282,12 +6381,13 @@ theme:
     theme_tag:
     - Funding Approach & Process
     - Assessing Impact
+    order: 8
   - sys:
       id: 017p3qzOAZnrMjC3a5awyi
       created_at: !ruby/object:DateTime 2019-05-02 23:41:34.145000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:55.717000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:15:58.489000000 Z
       content_type_id: recommendation
-      revision: 4
+      revision: 5
     page_title: Time to Develop Impact Measurement Framework
     recommendation: 'Give sufficient time to develop an __impact measurement framework__
       that a grantee is comfortable with, e.g., consider allocating time at the beginning
@@ -6321,12 +6421,13 @@ theme:
     - Funding Approach & Process
     - Trust & Power
     - Assessing Impact
+    order: 12
   - sys:
       id: 6CtHXkA7chCdYrtQerM3aD
       created_at: !ruby/object:DateTime 2019-05-06 19:56:58.968000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:56.739000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:27:29.675000000 Z
       content_type_id: recommendation
-      revision: 4
+      revision: 5
     page_title: Grant Reporting Guidance
     recommendation: Be explicit about the __purpose of grant reporting__ and where
       possible offer guidance and options around formats.
@@ -6355,12 +6456,13 @@ theme:
     theme_tag:
     - Funding Approach & Process
     - Assessing Impact
+    order: 13
   - sys:
       id: 2jPpX1aCPfGnLCldon7zAv
       created_at: !ruby/object:DateTime 2019-05-02 23:44:26.109000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 16:26:07.188000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:27:27.667000000 Z
       content_type_id: recommendation
-      revision: 5
+      revision: 6
     page_title: Integrate Reporting with Workflow
     recommendation: 'Proactively talk with grantees about how __reporting can better
       fit into their existing workflow__ and improve their organizational health. '
@@ -6391,12 +6493,13 @@ theme:
     theme_tag:
     - Funding Approach & Process
     - Assessing Impact
+    order: 14
   - sys:
       id: 5TrkIP1GfMYitT6ZyrOPiM
       created_at: !ruby/object:DateTime 2019-05-06 19:57:50.462000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:55.777000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:27:30.680000000 Z
       content_type_id: recommendation
-      revision: 3
+      revision: 4
     page_title: Provide Timely Feedback
     recommendation: Provide __timely feedback on reports__ provided by grantees.
     recommendation_short: Provide Timely Feedback
@@ -6422,14 +6525,15 @@ theme:
     theme_tag:
     - Funding Approach & Process
     - Assessing Impact
+    order: 15
   - sys:
       id: 6usDyH5dFIPdiew4HipTs3
       created_at: !ruby/object:DateTime 2019-05-06 19:59:14.677000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:56.698000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:27:29.915000000 Z
       content_type_id: recommendation
-      revision: 4
+      revision: 5
     page_title: Invite Proposed Metrics
-    recommendation: Invite grantees to propose __metrics or impact measurement frameworks__
+    recommendation: Invite grantees to __propose metrics or impact measurement frameworks__
       that best reflect their strategy, impact model, and desired outcomes.
     recommendation_short: Invite Proposed Metrics
     related_resources:
@@ -6458,12 +6562,13 @@ theme:
     theme_tag:
     - Funding Approach & Process
     - Assessing Impact
+    order: 16
   - sys:
       id: 7r9IEjpcUzDMCCofBKuFn0
       created_at: !ruby/object:DateTime 2019-05-06 19:59:56.990000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:54.759000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:14:13.774000000 Z
       content_type_id: recommendation
-      revision: 5
+      revision: 6
     page_title: Align Metrics with Existing MEL Frameworks
     recommendation: 'Where possible, __align metrics with organizations’ existing
       frameworks for monitoring, evaluation, and learning (MEL)__, and where organizations
@@ -6496,12 +6601,13 @@ theme:
     theme_tag:
     - Funding Approach & Process
     - Assessing Impact
+    order: 17
   - sys:
       id: 4rrf45WE74ntAJMLgn8ulC
       created_at: !ruby/object:DateTime 2019-05-06 20:00:23.630000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:55.721000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:16:23.737000000 Z
       content_type_id: recommendation
-      revision: 4
+      revision: 5
     page_title: Sync Impact Measurement and Reporting
     recommendation: Where possible, identify an opportunity to __sync impact measurement__
       and reporting across co-funders to alleviate the burden on grantees.
@@ -6534,12 +6640,13 @@ theme:
     theme_tag:
     - Funding Approach & Process
     - Assessing Impact
+    order: 18
   - sys:
       id: 62AGKdvAhcnb1F3VjxmNFo
       created_at: !ruby/object:DateTime 2019-05-06 20:01:05.423000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:57.098000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:27:29.667000000 Z
       content_type_id: recommendation
-      revision: 4
+      revision: 5
     page_title: Create Processes for Feedback on Metrics
     recommendation: Create processes for __gathering and incorporating organizational
       feedback on metrics__ over the course of the funding period and offer flexibility
@@ -6572,12 +6679,13 @@ theme:
     theme_tag:
     - Funding Approach & Process
     - Assessing Impact
+    order: 19
   - sys:
       id: 3QVf7L1Gq74un7NUugqYhx
       created_at: !ruby/object:DateTime 2019-05-06 20:01:59.216000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:56.767000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:27:29.669000000 Z
       content_type_id: recommendation
-      revision: 3
+      revision: 4
     page_title: Develop Transition Strategies
     recommendation: When __expecting to transition a grantee out of your portfolio__,
       specify a “ramp down” time period, during which grantees have time to adjust
@@ -6601,12 +6709,13 @@ theme:
     theme_tag:
     - Funding Approach & Process
     - Assessing Impact
+    order: 20
   - sys:
       id: 7JwfVjPvS8FuBtTYBpE1v4
       created_at: !ruby/object:DateTime 2019-05-06 20:04:00.511000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:56.710000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:27:29.675000000 Z
       content_type_id: recommendation
-      revision: 3
+      revision: 4
     page_title: End of Relationship Feedback
     recommendation: Consider inviting organizations to do an __exit interview or survey
       at the end of a grant or the funding relationship__ to collect meaningful feedback
@@ -6629,12 +6738,13 @@ theme:
     - Structure and clarity
     theme_tag:
     - Funding Approach & Process
+    order: 22
   - sys:
       id: 69Cd3AfVpw9mjYZVghjizc
       created_at: !ruby/object:DateTime 2019-05-06 20:05:24.415000000 Z
-      updated_at: !ruby/object:DateTime 2019-06-21 10:27:56.703000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:27:29.690000000 Z
       content_type_id: recommendation
-      revision: 3
+      revision: 4
     page_title: Iterative Feedback and Learning with Grantees
     recommendation: Build in more opportunities for __iterative feedback and learning
       with grantees__.
@@ -6661,3 +6771,4 @@ theme:
     theme_tag:
     - Funding Approach & Process
     - Assessing Impact
+    order: 24

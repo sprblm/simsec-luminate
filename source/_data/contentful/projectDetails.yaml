@@ -3,9 +3,9 @@ projectDetails:
 - sys:
     id: 7391na5XCXEsY8bGxlbS9p
     created_at: !ruby/object:DateTime 2019-05-29 15:44:57.862000000 Z
-    updated_at: !ruby/object:DateTime 2019-06-21 12:23:40.083000000 Z
+    updated_at: !ruby/object:DateTime 2019-06-21 21:02:01.817000000 Z
     content_type_id: projectDetails
-    revision: 4
+    revision: 5
   page_title: Project Details
   details_description:
     data: {}
@@ -101,7 +101,7 @@ projectDetails:
         marks: []
         value: 'HCD methods are applicable in any part of a product or service development
           process, from initial needfinding through prototyping and feedback. The
-          Partner Perspectives project was early-stage, formative work '
+          project was early-stage, formative work '
         nodeType: text
       - data: {}
         marks:
@@ -122,7 +122,7 @@ projectDetails:
         marks: []
         value: The findings in this report have been informed by feedback from Luminate’s
           grantees and do not include responses from for-profit organizations in the
-          portfolio. Please see Methodology (pp. 10-11) for more information.
+          portfolio. Please see the Methodology section below for more information.
         nodeType: text
       nodeType: paragraph
     - data: {}
@@ -171,9 +171,9 @@ projectDetails:
         - type: italic
         value: HCD methods are applicable in any part of a product or service development
           process, from initial needfinding through prototyping and feedback. The
-          Partner Perspectives project was early-stage, formative work focused on
-          surfacing the needs of investees. This work could potentially be continued
-          in the future to further develop the recommendations.
+          project was early- stage, formative work focused on surfacing the needs
+          of investees. This work could potentially be continued in the future to
+          further develop the recommendations.
         nodeType: text
       nodeType: paragraph
     - data:
@@ -356,21 +356,9 @@ projectDetails:
       content:
       - data: {}
         marks: []
-        value: 'We believe these policies, which can be found in the Resources section
-          on the '
-        nodeType: text
-      - data:
-          uri: https://ontrustandtransparency.report
-        content:
-        - data: {}
-          marks: []
-          value: report website
-          nodeType: text
-        nodeType: hyperlink
-      - data: {}
-        marks: []
-        value: ", can be a model for the participants’ communities, as well as others
-          seeking to do HCD work in sensitive situations."
+        value: We believe these policies, which can be found in the Resources section,
+          can be a model for the participants’ communities, as well as others seeking
+          to do HCD work in sensitive situations.
         nodeType: text
       nodeType: paragraph
     - data: {}
@@ -384,24 +372,12 @@ projectDetails:
       content:
       - data: {}
         marks: []
-        value: 'Our practice is to share openly as much as possible from our work,
+        value: Our practice is to share openly as much as possible from our work,
           e.g., data, insights, and techniques — while also respecting participant
           and collaborator privacy and security. This allows us to reflect how much
           we value participant input. For this work, the insights from this research
           are shared as a public report. The techniques and methods used for privacy-preserving
-          user research are shared in the Resources section on the '
-        nodeType: text
-      - data:
-          uri: https://ontrustandtransparency.report
-        content:
-        - data: {}
-          marks: []
-          value: report website
-          nodeType: text
-        nodeType: hyperlink
-      - data: {}
-        marks: []
-        value: "."
+          user research are shared in the Resources section.
         nodeType: text
       nodeType: paragraph
     - data: {}
@@ -590,7 +566,7 @@ projectDetails:
           - data: {}
             marks: []
             value: ". If further work is pursued focused on the end of the grantee-funder
-              relationship, then Alumni input would be critical to better understand
+              relationship, then alumni input would be critical to better understand
               and shape future guidelines."
             nodeType: text
           nodeType: paragraph
@@ -1175,21 +1151,8 @@ projectDetails:
       content:
       - data: {}
         marks: []
-        value: ''
-        nodeType: text
-      nodeType: paragraph
-    - data: {}
-      content:
-      - data: {}
-        marks: []
-        value: ''
-        nodeType: text
-      nodeType: paragraph
-    - data: {}
-      content:
-      - data: {}
-        marks: []
-        value: ''
+        value: 'Note: Interviewee charts do not reflect interviews with three additional
+          people of interest.'
         nodeType: text
       nodeType: paragraph
     nodeType: document

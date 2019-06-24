@@ -10,7 +10,6 @@ const RecommendationsFilter = {
   },
   createList: () => {
     RecommendationsFilter.recommendationList = new List('recommendations-list', RecommendationsFilter.options);
-    RecommendationsFilter.recommendationList.sort('title', { order: 'asc' });
     RecommendationsFilter.setSearchQueryDefaults();
   },
   setSearchQueryDefaults: () => {
