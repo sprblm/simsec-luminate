@@ -3,9 +3,9 @@ about:
 - sys:
     id: 5fXKgdICZZbLiJ9MpO4axr
     created_at: !ruby/object:DateTime 2019-05-02 23:30:09.455000000 Z
-    updated_at: !ruby/object:DateTime 2019-06-21 13:19:13.888000000 Z
+    updated_at: !ruby/object:DateTime 2019-06-24 08:48:01.014000000 Z
     content_type_id: about
-    revision: 12
+    revision: 13
   page_title: About
   about_description: |-
     In June 2018, Luminate commissioned Simply Secure to conduct human- centered research focused on understanding grantees’ experiences of the funding process. This is the public report from that research - a collaboration between Luminate, formerly the Governance & Citizen Engagement (GCE) Initiative at Omidyar Network, and Simply Secure. The interviews and survey were conducted over the course of July - September 2018.

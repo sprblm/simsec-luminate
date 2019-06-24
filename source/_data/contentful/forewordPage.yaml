@@ -3,9 +3,9 @@ forewordPage:
 - sys:
     id: 5MmlpfpMu2OtAyFr0dLVhq
     created_at: !ruby/object:DateTime 2019-06-05 15:04:03.503000000 Z
-    updated_at: !ruby/object:DateTime 2019-06-21 12:06:07.569000000 Z
+    updated_at: !ruby/object:DateTime 2019-06-21 21:12:54.617000000 Z
     content_type_id: forewordPage
-    revision: 6
+    revision: 9
   page_title: Foreword
   description: "## From Governance & Citizen Engagement initiative to Luminate\n\nEstablished
     in 2018 by Pierre and Pam Omidyar, [Luminate](https://luminategroup.com/) is a
@@ -76,15 +76,15 @@ forewordPage:
     in May 2019, and will be working to improve our approach to monitoring, learning,
     and impact evaluation.\n\n## Implementing the recommendations\n\nAs mentioned
     above, we have already taken efforts to become more investee-centred, and we were
-    pleased that the importance of such initiatives was emphasised in Simply Secure's
+    pleased that the importance of such initiatives was emphasised in Simply Secure’s
     research and subsequent recommendations. We will continue working to better understand
     and consider how we can integrate the other insights and recommendations from
-    this research into our practices and future decision-making, and will keep you
+    this research into our practices and future\ndecision-making, and will keep you
     updated as to how we get along. We will also explore possible opportunities to
-    utilise human-centred design methods in our work more broadly.\n\nThere are inherent
-    challenges in any funding relationship, and we won't always get things right the
+    utilise human- centred design methods in our work more broadly.\n\nThere are inherent
+    challenges in any funding relationship, and we won’t always get things right the
     first time. But we commit to listening and communicating more, continuing to reflect
     and improve on our practices, and we ask you, as our investees and peers, to hold
-    us accountable for this.\n\nWe hope that in doing so, we can strengthen our most
-    important relationships – those with our investees – and work in partnership to
-    drive change.\n\n__Stephen King (CEO, Luminate)__\n\n__June 2019__\n\n\n"
+    us accountable for this.\n\nWe hope that in doing so, we can work in partnership
+    to build stronger societies.\n\n__Stephen King__  \n__CEO, Luminate__  \n__June
+    2019__"

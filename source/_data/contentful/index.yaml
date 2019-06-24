@@ -3,9 +3,9 @@ index:
 - sys:
     id: 37stCeFxGeqoRZQaUKmOvd
     created_at: !ruby/object:DateTime 2019-05-02 23:27:13.174000000 Z
-    updated_at: !ruby/object:DateTime 2019-06-21 14:42:03.630000000 Z
+    updated_at: !ruby/object:DateTime 2019-06-21 21:49:00.767000000 Z
     content_type_id: index
-    revision: 10
+    revision: 11
   page_title: Index
   report_title: On Trust & Transparency
   report_subtitle: Perspectives from Luminate's portfolio
@@ -42,7 +42,7 @@ index:
     url: "//images.ctfassets.net/h8kgu1arvxtu/7xku46Av2bRp4URFz3l19j/c5f8e07675ba2785face65e25fef5c11/simsec-logo.svg"
   luminate_footer: "Luminate is a global philanthropic organization with the goal
     of empowering people and institutions to work together to build just and fair
-    societies. \n\n[Follow Luminate on Twitter](https://twitter.com/luminategroup)\n\n[hello@luminategroup.com](mailto:@hello@luminategroup.com)"
+    societies. \n\n[Follow Luminate on Twitter](https://twitter.com/luminategroup)\n\n[hello@luminategroup.com](mailto:hello@luminategroup.com)"
   luminate_logo:
     sys:
       id: 3fexX1zyNZHvMatfmJBi9I
