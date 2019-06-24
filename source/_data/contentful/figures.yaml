@@ -1,0 +1,249 @@
+---
+figure:
+- sys:
+    id: 64SgkzvKBL5Cirn6boLvKA
+    created_at: !ruby/object:DateTime 2019-05-29 14:50:43.213000000 Z
+    updated_at: !ruby/object:DateTime 2019-06-24 16:40:30.021000000 Z
+    content_type_id: figure
+    revision: 4
+  figure_number: 1
+  figure_title: Human-Centered Design
+  figure_image:
+    sys:
+      id: 3qYRiAkdLfhSDGT0Ti1pOR
+      created_at: !ruby/object:DateTime 2019-06-24 16:40:02.977000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-24 16:40:02.977000000 Z
+    title: Figure 1 - HCD
+    description: 
+    url: "//images.ctfassets.net/h8kgu1arvxtu/3qYRiAkdLfhSDGT0Ti1pOR/f63e88c2fdb865d34d8f1572e1181366/Figure_1_-_HCD.png"
+  figure_description: |-
+    Figure 1 is a diagram illustrating where this project's work falls within the overall human-centered design (HCD) process.
+
+    HCD methods are applicable in any part of a product or service development process, from initial needfinding through prototyping and feedback. The On Trust & Transparency project was early-stage, formative work focused on surfacing the needs of investees. This work could potentially be continued in the future to further develop the recommendations.
+  figure_alt: Figure 1 is a diagram illustrating where this project's work falls within
+    the overall human-centered design process.
+- sys:
+    id: 1rYUjQOBkm7pi5WUfcw90P
+    created_at: !ruby/object:DateTime 2019-05-29 15:08:41.617000000 Z
+    updated_at: !ruby/object:DateTime 2019-06-21 17:34:44.085000000 Z
+    content_type_id: figure
+    revision: 3
+  figure_number: 2
+  figure_title: Workflow Overview
+  figure_image:
+    sys:
+      id: 4rtHx9xmDs3sFs06RutdX0
+      created_at: !ruby/object:DateTime 2019-05-29 15:00:54.274000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-06 13:43:08.933000000 Z
+    title: Figure 2 - Report Workflow
+    description: 
+    url: "//images.ctfassets.net/h8kgu1arvxtu/4rtHx9xmDs3sFs06RutdX0/f2eb4c3c31469e4580f35a6ae334b8b3/Figure_2_-_Report_Workflow.png"
+  figure_description: "Figure 2 is a diagram illustrating the major phases of the
+    workflow for this project.\n\nThe report highlights feedback from 20 interviews
+    + 53 survey responses, including\nanonymized quotes and comments. The phases illustrated
+    are Interviews & Survey, Presentation & Workshop, Data Analysis & Writing Internal
+    Report, Internal Report Delivered, Writing External Report, and External Report
+    Delivered. "
+  figure_alt: Figure 2 is a diagram illustrating the major phases of the workflow
+    for this project.
+- sys:
+    id: Qc85JFf2Dlf3gDMiSnYMP
+    created_at: !ruby/object:DateTime 2019-05-30 20:23:06.146000000 Z
+    updated_at: !ruby/object:DateTime 2019-06-24 17:37:15.975000000 Z
+    content_type_id: figure
+    revision: 10
+  figure_number: 3
+  figure_title: Geographical focus of interviewees
+  figure_image:
+    sys:
+      id: 5rCp3RPj2oMT3kxnIGoMaY
+      created_at: !ruby/object:DateTime 2019-05-30 20:21:17.658000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-06 13:43:32.496000000 Z
+    title: Figure 3 - Geography Interviewees
+    description: 
+    url: "//images.ctfassets.net/h8kgu1arvxtu/5rCp3RPj2oMT3kxnIGoMaY/f590efd92a83d5d50ba320ba5e616386/Figure_3_-_Geography_Interviewees.png"
+  figure_description: |
+    Figure 3 is a donut chart illustrating the number and percent of interviewees base on the geographical focus of their work.
+
+    | Geographical Focus | Number of Interviewees | Percent |
+    | --- | --- | --- |
+    | Africa | 4 | 27% |
+    | Europe | 2 | 13% |
+    | Latin America | 1 | 6% |
+    | North America | 4 | 27% |
+    | Global | 4 | 27% |
+  figure_caption: " “Geographical focus” refers to the region that grantees are working
+    in. Participants with a “global” focus have work that cuts across multiple regions,
+    or work that takes a global view, more broadly. "
+  figure_alt: Figure 3 is a donut chart illustrating the number and percent of interviewees
+    base on the geographical focus of their work.
+- sys:
+    id: 2SoTmWmKQYML03H61fpJt0
+    created_at: !ruby/object:DateTime 2019-05-30 20:24:42.691000000 Z
+    updated_at: !ruby/object:DateTime 2019-06-21 17:29:30.891000000 Z
+    content_type_id: figure
+    revision: 5
+  figure_number: 4
+  figure_title: Impact area of interviewees
+  figure_image:
+    sys:
+      id: EjYWujd7FfpIUcco8EvK8
+      created_at: !ruby/object:DateTime 2019-05-30 20:23:43.372000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-06 13:43:51.950000000 Z
+    title: Figure 4 - Issue Area - Interviewees
+    description: 
+    url: "//images.ctfassets.net/h8kgu1arvxtu/EjYWujd7FfpIUcco8EvK8/f58df8d95c41e70237cab446a8d46511/Figure_4_-_Issue_Area_-_Interviewees.png"
+  figure_description: |-
+    Figure 4 is a donut chart illustrating the number and percent of interviewees based on the issue area focus of their work.
+
+    | Issue Area Focus | Number of Interviewees | Percent |
+    | --- | --- | --- |
+    | Civic Empowerment | 2 | 13% |
+    | Data & Digital Rights | 6 | 40% |
+    | Financial Transparency | 2 | 13% |
+    | Independent Media | 4 | 27% |
+    | Other | 1 | 7% |
+  figure_caption: 'Note: Former names for impact areas (Civic Tech, Data Governance,
+    Fiscal Governance, Independent Media) were used during the research.'
+  figure_alt: Figure 4 is a donut chart illustrating the number and percent of interviewees
+    based on the issue area focus of their work.
+- sys:
+    id: 4lKCPKpbPK9gqgvBC77kpU
+    created_at: !ruby/object:DateTime 2019-05-30 20:29:42.921000000 Z
+    updated_at: !ruby/object:DateTime 2019-06-21 17:30:39.451000000 Z
+    content_type_id: figure
+    revision: 7
+  figure_number: 5
+  figure_title: Luminate participation on boards of interviewees
+  figure_image:
+    sys:
+      id: 50RUCTKWwAOJYOjqCUGGAZ
+      created_at: !ruby/object:DateTime 2019-05-30 20:27:42.550000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-06 13:44:57.717000000 Z
+    title: Figure 5 - Board - Interviewees
+    description: 
+    url: "//images.ctfassets.net/h8kgu1arvxtu/50RUCTKWwAOJYOjqCUGGAZ/cc232e15b8e6cb6ea83799569ddf589a/Figure_5_-_Board_-_Interviewees.png"
+  figure_description: |-
+    Figure 5 is a donut chart illustrating the degree of Luminate participation on the boards of interviewees.
+
+    | Board Participation | Number of Interviewees | Percent |
+    | --- | --- | --- |
+    | Board observer or voting member | 4 | 27% |
+    | No board participation | 11 | 73% |
+  figure_alt: Figure 5 is a donut chart illustrating the degree of Luminate participation
+    on the boards of interviewees.
+- sys:
+    id: 3N2rwsmCJkBfe8VGX1SdsG
+    created_at: !ruby/object:DateTime 2019-05-30 20:32:07.338000000 Z
+    updated_at: !ruby/object:DateTime 2019-06-24 17:37:15.983000000 Z
+    content_type_id: figure
+    revision: 10
+  figure_number: 6
+  figure_title: Interviewees' initial funding dates
+  figure_image:
+    sys:
+      id: 3KJD50nXXkUWnRfjp66jEF
+      created_at: !ruby/object:DateTime 2019-05-30 20:30:33.111000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-06 13:45:16.658000000 Z
+    title: Figure 6 - Date of first funding - interviewees
+    description: 
+    url: "//images.ctfassets.net/h8kgu1arvxtu/3KJD50nXXkUWnRfjp66jEF/aafcf01153604867a5ed4d0149523875/Figure_6_-_date_of_first_funding_-_interviewees.png"
+  figure_description: |
+    Figure 6 is a bar graph illustrating the number of interviewees by their year of first funding.
+
+    | Year of First Funding | Number of Interview Participants |
+    | ----------- | -------------------------------- |
+    | 2014        | 3                                |
+    | 2015        | 2                                |
+    | 2016        | 1                                |
+    | 2017        | 6                                |
+    | 2018        | 2                                |
+  figure_alt: Figure 6 is a bar graph illustrating the number of interviewees by their
+    year of first funding.
+- sys:
+    id: 3QHNTIm1v8SfimllIQQZvk
+    created_at: !ruby/object:DateTime 2019-05-30 20:34:01.121000000 Z
+    updated_at: !ruby/object:DateTime 2019-06-21 17:34:57.789000000 Z
+    content_type_id: figure
+    revision: 5
+  figure_number: 7
+  figure_title: Funding level of interviewees
+  figure_image:
+    sys:
+      id: 4NcXLCvwwYH2241UMXQ1ed
+      created_at: !ruby/object:DateTime 2019-05-30 20:32:57.885000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-06 13:45:47.145000000 Z
+    title: Figure 7 - Funding level - Interviewees
+    description: 
+    url: "//images.ctfassets.net/h8kgu1arvxtu/4NcXLCvwwYH2241UMXQ1ed/f0df189fc7b509dc9cdcbcdf7e8f541c/Figure_7_-_Funding_level_-_Interviewees.png"
+  figure_description: |
+    Figure 7 is a bar graph illustrating the number of interviewees by the amount of funding received from Luminate.
+
+    | Funding Level of Interviewees | Number of Interview Participants |
+    | ----------------------------- | -------------------------------- |
+    | Under $250K                   | 3                                |
+    | $250K - $1M                   | 2                                |
+    | $1M - $3M                     | 9                                |
+    | $3M+                          | 1                                |
+  figure_alt: Figure 7 is a bar graph illustrating the number of interviewees by the
+    amount of funding received from Luminate.
+- sys:
+    id: 1jYFWx2rHYXTPQzBhxl2OD
+    created_at: !ruby/object:DateTime 2019-05-30 20:36:55.150000000 Z
+    updated_at: !ruby/object:DateTime 2019-06-21 17:30:53.869000000 Z
+    content_type_id: figure
+    revision: 6
+  figure_number: 8
+  figure_title: Geographical focus of survey respondents
+  figure_image:
+    sys:
+      id: 6XFO4QsVUPwacf7y0M58F8
+      created_at: !ruby/object:DateTime 2019-05-30 20:35:23.860000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-06 13:46:19.480000000 Z
+    title: Figure 8 - Geography - Survey
+    description: 
+    url: "//images.ctfassets.net/h8kgu1arvxtu/6XFO4QsVUPwacf7y0M58F8/eab1e302c06b9c273ad4dd6904df22d5/Figure_8_-_Geography_-_Survey.png"
+  figure_description: |-
+    Figure 8 is a donut chart illustrating the number and percent of participants based on the geographical focus of their work.
+
+    | Geographical Focus | Number of Survey Respondents | Percent |
+    | --- | --- | --- |
+    | Africa | 8 | 16% |
+    | Asia | 4 | 8% |
+    | Europe | 15 | 30% |
+    | Latin America | 5 | 10% |
+    | North America | 10 | 20% |
+    | Global | 8 | 16% |
+  figure_caption: 'Notes: “Not applicable” and “Prefer not to say” responses are excluded.
+    “Geographical focus” refers to the region in which grantees work. Participants
+    with a “global” focus have work that cuts across multiple regions, or work that
+    takes a global view.'
+  figure_alt: Figure 8 is a donut chart illustrating the number and percent of participants
+    based on the geographical focus of their work.
+- sys:
+    id: et9PurUeTzU3XmZBnHMxt
+    created_at: !ruby/object:DateTime 2019-05-30 20:38:45.431000000 Z
+    updated_at: !ruby/object:DateTime 2019-06-21 17:30:04.248000000 Z
+    content_type_id: figure
+    revision: 5
+  figure_number: 9
+  figure_title: Luminate participation on the boards of survey respondents
+  figure_image:
+    sys:
+      id: 4wFxSSBEFJuDgaG1pAQ7Gv
+      created_at: !ruby/object:DateTime 2019-05-30 20:38:36.631000000 Z
+      updated_at: !ruby/object:DateTime 2019-06-06 13:46:55.758000000 Z
+    title: Figure 9 - Board Participation - Survey
+    description: 
+    url: "//images.ctfassets.net/h8kgu1arvxtu/4wFxSSBEFJuDgaG1pAQ7Gv/2bddee045290daa64e3f21ff92d8b9d4/Figure_9_-_Board_Participation_-_Survey.png"
+  figure_description: |-
+    Figure 9 is a donut chart illustrating the number and percent of survey participants based on their Luminate board participation.
+
+    | Board Participation | Number of Survey Respondents | Percent |
+    | --- | --- | --- |
+    | Board Member | 4 | 9% |
+    | Board Observer | 6 | 13% |
+    | No Board Participation | 35 | 74% |
+    | No Board | 2 | 4% |
+  figure_alt: Figure 9 is a donut chart illustrating the number and percent of survey
+    participants based on their Luminate board participation.
