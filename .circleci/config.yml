@@ -5,7 +5,7 @@ jobs:
       - image: circleci/ruby:2.4-node-browsers-legacy
     steps:
       - checkout
-      - run: gem install bundler -v 1.17.1
+      - run: gem install bundler -v 2.0.2
       - run: bundle install
       - run: npm install
       - run: bash automated_build.sh
