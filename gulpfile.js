@@ -4,12 +4,10 @@
 
 const autoprefixer = require('gulp-autoprefixer');
 const browserSync = require('browser-sync');
-const htmlmin = require('gulp-htmlmin');
+const cleanCSS = require('gulp-clean-css');
 const ghPages = require('gulp-gh-pages');
 const gulp = require('gulp');
-const gutil = require('gulp-util');
-const importCss = require('gulp-import-css');
-const minifyCss = require('gulp-minify-css');
+const htmlmin = require('gulp-htmlmin');
 const mocha = require('gulp-spawn-mocha');
 const plumber = require('gulp-plumber');
 const rename = require('gulp-rename');
@@ -39,18 +37,16 @@ gulp.task('build:styles', () =>
     .src('source/_sass/styles.scss')
     .pipe(plumber())
     .pipe(sass())
-    .pipe(importCss())
     .pipe(
       autoprefixer({
         browsers: ['last 2 versions', '> 5%', 'IE 9']
       })
     )
-    .pipe(minifyCss({ keepBreaks: false }))
+    .pipe(cleanCSS({ compatibility: 'ie8' }))
     .pipe(rename('style.min.css'))
     .pipe(gulp.dest('source/assets/'))
     .pipe(gulp.dest('_site/assets/'))
     .pipe(browserSync.stream())
-    .on('error', gutil.log)
 );
 
 /* =========================================
@@ -69,7 +65,6 @@ gulp.task('build:scripts:dev', () =>
     .pipe(gulp.dest('source/assets/'))
     .pipe(gulp.dest('_site/assets/'))
     // .pipe(browserSync.stream())
-    .on('error', gutil.log)
 );
 
 gulp.task('build:scripts:prod', () =>
@@ -79,7 +74,6 @@ gulp.task('build:scripts:prod', () =>
     .pipe(webpack(webpackProdConfig))
     .pipe(gulp.dest('source/assets/'))
     .pipe(gulp.dest('_site/assets/'))
-    .on('error', gutil.log)
 );
 
 /* =========================================

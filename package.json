@@ -27,17 +27,16 @@
     "gulp": "^4.0.0",
     "gulp-autoprefixer": "^5.0.0",
     "gulp-changed": "^3.2.0",
+    "gulp-clean-css": "^4.2.0",
     "gulp-gh-pages": "tekd/gulp-gh-pages",
     "gulp-htmlmin": "^4.0.0",
     "gulp-hub": "^4.2.0",
-    "gulp-imagemin": "^4.1.0",
-    "gulp-import-css": "^0.1.3",
-    "gulp-minify-css": "^1.2.4",
+    "gulp-imagemin": "^6.0.0",
     "gulp-plumber": "^1.2.0",
     "gulp-sass": "^4.0.0",
     "gulp-shell": "^0.6.5",
     "gulp-spawn-mocha": "^5.0.1",
-    "jquery": "^3.3.1",
+    "jquery": "^3.4.1",
     "jsdom": "^11.7.0",
     "mocha": "^5.0.5",
     "prettier": "^1.11.1",
@@ -46,9 +45,8 @@
     "webpack-stream": "^4.0.3"
   },
   "dependencies": {
-    "browser-sync": "^2.23.6",
+    "browser-sync": "^2.26.7",
     "gulp-rename": "^1.4.0",
-    "gulp-util": "^3.0.8",
     "natives": "^1.1.6"
   }
 }
