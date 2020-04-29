@@ -1,4 +1,5 @@
 module.exports = {
+  mode: 'development',
   context: __dirname,
   entry: './source/_js/scripts.js',
   output: {
@@ -12,7 +13,7 @@ module.exports = {
         exclude: /node_modules/,
         loader: 'babel-loader',
         query: {
-          presets: ['env']
+          presets: ['@babel/preset-env']
         }
       }
     ]

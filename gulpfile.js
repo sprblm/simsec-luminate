@@ -39,7 +39,7 @@ gulp.task('build:styles', () =>
     .pipe(sass())
     .pipe(
       autoprefixer({
-        browsers: ['last 2 versions', '> 5%', 'IE 9']
+        Browserslist: ['last 2 versions', '> 5%', 'IE 9']
       })
     )
     .pipe(cleanCSS({ compatibility: 'ie8' }))
