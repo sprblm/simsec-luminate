@@ -2,6 +2,7 @@ const CompressionPlugin = require('compression-webpack-plugin');
 const UglifyJsPlugin = require('uglifyjs-webpack-plugin');
 
 module.exports = {
+  mode: 'production',
   context: __dirname,
   entry: './source/_js/scripts.js',
   output: {
