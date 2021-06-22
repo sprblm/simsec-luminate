@@ -9,7 +9,8 @@ ruby RUBY_VERSION
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 3.8.6"
+gem "jekyll", "~> 3.9.0"
+gem 'kramdown-parser-gfm'
 gem "html-proofer"
 gem "byebug"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
