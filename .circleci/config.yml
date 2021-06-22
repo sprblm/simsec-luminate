@@ -2,17 +2,17 @@ version: 2
 jobs:
   build:
     docker:
-      - image: circleci/ruby:2.4-node-browsers-legacy
+      - image: circleci/ruby:2.6-node-browsers-legacy
     steps:
       - checkout
-      - run: gem install bundler -v 2.0.2
+      - run: gem install bundler -v 2.2.15
       - run: bundle install
       - run: npm install
       - run: bash automated_build.sh
       - run: npm run deploy
   test:
     docker:
-       - image: circleci/ruby:2.4-node-browsers-legacy
+       - image: circleci/ruby:2.6-node-browsers-legacy
     steps:
       - checkout
       - run: npm install
