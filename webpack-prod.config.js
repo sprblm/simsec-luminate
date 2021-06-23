@@ -7,7 +7,7 @@ module.exports = {
   entry: './source/_js/scripts.js',
   output: {
     path: __dirname + '/source/assets/',
-    filename: 'bundle.js',
+    filename: 'bundle.js'
   },
   module: {
     rules: [
@@ -23,10 +23,11 @@ module.exports = {
   },
   optimization: {
     minimize: true,
-    minimizer: [new TerserPlugin({
-      exclude: [/\.min\.js$/gi],
-      sourceMap: true // Must be set to true if using source-maps in production
-    })],
+    minimizer: [
+      new TerserPlugin({
+        exclude: [/\.min\.js$/gi]
+      })
+    ]
   },
   plugins: [
     new CompressionPlugin({
