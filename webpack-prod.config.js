@@ -25,11 +25,12 @@ module.exports = {
     minimize: true,
     minimizer: [new TerserPlugin({
       exclude: [/\.min\.js$/gi],
-      sourceMap: true // Must be set to true if using source-maps in production
+      // sourceMap: true // Must be set to true if using source-maps in production
     })],
   },
   plugins: [
     new CompressionPlugin({
+      // asset: '[path].gz[query]',
       algorithm: 'gzip',
       test: /\.js$|\.css$|\.html$/,
       threshold: 10240,
