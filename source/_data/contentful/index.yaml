@@ -15,7 +15,7 @@ index:
     quotes and comments, and recommendations synthesized from 20 interviews + 53 survey
     responses.
 
-'
+    '
   themes_copy: 'In synthesizing the conversations and survey feedback into insights
     and recommendations, four thematic areas emerged: Funding Approach & Process,
     Trust & Power, Funder Identity & Culture, and Assessing Impact. Each insight has
@@ -38,7 +38,7 @@ index:
       created_at: !ruby/object:DateTime 2019-05-21 23:44:02.541000000 Z
       updated_at: !ruby/object:DateTime 2019-05-21 23:44:02.541000000 Z
     title: simsec-logo
-    description: 
+    description:
     url: "//images.ctfassets.net/h8kgu1arvxtu/7xku46Av2bRp4URFz3l19j/c5f8e07675ba2785face65e25fef5c11/simsec-logo.svg"
   luminate_footer: "Luminate is a global philanthropic organization with the goal
     of empowering people and institutions to work together to build just and fair
@@ -49,5 +49,5 @@ index:
       created_at: !ruby/object:DateTime 2019-05-21 23:43:31.649000000 Z
       updated_at: !ruby/object:DateTime 2019-05-21 23:43:31.649000000 Z
     title: luminate-logo
-    description: 
+    description:
     url: "//images.ctfassets.net/h8kgu1arvxtu/3fexX1zyNZHvMatfmJBi9I/2537bfa4bb76af8e00f667b78cfb45be/luminate-logo.svg"
