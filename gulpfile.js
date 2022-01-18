@@ -11,7 +11,7 @@ const htmlmin = require('gulp-htmlmin');
 const mocha = require('gulp-spawn-mocha');
 const plumber = require('gulp-plumber');
 const rename = require('gulp-rename');
-const sass = require('gulp-sass');
+const sass = require('gulp-sass')(require('sass'));
 const shell = require('gulp-shell');
 const webpack = require('webpack-stream');
 const webpackDevConfig = require('./webpack-dev.config.js');
@@ -125,11 +125,11 @@ gulp.task('test', gulp.series('test:html', 'test:es-lint', 'test:mocha'), done =
 
 gulp.task('circleci', () => gulp.src('.circleci/config.yml').pipe(gulp.dest('_site/.circleci/')))
 
-gulp.task('push-gh-master', shell.task(['git push origin master']));
+gulp.task('push-gh-main', shell.task(['git push origin main']));
 
 gulp.task('push-gh-pages', () => gulp.src('_site/**/*', { dot: true }).pipe(ghPages({ force: true })));
 
-gulp.task('deploy', gulp.series('build:prod', 'circleci', 'push-gh-master', 'push-gh-pages'));
+gulp.task('deploy', gulp.series('build:prod', 'circleci', 'push-gh-main', 'push-gh-pages'));
 
 /* =========================================
   serve

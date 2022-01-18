@@ -145,7 +145,7 @@ projectDetails:
               created_at: !ruby/object:DateTime 2019-06-24 16:40:02.977000000 Z
               updated_at: !ruby/object:DateTime 2019-06-24 16:40:02.977000000 Z
             title: Figure 1 - HCD
-            description: 
+            description:
             url: "//images.ctfassets.net/h8kgu1arvxtu/3qYRiAkdLfhSDGT0Ti1pOR/f63e88c2fdb865d34d8f1572e1181366/Figure_1_-_HCD.png"
           figure_description: |-
             Figure 1 is a diagram illustrating where this project's work falls within the overall human-centered design (HCD) process.
@@ -183,7 +183,7 @@ projectDetails:
               created_at: !ruby/object:DateTime 2019-05-29 15:00:54.274000000 Z
               updated_at: !ruby/object:DateTime 2019-06-06 13:43:08.933000000 Z
             title: Figure 2 - Report Workflow
-            description: 
+            description:
             url: "//images.ctfassets.net/h8kgu1arvxtu/4rtHx9xmDs3sFs06RutdX0/f2eb4c3c31469e4580f35a6ae334b8b3/Figure_2_-_Report_Workflow.png"
           figure_description: "Figure 2 is a diagram illustrating the major phases
             of the workflow for this project.\n\nThe report highlights feedback from
@@ -910,7 +910,7 @@ projectDetails:
               created_at: !ruby/object:DateTime 2019-05-30 20:21:17.658000000 Z
               updated_at: !ruby/object:DateTime 2019-06-06 13:43:32.496000000 Z
             title: Figure 3 - Geography Interviewees
-            description: 
+            description:
             url: "//images.ctfassets.net/h8kgu1arvxtu/5rCp3RPj2oMT3kxnIGoMaY/f590efd92a83d5d50ba320ba5e616386/Figure_3_-_Geography_Interviewees.png"
           figure_description: |
             Figure 3 is a donut chart illustrating the number and percent of interviewees base on the geographical focus of their work.
@@ -945,7 +945,7 @@ projectDetails:
               created_at: !ruby/object:DateTime 2019-05-30 20:23:43.372000000 Z
               updated_at: !ruby/object:DateTime 2019-06-06 13:43:51.950000000 Z
             title: Figure 4 - Issue Area - Interviewees
-            description: 
+            description:
             url: "//images.ctfassets.net/h8kgu1arvxtu/EjYWujd7FfpIUcco8EvK8/f58df8d95c41e70237cab446a8d46511/Figure_4_-_Issue_Area_-_Interviewees.png"
           figure_description: |-
             Figure 4 is a donut chart illustrating the number and percent of interviewees based on the issue area focus of their work.
@@ -979,7 +979,7 @@ projectDetails:
               created_at: !ruby/object:DateTime 2019-05-30 20:27:42.550000000 Z
               updated_at: !ruby/object:DateTime 2019-06-06 13:44:57.717000000 Z
             title: Figure 5 - Board - Interviewees
-            description: 
+            description:
             url: "//images.ctfassets.net/h8kgu1arvxtu/50RUCTKWwAOJYOjqCUGGAZ/cc232e15b8e6cb6ea83799569ddf589a/Figure_5_-_Board_-_Interviewees.png"
           figure_description: |-
             Figure 5 is a donut chart illustrating the degree of Luminate participation on the boards of interviewees.
@@ -997,9 +997,9 @@ projectDetails:
           sys:
             id: 3N2rwsmCJkBfe8VGX1SdsG
             created_at: !ruby/object:DateTime 2019-05-30 20:32:07.338000000 Z
-            updated_at: !ruby/object:DateTime 2019-06-24 17:37:15.983000000 Z
+            updated_at: !ruby/object:DateTime 2019-06-24 18:15:21.324000000 Z
             content_type_id: figure
-            revision: 10
+            revision: 11
           figure_number: 6
           figure_title: Interviewees' initial funding dates
           figure_image:
@@ -1008,7 +1008,7 @@ projectDetails:
               created_at: !ruby/object:DateTime 2019-05-30 20:30:33.111000000 Z
               updated_at: !ruby/object:DateTime 2019-06-06 13:45:16.658000000 Z
             title: Figure 6 - Date of first funding - interviewees
-            description: 
+            description:
             url: "//images.ctfassets.net/h8kgu1arvxtu/3KJD50nXXkUWnRfjp66jEF/aafcf01153604867a5ed4d0149523875/Figure_6_-_date_of_first_funding_-_interviewees.png"
           figure_description: |
             Figure 6 is a bar graph illustrating the number of interviewees by their year of first funding.
@@ -1040,7 +1040,7 @@ projectDetails:
               created_at: !ruby/object:DateTime 2019-05-30 20:32:57.885000000 Z
               updated_at: !ruby/object:DateTime 2019-06-06 13:45:47.145000000 Z
             title: Figure 7 - Funding level - Interviewees
-            description: 
+            description:
             url: "//images.ctfassets.net/h8kgu1arvxtu/4NcXLCvwwYH2241UMXQ1ed/f0df189fc7b509dc9cdcbcdf7e8f541c/Figure_7_-_Funding_level_-_Interviewees.png"
           figure_description: |
             Figure 7 is a bar graph illustrating the number of interviewees by the amount of funding received from Luminate.
@@ -1071,7 +1071,7 @@ projectDetails:
               created_at: !ruby/object:DateTime 2019-05-30 20:35:23.860000000 Z
               updated_at: !ruby/object:DateTime 2019-06-06 13:46:19.480000000 Z
             title: Figure 8 - Geography - Survey
-            description: 
+            description:
             url: "//images.ctfassets.net/h8kgu1arvxtu/6XFO4QsVUPwacf7y0M58F8/eab1e302c06b9c273ad4dd6904df22d5/Figure_8_-_Geography_-_Survey.png"
           figure_description: |-
             Figure 8 is a donut chart illustrating the number and percent of participants based on the geographical focus of their work.
@@ -1108,7 +1108,7 @@ projectDetails:
               created_at: !ruby/object:DateTime 2019-05-30 20:38:36.631000000 Z
               updated_at: !ruby/object:DateTime 2019-06-06 13:46:55.758000000 Z
             title: Figure 9 - Board Participation - Survey
-            description: 
+            description:
             url: "//images.ctfassets.net/h8kgu1arvxtu/4wFxSSBEFJuDgaG1pAQ7Gv/2bddee045290daa64e3f21ff92d8b9d4/Figure_9_-_Board_Participation_-_Survey.png"
           figure_description: |-
             Figure 9 is a donut chart illustrating the number and percent of survey participants based on their Luminate board participation.
